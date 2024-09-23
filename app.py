@@ -1,0 +1,113 @@
+from flask import Flask, render_template, jsonify
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
+from bs4 import BeautifulSoup
+import json
+import re
+import time
+import html
+
+app = Flask(__name__)
+
+def fetch_leagues():
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+    url = "https://sofifa.com/leagues"
+    driver.get(url)
+    WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.TAG_NAME, 'table')))
+    html_content = driver.page_source
+    soup = BeautifulSoup(html_content, 'html.parser')
+    leagues_data = []
+
+    league_links = soup.find_all('a', href=True)
+    for link in league_links:
+        href = link['href']
+        match = re.match(r'/league/(\d+)', href)
+        if match:
+            league_id = match.group(1)
+            league_name = link.get_text(strip=True)
+            league_name = html.unescape(league_name)
+            row = link.find_parent('tr')
+            flag_img = row.find('img', {'class': 'flag'})
+            if flag_img and 'title' in flag_img.attrs:
+                country_name = flag_img['title']
+            else:
+                country_name = 'Unknown'
+            leagues_data.append({
+                'league_id': league_id,
+                'league_name': league_name,
+                'country': country_name
+            })
+    driver.quit()
+    with open('leagues_data.json', 'w', encoding='utf-8') as f:
+        json.dump(leagues_data, f, ensure_ascii=False, indent=4)
+    return leagues_data
+
+
+def fetch_teams_from_leagues():
+    with open('leagues_data.json', 'r', encoding='utf-8') as f:
+        leagues_data = json.load(f)
+
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+    base_url = "https://sofifa.com/teams?type=all&lg%5B%5D={}"
+    all_teams_data = []
+
+    for league in leagues_data:
+        league_id = league['league_id']
+        url = base_url.format(league_id)
+        driver.get(url)
+        WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.TAG_NAME, 'table')))
+        html = driver.page_source
+        soup = BeautifulSoup(html, 'html.parser')
+        teams = soup.find_all('tr')
+
+        for team in teams:
+            team_name_tag = team.find('a', href=True)
+            if team_name_tag and 'team/' in team_name_tag['href']:
+                team_name = team_name_tag.get_text(strip=True)
+            else:
+                continue
+
+            overall_tag = team.find('td', {'data-col': 'oa'})
+            overall = overall_tag.get_text(strip=True) if overall_tag else 'N/A'
+
+            league_tag = team.find('a', class_='sub')
+            league_name = league_tag.get_text(strip=True) if league_tag else 'N/A'
+
+            team_image_tag = team.find('img', class_='team')
+            team_image_url = team_image_tag['data-src'] if team_image_tag else 'N/A'
+
+            all_teams_data.append({
+                'team_name': team_name,
+                'overall': overall,
+                'league_name': league_name,
+                'team_image_url': team_image_url
+            })
+
+        time.sleep(1)
+
+    driver.quit()
+
+    with open('teams_overall.json', 'w', encoding='utf-8') as f:
+        json.dump(all_teams_data, f, ensure_ascii=False, indent=4)
+    return all_teams_data
+
+@app.route('/')
+def index():
+    return render_template('index.html')
+
+@app.route('/fetch-leagues')
+def fetch_leagues_data():
+    leagues_data = fetch_leagues()
+    return jsonify(leagues_data)
+
+@app.route('/fetch-teams')
+def fetch_teams_data():
+    teams_data = fetch_teams_from_leagues()
+    return jsonify(teams_data)
+
+if __name__ == '__main__':
+    app.run(debug=True)

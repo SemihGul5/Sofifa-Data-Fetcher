@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+button {
+    padding: 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+h2 {
+    margin-top: 20px;
+}

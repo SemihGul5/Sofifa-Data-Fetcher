@@ -3,13 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sofifa Data Fetcher</title>
+    <title>Team Data Fetcher</title>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
-    <h1>Sofifa Data Fetcher Application</h1>
+    <h1>Sofifa Team Data Fetcher</h1>
     <button id="fetch-leagues">Fetch Leagues</button>
     <button id="fetch-teams">Fetch Teams</button>
+    <button id="add-european-cups">Add European Cups</button>
     <div id="message"></div>
     <pre id="json-output" style="white-space: pre-wrap;"></pre>
 
@@ -17,21 +18,32 @@
         $('#fetch-leagues').click(function() {
             $('#message').text("Fetching leagues, please wait...");
             $.get('/fetch-leagues', function(data) {
-                $('#message').text("Leagues fetched successfully! You can find them in leagues_data.json.");
+                $('#message').text("Leagues fetched successfully! Check leagues_data.json.");
                 $('#json-output').text(JSON.stringify(data, null, 4));
             }).fail(function() {
-                $('#message').text("An error occurred while fetching leagues.");
+                $('#message').text("Error occurred while fetching leagues.");
                 $('#json-output').text('');
             });
         });
 
         $('#fetch-teams').click(function() {
-            $('#message').text("Fetching teams, this may take some time, please wait...");
+            $('#message').text("Fetching teams, please wait...");
             $.get('/fetch-teams', function(data) {
-                $('#message').text("Teams fetched successfully! You can find them in teams_overall.json.");
+                $('#message').text("Teams fetched successfully! Check teams_data.json.");
                 $('#json-output').text(JSON.stringify(data, null, 4));
             }).fail(function() {
-                $('#message').text("An error occurred while fetching teams.");
+                $('#message').text("Error occurred while fetching teams.");
+                $('#json-output').text('');
+            });
+        });
+
+        $('#add-european-cups').click(function() {
+            $('#message').text("Adding European cups, please wait...");
+            $.get('/add-european-cups', function(data) {
+                $('#message').text("European cups added successfully!");
+                $('#json-output').text(JSON.stringify(data, null, 4));
+            }).fail(function() {
+                $('#message').text("Error occurred while adding European cups.");
                 $('#json-output').text('');
             });
         });

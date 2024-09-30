@@ -35,6 +35,28 @@ conference_league_teams = [
     "Lugano", "Vitória SC", "APOEL", "Molde", "Hearts", "Panathinaikos", "København"
 ]
 
+def calculate_stars(overall):
+    if overall >= 83:
+        return 5
+    elif 79 <= overall <= 82:
+        return 4.5
+    elif 75 <= overall <= 78:
+        return 4
+    elif 71 <= overall <= 74:
+        return 3.5
+    elif 69 <= overall <= 70:
+        return 3
+    elif 67 <= overall <= 68:
+        return 2.5
+    elif 65 <= overall <= 66:
+        return 2
+    elif 63 <= overall <= 64:
+        return 1.5
+    elif 60 <= overall <= 62:
+        return 1
+    else:
+        return 0.5
+
 
 def fetch_leagues():
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
@@ -58,33 +80,33 @@ def fetch_leagues():
             # Lig logosunu içeren <img> tagini bulalım
             logo_img = row.find('img', class_='team')
             if logo_img and 'data-src' in logo_img.attrs:
-                # Logo URL'sindeki "60.png" kısmını "180.png" olarak değiştirelim
+                
                 logo_url = logo_img['data-src'].replace('60.png', '180.png')
             else:
-                logo_url = 'N/A'  # Logo yoksa
+                logo_url = 'N/A'
 
             # Ülke bayrağı ve ismini bulma
             flag_img = row.find('img', {'class': 'flag'})
             if flag_img and 'data-src' in flag_img.attrs:
-                # Bayrak URL'sini @3x.png çözünürlüğünde alalım
+                
                 flag_url = flag_img['data-src'].replace('.png', '@3x.png')
                 country_name = flag_img['title'] if 'title' in flag_img.attrs else 'Unknown'
             else:
                 flag_url = 'N/A'
                 country_name = 'Unknown'
 
-            # Lig bilgilerini ekleyelim
+            
             leagues_data.append({
                 'league_id': league_id,
                 'league_name': league_name,
                 'country': country_name,
-                'logo_url': logo_url,  # Lig logosu URL'si (180.png)
-                'flag_url': flag_url  # Ülke bayrağı URL'si (@3x.png)
+                'logo_url': logo_url, 
+                'flag_url': flag_url  
             })
 
     driver.quit()
 
-    # Veriyi JSON formatına dönüştürüp dosyaya kaydedelim
+    
     with open('leagues_data.json', 'w', encoding='utf-8') as f:
         json.dump(leagues_data, f, ensure_ascii=False, indent=4)
     
@@ -138,13 +160,14 @@ def fetch_teams_from_leagues():
         json.dump(all_teams_data, f, ensure_ascii=False, indent=4)
     return all_teams_data
 
-# Takımlara Avrupa kupaları ekleyen fonksiyon
-def add_european_cups():
-    with open('teams_overall.json', 'r', encoding='utf-8') as f:
+def add_european_cups_and_stars():
+    with open('all_teams_overall_with_cups.json', 'r', encoding='utf-8') as f:
         teams_data = json.load(f)
 
     for team in teams_data:
         team_name = team['team_name']
+        overall = team['overall']
+
         if team_name in champions_league_teams:
             team['european_cup'] = 'Champions League'
         elif team_name in europa_league_teams:
@@ -154,9 +177,39 @@ def add_european_cups():
         else:
             team['european_cup'] = 'None'
 
-    with open('all_teams_overall_with_cups.json', 'w', encoding='utf-8') as f:
+        team['stars'] = calculate_stars(int(overall))
+
+    with open('all_teams_overall_with_cups_and_stars.json', 'w', encoding='utf-8') as f:
         json.dump(teams_data, f, ensure_ascii=False, indent=4)
+
     return teams_data
+
+    with open('teams_overall.json', 'r', encoding='utf-8') as f:
+        teams_data = json.load(f)
+
+    for team in teams_data:
+        team_name = team['team_name']
+        overall = team['overall']
+
+        
+        if team_name in champions_league_teams:
+            team['european_cup'] = 'Champions League'
+        elif team_name in europa_league_teams:
+            team['european_cup'] = 'Europa League'
+        elif team_name in conference_league_teams:
+            team['european_cup'] = 'Conference League'
+        else:
+            team['european_cup'] = 'None'
+
+        
+        team['stars'] = calculate_stars(overall)
+
+    
+    with open('all_teams_overall_with_cups_and_stars.json', 'w', encoding='utf-8') as f:
+        json.dump(teams_data, f, ensure_ascii=False, indent=4)
+
+    return teams_data
+
 
 @app.route('/')
 def index():
@@ -172,9 +225,9 @@ def fetch_teams_data():
     teams_data = fetch_teams_from_leagues()
     return jsonify(teams_data)
 
-@app.route('/add-european-cups')
-def add_european_cups_data():
-    teams_data = add_european_cups()
+@app.route('/add-european-cups-and-stars')
+def add_european_cups_and_stars_data():
+    teams_data = add_european_cups_and_stars()
     return jsonify(teams_data)
 
 if __name__ == '__main__':

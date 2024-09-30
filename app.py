@@ -12,7 +12,6 @@ import time
 import html
 
 app = Flask(__name__)
-# Listeler
 champions_league_teams = [
     "PSV", "Aston Villa", "Monaco", "Dinamo Zagreb", "LOSC Lille", "RB Leipzig", "Bologna", "Atlético Madrid",
     "Sparta Praha", "Benfica", "Young Boys", "Liverpool", "Sporting CP", "VfB Stuttgart", "Atalanta", "Bayer 04 Leverkusen",
@@ -112,7 +111,7 @@ def fetch_leagues():
     
     return leagues_data
 
-def fetch_teams_from_leagues():
+def fetch_teams():
     with open('leagues_data.json', 'r', encoding='utf-8') as f:
         leagues_data = json.load(f)
 
@@ -130,38 +129,52 @@ def fetch_teams_from_leagues():
         teams = soup.find_all('tr')
 
         for team in teams:
+            # Takım adı
             team_name_tag = team.find('a', href=True)
             if team_name_tag and 'team/' in team_name_tag['href']:
                 team_name = team_name_tag.get_text(strip=True)
             else:
                 continue
 
+            # Overall
             overall_tag = team.find('td', {'data-col': 'oa'})
             overall = overall_tag.get_text(strip=True) if overall_tag else 'N/A'
 
+            # Lig adı
             league_tag = team.find('a', class_='sub')
             league_name = league_tag.get_text(strip=True) if league_tag else 'N/A'
 
+            # Takım resmi URL'si
             team_image_tag = team.find('img', class_='team')
             team_image_url = team_image_tag['data-src'] if team_image_tag else 'N/A'
+            if team_image_url != 'N/A':
+                team_image_url = team_image_url.replace('60.png', '180.png')
 
+            # Ülke bayrağı ve ülke adı
+            country_flag_tag = team.find('img', class_='flag')
+            country_name = country_flag_tag['title'] if country_flag_tag else 'Unknown'
+
+            # Takım bilgilerini listeye ekle
             all_teams_data.append({
                 'team_name': team_name,
                 'overall': overall,
                 'league_name': league_name,
-                'team_image_url': team_image_url
+                'team_image_url': team_image_url,
+                'country_name': country_name,
             })
 
-        time.sleep(1)
+        time.sleep(2)
 
-    driver.quit()
+    driver.quit()        
+    team['stars'] = calculate_stars(int(overall))
 
-    with open('teams_overall.json', 'w', encoding='utf-8') as f:
+    with open('teams.json', 'w', encoding='utf-8') as f:
         json.dump(all_teams_data, f, ensure_ascii=False, indent=4)
+
     return all_teams_data
 
-def add_european_cups_and_stars():
-    with open('all_teams_overall_with_cups.json', 'r', encoding='utf-8') as f:
+def add_european_cups():
+    with open('teams.json', 'r', encoding='utf-8') as f:
         teams_data = json.load(f)
 
     for team in teams_data:
@@ -178,38 +191,12 @@ def add_european_cups_and_stars():
             team['european_cup'] = 'None'
 
         team['stars'] = calculate_stars(int(overall))
+        
 
-    with open('all_teams_overall_with_cups_and_stars.json', 'w', encoding='utf-8') as f:
+    with open('teams.json', 'w', encoding='utf-8') as f:
         json.dump(teams_data, f, ensure_ascii=False, indent=4)
 
     return teams_data
-
-    with open('teams_overall.json', 'r', encoding='utf-8') as f:
-        teams_data = json.load(f)
-
-    for team in teams_data:
-        team_name = team['team_name']
-        overall = team['overall']
-
-        
-        if team_name in champions_league_teams:
-            team['european_cup'] = 'Champions League'
-        elif team_name in europa_league_teams:
-            team['european_cup'] = 'Europa League'
-        elif team_name in conference_league_teams:
-            team['european_cup'] = 'Conference League'
-        else:
-            team['european_cup'] = 'None'
-
-        
-        team['stars'] = calculate_stars(overall)
-
-    
-    with open('all_teams_overall_with_cups_and_stars.json', 'w', encoding='utf-8') as f:
-        json.dump(teams_data, f, ensure_ascii=False, indent=4)
-
-    return teams_data
-
 
 @app.route('/')
 def index():
@@ -220,14 +207,14 @@ def fetch_leagues_data():
     leagues_data = fetch_leagues()
     return jsonify(leagues_data)
 
-@app.route('/fetch-teams')
-def fetch_teams_data():
-    teams_data = fetch_teams_from_leagues()
+@app.route('/fetch_teams')
+def fetch_teams():
+    teams_data = fetch_teams()
     return jsonify(teams_data)
 
-@app.route('/add-european-cups-and-stars')
-def add_european_cups_and_stars_data():
-    teams_data = add_european_cups_and_stars()
+@app.route('/add_european_cups')
+def add_european_cups_route():
+    teams_data = add_european_cups()
     return jsonify(teams_data)
 
 if __name__ == '__main__':

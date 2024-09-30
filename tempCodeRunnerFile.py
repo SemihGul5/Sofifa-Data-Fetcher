@@ -1,0 +1,1 @@
+fetch-teams-and-add-cups-stars

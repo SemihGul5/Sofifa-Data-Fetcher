@@ -10,6 +10,7 @@
     <h1>Sofifa Team Data Fetcher</h1>
     <button id="fetch-leagues">Fetch Leagues</button>
     <button id="fetch-teams">Fetch Teams</button>
+    <button id="fetch-players">Fetch Players</button>
     <button id="add-european-cups">Add European Cups</button>
     <div id="message"></div>
     <pre id="json-output" style="white-space: pre-wrap;"></pre>
@@ -36,7 +37,26 @@
                 $('#json-output').text('');
             });
         });
-        
+        $('#fetch-players').click(function() { // Yeni fonksiyon
+            $('#message').text("Fetching players, please wait...");
+            $.get('/fetch-players', function(data) {
+                $('#message').text("Players fetched successfully!");
+                $('#json-output').text(JSON.stringify(data, null, 4));
+            }).fail(function() {
+                $('#message').text("Error occurred while fetching players.");
+                $('#json-output').text('');
+            });
+        });
+        $('#add-european-cups').click(function() {
+            $('#message').text("Adding European cups, please wait...");
+            $.get('/add_european_cups', function(data) {
+                $('#message').text("European cups added successfully!");
+                $('#json-output').text(JSON.stringify(data, null, 4));
+            }).fail(function() {
+                $('#message').text("Error occurred while adding European cups.");
+                $('#json-output').text('');
+            });
+        }); 
         $('#add-european-cups').click(function() {
             $('#message').text("Adding European cups, please wait...");
             $.get('/add_european_cups', function(data) {

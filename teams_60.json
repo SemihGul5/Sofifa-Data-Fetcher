@@ -1,0 +1,542 @@
+[
+    {
+        "team_name": "Manchester City",
+        "overall": "86",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9/180.png",
+        "country_name": "England",
+        "european_cup": "Champions League",
+        "stars": 5
+    },
+    {
+        "team_name": "Real Madrid",
+        "overall": "86",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3468/180.png",
+        "country_name": "Spain",
+        "european_cup": "Champions League",
+        "stars": 5
+    },
+    {
+        "team_name": "Liverpool",
+        "overall": "84",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/8/180.png",
+        "country_name": "England",
+        "european_cup": "Champions League",
+        "stars": 5
+    },
+    {
+        "team_name": "FC Bayern München",
+        "overall": "84",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/503/180.png",
+        "country_name": "Germany",
+        "european_cup": "Champions League",
+        "stars": 5
+    },
+    {
+        "team_name": "Arsenal",
+        "overall": "83",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/19/180.png",
+        "country_name": "England",
+        "european_cup": "Champions League",
+        "stars": 5
+    },
+    {
+        "team_name": "Bayer 04 Leverkusen",
+        "overall": "83",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3321/180.png",
+        "country_name": "Germany",
+        "european_cup": "Champions League",
+        "stars": 5
+    },
+    {
+        "team_name": "Inter",
+        "overall": "83",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2930/180.png",
+        "country_name": "Italy",
+        "european_cup": "Champions League",
+        "stars": 5
+    },
+    {
+        "team_name": "FC Barcelona",
+        "overall": "83",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/83/180.png",
+        "country_name": "Spain",
+        "european_cup": "Champions League",
+        "stars": 5
+    },
+    {
+        "team_name": "Paris Saint Germain",
+        "overall": "82",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/591/180.png",
+        "country_name": "France",
+        "european_cup": "Champions League",
+        "stars": 4.5
+    },
+    {
+        "team_name": "Atlético Madrid",
+        "overall": "82",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7980/180.png",
+        "country_name": "Spain",
+        "european_cup": "Champions League",
+        "stars": 4.5
+    },
+    {
+        "team_name": "Manchester United",
+        "overall": "81",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/14/180.png",
+        "country_name": "England",
+        "european_cup": "Europa League",
+        "stars": 4.5
+    },
+    {
+        "team_name": "Newcastle United",
+        "overall": "81",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/20/180.png",
+        "country_name": "England",
+        "european_cup": "None",
+        "stars": 4.5
+    },
+    {
+        "team_name": "Tottenham Hotspur",
+        "overall": "81",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/6/180.png",
+        "country_name": "England",
+        "european_cup": "Europa League",
+        "stars": 4.5
+    },
+    {
+        "team_name": "Borussia Dortmund",
+        "overall": "81",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/68/180.png",
+        "country_name": "Germany",
+        "european_cup": "Champions League",
+        "stars": 4.5
+    },
+    {
+        "team_name": "Milan",
+        "overall": "81",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/113/180.png",
+        "country_name": "Italy",
+        "european_cup": "Champions League",
+        "stars": 4.5
+    },
+    {
+        "team_name": "Aston Villa",
+        "overall": "80",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/15/180.png",
+        "country_name": "England",
+        "european_cup": "Champions League",
+        "stars": 4.5
+    },
+    {
+        "team_name": "Chelsea",
+        "overall": "80",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/18/180.png",
+        "country_name": "England",
+        "european_cup": "Conference League",
+        "stars": 4.5
+    },
+    {
+        "team_name": "RB Leipzig",
+        "overall": "80",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/277/180.png",
+        "country_name": "Germany",
+        "european_cup": "Champions League",
+        "stars": 4.5
+    },
+    {
+        "team_name": "Juventus",
+        "overall": "80",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/625/180.png",
+        "country_name": "Italy",
+        "european_cup": "Champions League",
+        "stars": 4.5
+    },
+    {
+        "team_name": "Napoli",
+        "overall": "80",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/597/180.png",
+        "country_name": "Italy",
+        "european_cup": "None",
+        "stars": 4.5
+    },
+    {
+        "team_name": "Roma",
+        "overall": "80",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/37/180.png",
+        "country_name": "Italy",
+        "european_cup": "Europa League",
+        "stars": 4.5
+    },
+    {
+        "team_name": "Athletic Club",
+        "overall": "80",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/13258/180.png",
+        "country_name": "Spain",
+        "european_cup": "Europa League",
+        "stars": 4.5
+    },
+    {
+        "team_name": "West Ham United",
+        "overall": "79",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1/180.png",
+        "country_name": "England",
+        "european_cup": "None",
+        "stars": 4.5
+    },
+    {
+        "team_name": "Atalanta",
+        "overall": "79",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/708/180.png",
+        "country_name": "Italy",
+        "european_cup": "Champions League",
+        "stars": 4.5
+    },
+    {
+        "team_name": "Galatasaray",
+        "overall": "79",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/34/180.png",
+        "country_name": "Türkiye",
+        "european_cup": "Europa League",
+        "stars": 4.5
+    },
+    {
+        "team_name": "Fenerbahçe",
+        "overall": "79",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/88/180.png",
+        "country_name": "Türkiye",
+        "european_cup": "Europa League",
+        "stars": 4.5
+    },
+    {
+        "team_name": "Al Hilal",
+        "overall": "79",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7011/180.png",
+        "country_name": "Saudi Arabia",
+        "european_cup": "None",
+        "stars": 4.5
+    },
+    {
+        "team_name": "Crystal Palace",
+        "overall": "78",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/51/180.png",
+        "country_name": "England",
+        "european_cup": "None",
+        "stars": 4
+    },
+    {
+        "team_name": "Lazio",
+        "overall": "78",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/43/180.png",
+        "country_name": "Italy",
+        "european_cup": "Europa League",
+        "stars": 4
+    },
+    {
+        "team_name": "Real Sociedad",
+        "overall": "78",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/594/180.png",
+        "country_name": "Spain",
+        "european_cup": "Europa League",
+        "stars": 4
+    },
+    {
+        "team_name": "Girona",
+        "overall": "78",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/231/180.png",
+        "country_name": "Spain",
+        "european_cup": "Champions League",
+        "stars": 4
+    },
+    {
+        "team_name": "Benfica",
+        "overall": "78",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/605/180.png",
+        "country_name": "Portugal",
+        "european_cup": "Champions League",
+        "stars": 4
+    },
+    {
+        "team_name": "Sporting CP",
+        "overall": "78",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/58/180.png",
+        "country_name": "Portugal",
+        "european_cup": "Champions League",
+        "stars": 4
+    },
+    {
+        "team_name": "PSV",
+        "overall": "77",
+        "league_name": "Eredivisie",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/682/180.png",
+        "country_name": "Netherlands",
+        "european_cup": "Champions League",
+        "stars": 4
+    },
+    {
+        "team_name": "Nottingham Forest",
+        "overall": "77",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/63/180.png",
+        "country_name": "England",
+        "european_cup": "None",
+        "stars": 4
+    },
+    {
+        "team_name": "Brighton & Hove Albion",
+        "overall": "77",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/78/180.png",
+        "country_name": "England",
+        "european_cup": "None",
+        "stars": 4
+    },
+    {
+        "team_name": "Wolverhampton Wanderers",
+        "overall": "77",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/29/180.png",
+        "country_name": "England",
+        "european_cup": "None",
+        "stars": 4
+    },
+    {
+        "team_name": "LOSC Lille",
+        "overall": "77",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/690/180.png",
+        "country_name": "France",
+        "european_cup": "Champions League",
+        "stars": 4
+    },
+    {
+        "team_name": "Olympique Lyonnais",
+        "overall": "77",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/79/180.png",
+        "country_name": "France",
+        "european_cup": "Europa League",
+        "stars": 4
+    },
+    {
+        "team_name": "Monaco",
+        "overall": "77",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/6789/180.png",
+        "country_name": "France",
+        "european_cup": "Champions League",
+        "stars": 4
+    },
+    {
+        "team_name": "Olympique de Marseille",
+        "overall": "77",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/44/180.png",
+        "country_name": "France",
+        "european_cup": "None",
+        "stars": 4
+    },
+    {
+        "team_name": "Fiorentina",
+        "overall": "77",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/109/180.png",
+        "country_name": "Italy",
+        "european_cup": "Conference League",
+        "stars": 4
+    },
+    {
+        "team_name": "Bologna",
+        "overall": "77",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/8513/180.png",
+        "country_name": "Italy",
+        "european_cup": "Champions League",
+        "stars": 4
+    },
+    {
+        "team_name": "Real Betis",
+        "overall": "77",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/485/180.png",
+        "country_name": "Spain",
+        "european_cup": "Conference League",
+        "stars": 4
+    },
+    {
+        "team_name": "Valencia",
+        "overall": "77",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/214/180.png",
+        "country_name": "Spain",
+        "european_cup": "None",
+        "stars": 4
+    },
+    {
+        "team_name": "Villarreal",
+        "overall": "77",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3477/180.png",
+        "country_name": "Spain",
+        "european_cup": "None",
+        "stars": 4
+    },
+    {
+        "team_name": "Porto",
+        "overall": "77",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/652/180.png",
+        "country_name": "Portugal",
+        "european_cup": "Europa League",
+        "stars": 4
+    },
+    {
+        "team_name": "Flamengo",
+        "overall": "76",
+        "league_name": "Série A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1024/180.png",
+        "country_name": "Brazil",
+        "european_cup": "None",
+        "stars": 4
+    },
+    {
+        "team_name": "Palmeiras",
+        "overall": "76",
+        "league_name": "Série A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3422/180.png",
+        "country_name": "Brazil",
+        "european_cup": "None",
+        "stars": 4
+    },
+    {
+        "team_name": "Feyenoord",
+        "overall": "76",
+        "league_name": "Eredivisie",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/73/180.png",
+        "country_name": "Netherlands",
+        "european_cup": "Champions League",
+        "stars": 4
+    },
+    {
+        "team_name": "Everton",
+        "overall": "76",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/13/180.png",
+        "country_name": "England",
+        "european_cup": "None",
+        "stars": 4
+    },
+    {
+        "team_name": "Leicester City",
+        "overall": "76",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/42/180.png",
+        "country_name": "England",
+        "european_cup": "None",
+        "stars": 4
+    },
+    {
+        "team_name": "Brentford",
+        "overall": "76",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/236/180.png",
+        "country_name": "England",
+        "european_cup": "None",
+        "stars": 4
+    },
+    {
+        "team_name": "Fulham",
+        "overall": "76",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/11/180.png",
+        "country_name": "England",
+        "european_cup": "None",
+        "stars": 4
+    },
+    {
+        "team_name": "AFC Bournemouth",
+        "overall": "76",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/52/180.png",
+        "country_name": "England",
+        "european_cup": "None",
+        "stars": 4
+    },
+    {
+        "team_name": "Lens",
+        "overall": "76",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/271/180.png",
+        "country_name": "France",
+        "european_cup": "None",
+        "stars": 4
+    },
+    {
+        "team_name": "Nice",
+        "overall": "76",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/450/180.png",
+        "country_name": "France",
+        "european_cup": "Europa League",
+        "stars": 4
+    },
+    {
+        "team_name": "SC Freiburg",
+        "overall": "76",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3543/180.png",
+        "country_name": "Germany",
+        "european_cup": "None",
+        "stars": 4
+    },
+    {
+        "team_name": "Eintracht Frankfurt",
+        "overall": "76",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/366/180.png",
+        "country_name": "Germany",
+        "european_cup": "Europa League",
+        "stars": 4
+    },
+    {
+        "team_name": "VfB Stuttgart",
+        "overall": "76",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3319/180.png",
+        "country_name": "Germany",
+        "european_cup": "Champions League",
+        "stars": 4
+    }
+]

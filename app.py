@@ -111,6 +111,109 @@ def fetch_leagues():
     
     return leagues_data
 
+
+from selenium.webdriver.chrome.options import Options
+
+
+def fetch_players_data(offset=0):
+    options = Options()
+    options.headless = True  # Set the browser to headless mode
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+    
+    players_data = []
+    
+    player_id = 1  # Initialize player ID starting from 1
+
+    while offset <= 1020:  # Loop until the offset reaches 1020
+        base_url = f"https://sofifa.com/players?type=all&lg%5B0%5D=13&lg%5B1%5D=16&lg%5B2%5D=19&lg%5B3%5D=31&lg%5B4%5D=53&lg%5B5%5D=68&lg%5B6%5D=308&offset={offset}"
+        driver.get(base_url)
+        WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.TAG_NAME, 'table')))
+        
+        html = driver.page_source
+        soup = BeautifulSoup(html, 'html.parser')
+        
+        # Find player rows
+        player_rows = soup.find_all('tr')
+        
+        if not player_rows:  # If there are no player rows, exit the loop
+            print("No more players found.")
+            break
+        
+        players_fetched = False  # Flag to track if any player data was fetched
+        
+        for row in player_rows:
+            # Player name and URL
+            player_name_tag = row.find('a', href=True)
+            if player_name_tag and '/player/' in player_name_tag['href']:
+                player_name = player_name_tag.get_text(strip=True)
+            else:
+                continue
+            
+            # Player image URL extraction
+            player_img_tag = row.find('td', class_='a1').find('img')
+            if player_img_tag:
+                # Using data-src attribute to get the high-resolution image
+                player_image_url = player_img_tag['data-src'].replace('60.png', '180.png')
+            else:
+                player_image_url = 'N/A'  # Default value if image tag is not found
+
+            # Country name
+            country_flag_tag = row.find('div').find('img')
+            country_name = country_flag_tag['title'] if country_flag_tag else 'Unknown'
+            
+            # Age extraction
+            age_tag = row.find('td', class_='d2')
+            age = age_tag.get_text(strip=True) if age_tag else 'Unknown'
+            
+            # Overall rating extraction
+            overall_tag = row.find('em', title=re.compile(r'\d+'))
+            overall = overall_tag.get_text(strip=True) if overall_tag else 'N/A'
+            
+            # Team name extraction
+            team_tag = row.find_all('td')[5].find('a')  # Selecting the 6th <td> which contains the team info
+            team_name = team_tag.get_text(strip=True) if team_tag else 'Unknown'
+            
+            # Market value extraction
+            market_value_tag = row.find('td', class_='d6')
+            market_value = market_value_tag.get_text(strip=True) if market_value_tag else 'N/A'
+            
+            # Add data to list with player ID
+            players_data.append({
+                'id': player_id,  # Assign unique ID starting from 1
+                'player_name': player_name,
+                'player_image_url': player_image_url,
+                'team_name': team_name,
+                'country_name': country_name,
+                'age': age,
+                'overall': overall,
+                'market_value': market_value,
+            })
+            
+            player_id += 1  # Increment player ID for the next player
+            players_fetched = True  # Set flag to True if we fetch at least one player
+
+        # Only increment offset if players were fetched
+        if players_fetched:
+            offset += 60  # Increment offset by 60 for the next page
+            time.sleep(2)  # Wait for 2 seconds before fetching the next page
+        else:
+            print("No more players found on this page.")
+            break
+
+    driver.quit()
+
+    # Write data to JSON file
+    with open('players.json', 'w', encoding='utf-8') as f:
+        json.dump(players_data, f, ensure_ascii=False, indent=4)
+
+    return players_data
+
+
+
+
+
+
+
 def fetch_teams():
     with open('leagues_data.json', 'r', encoding='utf-8') as f:
         leagues_data = json.load(f)
@@ -216,6 +319,13 @@ def fetch_teams():
 def add_european_cups_route():
     teams_data = add_european_cups()
     return jsonify(teams_data)
+
+# Update the route to call the new fetch function
+@app.route('/fetch-players')
+def fetch_players():
+    players_data = fetch_players_data()  # Use the renamed function
+    return jsonify(players_data)
+
 
 if __name__ == '__main__':
     app.run(debug=True)

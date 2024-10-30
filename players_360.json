@@ -1,0 +1,3602 @@
+[
+    {
+        "id": 1,
+        "player_name": "Rodri",
+        "player_image_url": "https://cdn.sofifa.net/players/231/866/25_180.png",
+        "team_name": "Manchester City",
+        "country_name": "Spain",
+        "age": "28",
+        "overall": "91",
+        "market_value": "€115.5M"
+    },
+    {
+        "id": 2,
+        "player_name": "E. Haaland",
+        "player_image_url": "https://cdn.sofifa.net/players/239/085/25_180.png",
+        "team_name": "Manchester City",
+        "country_name": "Norway",
+        "age": "23",
+        "overall": "91",
+        "market_value": "€172.5M"
+    },
+    {
+        "id": 3,
+        "player_name": "K. Mbappé",
+        "player_image_url": "https://cdn.sofifa.net/players/231/747/25_180.png",
+        "team_name": "Real Madrid",
+        "country_name": "France",
+        "age": "25",
+        "overall": "91",
+        "market_value": "€176M"
+    },
+    {
+        "id": 4,
+        "player_name": "K. De Bruyne",
+        "player_image_url": "https://cdn.sofifa.net/players/192/985/25_180.png",
+        "team_name": "Manchester City",
+        "country_name": "Belgium",
+        "age": "33",
+        "overall": "90",
+        "market_value": "€73.5M"
+    },
+    {
+        "id": 5,
+        "player_name": "H. Kane",
+        "player_image_url": "https://cdn.sofifa.net/players/202/126/25_180.png",
+        "team_name": "FC Bayern München",
+        "country_name": "England",
+        "age": "30",
+        "overall": "90",
+        "market_value": "€117.5M"
+    },
+    {
+        "id": 6,
+        "player_name": "Vini Jr.",
+        "player_image_url": "https://cdn.sofifa.net/players/238/794/25_180.png",
+        "team_name": "Real Madrid",
+        "country_name": "Brazil",
+        "age": "23",
+        "overall": "90",
+        "market_value": "€171.5M"
+    },
+    {
+        "id": 7,
+        "player_name": "J. Bellingham",
+        "player_image_url": "https://cdn.sofifa.net/players/252/371/25_180.png",
+        "team_name": "Real Madrid",
+        "country_name": "England",
+        "age": "21",
+        "overall": "90",
+        "market_value": "€174.5M"
+    },
+    {
+        "id": 8,
+        "player_name": "M. Ødegaard",
+        "player_image_url": "https://cdn.sofifa.net/players/222/665/25_180.png",
+        "team_name": "Arsenal",
+        "country_name": "Norway",
+        "age": "25",
+        "overall": "89",
+        "market_value": "€122.5M"
+    },
+    {
+        "id": 9,
+        "player_name": "V. van Dijk",
+        "player_image_url": "https://cdn.sofifa.net/players/203/376/25_180.png",
+        "team_name": "Liverpool",
+        "country_name": "Netherlands",
+        "age": "32",
+        "overall": "89",
+        "market_value": "€67M"
+    },
+    {
+        "id": 10,
+        "player_name": "M. Salah",
+        "player_image_url": "https://cdn.sofifa.net/players/209/331/25_180.png",
+        "team_name": "Liverpool",
+        "country_name": "Egypt",
+        "age": "32",
+        "overall": "89",
+        "market_value": "€82M"
+    },
+    {
+        "id": 11,
+        "player_name": "Alisson",
+        "player_image_url": "https://cdn.sofifa.net/players/212/831/25_180.png",
+        "team_name": "Liverpool",
+        "country_name": "Brazil",
+        "age": "31",
+        "overall": "89",
+        "market_value": "€54.5M"
+    },
+    {
+        "id": 12,
+        "player_name": "G. Donnarumma",
+        "player_image_url": "https://cdn.sofifa.net/players/230/621/25_180.png",
+        "team_name": "Paris Saint Germain",
+        "country_name": "Italy",
+        "age": "25",
+        "overall": "89",
+        "market_value": "€98.5M"
+    },
+    {
+        "id": 13,
+        "player_name": "L. Martínez",
+        "player_image_url": "https://cdn.sofifa.net/players/231/478/25_180.png",
+        "team_name": "Inter",
+        "country_name": "Argentina",
+        "age": "26",
+        "overall": "89",
+        "market_value": "€114.5M"
+    },
+    {
+        "id": 14,
+        "player_name": "M. ter Stegen",
+        "player_image_url": "https://cdn.sofifa.net/players/192/448/25_180.png",
+        "team_name": "FC Barcelona",
+        "country_name": "Germany",
+        "age": "32",
+        "overall": "89",
+        "market_value": "€51M"
+    },
+    {
+        "id": 15,
+        "player_name": "T. Courtois",
+        "player_image_url": "https://cdn.sofifa.net/players/192/119/25_180.png",
+        "team_name": "Real Madrid",
+        "country_name": "Belgium",
+        "age": "32",
+        "overall": "89",
+        "market_value": "€51M"
+    },
+    {
+        "id": 16,
+        "player_name": "Ederson",
+        "player_image_url": "https://cdn.sofifa.net/players/210/257/25_180.png",
+        "team_name": "Manchester City",
+        "country_name": "Brazil",
+        "age": "30",
+        "overall": "88",
+        "market_value": "€61M"
+    },
+    {
+        "id": 17,
+        "player_name": "Bernardo Silva",
+        "player_image_url": "https://cdn.sofifa.net/players/218/667/25_180.png",
+        "team_name": "Manchester City",
+        "country_name": "Portugal",
+        "age": "29",
+        "overall": "88",
+        "market_value": "€89M"
+    },
+    {
+        "id": 18,
+        "player_name": "P. Foden",
+        "player_image_url": "https://cdn.sofifa.net/players/237/692/25_180.png",
+        "team_name": "Manchester City",
+        "country_name": "England",
+        "age": "24",
+        "overall": "88",
+        "market_value": "€118.5M"
+    },
+    {
+        "id": 19,
+        "player_name": "Rúben Dias",
+        "player_image_url": "https://cdn.sofifa.net/players/239/818/25_180.png",
+        "team_name": "Manchester City",
+        "country_name": "Portugal",
+        "age": "27",
+        "overall": "88",
+        "market_value": "€84M"
+    },
+    {
+        "id": 20,
+        "player_name": "G. Kobel",
+        "player_image_url": "https://cdn.sofifa.net/players/235/073/25_180.png",
+        "team_name": "Borussia Dortmund",
+        "country_name": "Switzerland",
+        "age": "26",
+        "overall": "88",
+        "market_value": "€86M"
+    },
+    {
+        "id": 21,
+        "player_name": "F. Wirtz",
+        "player_image_url": "https://cdn.sofifa.net/players/256/630/25_180.png",
+        "team_name": "Bayer 04 Leverkusen",
+        "country_name": "Germany",
+        "age": "21",
+        "overall": "88",
+        "market_value": "€133.5M"
+    },
+    {
+        "id": 22,
+        "player_name": "A. Griezmann",
+        "player_image_url": "https://cdn.sofifa.net/players/194/765/25_180.png",
+        "team_name": "Atlético Madrid",
+        "country_name": "France",
+        "age": "33",
+        "overall": "88",
+        "market_value": "€58.5M"
+    },
+    {
+        "id": 23,
+        "player_name": "J. Oblak",
+        "player_image_url": "https://cdn.sofifa.net/players/200/389/25_180.png",
+        "team_name": "Atlético Madrid",
+        "country_name": "Slovenia",
+        "age": "31",
+        "overall": "88",
+        "market_value": "€48.5M"
+    },
+    {
+        "id": 24,
+        "player_name": "R. Lewandowski",
+        "player_image_url": "https://cdn.sofifa.net/players/188/545/25_180.png",
+        "team_name": "FC Barcelona",
+        "country_name": "Poland",
+        "age": "35",
+        "overall": "88",
+        "market_value": "€39M"
+    },
+    {
+        "id": 25,
+        "player_name": "A. Rüdiger",
+        "player_image_url": "https://cdn.sofifa.net/players/205/452/25_180.png",
+        "team_name": "Real Madrid",
+        "country_name": "Germany",
+        "age": "31",
+        "overall": "88",
+        "market_value": "€62.5M"
+    },
+    {
+        "id": 26,
+        "player_name": "F. Valverde",
+        "player_image_url": "https://cdn.sofifa.net/players/239/053/25_180.png",
+        "team_name": "Real Madrid",
+        "country_name": "Uruguay",
+        "age": "25",
+        "overall": "88",
+        "market_value": "€120M"
+    },
+    {
+        "id": 27,
+        "player_name": "D. Rice",
+        "player_image_url": "https://cdn.sofifa.net/players/234/378/25_180.png",
+        "team_name": "Arsenal",
+        "country_name": "England",
+        "age": "25",
+        "overall": "87",
+        "market_value": "€85M"
+    },
+    {
+        "id": 28,
+        "player_name": "W. Saliba",
+        "player_image_url": "https://cdn.sofifa.net/players/243/715/25_180.png",
+        "team_name": "Arsenal",
+        "country_name": "France",
+        "age": "23",
+        "overall": "87",
+        "market_value": "€92M"
+    },
+    {
+        "id": 29,
+        "player_name": "B. Saka",
+        "player_image_url": "https://cdn.sofifa.net/players/246/669/25_180.png",
+        "team_name": "Arsenal",
+        "country_name": "England",
+        "age": "22",
+        "overall": "87",
+        "market_value": "€105.5M"
+    },
+    {
+        "id": 30,
+        "player_name": "E. Martínez",
+        "player_image_url": "https://cdn.sofifa.net/players/202/811/25_180.png",
+        "team_name": "Aston Villa",
+        "country_name": "Argentina",
+        "age": "31",
+        "overall": "87",
+        "market_value": "€42M"
+    },
+    {
+        "id": 31,
+        "player_name": "Bruno Fernandes",
+        "player_image_url": "https://cdn.sofifa.net/players/212/198/25_180.png",
+        "team_name": "Manchester United",
+        "country_name": "Portugal",
+        "age": "29",
+        "overall": "87",
+        "market_value": "€78M"
+    },
+    {
+        "id": 32,
+        "player_name": "H. Son",
+        "player_image_url": "https://cdn.sofifa.net/players/200/104/25_180.png",
+        "team_name": "Tottenham Hotspur",
+        "country_name": "Korea Republic",
+        "age": "31",
+        "overall": "87",
+        "market_value": "€67.5M"
+    },
+    {
+        "id": 33,
+        "player_name": "Marquinhos",
+        "player_image_url": "https://cdn.sofifa.net/players/207/865/25_180.png",
+        "team_name": "Paris Saint Germain",
+        "country_name": "Brazil",
+        "age": "30",
+        "overall": "87",
+        "market_value": "€65.5M"
+    },
+    {
+        "id": 34,
+        "player_name": "J. Musiala",
+        "player_image_url": "https://cdn.sofifa.net/players/256/790/25_180.png",
+        "team_name": "FC Bayern München",
+        "country_name": "Germany",
+        "age": "21",
+        "overall": "87",
+        "market_value": "€128M"
+    },
+    {
+        "id": 35,
+        "player_name": "Y. Sommer",
+        "player_image_url": "https://cdn.sofifa.net/players/177/683/25_180.png",
+        "team_name": "Inter",
+        "country_name": "Switzerland",
+        "age": "35",
+        "overall": "87",
+        "market_value": "€9M"
+    },
+    {
+        "id": 36,
+        "player_name": "N. Barella",
+        "player_image_url": "https://cdn.sofifa.net/players/224/232/25_180.png",
+        "team_name": "Inter",
+        "country_name": "Italy",
+        "age": "27",
+        "overall": "87",
+        "market_value": "€84.5M"
+    },
+    {
+        "id": 37,
+        "player_name": "A. Bastoni",
+        "player_image_url": "https://cdn.sofifa.net/players/237/383/25_180.png",
+        "team_name": "Inter",
+        "country_name": "Italy",
+        "age": "25",
+        "overall": "87",
+        "market_value": "€88.5M"
+    },
+    {
+        "id": 38,
+        "player_name": "M. Maignan",
+        "player_image_url": "https://cdn.sofifa.net/players/215/698/25_180.png",
+        "team_name": "Milan",
+        "country_name": "France",
+        "age": "28",
+        "overall": "87",
+        "market_value": "€68M"
+    },
+    {
+        "id": 39,
+        "player_name": "T. Hernández",
+        "player_image_url": "https://cdn.sofifa.net/players/232/656/25_180.png",
+        "team_name": "Milan",
+        "country_name": "France",
+        "age": "26",
+        "overall": "87",
+        "market_value": "€85.5M"
+    },
+    {
+        "id": 40,
+        "player_name": "P. Dybala",
+        "player_image_url": "https://cdn.sofifa.net/players/211/110/25_180.png",
+        "team_name": "Roma",
+        "country_name": "Argentina",
+        "age": "30",
+        "overall": "87",
+        "market_value": "€77M"
+    },
+    {
+        "id": 41,
+        "player_name": "F. de Jong",
+        "player_image_url": "https://cdn.sofifa.net/players/228/702/25_180.png",
+        "team_name": "FC Barcelona",
+        "country_name": "Netherlands",
+        "age": "27",
+        "overall": "87",
+        "market_value": "€91M"
+    },
+    {
+        "id": 42,
+        "player_name": "V. Osimhen",
+        "player_image_url": "https://cdn.sofifa.net/players/232/293/25_180.png",
+        "team_name": "Galatasaray",
+        "country_name": "Nigeria",
+        "age": "25",
+        "overall": "87",
+        "market_value": "€101.5M"
+    },
+    {
+        "id": 43,
+        "player_name": "Gabriel",
+        "player_image_url": "https://cdn.sofifa.net/players/232/580/25_180.png",
+        "team_name": "Arsenal",
+        "country_name": "Brazil",
+        "age": "26",
+        "overall": "86",
+        "market_value": "€70M"
+    },
+    {
+        "id": 44,
+        "player_name": "C. Palmer",
+        "player_image_url": "https://cdn.sofifa.net/players/257/534/25_180.png",
+        "team_name": "Chelsea",
+        "country_name": "England",
+        "age": "22",
+        "overall": "86",
+        "market_value": "€94.5M"
+    },
+    {
+        "id": 45,
+        "player_name": "T. Alexander-Arnold",
+        "player_image_url": "https://cdn.sofifa.net/players/231/281/25_180.png",
+        "team_name": "Liverpool",
+        "country_name": "England",
+        "age": "25",
+        "overall": "86",
+        "market_value": "€74M"
+    },
+    {
+        "id": 46,
+        "player_name": "A. Mac Allister",
+        "player_image_url": "https://cdn.sofifa.net/players/239/837/25_180.png",
+        "team_name": "Liverpool",
+        "country_name": "Argentina",
+        "age": "25",
+        "overall": "86",
+        "market_value": "€84.5M"
+    },
+    {
+        "id": 47,
+        "player_name": "İ. Gündoğan",
+        "player_image_url": "https://cdn.sofifa.net/players/186/942/25_180.png",
+        "team_name": "Manchester City",
+        "country_name": "Germany",
+        "age": "33",
+        "overall": "86",
+        "market_value": "€42M"
+    },
+    {
+        "id": 48,
+        "player_name": "O. Dembélé",
+        "player_image_url": "https://cdn.sofifa.net/players/231/443/25_180.png",
+        "team_name": "Paris Saint Germain",
+        "country_name": "France",
+        "age": "27",
+        "overall": "86",
+        "market_value": "€72.5M"
+    },
+    {
+        "id": 49,
+        "player_name": "M. Neuer",
+        "player_image_url": "https://cdn.sofifa.net/players/167/495/25_180.png",
+        "team_name": "FC Bayern München",
+        "country_name": "Germany",
+        "age": "38",
+        "overall": "86",
+        "market_value": "€7.5M"
+    },
+    {
+        "id": 50,
+        "player_name": "J. Kimmich",
+        "player_image_url": "https://cdn.sofifa.net/players/212/622/25_180.png",
+        "team_name": "FC Bayern München",
+        "country_name": "Germany",
+        "age": "29",
+        "overall": "86",
+        "market_value": "€59.5M"
+    },
+    {
+        "id": 51,
+        "player_name": "G. Xhaka",
+        "player_image_url": "https://cdn.sofifa.net/players/199/503/25_180.png",
+        "team_name": "Bayer 04 Leverkusen",
+        "country_name": "Switzerland",
+        "age": "31",
+        "overall": "86",
+        "market_value": "€47.5M"
+    },
+    {
+        "id": 52,
+        "player_name": "Grimaldo",
+        "player_image_url": "https://cdn.sofifa.net/players/210/035/25_180.png",
+        "team_name": "Bayer 04 Leverkusen",
+        "country_name": "Spain",
+        "age": "28",
+        "overall": "86",
+        "market_value": "€68.5M"
+    },
+    {
+        "id": 53,
+        "player_name": "J. Tah",
+        "player_image_url": "https://cdn.sofifa.net/players/213/331/25_180.png",
+        "team_name": "Bayer 04 Leverkusen",
+        "country_name": "Germany",
+        "age": "28",
+        "overall": "86",
+        "market_value": "€64.5M"
+    },
+    {
+        "id": 54,
+        "player_name": "H. Çalhanoğlu",
+        "player_image_url": "https://cdn.sofifa.net/players/208/128/25_180.png",
+        "team_name": "Inter",
+        "country_name": "Türkiye",
+        "age": "30",
+        "overall": "86",
+        "market_value": "€57M"
+    },
+    {
+        "id": 55,
+        "player_name": "Bremer",
+        "player_image_url": "https://cdn.sofifa.net/players/239/580/25_180.png",
+        "team_name": "Juventus",
+        "country_name": "Brazil",
+        "age": "27",
+        "overall": "86",
+        "market_value": "€77M"
+    },
+    {
+        "id": 56,
+        "player_name": "Rafael Leão",
+        "player_image_url": "https://cdn.sofifa.net/players/241/721/25_180.png",
+        "team_name": "Milan",
+        "country_name": "Portugal",
+        "age": "25",
+        "overall": "86",
+        "market_value": "€90M"
+    },
+    {
+        "id": 57,
+        "player_name": "Pedri",
+        "player_image_url": "https://cdn.sofifa.net/players/251/854/25_180.png",
+        "team_name": "FC Barcelona",
+        "country_name": "Spain",
+        "age": "21",
+        "overall": "86",
+        "market_value": "€98.5M"
+    },
+    {
+        "id": 58,
+        "player_name": "L. Modrić",
+        "player_image_url": "https://cdn.sofifa.net/players/177/003/25_180.png",
+        "team_name": "Real Madrid",
+        "country_name": "Croatia",
+        "age": "38",
+        "overall": "86",
+        "market_value": "€21.5M"
+    },
+    {
+        "id": 59,
+        "player_name": "Carvajal",
+        "player_image_url": "https://cdn.sofifa.net/players/204/963/25_180.png",
+        "team_name": "Real Madrid",
+        "country_name": "Spain",
+        "age": "32",
+        "overall": "86",
+        "market_value": "€47M"
+    },
+    {
+        "id": 60,
+        "player_name": "Rodrygo",
+        "player_image_url": "https://cdn.sofifa.net/players/243/812/25_180.png",
+        "team_name": "Real Madrid",
+        "country_name": "Brazil",
+        "age": "23",
+        "overall": "86",
+        "market_value": "€102.5M"
+    },
+    {
+        "id": 61,
+        "player_name": "Unai Simón",
+        "player_image_url": "https://cdn.sofifa.net/players/230/869/25_180.png",
+        "team_name": "Athletic Club",
+        "country_name": "Spain",
+        "age": "27",
+        "overall": "86",
+        "market_value": "€58M"
+    },
+    {
+        "id": 62,
+        "player_name": "Mikel Merino",
+        "player_image_url": "https://cdn.sofifa.net/players/225/193/25_180.png",
+        "team_name": "Arsenal",
+        "country_name": "Spain",
+        "age": "28",
+        "overall": "85",
+        "market_value": "€54M"
+    },
+    {
+        "id": 63,
+        "player_name": "O. Watkins",
+        "player_image_url": "https://cdn.sofifa.net/players/221/697/25_180.png",
+        "team_name": "Aston Villa",
+        "country_name": "England",
+        "age": "28",
+        "overall": "85",
+        "market_value": "€55M"
+    },
+    {
+        "id": 64,
+        "player_name": "A. Robertson",
+        "player_image_url": "https://cdn.sofifa.net/players/216/267/25_180.png",
+        "team_name": "Liverpool",
+        "country_name": "Scotland",
+        "age": "30",
+        "overall": "85",
+        "market_value": "€46.5M"
+    },
+    {
+        "id": 65,
+        "player_name": "Diogo Jota",
+        "player_image_url": "https://cdn.sofifa.net/players/224/458/25_180.png",
+        "team_name": "Liverpool",
+        "country_name": "Portugal",
+        "age": "27",
+        "overall": "85",
+        "market_value": "€58.5M"
+    },
+    {
+        "id": 66,
+        "player_name": "J. Stones",
+        "player_image_url": "https://cdn.sofifa.net/players/203/574/25_180.png",
+        "team_name": "Manchester City",
+        "country_name": "England",
+        "age": "30",
+        "overall": "85",
+        "market_value": "€44M"
+    },
+    {
+        "id": 67,
+        "player_name": "A. Isak",
+        "player_image_url": "https://cdn.sofifa.net/players/233/731/25_180.png",
+        "team_name": "Newcastle United",
+        "country_name": "Sweden",
+        "age": "24",
+        "overall": "85",
+        "market_value": "€71M"
+    },
+    {
+        "id": 68,
+        "player_name": "S. Tonali",
+        "player_image_url": "https://cdn.sofifa.net/players/241/096/25_180.png",
+        "team_name": "Newcastle United",
+        "country_name": "Italy",
+        "age": "24",
+        "overall": "85",
+        "market_value": "€63M"
+    },
+    {
+        "id": 69,
+        "player_name": "Bruno Guimarães",
+        "player_image_url": "https://cdn.sofifa.net/players/247/851/25_180.png",
+        "team_name": "Newcastle United",
+        "country_name": "Brazil",
+        "age": "26",
+        "overall": "85",
+        "market_value": "€56.5M"
+    },
+    {
+        "id": 70,
+        "player_name": "J. Maddison",
+        "player_image_url": "https://cdn.sofifa.net/players/220/697/25_180.png",
+        "team_name": "Tottenham Hotspur",
+        "country_name": "England",
+        "age": "27",
+        "overall": "85",
+        "market_value": "€57.5M"
+    },
+    {
+        "id": 71,
+        "player_name": "Vitinha",
+        "player_image_url": "https://cdn.sofifa.net/players/255/253/25_180.png",
+        "team_name": "Paris Saint Germain",
+        "country_name": "Portugal",
+        "age": "24",
+        "overall": "85",
+        "market_value": "€77M"
+    },
+    {
+        "id": 72,
+        "player_name": "L. Sané",
+        "player_image_url": "https://cdn.sofifa.net/players/222/492/25_180.png",
+        "team_name": "FC Bayern München",
+        "country_name": "Germany",
+        "age": "28",
+        "overall": "85",
+        "market_value": "€54.5M"
+    },
+    {
+        "id": 73,
+        "player_name": "Palhinha",
+        "player_image_url": "https://cdn.sofifa.net/players/229/391/25_180.png",
+        "team_name": "FC Bayern München",
+        "country_name": "Portugal",
+        "age": "28",
+        "overall": "85",
+        "market_value": "€47.5M"
+    },
+    {
+        "id": 74,
+        "player_name": "J. Brandt",
+        "player_image_url": "https://cdn.sofifa.net/players/212/194/25_180.png",
+        "team_name": "Borussia Dortmund",
+        "country_name": "Germany",
+        "age": "28",
+        "overall": "85",
+        "market_value": "€54.5M"
+    },
+    {
+        "id": 75,
+        "player_name": "N. Schlotterbeck",
+        "player_image_url": "https://cdn.sofifa.net/players/247/819/25_180.png",
+        "team_name": "Borussia Dortmund",
+        "country_name": "Germany",
+        "age": "24",
+        "overall": "85",
+        "market_value": "€66M"
+    },
+    {
+        "id": 76,
+        "player_name": "L. Openda",
+        "player_image_url": "https://cdn.sofifa.net/players/243/580/25_180.png",
+        "team_name": "RB Leipzig",
+        "country_name": "Belgium",
+        "age": "24",
+        "overall": "85",
+        "market_value": "€71M"
+    },
+    {
+        "id": 77,
+        "player_name": "K. Kvaratskhelia",
+        "player_image_url": "https://cdn.sofifa.net/players/247/635/25_180.png",
+        "team_name": "Napoli",
+        "country_name": "Georgia",
+        "age": "23",
+        "overall": "85",
+        "market_value": "€77.5M"
+    },
+    {
+        "id": 78,
+        "player_name": "M. Hummels",
+        "player_image_url": "https://cdn.sofifa.net/players/178/603/25_180.png",
+        "team_name": "Roma",
+        "country_name": "Germany",
+        "age": "35",
+        "overall": "85",
+        "market_value": "€14.5M"
+    },
+    {
+        "id": 79,
+        "player_name": "W. Szczęsny",
+        "player_image_url": "https://cdn.sofifa.net/players/186/153/25_180.png",
+        "team_name": "FC Barcelona",
+        "country_name": "Poland",
+        "age": "34",
+        "overall": "85",
+        "market_value": "€9M"
+    },
+    {
+        "id": 80,
+        "player_name": "J. Koundé",
+        "player_image_url": "https://cdn.sofifa.net/players/241/486/25_180.png",
+        "team_name": "FC Barcelona",
+        "country_name": "France",
+        "age": "25",
+        "overall": "85",
+        "market_value": "€69.5M"
+    },
+    {
+        "id": 81,
+        "player_name": "R. Araujo",
+        "player_image_url": "https://cdn.sofifa.net/players/253/163/25_180.png",
+        "team_name": "FC Barcelona",
+        "country_name": "Uruguay",
+        "age": "25",
+        "overall": "85",
+        "market_value": "€71.5M"
+    },
+    {
+        "id": 82,
+        "player_name": "D. Alaba",
+        "player_image_url": "https://cdn.sofifa.net/players/197/445/25_180.png",
+        "team_name": "Real Madrid",
+        "country_name": "Austria",
+        "age": "32",
+        "overall": "85",
+        "market_value": "€35M"
+    },
+    {
+        "id": 83,
+        "player_name": "Éder Militão",
+        "player_image_url": "https://cdn.sofifa.net/players/240/130/25_180.png",
+        "team_name": "Real Madrid",
+        "country_name": "Brazil",
+        "age": "26",
+        "overall": "85",
+        "market_value": "€62.5M"
+    },
+    {
+        "id": 84,
+        "player_name": "A. Tchouaméni",
+        "player_image_url": "https://cdn.sofifa.net/players/241/637/25_180.png",
+        "team_name": "Real Madrid",
+        "country_name": "France",
+        "age": "24",
+        "overall": "85",
+        "market_value": "€74.5M"
+    },
+    {
+        "id": 85,
+        "player_name": "Nico Williams",
+        "player_image_url": "https://cdn.sofifa.net/players/256/516/25_180.png",
+        "team_name": "Athletic Club",
+        "country_name": "Spain",
+        "age": "21",
+        "overall": "85",
+        "market_value": "€78.5M"
+    },
+    {
+        "id": 86,
+        "player_name": "G. Mamardashvili",
+        "player_image_url": "https://cdn.sofifa.net/players/262/621/25_180.png",
+        "team_name": "Valencia",
+        "country_name": "Georgia",
+        "age": "23",
+        "overall": "85",
+        "market_value": "€57.5M"
+    },
+    {
+        "id": 87,
+        "player_name": "David Raya",
+        "player_image_url": "https://cdn.sofifa.net/players/220/901/25_180.png",
+        "team_name": "Arsenal",
+        "country_name": "Spain",
+        "age": "28",
+        "overall": "84",
+        "market_value": "€36M"
+    },
+    {
+        "id": 88,
+        "player_name": "B. White",
+        "player_image_url": "https://cdn.sofifa.net/players/231/936/25_180.png",
+        "team_name": "Arsenal",
+        "country_name": "England",
+        "age": "26",
+        "overall": "84",
+        "market_value": "€45.5M"
+    },
+    {
+        "id": 89,
+        "player_name": "C. Nkunku",
+        "player_image_url": "https://cdn.sofifa.net/players/232/411/25_180.png",
+        "team_name": "Chelsea",
+        "country_name": "France",
+        "age": "26",
+        "overall": "84",
+        "market_value": "€49.5M"
+    },
+    {
+        "id": 90,
+        "player_name": "F. Chiesa",
+        "player_image_url": "https://cdn.sofifa.net/players/235/805/25_180.png",
+        "team_name": "Liverpool",
+        "country_name": "Italy",
+        "age": "26",
+        "overall": "84",
+        "market_value": "€46M"
+    },
+    {
+        "id": 91,
+        "player_name": "L. Díaz",
+        "player_image_url": "https://cdn.sofifa.net/players/241/084/25_180.png",
+        "team_name": "Liverpool",
+        "country_name": "Colombia",
+        "age": "27",
+        "overall": "84",
+        "market_value": "€45M"
+    },
+    {
+        "id": 92,
+        "player_name": "K. Walker",
+        "player_image_url": "https://cdn.sofifa.net/players/188/377/25_180.png",
+        "team_name": "Manchester City",
+        "country_name": "England",
+        "age": "34",
+        "overall": "84",
+        "market_value": "€15.5M"
+    },
+    {
+        "id": 93,
+        "player_name": "J. Grealish",
+        "player_image_url": "https://cdn.sofifa.net/players/206/517/25_180.png",
+        "team_name": "Manchester City",
+        "country_name": "England",
+        "age": "28",
+        "overall": "84",
+        "market_value": "€42.5M"
+    },
+    {
+        "id": 94,
+        "player_name": "N. Aké",
+        "player_image_url": "https://cdn.sofifa.net/players/208/920/25_180.png",
+        "team_name": "Manchester City",
+        "country_name": "Netherlands",
+        "age": "29",
+        "overall": "84",
+        "market_value": "€39M"
+    },
+    {
+        "id": 95,
+        "player_name": "M. Akanji",
+        "player_image_url": "https://cdn.sofifa.net/players/229/237/25_180.png",
+        "team_name": "Manchester City",
+        "country_name": "Switzerland",
+        "age": "28",
+        "overall": "84",
+        "market_value": "€40M"
+    },
+    {
+        "id": 96,
+        "player_name": "J. Gvardiol",
+        "player_image_url": "https://cdn.sofifa.net/players/251/517/25_180.png",
+        "team_name": "Manchester City",
+        "country_name": "Croatia",
+        "age": "22",
+        "overall": "84",
+        "market_value": "€54.5M"
+    },
+    {
+        "id": 97,
+        "player_name": "M. de Ligt",
+        "player_image_url": "https://cdn.sofifa.net/players/235/243/25_180.png",
+        "team_name": "Manchester United",
+        "country_name": "Netherlands",
+        "age": "24",
+        "overall": "84",
+        "market_value": "€51.5M"
+    },
+    {
+        "id": 98,
+        "player_name": "L. Martínez",
+        "player_image_url": "https://cdn.sofifa.net/players/239/301/25_180.png",
+        "team_name": "Manchester United",
+        "country_name": "Argentina",
+        "age": "26",
+        "overall": "84",
+        "market_value": "€43.5M"
+    },
+    {
+        "id": 99,
+        "player_name": "C. Romero",
+        "player_image_url": "https://cdn.sofifa.net/players/232/488/25_180.png",
+        "team_name": "Tottenham Hotspur",
+        "country_name": "Argentina",
+        "age": "26",
+        "overall": "84",
+        "market_value": "€46M"
+    },
+    {
+        "id": 100,
+        "player_name": "G. Vicario",
+        "player_image_url": "https://cdn.sofifa.net/players/240/091/25_180.png",
+        "team_name": "Tottenham Hotspur",
+        "country_name": "Italy",
+        "age": "27",
+        "overall": "84",
+        "market_value": "€41.5M"
+    },
+    {
+        "id": 101,
+        "player_name": "A. Hakimi",
+        "player_image_url": "https://cdn.sofifa.net/players/235/212/25_180.png",
+        "team_name": "Paris Saint Germain",
+        "country_name": "Morocco",
+        "age": "25",
+        "overall": "84",
+        "market_value": "€48.5M"
+    },
+    {
+        "id": 102,
+        "player_name": "K. Coman",
+        "player_image_url": "https://cdn.sofifa.net/players/213/345/25_180.png",
+        "team_name": "FC Bayern München",
+        "country_name": "France",
+        "age": "28",
+        "overall": "84",
+        "market_value": "€42.5M"
+    },
+    {
+        "id": 103,
+        "player_name": "M. Sabitzer",
+        "player_image_url": "https://cdn.sofifa.net/players/204/923/25_180.png",
+        "team_name": "Borussia Dortmund",
+        "country_name": "Austria",
+        "age": "30",
+        "overall": "84",
+        "market_value": "€40.5M"
+    },
+    {
+        "id": 104,
+        "player_name": "S. Guirassy",
+        "player_image_url": "https://cdn.sofifa.net/players/215/441/25_180.png",
+        "team_name": "Borussia Dortmund",
+        "country_name": "Guinea",
+        "age": "28",
+        "overall": "84",
+        "market_value": "€43M"
+    },
+    {
+        "id": 105,
+        "player_name": "L. Hrádecký",
+        "player_image_url": "https://cdn.sofifa.net/players/190/941/25_180.png",
+        "team_name": "Bayer 04 Leverkusen",
+        "country_name": "Finland",
+        "age": "34",
+        "overall": "84",
+        "market_value": "€7M"
+    },
+    {
+        "id": 106,
+        "player_name": "Aleix García",
+        "player_image_url": "https://cdn.sofifa.net/players/228/813/25_180.png",
+        "team_name": "Bayer 04 Leverkusen",
+        "country_name": "Spain",
+        "age": "27",
+        "overall": "84",
+        "market_value": "€48M"
+    },
+    {
+        "id": 107,
+        "player_name": "E. Palacios",
+        "player_image_url": "https://cdn.sofifa.net/players/231/521/25_180.png",
+        "team_name": "Bayer 04 Leverkusen",
+        "country_name": "Argentina",
+        "age": "25",
+        "overall": "84",
+        "market_value": "€55.5M"
+    },
+    {
+        "id": 108,
+        "player_name": "J. Frimpong",
+        "player_image_url": "https://cdn.sofifa.net/players/253/149/25_180.png",
+        "team_name": "Bayer 04 Leverkusen",
+        "country_name": "Netherlands",
+        "age": "23",
+        "overall": "84",
+        "market_value": "€54.5M"
+    },
+    {
+        "id": 109,
+        "player_name": "F. Acerbi",
+        "player_image_url": "https://cdn.sofifa.net/players/199/845/25_180.png",
+        "team_name": "Inter",
+        "country_name": "Italy",
+        "age": "36",
+        "overall": "84",
+        "market_value": "€7.5M"
+    },
+    {
+        "id": 110,
+        "player_name": "F. Dimarco",
+        "player_image_url": "https://cdn.sofifa.net/players/226/268/25_180.png",
+        "team_name": "Inter",
+        "country_name": "Italy",
+        "age": "26",
+        "overall": "84",
+        "market_value": "€45.5M"
+    },
+    {
+        "id": 111,
+        "player_name": "B. Pavard",
+        "player_image_url": "https://cdn.sofifa.net/players/226/851/25_180.png",
+        "team_name": "Inter",
+        "country_name": "France",
+        "age": "28",
+        "overall": "84",
+        "market_value": "€36.5M"
+    },
+    {
+        "id": 112,
+        "player_name": "M. Thuram",
+        "player_image_url": "https://cdn.sofifa.net/players/228/093/25_180.png",
+        "team_name": "Inter",
+        "country_name": "France",
+        "age": "26",
+        "overall": "84",
+        "market_value": "€50.5M"
+    },
+    {
+        "id": 113,
+        "player_name": "D. Vlahović",
+        "player_image_url": "https://cdn.sofifa.net/players/246/430/25_180.png",
+        "team_name": "Juventus",
+        "country_name": "Serbia",
+        "age": "24",
+        "overall": "84",
+        "market_value": "€58.5M"
+    },
+    {
+        "id": 114,
+        "player_name": "C. Pulisic",
+        "player_image_url": "https://cdn.sofifa.net/players/227/796/25_180.png",
+        "team_name": "Milan",
+        "country_name": "United States",
+        "age": "25",
+        "overall": "84",
+        "market_value": "€50.5M"
+    },
+    {
+        "id": 115,
+        "player_name": "A. Dovbyk",
+        "player_image_url": "https://cdn.sofifa.net/players/242/458/25_180.png",
+        "team_name": "Roma",
+        "country_name": "Ukraine",
+        "age": "27",
+        "overall": "84",
+        "market_value": "€49.5M"
+    },
+    {
+        "id": 116,
+        "player_name": "De Gea",
+        "player_image_url": "https://cdn.sofifa.net/players/193/080/25_180.png",
+        "team_name": "Fiorentina",
+        "country_name": "Spain",
+        "age": "33",
+        "overall": "84",
+        "market_value": "€13.5M"
+    },
+    {
+        "id": 117,
+        "player_name": "R. De Paul",
+        "player_image_url": "https://cdn.sofifa.net/players/212/616/25_180.png",
+        "team_name": "Atlético Madrid",
+        "country_name": "Argentina",
+        "age": "30",
+        "overall": "84",
+        "market_value": "€40.5M"
+    },
+    {
+        "id": 118,
+        "player_name": "J. Alvarez",
+        "player_image_url": "https://cdn.sofifa.net/players/246/191/25_180.png",
+        "team_name": "Atlético Madrid",
+        "country_name": "Argentina",
+        "age": "24",
+        "overall": "84",
+        "market_value": "€61M"
+    },
+    {
+        "id": 119,
+        "player_name": "Raphinha",
+        "player_image_url": "https://cdn.sofifa.net/players/233/419/25_180.png",
+        "team_name": "FC Barcelona",
+        "country_name": "Brazil",
+        "age": "27",
+        "overall": "84",
+        "market_value": "€45M"
+    },
+    {
+        "id": 120,
+        "player_name": "Dani Olmo",
+        "player_image_url": "https://cdn.sofifa.net/players/244/260/25_180.png",
+        "team_name": "FC Barcelona",
+        "country_name": "Spain",
+        "age": "26",
+        "overall": "84",
+        "market_value": "€52M"
+    },
+    {
+        "id": 121,
+        "player_name": "F. Mendy",
+        "player_image_url": "https://cdn.sofifa.net/players/228/618/25_180.png",
+        "team_name": "Real Madrid",
+        "country_name": "France",
+        "age": "29",
+        "overall": "84",
+        "market_value": "€37M"
+    },
+    {
+        "id": 122,
+        "player_name": "Iago Aspas",
+        "player_image_url": "https://cdn.sofifa.net/players/192/629/25_180.png",
+        "team_name": "Celta de Vigo",
+        "country_name": "Spain",
+        "age": "36",
+        "overall": "84",
+        "market_value": "€14.5M"
+    },
+    {
+        "id": 123,
+        "player_name": "Álex Remiro",
+        "player_image_url": "https://cdn.sofifa.net/players/227/127/25_180.png",
+        "team_name": "Real Sociedad",
+        "country_name": "Spain",
+        "age": "29",
+        "overall": "84",
+        "market_value": "€35M"
+    },
+    {
+        "id": 124,
+        "player_name": "Diogo Costa",
+        "player_image_url": "https://cdn.sofifa.net/players/234/577/25_180.png",
+        "team_name": "Porto",
+        "country_name": "Portugal",
+        "age": "24",
+        "overall": "84",
+        "market_value": "€54M"
+    },
+    {
+        "id": 125,
+        "player_name": "V. Gyökeres",
+        "player_image_url": "https://cdn.sofifa.net/players/241/651/25_180.png",
+        "team_name": "Sporting CP",
+        "country_name": "Sweden",
+        "age": "26",
+        "overall": "84",
+        "market_value": "€56M"
+    },
+    {
+        "id": 126,
+        "player_name": "L. Trossard",
+        "player_image_url": "https://cdn.sofifa.net/players/207/421/25_180.png",
+        "team_name": "Arsenal",
+        "country_name": "Belgium",
+        "age": "29",
+        "overall": "83",
+        "market_value": "€35.5M"
+    },
+    {
+        "id": 127,
+        "player_name": "K. Havertz",
+        "player_image_url": "https://cdn.sofifa.net/players/235/790/25_180.png",
+        "team_name": "Arsenal",
+        "country_name": "Germany",
+        "age": "25",
+        "overall": "83",
+        "market_value": "€46M"
+    },
+    {
+        "id": 128,
+        "player_name": "Gabriel Martinelli",
+        "player_image_url": "https://cdn.sofifa.net/players/251/566/25_180.png",
+        "team_name": "Arsenal",
+        "country_name": "Brazil",
+        "age": "23",
+        "overall": "83",
+        "market_value": "€49.5M"
+    },
+    {
+        "id": 129,
+        "player_name": "M. Caicedo",
+        "player_image_url": "https://cdn.sofifa.net/players/256/079/25_180.png",
+        "team_name": "Chelsea",
+        "country_name": "Ecuador",
+        "age": "22",
+        "overall": "83",
+        "market_value": "€48.5M"
+    },
+    {
+        "id": 130,
+        "player_name": "J. Pickford",
+        "player_image_url": "https://cdn.sofifa.net/players/204/935/25_180.png",
+        "team_name": "Everton",
+        "country_name": "England",
+        "age": "30",
+        "overall": "83",
+        "market_value": "€24M"
+    },
+    {
+        "id": 131,
+        "player_name": "I. Konaté",
+        "player_image_url": "https://cdn.sofifa.net/players/237/678/25_180.png",
+        "team_name": "Liverpool",
+        "country_name": "France",
+        "age": "25",
+        "overall": "83",
+        "market_value": "€40.5M"
+    },
+    {
+        "id": 132,
+        "player_name": "C. Gakpo",
+        "player_image_url": "https://cdn.sofifa.net/players/242/516/25_180.png",
+        "team_name": "Liverpool",
+        "country_name": "Netherlands",
+        "age": "25",
+        "overall": "83",
+        "market_value": "€48M"
+    },
+    {
+        "id": 133,
+        "player_name": "M. Kovačić",
+        "player_image_url": "https://cdn.sofifa.net/players/207/410/25_180.png",
+        "team_name": "Manchester City",
+        "country_name": "Croatia",
+        "age": "30",
+        "overall": "83",
+        "market_value": "€34.5M"
+    },
+    {
+        "id": 134,
+        "player_name": "Casemiro",
+        "player_image_url": "https://cdn.sofifa.net/players/200/145/25_180.png",
+        "team_name": "Manchester United",
+        "country_name": "Brazil",
+        "age": "32",
+        "overall": "83",
+        "market_value": "€24M"
+    },
+    {
+        "id": 135,
+        "player_name": "A. Onana",
+        "player_image_url": "https://cdn.sofifa.net/players/226/753/25_180.png",
+        "team_name": "Manchester United",
+        "country_name": "Cameroon",
+        "age": "28",
+        "overall": "83",
+        "market_value": "€29M"
+    },
+    {
+        "id": 136,
+        "player_name": "K. Trippier",
+        "player_image_url": "https://cdn.sofifa.net/players/186/345/25_180.png",
+        "team_name": "Newcastle United",
+        "country_name": "England",
+        "age": "33",
+        "overall": "83",
+        "market_value": "€19M"
+    },
+    {
+        "id": 137,
+        "player_name": "N. Pope",
+        "player_image_url": "https://cdn.sofifa.net/players/203/841/25_180.png",
+        "team_name": "Newcastle United",
+        "country_name": "England",
+        "age": "32",
+        "overall": "83",
+        "market_value": "€18M"
+    },
+    {
+        "id": 138,
+        "player_name": "Pedro Porro",
+        "player_image_url": "https://cdn.sofifa.net/players/243/576/25_180.png",
+        "team_name": "Tottenham Hotspur",
+        "country_name": "Spain",
+        "age": "24",
+        "overall": "83",
+        "market_value": "€46M"
+    },
+    {
+        "id": 139,
+        "player_name": "M. van de Ven",
+        "player_image_url": "https://cdn.sofifa.net/players/264/453/25_180.png",
+        "team_name": "Tottenham Hotspur",
+        "country_name": "Netherlands",
+        "age": "23",
+        "overall": "83",
+        "market_value": "€47M"
+    },
+    {
+        "id": 140,
+        "player_name": "L. Hernández",
+        "player_image_url": "https://cdn.sofifa.net/players/220/814/25_180.png",
+        "team_name": "Paris Saint Germain",
+        "country_name": "France",
+        "age": "28",
+        "overall": "83",
+        "market_value": "€31.5M"
+    },
+    {
+        "id": 141,
+        "player_name": "Nuno Mendes",
+        "player_image_url": "https://cdn.sofifa.net/players/252/145/25_180.png",
+        "team_name": "Paris Saint Germain",
+        "country_name": "Portugal",
+        "age": "22",
+        "overall": "83",
+        "market_value": "€49.5M"
+    },
+    {
+        "id": 142,
+        "player_name": "A. Rabiot",
+        "player_image_url": "https://cdn.sofifa.net/players/210/008/25_180.png",
+        "team_name": "Olympique de Marseille",
+        "country_name": "France",
+        "age": "29",
+        "overall": "83",
+        "market_value": "€35.5M"
+    },
+    {
+        "id": 143,
+        "player_name": "L. Goretzka",
+        "player_image_url": "https://cdn.sofifa.net/players/209/658/25_180.png",
+        "team_name": "FC Bayern München",
+        "country_name": "Germany",
+        "age": "29",
+        "overall": "83",
+        "market_value": "€35.5M"
+    },
+    {
+        "id": 144,
+        "player_name": "K. Laimer",
+        "player_image_url": "https://cdn.sofifa.net/players/225/375/25_180.png",
+        "team_name": "FC Bayern München",
+        "country_name": "Austria",
+        "age": "27",
+        "overall": "83",
+        "market_value": "€37M"
+    },
+    {
+        "id": 145,
+        "player_name": "Kim Min Jae",
+        "player_image_url": "https://cdn.sofifa.net/players/237/086/25_180.png",
+        "team_name": "FC Bayern München",
+        "country_name": "Korea Republic",
+        "age": "27",
+        "overall": "83",
+        "market_value": "€36.5M"
+    },
+    {
+        "id": 146,
+        "player_name": "D. Malen",
+        "player_image_url": "https://cdn.sofifa.net/players/231/447/25_180.png",
+        "team_name": "Borussia Dortmund",
+        "country_name": "Netherlands",
+        "age": "25",
+        "overall": "83",
+        "market_value": "€45.5M"
+    },
+    {
+        "id": 147,
+        "player_name": "R. Andrich",
+        "player_image_url": "https://cdn.sofifa.net/players/212/242/25_180.png",
+        "team_name": "Bayer 04 Leverkusen",
+        "country_name": "Germany",
+        "age": "29",
+        "overall": "83",
+        "market_value": "€31M"
+    },
+    {
+        "id": 148,
+        "player_name": "E. Tapsoba",
+        "player_image_url": "https://cdn.sofifa.net/players/247/263/25_180.png",
+        "team_name": "Bayer 04 Leverkusen",
+        "country_name": "Burkina Faso",
+        "age": "25",
+        "overall": "83",
+        "market_value": "€40.5M"
+    },
+    {
+        "id": 149,
+        "player_name": "P. Gulácsi",
+        "player_image_url": "https://cdn.sofifa.net/players/185/122/25_180.png",
+        "team_name": "RB Leipzig",
+        "country_name": "Hungary",
+        "age": "34",
+        "overall": "83",
+        "market_value": "€6M"
+    },
+    {
+        "id": 150,
+        "player_name": "W. Orban",
+        "player_image_url": "https://cdn.sofifa.net/players/204/638/25_180.png",
+        "team_name": "RB Leipzig",
+        "country_name": "Hungary",
+        "age": "31",
+        "overall": "83",
+        "market_value": "€25M"
+    },
+    {
+        "id": 151,
+        "player_name": "X. Simons",
+        "player_image_url": "https://cdn.sofifa.net/players/245/367/25_180.png",
+        "team_name": "RB Leipzig",
+        "country_name": "Netherlands",
+        "age": "21",
+        "overall": "83",
+        "market_value": "€58.5M"
+    },
+    {
+        "id": 152,
+        "player_name": "H. Mkhitaryan",
+        "player_image_url": "https://cdn.sofifa.net/players/192/883/25_180.png",
+        "team_name": "Inter",
+        "country_name": "Armenia",
+        "age": "35",
+        "overall": "83",
+        "market_value": "€14.5M"
+    },
+    {
+        "id": 153,
+        "player_name": "S. de Vrij",
+        "player_image_url": "https://cdn.sofifa.net/players/198/176/25_180.png",
+        "team_name": "Inter",
+        "country_name": "Netherlands",
+        "age": "32",
+        "overall": "83",
+        "market_value": "€23.5M"
+    },
+    {
+        "id": 154,
+        "player_name": "M. Locatelli",
+        "player_image_url": "https://cdn.sofifa.net/players/222/077/25_180.png",
+        "team_name": "Juventus",
+        "country_name": "Italy",
+        "age": "26",
+        "overall": "83",
+        "market_value": "€43M"
+    },
+    {
+        "id": 155,
+        "player_name": "Douglas Luiz",
+        "player_image_url": "https://cdn.sofifa.net/players/236/499/25_180.png",
+        "team_name": "Juventus",
+        "country_name": "Brazil",
+        "age": "26",
+        "overall": "83",
+        "market_value": "€44.5M"
+    },
+    {
+        "id": 156,
+        "player_name": "T. Koopmeiners",
+        "player_image_url": "https://cdn.sofifa.net/players/240/679/25_180.png",
+        "team_name": "Juventus",
+        "country_name": "Netherlands",
+        "age": "26",
+        "overall": "83",
+        "market_value": "€42.5M"
+    },
+    {
+        "id": 157,
+        "player_name": "A. Romagnoli",
+        "player_image_url": "https://cdn.sofifa.net/players/210/413/25_180.png",
+        "team_name": "Lazio",
+        "country_name": "Italy",
+        "age": "29",
+        "overall": "83",
+        "market_value": "€30.5M"
+    },
+    {
+        "id": 158,
+        "player_name": "M. Zaccagni",
+        "player_image_url": "https://cdn.sofifa.net/players/220/502/25_180.png",
+        "team_name": "Lazio",
+        "country_name": "Italy",
+        "age": "29",
+        "overall": "83",
+        "market_value": "€35.5M"
+    },
+    {
+        "id": 159,
+        "player_name": "I. Provedel",
+        "player_image_url": "https://cdn.sofifa.net/players/224/987/25_180.png",
+        "team_name": "Lazio",
+        "country_name": "Italy",
+        "age": "30",
+        "overall": "83",
+        "market_value": "€24M"
+    },
+    {
+        "id": 160,
+        "player_name": "Morata",
+        "player_image_url": "https://cdn.sofifa.net/players/201/153/25_180.png",
+        "team_name": "Milan",
+        "country_name": "Spain",
+        "age": "31",
+        "overall": "83",
+        "market_value": "€30.5M"
+    },
+    {
+        "id": 161,
+        "player_name": "I. Bennacer",
+        "player_image_url": "https://cdn.sofifa.net/players/226/754/25_180.png",
+        "team_name": "Milan",
+        "country_name": "Algeria",
+        "age": "26",
+        "overall": "83",
+        "market_value": "€43M"
+    },
+    {
+        "id": 162,
+        "player_name": "F. Tomori",
+        "player_image_url": "https://cdn.sofifa.net/players/232/756/25_180.png",
+        "team_name": "Milan",
+        "country_name": "England",
+        "age": "26",
+        "overall": "83",
+        "market_value": "€44.5M"
+    },
+    {
+        "id": 163,
+        "player_name": "L. Pellegrini",
+        "player_image_url": "https://cdn.sofifa.net/players/228/251/25_180.png",
+        "team_name": "Roma",
+        "country_name": "Italy",
+        "age": "28",
+        "overall": "83",
+        "market_value": "€36.5M"
+    },
+    {
+        "id": 164,
+        "player_name": "G. Mancini",
+        "player_image_url": "https://cdn.sofifa.net/players/229/582/25_180.png",
+        "team_name": "Roma",
+        "country_name": "Italy",
+        "age": "28",
+        "overall": "83",
+        "market_value": "€34.5M"
+    },
+    {
+        "id": 165,
+        "player_name": "D. Zapata",
+        "player_image_url": "https://cdn.sofifa.net/players/215/333/25_180.png",
+        "team_name": "Torino",
+        "country_name": "Colombia",
+        "age": "33",
+        "overall": "83",
+        "market_value": "€23M"
+    },
+    {
+        "id": 166,
+        "player_name": "Koke",
+        "player_image_url": "https://cdn.sofifa.net/players/193/747/25_180.png",
+        "team_name": "Atlético Madrid",
+        "country_name": "Spain",
+        "age": "32",
+        "overall": "83",
+        "market_value": "€24M"
+    },
+    {
+        "id": 167,
+        "player_name": "J. Giménez",
+        "player_image_url": "https://cdn.sofifa.net/players/216/460/25_180.png",
+        "team_name": "Atlético Madrid",
+        "country_name": "Uruguay",
+        "age": "29",
+        "overall": "83",
+        "market_value": "€33.5M"
+    },
+    {
+        "id": 168,
+        "player_name": "Marcos Llorente",
+        "player_image_url": "https://cdn.sofifa.net/players/226/161/25_180.png",
+        "team_name": "Atlético Madrid",
+        "country_name": "Spain",
+        "age": "29",
+        "overall": "83",
+        "market_value": "€35.5M"
+    },
+    {
+        "id": 169,
+        "player_name": "R. Le Normand",
+        "player_image_url": "https://cdn.sofifa.net/players/233/486/25_180.png",
+        "team_name": "Atlético Madrid",
+        "country_name": "Spain",
+        "age": "27",
+        "overall": "83",
+        "market_value": "€41M"
+    },
+    {
+        "id": 170,
+        "player_name": "A. Christensen",
+        "player_image_url": "https://cdn.sofifa.net/players/213/661/25_180.png",
+        "team_name": "FC Barcelona",
+        "country_name": "Denmark",
+        "age": "28",
+        "overall": "83",
+        "market_value": "€36.5M"
+    },
+    {
+        "id": 171,
+        "player_name": "Gavi",
+        "player_image_url": "https://cdn.sofifa.net/players/264/240/25_180.png",
+        "team_name": "FC Barcelona",
+        "country_name": "Spain",
+        "age": "19",
+        "overall": "83",
+        "market_value": "€70.5M"
+    },
+    {
+        "id": 172,
+        "player_name": "E. Camavinga",
+        "player_image_url": "https://cdn.sofifa.net/players/248/243/25_180.png",
+        "team_name": "Real Madrid",
+        "country_name": "France",
+        "age": "21",
+        "overall": "83",
+        "market_value": "€73.5M"
+    },
+    {
+        "id": 173,
+        "player_name": "Parejo",
+        "player_image_url": "https://cdn.sofifa.net/players/189/513/25_180.png",
+        "team_name": "Villarreal",
+        "country_name": "Spain",
+        "age": "35",
+        "overall": "83",
+        "market_value": "€14.5M"
+    },
+    {
+        "id": 174,
+        "player_name": "Gerard Moreno",
+        "player_image_url": "https://cdn.sofifa.net/players/208/093/25_180.png",
+        "team_name": "Villarreal",
+        "country_name": "Spain",
+        "age": "32",
+        "overall": "83",
+        "market_value": "€29.5M"
+    },
+    {
+        "id": 175,
+        "player_name": "V. Tsygankov",
+        "player_image_url": "https://cdn.sofifa.net/players/244/369/25_180.png",
+        "team_name": "Girona",
+        "country_name": "Ukraine",
+        "age": "26",
+        "overall": "83",
+        "market_value": "€43M"
+    },
+    {
+        "id": 176,
+        "player_name": "M. Icardi",
+        "player_image_url": "https://cdn.sofifa.net/players/201/399/25_180.png",
+        "team_name": "Galatasaray",
+        "country_name": "Argentina",
+        "age": "31",
+        "overall": "83",
+        "market_value": "€30.5M"
+    },
+    {
+        "id": 177,
+        "player_name": "L. Torreira",
+        "player_image_url": "https://cdn.sofifa.net/players/223/959/25_180.png",
+        "team_name": "Galatasaray",
+        "country_name": "Uruguay",
+        "age": "28",
+        "overall": "83",
+        "market_value": "€32M"
+    },
+    {
+        "id": 178,
+        "player_name": "D. Tadić",
+        "player_image_url": "https://cdn.sofifa.net/players/199/434/25_180.png",
+        "team_name": "Fenerbahçe",
+        "country_name": "Serbia",
+        "age": "35",
+        "overall": "83",
+        "market_value": "€15M"
+    },
+    {
+        "id": 179,
+        "player_name": "Y. En-Nesyri",
+        "player_image_url": "https://cdn.sofifa.net/players/235/410/25_180.png",
+        "team_name": "Fenerbahçe",
+        "country_name": "Morocco",
+        "age": "27",
+        "overall": "83",
+        "market_value": "€42.5M"
+    },
+    {
+        "id": 180,
+        "player_name": "Rafa",
+        "player_image_url": "https://cdn.sofifa.net/players/216/547/25_180.png",
+        "team_name": "Beşiktaş",
+        "country_name": "Portugal",
+        "age": "31",
+        "overall": "83",
+        "market_value": "€30M"
+    },
+    {
+        "id": 181,
+        "player_name": "Á. Di María",
+        "player_image_url": "https://cdn.sofifa.net/players/183/898/25_180.png",
+        "team_name": "Benfica",
+        "country_name": "Argentina",
+        "age": "36",
+        "overall": "83",
+        "market_value": "€12M"
+    },
+    {
+        "id": 182,
+        "player_name": "Pedro Gonçalves",
+        "player_image_url": "https://cdn.sofifa.net/players/240/950/25_180.png",
+        "team_name": "Sporting CP",
+        "country_name": "Portugal",
+        "age": "26",
+        "overall": "83",
+        "market_value": "€43M"
+    },
+    {
+        "id": 183,
+        "player_name": "Jorginho",
+        "player_image_url": "https://cdn.sofifa.net/players/205/498/25_180.png",
+        "team_name": "Arsenal",
+        "country_name": "Italy",
+        "age": "32",
+        "overall": "82",
+        "market_value": "€20.5M"
+    },
+    {
+        "id": 184,
+        "player_name": "T. Partey",
+        "player_image_url": "https://cdn.sofifa.net/players/209/989/25_180.png",
+        "team_name": "Arsenal",
+        "country_name": "Ghana",
+        "age": "31",
+        "overall": "82",
+        "market_value": "€21.5M"
+    },
+    {
+        "id": 185,
+        "player_name": "J. McGinn",
+        "player_image_url": "https://cdn.sofifa.net/players/210/881/25_180.png",
+        "team_name": "Aston Villa",
+        "country_name": "Scotland",
+        "age": "29",
+        "overall": "82",
+        "market_value": "€30M"
+    },
+    {
+        "id": 186,
+        "player_name": "Y. Tielemans",
+        "player_image_url": "https://cdn.sofifa.net/players/216/393/25_180.png",
+        "team_name": "Aston Villa",
+        "country_name": "Belgium",
+        "age": "27",
+        "overall": "82",
+        "market_value": "€35M"
+    },
+    {
+        "id": 187,
+        "player_name": "L. Bailey",
+        "player_image_url": "https://cdn.sofifa.net/players/229/906/25_180.png",
+        "team_name": "Aston Villa",
+        "country_name": "Jamaica",
+        "age": "26",
+        "overall": "82",
+        "market_value": "€33.5M"
+    },
+    {
+        "id": 188,
+        "player_name": "B. Kamara",
+        "player_image_url": "https://cdn.sofifa.net/players/236/987/25_180.png",
+        "team_name": "Aston Villa",
+        "country_name": "France",
+        "age": "24",
+        "overall": "82",
+        "market_value": "€35.5M"
+    },
+    {
+        "id": 189,
+        "player_name": "Pau Torres",
+        "player_image_url": "https://cdn.sofifa.net/players/241/464/25_180.png",
+        "team_name": "Aston Villa",
+        "country_name": "Spain",
+        "age": "27",
+        "overall": "82",
+        "market_value": "€30.5M"
+    },
+    {
+        "id": 190,
+        "player_name": "J. Sancho",
+        "player_image_url": "https://cdn.sofifa.net/players/233/049/25_180.png",
+        "team_name": "Chelsea",
+        "country_name": "England",
+        "age": "24",
+        "overall": "82",
+        "market_value": "€43.5M"
+    },
+    {
+        "id": 191,
+        "player_name": "R. James",
+        "player_image_url": "https://cdn.sofifa.net/players/238/074/25_180.png",
+        "team_name": "Chelsea",
+        "country_name": "England",
+        "age": "24",
+        "overall": "82",
+        "market_value": "€36.5M"
+    },
+    {
+        "id": 192,
+        "player_name": "Marc Cucurella",
+        "player_image_url": "https://cdn.sofifa.net/players/239/231/25_180.png",
+        "team_name": "Chelsea",
+        "country_name": "Spain",
+        "age": "25",
+        "overall": "82",
+        "market_value": "€33.5M"
+    },
+    {
+        "id": 193,
+        "player_name": "E. Fernández",
+        "player_image_url": "https://cdn.sofifa.net/players/247/090/25_180.png",
+        "team_name": "Chelsea",
+        "country_name": "Argentina",
+        "age": "23",
+        "overall": "82",
+        "market_value": "€43.5M"
+    },
+    {
+        "id": 194,
+        "player_name": "D. Núñez",
+        "player_image_url": "https://cdn.sofifa.net/players/253/072/25_180.png",
+        "team_name": "Liverpool",
+        "country_name": "Uruguay",
+        "age": "25",
+        "overall": "82",
+        "market_value": "€41M"
+    },
+    {
+        "id": 195,
+        "player_name": "Savinho",
+        "player_image_url": "https://cdn.sofifa.net/players/270/409/25_180.png",
+        "team_name": "Manchester City",
+        "country_name": "Brazil",
+        "age": "20",
+        "overall": "82",
+        "market_value": "€47.5M"
+    },
+    {
+        "id": 196,
+        "player_name": "L. Shaw",
+        "player_image_url": "https://cdn.sofifa.net/players/205/988/25_180.png",
+        "team_name": "Manchester United",
+        "country_name": "England",
+        "age": "28",
+        "overall": "82",
+        "market_value": "€27.5M"
+    },
+    {
+        "id": 197,
+        "player_name": "Diogo Dalot",
+        "player_image_url": "https://cdn.sofifa.net/players/234/574/25_180.png",
+        "team_name": "Manchester United",
+        "country_name": "Portugal",
+        "age": "25",
+        "overall": "82",
+        "market_value": "€35M"
+    },
+    {
+        "id": 198,
+        "player_name": "F. Schär",
+        "player_image_url": "https://cdn.sofifa.net/players/210/047/25_180.png",
+        "team_name": "Newcastle United",
+        "country_name": "Switzerland",
+        "age": "32",
+        "overall": "82",
+        "market_value": "€20M"
+    },
+    {
+        "id": 199,
+        "player_name": "Joelinton",
+        "player_image_url": "https://cdn.sofifa.net/players/223/334/25_180.png",
+        "team_name": "Newcastle United",
+        "country_name": "Brazil",
+        "age": "27",
+        "overall": "82",
+        "market_value": "€32M"
+    },
+    {
+        "id": 200,
+        "player_name": "A. Gordon",
+        "player_image_url": "https://cdn.sofifa.net/players/242/964/25_180.png",
+        "team_name": "Newcastle United",
+        "country_name": "England",
+        "age": "23",
+        "overall": "82",
+        "market_value": "€43.5M"
+    },
+    {
+        "id": 201,
+        "player_name": "S. Botman",
+        "player_image_url": "https://cdn.sofifa.net/players/251/809/25_180.png",
+        "team_name": "Newcastle United",
+        "country_name": "Netherlands",
+        "age": "24",
+        "overall": "82",
+        "market_value": "€37M"
+    },
+    {
+        "id": 202,
+        "player_name": "D. Kulusevski",
+        "player_image_url": "https://cdn.sofifa.net/players/247/394/25_180.png",
+        "team_name": "Tottenham Hotspur",
+        "country_name": "Sweden",
+        "age": "24",
+        "overall": "82",
+        "market_value": "€41.5M"
+    },
+    {
+        "id": 203,
+        "player_name": "D. Udogie",
+        "player_image_url": "https://cdn.sofifa.net/players/259/583/25_180.png",
+        "team_name": "Tottenham Hotspur",
+        "country_name": "Italy",
+        "age": "21",
+        "overall": "82",
+        "market_value": "€41.5M"
+    },
+    {
+        "id": 204,
+        "player_name": "N. Füllkrug",
+        "player_image_url": "https://cdn.sofifa.net/players/205/431/25_180.png",
+        "team_name": "West Ham United",
+        "country_name": "Germany",
+        "age": "31",
+        "overall": "82",
+        "market_value": "€25.5M"
+    },
+    {
+        "id": 205,
+        "player_name": "J. Bowen",
+        "player_image_url": "https://cdn.sofifa.net/players/224/371/25_180.png",
+        "team_name": "West Ham United",
+        "country_name": "England",
+        "age": "27",
+        "overall": "82",
+        "market_value": "€32.5M"
+    },
+    {
+        "id": 206,
+        "player_name": "G. Rodríguez",
+        "player_image_url": "https://cdn.sofifa.net/players/225/659/25_180.png",
+        "team_name": "West Ham United",
+        "country_name": "Argentina",
+        "age": "30",
+        "overall": "82",
+        "market_value": "€25.5M"
+    },
+    {
+        "id": 207,
+        "player_name": "Lucas Paquetá",
+        "player_image_url": "https://cdn.sofifa.net/players/233/927/25_180.png",
+        "team_name": "West Ham United",
+        "country_name": "Brazil",
+        "age": "26",
+        "overall": "82",
+        "market_value": "€33.5M"
+    },
+    {
+        "id": 208,
+        "player_name": "M. Kudus",
+        "player_image_url": "https://cdn.sofifa.net/players/245/155/25_180.png",
+        "team_name": "West Ham United",
+        "country_name": "Ghana",
+        "age": "23",
+        "overall": "82",
+        "market_value": "€43.5M"
+    },
+    {
+        "id": 209,
+        "player_name": "B. Leno",
+        "player_image_url": "https://cdn.sofifa.net/players/192/563/25_180.png",
+        "team_name": "Fulham",
+        "country_name": "Germany",
+        "age": "32",
+        "overall": "82",
+        "market_value": "€15M"
+    },
+    {
+        "id": 210,
+        "player_name": "B. Samba",
+        "player_image_url": "https://cdn.sofifa.net/players/204/883/25_180.png",
+        "team_name": "Lens",
+        "country_name": "France",
+        "age": "30",
+        "overall": "82",
+        "market_value": "€23M"
+    },
+    {
+        "id": 211,
+        "player_name": "A. Lacazette",
+        "player_image_url": "https://cdn.sofifa.net/players/193/301/25_180.png",
+        "team_name": "Olympique Lyonnais",
+        "country_name": "France",
+        "age": "33",
+        "overall": "82",
+        "market_value": "€19.5M"
+    },
+    {
+        "id": 212,
+        "player_name": "Fabián Ruiz",
+        "player_image_url": "https://cdn.sofifa.net/players/226/271/25_180.png",
+        "team_name": "Paris Saint Germain",
+        "country_name": "Spain",
+        "age": "28",
+        "overall": "82",
+        "market_value": "€30.5M"
+    },
+    {
+        "id": 213,
+        "player_name": "R. Kolo Muani",
+        "player_image_url": "https://cdn.sofifa.net/players/237/679/25_180.png",
+        "team_name": "Paris Saint Germain",
+        "country_name": "France",
+        "age": "25",
+        "overall": "82",
+        "market_value": "€41M"
+    },
+    {
+        "id": 214,
+        "player_name": "T. Müller",
+        "player_image_url": "https://cdn.sofifa.net/players/189/596/25_180.png",
+        "team_name": "FC Bayern München",
+        "country_name": "Germany",
+        "age": "34",
+        "overall": "82",
+        "market_value": "€14.5M"
+    },
+    {
+        "id": 215,
+        "player_name": "S. Gnabry",
+        "player_image_url": "https://cdn.sofifa.net/players/206/113/25_180.png",
+        "team_name": "FC Bayern München",
+        "country_name": "Germany",
+        "age": "28",
+        "overall": "82",
+        "market_value": "€30.5M"
+    },
+    {
+        "id": 216,
+        "player_name": "R. Guerreiro",
+        "player_image_url": "https://cdn.sofifa.net/players/209/889/25_180.png",
+        "team_name": "FC Bayern München",
+        "country_name": "Portugal",
+        "age": "30",
+        "overall": "82",
+        "market_value": "€26.5M"
+    },
+    {
+        "id": 217,
+        "player_name": "D. Upamecano",
+        "player_image_url": "https://cdn.sofifa.net/players/229/558/25_180.png",
+        "team_name": "FC Bayern München",
+        "country_name": "France",
+        "age": "25",
+        "overall": "82",
+        "market_value": "€36M"
+    },
+    {
+        "id": 218,
+        "player_name": "A. Davies",
+        "player_image_url": "https://cdn.sofifa.net/players/234/396/25_180.png",
+        "team_name": "FC Bayern München",
+        "country_name": "Canada",
+        "age": "23",
+        "overall": "82",
+        "market_value": "€43M"
+    },
+    {
+        "id": 219,
+        "player_name": "M. Olise",
+        "player_image_url": "https://cdn.sofifa.net/players/247/827/25_180.png",
+        "team_name": "FC Bayern München",
+        "country_name": "France",
+        "age": "22",
+        "overall": "82",
+        "market_value": "€47M"
+    },
+    {
+        "id": 220,
+        "player_name": "E. Can",
+        "player_image_url": "https://cdn.sofifa.net/players/208/333/25_180.png",
+        "team_name": "Borussia Dortmund",
+        "country_name": "Germany",
+        "age": "30",
+        "overall": "82",
+        "market_value": "€25.5M"
+    },
+    {
+        "id": 221,
+        "player_name": "N. Süle",
+        "player_image_url": "https://cdn.sofifa.net/players/212/190/25_180.png",
+        "team_name": "Borussia Dortmund",
+        "country_name": "Germany",
+        "age": "28",
+        "overall": "82",
+        "market_value": "€29M"
+    },
+    {
+        "id": 222,
+        "player_name": "M. Ginter",
+        "player_image_url": "https://cdn.sofifa.net/players/207/862/25_180.png",
+        "team_name": "SC Freiburg",
+        "country_name": "Germany",
+        "age": "30",
+        "overall": "82",
+        "market_value": "€25M"
+    },
+    {
+        "id": 223,
+        "player_name": "P. Schick",
+        "player_image_url": "https://cdn.sofifa.net/players/234/236/25_180.png",
+        "team_name": "Bayer 04 Leverkusen",
+        "country_name": "Czechia",
+        "age": "28",
+        "overall": "82",
+        "market_value": "€31M"
+    },
+    {
+        "id": 224,
+        "player_name": "V. Boniface",
+        "player_image_url": "https://cdn.sofifa.net/players/247/679/25_180.png",
+        "team_name": "Bayer 04 Leverkusen",
+        "country_name": "Nigeria",
+        "age": "23",
+        "overall": "82",
+        "market_value": "€48.5M"
+    },
+    {
+        "id": 225,
+        "player_name": "K. Trapp",
+        "player_image_url": "https://cdn.sofifa.net/players/188/943/25_180.png",
+        "team_name": "Eintracht Frankfurt",
+        "country_name": "Germany",
+        "age": "33",
+        "overall": "82",
+        "market_value": "€10M"
+    },
+    {
+        "id": 226,
+        "player_name": "O. Baumann",
+        "player_image_url": "https://cdn.sofifa.net/players/193/698/25_180.png",
+        "team_name": "TSG Hoffenheim",
+        "country_name": "Germany",
+        "age": "34",
+        "overall": "82",
+        "market_value": "€5M"
+    },
+    {
+        "id": 227,
+        "player_name": "A. Lookman",
+        "player_image_url": "https://cdn.sofifa.net/players/230/899/25_180.png",
+        "team_name": "Atalanta",
+        "country_name": "Nigeria",
+        "age": "26",
+        "overall": "82",
+        "market_value": "€36.5M"
+    },
+    {
+        "id": 228,
+        "player_name": "M. Carnesecchi",
+        "player_image_url": "https://cdn.sofifa.net/players/252/154/25_180.png",
+        "team_name": "Atalanta",
+        "country_name": "Italy",
+        "age": "24",
+        "overall": "82",
+        "market_value": "€37M"
+    },
+    {
+        "id": 229,
+        "player_name": "D. Dumfries",
+        "player_image_url": "https://cdn.sofifa.net/players/233/096/25_180.png",
+        "team_name": "Inter",
+        "country_name": "Netherlands",
+        "age": "28",
+        "overall": "82",
+        "market_value": "€27.5M"
+    },
+    {
+        "id": 230,
+        "player_name": "Danilo",
+        "player_image_url": "https://cdn.sofifa.net/players/199/304/25_180.png",
+        "team_name": "Juventus",
+        "country_name": "Brazil",
+        "age": "32",
+        "overall": "82",
+        "market_value": "€20M"
+    },
+    {
+        "id": 231,
+        "player_name": "T. Reijnders",
+        "player_image_url": "https://cdn.sofifa.net/players/240/638/25_180.png",
+        "team_name": "Milan",
+        "country_name": "Netherlands",
+        "age": "25",
+        "overall": "82",
+        "market_value": "€40M"
+    },
+    {
+        "id": 232,
+        "player_name": "R. Lukaku",
+        "player_image_url": "https://cdn.sofifa.net/players/192/505/25_180.png",
+        "team_name": "Napoli",
+        "country_name": "Belgium",
+        "age": "31",
+        "overall": "82",
+        "market_value": "€25.5M"
+    },
+    {
+        "id": 233,
+        "player_name": "S. Lobotka",
+        "player_image_url": "https://cdn.sofifa.net/players/216/435/25_180.png",
+        "team_name": "Napoli",
+        "country_name": "Slovakia",
+        "age": "29",
+        "overall": "82",
+        "market_value": "€29.5M"
+    },
+    {
+        "id": 234,
+        "player_name": "G. Di Lorenzo",
+        "player_image_url": "https://cdn.sofifa.net/players/217/870/25_180.png",
+        "team_name": "Napoli",
+        "country_name": "Italy",
+        "age": "30",
+        "overall": "82",
+        "market_value": "€26.5M"
+    },
+    {
+        "id": 235,
+        "player_name": "Mario Hermoso",
+        "player_image_url": "https://cdn.sofifa.net/players/229/668/25_180.png",
+        "team_name": "Roma",
+        "country_name": "Spain",
+        "age": "29",
+        "overall": "82",
+        "market_value": "€28M"
+    },
+    {
+        "id": 236,
+        "player_name": "Á. Correa",
+        "player_image_url": "https://cdn.sofifa.net/players/214/997/25_180.png",
+        "team_name": "Atlético Madrid",
+        "country_name": "Argentina",
+        "age": "29",
+        "overall": "82",
+        "market_value": "€30.5M"
+    },
+    {
+        "id": 237,
+        "player_name": "A. Sørloth",
+        "player_image_url": "https://cdn.sofifa.net/players/216/549/25_180.png",
+        "team_name": "Atlético Madrid",
+        "country_name": "Norway",
+        "age": "28",
+        "overall": "82",
+        "market_value": "€31M"
+    },
+    {
+        "id": 238,
+        "player_name": "N. Molina",
+        "player_image_url": "https://cdn.sofifa.net/players/233/084/25_180.png",
+        "team_name": "Atlético Madrid",
+        "country_name": "Argentina",
+        "age": "26",
+        "overall": "82",
+        "market_value": "€36.5M"
+    },
+    {
+        "id": 239,
+        "player_name": "Brahim",
+        "player_image_url": "https://cdn.sofifa.net/players/231/410/25_180.png",
+        "team_name": "Real Madrid",
+        "country_name": "Morocco",
+        "age": "24",
+        "overall": "82",
+        "market_value": "€43.5M"
+    },
+    {
+        "id": 240,
+        "player_name": "Iñaki Williams",
+        "player_image_url": "https://cdn.sofifa.net/players/216/201/25_180.png",
+        "team_name": "Athletic Club",
+        "country_name": "Ghana",
+        "age": "30",
+        "overall": "82",
+        "market_value": "€29.5M"
+    },
+    {
+        "id": 241,
+        "player_name": "Sancet",
+        "player_image_url": "https://cdn.sofifa.net/players/244/675/25_180.png",
+        "team_name": "Athletic Club",
+        "country_name": "Spain",
+        "age": "24",
+        "overall": "82",
+        "market_value": "€46M"
+    },
+    {
+        "id": 242,
+        "player_name": "Isco",
+        "player_image_url": "https://cdn.sofifa.net/players/197/781/25_180.png",
+        "team_name": "Real Betis",
+        "country_name": "Spain",
+        "age": "32",
+        "overall": "82",
+        "market_value": "€24M"
+    },
+    {
+        "id": 243,
+        "player_name": "Sergi Darder",
+        "player_image_url": "https://cdn.sofifa.net/players/202/648/25_180.png",
+        "team_name": "Mallorca",
+        "country_name": "Spain",
+        "age": "30",
+        "overall": "82",
+        "market_value": "€29M"
+    },
+    {
+        "id": 244,
+        "player_name": "Oyarzabal",
+        "player_image_url": "https://cdn.sofifa.net/players/230/142/25_180.png",
+        "team_name": "Real Sociedad",
+        "country_name": "Spain",
+        "age": "27",
+        "overall": "82",
+        "market_value": "€33M"
+    },
+    {
+        "id": 245,
+        "player_name": "Gayà",
+        "player_image_url": "https://cdn.sofifa.net/players/211/688/25_180.png",
+        "team_name": "Valencia",
+        "country_name": "Spain",
+        "age": "29",
+        "overall": "82",
+        "market_value": "€27M"
+    },
+    {
+        "id": 246,
+        "player_name": "P. Gazzaniga",
+        "player_image_url": "https://cdn.sofifa.net/players/205/186/25_180.png",
+        "team_name": "Girona",
+        "country_name": "Argentina",
+        "age": "32",
+        "overall": "82",
+        "market_value": "€15M"
+    },
+    {
+        "id": 247,
+        "player_name": "Y. Herrera",
+        "player_image_url": "https://cdn.sofifa.net/players/234/060/25_180.png",
+        "team_name": "Girona",
+        "country_name": "Venezuela",
+        "age": "26",
+        "overall": "82",
+        "market_value": "€32M"
+    },
+    {
+        "id": 248,
+        "player_name": "E. Džeko",
+        "player_image_url": "https://cdn.sofifa.net/players/180/930/25_180.png",
+        "team_name": "Fenerbahçe",
+        "country_name": "Bosnia and Herzegovina",
+        "age": "38",
+        "overall": "82",
+        "market_value": "€10.5M"
+    },
+    {
+        "id": 249,
+        "player_name": "F. Kostić",
+        "player_image_url": "https://cdn.sofifa.net/players/208/574/25_180.png",
+        "team_name": "Fenerbahçe",
+        "country_name": "Serbia",
+        "age": "31",
+        "overall": "82",
+        "market_value": "€25M"
+    },
+    {
+        "id": 250,
+        "player_name": "Fred",
+        "player_image_url": "https://cdn.sofifa.net/players/209/297/25_180.png",
+        "team_name": "Fenerbahçe",
+        "country_name": "Brazil",
+        "age": "31",
+        "overall": "82",
+        "market_value": "€25M"
+    },
+    {
+        "id": 251,
+        "player_name": "C. Immobile",
+        "player_image_url": "https://cdn.sofifa.net/players/192/387/25_180.png",
+        "team_name": "Beşiktaş",
+        "country_name": "Italy",
+        "age": "34",
+        "overall": "82",
+        "market_value": "€15M"
+    },
+    {
+        "id": 252,
+        "player_name": "Pepê",
+        "player_image_url": "https://cdn.sofifa.net/players/238/896/25_180.png",
+        "team_name": "Porto",
+        "country_name": "Brazil",
+        "age": "27",
+        "overall": "82",
+        "market_value": "€32.5M"
+    },
+    {
+        "id": 253,
+        "player_name": "R. Sterling",
+        "player_image_url": "https://cdn.sofifa.net/players/202/652/25_180.png",
+        "team_name": "Arsenal",
+        "country_name": "England",
+        "age": "29",
+        "overall": "81",
+        "market_value": "€25.5M"
+    },
+    {
+        "id": 254,
+        "player_name": "Gabriel Jesus",
+        "player_image_url": "https://cdn.sofifa.net/players/230/666/25_180.png",
+        "team_name": "Arsenal",
+        "country_name": "Brazil",
+        "age": "27",
+        "overall": "81",
+        "market_value": "€28M"
+    },
+    {
+        "id": 255,
+        "player_name": "E. Konsa",
+        "player_image_url": "https://cdn.sofifa.net/players/227/678/25_180.png",
+        "team_name": "Aston Villa",
+        "country_name": "England",
+        "age": "26",
+        "overall": "81",
+        "market_value": "€28M"
+    },
+    {
+        "id": 256,
+        "player_name": "João Félix",
+        "player_image_url": "https://cdn.sofifa.net/players/242/444/25_180.png",
+        "team_name": "Chelsea",
+        "country_name": "Portugal",
+        "age": "24",
+        "overall": "81",
+        "market_value": "€39M"
+    },
+    {
+        "id": 257,
+        "player_name": "D. Szoboszlai",
+        "player_image_url": "https://cdn.sofifa.net/players/236/772/25_180.png",
+        "team_name": "Liverpool",
+        "country_name": "Hungary",
+        "age": "23",
+        "overall": "81",
+        "market_value": "€39M"
+    },
+    {
+        "id": 258,
+        "player_name": "S. Ortega",
+        "player_image_url": "https://cdn.sofifa.net/players/200/159/25_180.png",
+        "team_name": "Manchester City",
+        "country_name": "Germany",
+        "age": "31",
+        "overall": "81",
+        "market_value": "€13.5M"
+    },
+    {
+        "id": 259,
+        "player_name": "M. Rashford",
+        "player_image_url": "https://cdn.sofifa.net/players/231/677/25_180.png",
+        "team_name": "Manchester United",
+        "country_name": "England",
+        "age": "26",
+        "overall": "81",
+        "market_value": "€30.5M"
+    },
+    {
+        "id": 260,
+        "player_name": "N. Mazraoui",
+        "player_image_url": "https://cdn.sofifa.net/players/236/401/25_180.png",
+        "team_name": "Manchester United",
+        "country_name": "Morocco",
+        "age": "26",
+        "overall": "81",
+        "market_value": "€29.5M"
+    },
+    {
+        "id": 261,
+        "player_name": "M. Ugarte",
+        "player_image_url": "https://cdn.sofifa.net/players/253/306/25_180.png",
+        "team_name": "Manchester United",
+        "country_name": "Uruguay",
+        "age": "23",
+        "overall": "81",
+        "market_value": "€35.5M"
+    },
+    {
+        "id": 262,
+        "player_name": "C. Wilson",
+        "player_image_url": "https://cdn.sofifa.net/players/196/978/25_180.png",
+        "team_name": "Newcastle United",
+        "country_name": "England",
+        "age": "32",
+        "overall": "81",
+        "market_value": "€21M"
+    },
+    {
+        "id": 263,
+        "player_name": "A. Ramsdale",
+        "player_image_url": "https://cdn.sofifa.net/players/233/934/25_180.png",
+        "team_name": "Southampton",
+        "country_name": "England",
+        "age": "26",
+        "overall": "81",
+        "market_value": "€24M"
+    },
+    {
+        "id": 264,
+        "player_name": "D. Solanke",
+        "player_image_url": "https://cdn.sofifa.net/players/225/539/25_180.png",
+        "team_name": "Tottenham Hotspur",
+        "country_name": "England",
+        "age": "26",
+        "overall": "81",
+        "market_value": "€31M"
+    },
+    {
+        "id": 265,
+        "player_name": "R. Bentancur",
+        "player_image_url": "https://cdn.sofifa.net/players/227/535/25_180.png",
+        "team_name": "Tottenham Hotspur",
+        "country_name": "Uruguay",
+        "age": "27",
+        "overall": "81",
+        "market_value": "€29.5M"
+    },
+    {
+        "id": 266,
+        "player_name": "Richarlison",
+        "player_image_url": "https://cdn.sofifa.net/players/231/943/25_180.png",
+        "team_name": "Tottenham Hotspur",
+        "country_name": "Brazil",
+        "age": "27",
+        "overall": "81",
+        "market_value": "€30M"
+    },
+    {
+        "id": 267,
+        "player_name": "A. Areola",
+        "player_image_url": "https://cdn.sofifa.net/players/193/105/25_180.png",
+        "team_name": "West Ham United",
+        "country_name": "France",
+        "age": "31",
+        "overall": "81",
+        "market_value": "€13.5M"
+    },
+    {
+        "id": 268,
+        "player_name": "E. Álvarez",
+        "player_image_url": "https://cdn.sofifa.net/players/235/844/25_180.png",
+        "team_name": "West Ham United",
+        "country_name": "Mexico",
+        "age": "26",
+        "overall": "81",
+        "market_value": "€28.5M"
+    },
+    {
+        "id": 269,
+        "player_name": "E. Eze",
+        "player_image_url": "https://cdn.sofifa.net/players/235/794/25_180.png",
+        "team_name": "Crystal Palace",
+        "country_name": "England",
+        "age": "26",
+        "overall": "81",
+        "market_value": "€33.5M"
+    },
+    {
+        "id": 270,
+        "player_name": "M. Guéhi",
+        "player_image_url": "https://cdn.sofifa.net/players/241/159/25_180.png",
+        "team_name": "Crystal Palace",
+        "country_name": "England",
+        "age": "23",
+        "overall": "81",
+        "market_value": "€31.5M"
+    },
+    {
+        "id": 271,
+        "player_name": "F. Kadıoğlu",
+        "player_image_url": "https://cdn.sofifa.net/players/235/152/25_180.png",
+        "team_name": "Brighton & Hove Albion",
+        "country_name": "Türkiye",
+        "age": "24",
+        "overall": "81",
+        "market_value": "€36.5M"
+    },
+    {
+        "id": 272,
+        "player_name": "K. Mitoma",
+        "player_image_url": "https://cdn.sofifa.net/players/255/565/25_180.png",
+        "team_name": "Brighton & Hove Albion",
+        "country_name": "Japan",
+        "age": "27",
+        "overall": "81",
+        "market_value": "€27.5M"
+    },
+    {
+        "id": 273,
+        "player_name": "J. David",
+        "player_image_url": "https://cdn.sofifa.net/players/243/630/25_180.png",
+        "team_name": "LOSC Lille",
+        "country_name": "Canada",
+        "age": "24",
+        "overall": "81",
+        "market_value": "€35.5M"
+    },
+    {
+        "id": 274,
+        "player_name": "L. Chevalier",
+        "player_image_url": "https://cdn.sofifa.net/players/251/752/25_180.png",
+        "team_name": "LOSC Lille",
+        "country_name": "France",
+        "age": "22",
+        "overall": "81",
+        "market_value": "€33.5M"
+    },
+    {
+        "id": 275,
+        "player_name": "A. Golovin",
+        "player_image_url": "https://cdn.sofifa.net/players/225/663/25_180.png",
+        "team_name": "Monaco",
+        "country_name": "Russia",
+        "age": "28",
+        "overall": "81",
+        "market_value": "€26M"
+    },
+    {
+        "id": 276,
+        "player_name": "Marco Asensio",
+        "player_image_url": "https://cdn.sofifa.net/players/220/834/25_180.png",
+        "team_name": "Paris Saint Germain",
+        "country_name": "Spain",
+        "age": "28",
+        "overall": "81",
+        "market_value": "€26M"
+    },
+    {
+        "id": 277,
+        "player_name": "P. Kimpembe",
+        "player_image_url": "https://cdn.sofifa.net/players/225/850/25_180.png",
+        "team_name": "Paris Saint Germain",
+        "country_name": "France",
+        "age": "28",
+        "overall": "81",
+        "market_value": "€24.5M"
+    },
+    {
+        "id": 278,
+        "player_name": "M. Škriniar",
+        "player_image_url": "https://cdn.sofifa.net/players/232/363/25_180.png",
+        "team_name": "Paris Saint Germain",
+        "country_name": "Slovakia",
+        "age": "29",
+        "overall": "81",
+        "market_value": "€21.5M"
+    },
+    {
+        "id": 279,
+        "player_name": "B. Barcola",
+        "player_image_url": "https://cdn.sofifa.net/players/264/652/25_180.png",
+        "team_name": "Paris Saint Germain",
+        "country_name": "France",
+        "age": "21",
+        "overall": "81",
+        "market_value": "€52.5M"
+    },
+    {
+        "id": 280,
+        "player_name": "P. Groß",
+        "player_image_url": "https://cdn.sofifa.net/players/190/765/25_180.png",
+        "team_name": "Borussia Dortmund",
+        "country_name": "Germany",
+        "age": "33",
+        "overall": "81",
+        "market_value": "€13M"
+    },
+    {
+        "id": 281,
+        "player_name": "W. Anton",
+        "player_image_url": "https://cdn.sofifa.net/players/229/476/25_180.png",
+        "team_name": "Borussia Dortmund",
+        "country_name": "Germany",
+        "age": "27",
+        "overall": "81",
+        "market_value": "€26M"
+    },
+    {
+        "id": 282,
+        "player_name": "J. Hofmann",
+        "player_image_url": "https://cdn.sofifa.net/players/210/324/25_180.png",
+        "team_name": "Bayer 04 Leverkusen",
+        "country_name": "Germany",
+        "age": "31",
+        "overall": "81",
+        "market_value": "€21.5M"
+    },
+    {
+        "id": 283,
+        "player_name": "P. Hincapié",
+        "player_image_url": "https://cdn.sofifa.net/players/256/197/25_180.png",
+        "team_name": "Bayer 04 Leverkusen",
+        "country_name": "Ecuador",
+        "age": "22",
+        "overall": "81",
+        "market_value": "€36M"
+    },
+    {
+        "id": 284,
+        "player_name": "D. Undav",
+        "player_image_url": "https://cdn.sofifa.net/players/244/176/25_180.png",
+        "team_name": "VfB Stuttgart",
+        "country_name": "Germany",
+        "age": "27",
+        "overall": "81",
+        "market_value": "€28M"
+    },
+    {
+        "id": 285,
+        "player_name": "E. Skhiri",
+        "player_image_url": "https://cdn.sofifa.net/players/225/126/25_180.png",
+        "team_name": "Eintracht Frankfurt",
+        "country_name": "Tunisia",
+        "age": "29",
+        "overall": "81",
+        "market_value": "€22M"
+    },
+    {
+        "id": 286,
+        "player_name": "A. Kramarić",
+        "player_image_url": "https://cdn.sofifa.net/players/216/354/25_180.png",
+        "team_name": "TSG Hoffenheim",
+        "country_name": "Croatia",
+        "age": "33",
+        "overall": "81",
+        "market_value": "€16.5M"
+    },
+    {
+        "id": 287,
+        "player_name": "B. Henrichs",
+        "player_image_url": "https://cdn.sofifa.net/players/228/579/25_180.png",
+        "team_name": "RB Leipzig",
+        "country_name": "Germany",
+        "age": "27",
+        "overall": "81",
+        "market_value": "€27M"
+    },
+    {
+        "id": 288,
+        "player_name": "X. Schlager",
+        "player_image_url": "https://cdn.sofifa.net/players/233/195/25_180.png",
+        "team_name": "RB Leipzig",
+        "country_name": "Austria",
+        "age": "26",
+        "overall": "81",
+        "market_value": "€28.5M"
+    },
+    {
+        "id": 289,
+        "player_name": "D. Raum",
+        "player_image_url": "https://cdn.sofifa.net/players/236/703/25_180.png",
+        "team_name": "RB Leipzig",
+        "country_name": "Germany",
+        "age": "26",
+        "overall": "81",
+        "market_value": "€31M"
+    },
+    {
+        "id": 290,
+        "player_name": "O. Kossounou",
+        "player_image_url": "https://cdn.sofifa.net/players/246/875/25_180.png",
+        "team_name": "Atalanta",
+        "country_name": "Côte d'Ivoire",
+        "age": "23",
+        "overall": "81",
+        "market_value": "€35M"
+    },
+    {
+        "id": 291,
+        "player_name": "M. Darmian",
+        "player_image_url": "https://cdn.sofifa.net/players/184/392/25_180.png",
+        "team_name": "Inter",
+        "country_name": "Italy",
+        "age": "34",
+        "overall": "81",
+        "market_value": "€9.5M"
+    },
+    {
+        "id": 292,
+        "player_name": "P. Zieliński",
+        "player_image_url": "https://cdn.sofifa.net/players/210/406/25_180.png",
+        "team_name": "Inter",
+        "country_name": "Poland",
+        "age": "30",
+        "overall": "81",
+        "market_value": "€24.5M"
+    },
+    {
+        "id": 293,
+        "player_name": "D. Frattesi",
+        "player_image_url": "https://cdn.sofifa.net/players/239/807/25_180.png",
+        "team_name": "Inter",
+        "country_name": "Italy",
+        "age": "24",
+        "overall": "81",
+        "market_value": "€36.5M"
+    },
+    {
+        "id": 294,
+        "player_name": "A. Milik",
+        "player_image_url": "https://cdn.sofifa.net/players/205/175/25_180.png",
+        "team_name": "Juventus",
+        "country_name": "Poland",
+        "age": "30",
+        "overall": "81",
+        "market_value": "€25.5M"
+    },
+    {
+        "id": 295,
+        "player_name": "R. Loftus-Cheek",
+        "player_image_url": "https://cdn.sofifa.net/players/213/666/25_180.png",
+        "team_name": "Milan",
+        "country_name": "England",
+        "age": "28",
+        "overall": "81",
+        "market_value": "€25.5M"
+    },
+    {
+        "id": 296,
+        "player_name": "Y. Fofana",
+        "player_image_url": "https://cdn.sofifa.net/players/245/630/25_180.png",
+        "team_name": "Milan",
+        "country_name": "France",
+        "age": "25",
+        "overall": "81",
+        "market_value": "€32.5M"
+    },
+    {
+        "id": 297,
+        "player_name": "A. Meret",
+        "player_image_url": "https://cdn.sofifa.net/players/225/116/25_180.png",
+        "team_name": "Napoli",
+        "country_name": "Italy",
+        "age": "27",
+        "overall": "81",
+        "market_value": "€23.5M"
+    },
+    {
+        "id": 298,
+        "player_name": "B. Cristante",
+        "player_image_url": "https://cdn.sofifa.net/players/208/268/25_180.png",
+        "team_name": "Roma",
+        "country_name": "Italy",
+        "age": "29",
+        "overall": "81",
+        "market_value": "€25M"
+    },
+    {
+        "id": 299,
+        "player_name": "R. Freuler",
+        "player_image_url": "https://cdn.sofifa.net/players/202/024/25_180.png",
+        "team_name": "Bologna",
+        "country_name": "Switzerland",
+        "age": "32",
+        "overall": "81",
+        "market_value": "€17M"
+    },
+    {
+        "id": 300,
+        "player_name": "R. Orsolini",
+        "player_image_url": "https://cdn.sofifa.net/players/233/556/25_180.png",
+        "team_name": "Bologna",
+        "country_name": "Italy",
+        "age": "27",
+        "overall": "81",
+        "market_value": "€27.5M"
+    },
+    {
+        "id": 301,
+        "player_name": "C. Gallagher",
+        "player_image_url": "https://cdn.sofifa.net/players/238/216/25_180.png",
+        "team_name": "Atlético Madrid",
+        "country_name": "England",
+        "age": "24",
+        "overall": "81",
+        "market_value": "€38.5M"
+    },
+    {
+        "id": 302,
+        "player_name": "Iñigo Martínez",
+        "player_image_url": "https://cdn.sofifa.net/players/204/525/25_180.png",
+        "team_name": "FC Barcelona",
+        "country_name": "Spain",
+        "age": "33",
+        "overall": "81",
+        "market_value": "€12.5M"
+    },
+    {
+        "id": 303,
+        "player_name": "Balde",
+        "player_image_url": "https://cdn.sofifa.net/players/263/578/25_180.png",
+        "team_name": "FC Barcelona",
+        "country_name": "Spain",
+        "age": "20",
+        "overall": "81",
+        "market_value": "€54M"
+    },
+    {
+        "id": 304,
+        "player_name": "Lamine Yamal",
+        "player_image_url": "https://cdn.sofifa.net/players/277/643/25_180.png",
+        "team_name": "FC Barcelona",
+        "country_name": "Spain",
+        "age": "16",
+        "overall": "81",
+        "market_value": "€58.5M"
+    },
+    {
+        "id": 305,
+        "player_name": "Lucas Vázquez",
+        "player_image_url": "https://cdn.sofifa.net/players/208/618/25_180.png",
+        "team_name": "Real Madrid",
+        "country_name": "Spain",
+        "age": "33",
+        "overall": "81",
+        "market_value": "€13.5M"
+    },
+    {
+        "id": 306,
+        "player_name": "A. Lunin",
+        "player_image_url": "https://cdn.sofifa.net/players/243/952/25_180.png",
+        "team_name": "Real Madrid",
+        "country_name": "Ukraine",
+        "age": "25",
+        "overall": "81",
+        "market_value": "€30M"
+    },
+    {
+        "id": 307,
+        "player_name": "Álex Berenguer",
+        "player_image_url": "https://cdn.sofifa.net/players/225/201/25_180.png",
+        "team_name": "Athletic Club",
+        "country_name": "Spain",
+        "age": "28",
+        "overall": "81",
+        "market_value": "€26M"
+    },
+    {
+        "id": 308,
+        "player_name": "Yeray",
+        "player_image_url": "https://cdn.sofifa.net/players/227/950/25_180.png",
+        "team_name": "Athletic Club",
+        "country_name": "Spain",
+        "age": "29",
+        "overall": "81",
+        "market_value": "€24M"
+    },
+    {
+        "id": 309,
+        "player_name": "Vivian",
+        "player_image_url": "https://cdn.sofifa.net/players/248/550/25_180.png",
+        "team_name": "Athletic Club",
+        "country_name": "Spain",
+        "age": "24",
+        "overall": "81",
+        "market_value": "€33M"
+    },
+    {
+        "id": 310,
+        "player_name": "Rui Silva",
+        "player_image_url": "https://cdn.sofifa.net/players/210/385/25_180.png",
+        "team_name": "Real Betis",
+        "country_name": "Portugal",
+        "age": "30",
+        "overall": "81",
+        "market_value": "€17M"
+    },
+    {
+        "id": 311,
+        "player_name": "Brais Méndez",
+        "player_image_url": "https://cdn.sofifa.net/players/235/944/25_180.png",
+        "team_name": "Real Sociedad",
+        "country_name": "Spain",
+        "age": "27",
+        "overall": "81",
+        "market_value": "€29.5M"
+    },
+    {
+        "id": 312,
+        "player_name": "T. Kubo",
+        "player_image_url": "https://cdn.sofifa.net/players/237/681/25_180.png",
+        "team_name": "Real Sociedad",
+        "country_name": "Japan",
+        "age": "23",
+        "overall": "81",
+        "market_value": "€51.5M"
+    },
+    {
+        "id": 313,
+        "player_name": "Zubimendi",
+        "player_image_url": "https://cdn.sofifa.net/players/248/148/25_180.png",
+        "team_name": "Real Sociedad",
+        "country_name": "Spain",
+        "age": "25",
+        "overall": "81",
+        "market_value": "€34.5M"
+    },
+    {
+        "id": 314,
+        "player_name": "Álvaro Valles",
+        "player_image_url": "https://cdn.sofifa.net/players/246/657/25_180.png",
+        "team_name": "Las Palmas",
+        "country_name": "Spain",
+        "age": "26",
+        "overall": "81",
+        "market_value": "€24M"
+    },
+    {
+        "id": 315,
+        "player_name": "J. Rodríguez",
+        "player_image_url": "https://cdn.sofifa.net/players/198/710/25_180.png",
+        "team_name": "Rayo Vallecano",
+        "country_name": "Colombia",
+        "age": "32",
+        "overall": "81",
+        "market_value": "€20.5M"
+    },
+    {
+        "id": 316,
+        "player_name": "Isi Palazón",
+        "player_image_url": "https://cdn.sofifa.net/players/232/498/25_180.png",
+        "team_name": "Rayo Vallecano",
+        "country_name": "Spain",
+        "age": "29",
+        "overall": "81",
+        "market_value": "€25.5M"
+    },
+    {
+        "id": 317,
+        "player_name": "David Soria",
+        "player_image_url": "https://cdn.sofifa.net/players/223/952/25_180.png",
+        "team_name": "Getafe",
+        "country_name": "Spain",
+        "age": "31",
+        "overall": "81",
+        "market_value": "€13.5M"
+    },
+    {
+        "id": 318,
+        "player_name": "F. Muslera",
+        "player_image_url": "https://cdn.sofifa.net/players/182/494/25_180.png",
+        "team_name": "Galatasaray",
+        "country_name": "Uruguay",
+        "age": "38",
+        "overall": "81",
+        "market_value": "€2.9M"
+    },
+    {
+        "id": 319,
+        "player_name": "S. Savić",
+        "player_image_url": "https://cdn.sofifa.net/players/204/639/25_180.png",
+        "team_name": "Trabzonspor",
+        "country_name": "Montenegro",
+        "age": "33",
+        "overall": "81",
+        "market_value": "€12.5M"
+    },
+    {
+        "id": 320,
+        "player_name": "N. Otamendi",
+        "player_image_url": "https://cdn.sofifa.net/players/192/366/25_180.png",
+        "team_name": "Benfica",
+        "country_name": "Argentina",
+        "age": "36",
+        "overall": "81",
+        "market_value": "€4.6M"
+    },
+    {
+        "id": 321,
+        "player_name": "O. Kökçü",
+        "player_image_url": "https://cdn.sofifa.net/players/243/245/25_180.png",
+        "team_name": "Benfica",
+        "country_name": "Türkiye",
+        "age": "23",
+        "overall": "81",
+        "market_value": "€36.5M"
+    },
+    {
+        "id": 322,
+        "player_name": "Ricardo Horta",
+        "player_image_url": "https://cdn.sofifa.net/players/213/516/25_180.png",
+        "team_name": "Sporting Braga",
+        "country_name": "Portugal",
+        "age": "29",
+        "overall": "81",
+        "market_value": "€25.5M"
+    },
+    {
+        "id": 323,
+        "player_name": "Diego Carlos",
+        "player_image_url": "https://cdn.sofifa.net/players/219/693/25_180.png",
+        "team_name": "Aston Villa",
+        "country_name": "Brazil",
+        "age": "31",
+        "overall": "80",
+        "market_value": "€14.5M"
+    },
+    {
+        "id": 324,
+        "player_name": "N. Jackson",
+        "player_image_url": "https://cdn.sofifa.net/players/259/197/25_180.png",
+        "team_name": "Chelsea",
+        "country_name": "Senegal",
+        "age": "23",
+        "overall": "80",
+        "market_value": "€32M"
+    },
+    {
+        "id": 325,
+        "player_name": "M. Gusto",
+        "player_image_url": "https://cdn.sofifa.net/players/259/307/25_180.png",
+        "team_name": "Chelsea",
+        "country_name": "France",
+        "age": "21",
+        "overall": "80",
+        "market_value": "€31.5M"
+    },
+    {
+        "id": 326,
+        "player_name": "J. Tarkowski",
+        "player_image_url": "https://cdn.sofifa.net/players/202/695/25_180.png",
+        "team_name": "Everton",
+        "country_name": "England",
+        "age": "31",
+        "overall": "80",
+        "market_value": "€14.5M"
+    },
+    {
+        "id": 327,
+        "player_name": "J. Gomez",
+        "player_image_url": "https://cdn.sofifa.net/players/225/100/25_180.png",
+        "team_name": "Liverpool",
+        "country_name": "England",
+        "age": "27",
+        "overall": "80",
+        "market_value": "€21M"
+    },
+    {
+        "id": 328,
+        "player_name": "W. Endo",
+        "player_image_url": "https://cdn.sofifa.net/players/232/487/25_180.png",
+        "team_name": "Liverpool",
+        "country_name": "Japan",
+        "age": "31",
+        "overall": "80",
+        "market_value": "€15M"
+    },
+    {
+        "id": 329,
+        "player_name": "J. Doku",
+        "player_image_url": "https://cdn.sofifa.net/players/246/420/25_180.png",
+        "team_name": "Manchester City",
+        "country_name": "Belgium",
+        "age": "22",
+        "overall": "80",
+        "market_value": "€34M"
+    },
+    {
+        "id": 330,
+        "player_name": "H. Maguire",
+        "player_image_url": "https://cdn.sofifa.net/players/203/263/25_180.png",
+        "team_name": "Manchester United",
+        "country_name": "England",
+        "age": "31",
+        "overall": "80",
+        "market_value": "€14.5M"
+    },
+    {
+        "id": 331,
+        "player_name": "H. Barnes",
+        "player_image_url": "https://cdn.sofifa.net/players/234/742/25_180.png",
+        "team_name": "Newcastle United",
+        "country_name": "England",
+        "age": "26",
+        "overall": "80",
+        "market_value": "€25M"
+    },
+    {
+        "id": 332,
+        "player_name": "Y. Bissouma",
+        "player_image_url": "https://cdn.sofifa.net/players/236/480/25_180.png",
+        "team_name": "Tottenham Hotspur",
+        "country_name": "Mali",
+        "age": "27",
+        "overall": "80",
+        "market_value": "€21.5M"
+    },
+    {
+        "id": 333,
+        "player_name": "J. Todibo",
+        "player_image_url": "https://cdn.sofifa.net/players/245/388/25_180.png",
+        "team_name": "West Ham United",
+        "country_name": "France",
+        "age": "24",
+        "overall": "80",
+        "market_value": "€29M"
+    },
+    {
+        "id": 334,
+        "player_name": "J. Andersen",
+        "player_image_url": "https://cdn.sofifa.net/players/224/221/25_180.png",
+        "team_name": "Fulham",
+        "country_name": "Denmark",
+        "age": "28",
+        "overall": "80",
+        "market_value": "€20M"
+    },
+    {
+        "id": 335,
+        "player_name": "A. Robinson",
+        "player_image_url": "https://cdn.sofifa.net/players/229/348/25_180.png",
+        "team_name": "Fulham",
+        "country_name": "United States",
+        "age": "26",
+        "overall": "80",
+        "market_value": "€22.5M"
+    },
+    {
+        "id": 336,
+        "player_name": "D. Kamada",
+        "player_image_url": "https://cdn.sofifa.net/players/232/730/25_180.png",
+        "team_name": "Crystal Palace",
+        "country_name": "Japan",
+        "age": "27",
+        "overall": "80",
+        "market_value": "€22.5M"
+    },
+    {
+        "id": 337,
+        "player_name": "D. Muñoz",
+        "player_image_url": "https://cdn.sofifa.net/players/237/646/25_180.png",
+        "team_name": "Crystal Palace",
+        "country_name": "Colombia",
+        "age": "28",
+        "overall": "80",
+        "market_value": "€19M"
+    },
+    {
+        "id": 338,
+        "player_name": "P. Estupiñán",
+        "player_image_url": "https://cdn.sofifa.net/players/237/942/25_180.png",
+        "team_name": "Brighton & Hove Albion",
+        "country_name": "Ecuador",
+        "age": "26",
+        "overall": "80",
+        "market_value": "€22.5M"
+    },
+    {
+        "id": 339,
+        "player_name": "M. Wieffer",
+        "player_image_url": "https://cdn.sofifa.net/players/248/793/25_180.png",
+        "team_name": "Brighton & Hove Albion",
+        "country_name": "Netherlands",
+        "age": "24",
+        "overall": "80",
+        "market_value": "€29M"
+    },
+    {
+        "id": 340,
+        "player_name": "B. Mbeumo",
+        "player_image_url": "https://cdn.sofifa.net/players/243/014/25_180.png",
+        "team_name": "Brentford",
+        "country_name": "Cameroon",
+        "age": "24",
+        "overall": "80",
+        "market_value": "€29M"
+    },
+    {
+        "id": 341,
+        "player_name": "Evanilson",
+        "player_image_url": "https://cdn.sofifa.net/players/256/612/25_180.png",
+        "team_name": "AFC Bournemouth",
+        "country_name": "Brazil",
+        "age": "24",
+        "overall": "80",
+        "market_value": "€30.5M"
+    },
+    {
+        "id": 342,
+        "player_name": "F. Medina",
+        "player_image_url": "https://cdn.sofifa.net/players/236/804/25_180.png",
+        "team_name": "Lens",
+        "country_name": "Argentina",
+        "age": "25",
+        "overall": "80",
+        "market_value": "€26.5M"
+    },
+    {
+        "id": 343,
+        "player_name": "K. Danso",
+        "player_image_url": "https://cdn.sofifa.net/players/237/985/25_180.png",
+        "team_name": "Lens",
+        "country_name": "Austria",
+        "age": "25",
+        "overall": "80",
+        "market_value": "€25M"
+    },
+    {
+        "id": 344,
+        "player_name": "B. André",
+        "player_image_url": "https://cdn.sofifa.net/players/190/674/25_180.png",
+        "team_name": "LOSC Lille",
+        "country_name": "France",
+        "age": "33",
+        "overall": "80",
+        "market_value": "€10.5M"
+    },
+    {
+        "id": 345,
+        "player_name": "N. Matić",
+        "player_image_url": "https://cdn.sofifa.net/players/191/202/25_180.png",
+        "team_name": "Olympique Lyonnais",
+        "country_name": "Serbia",
+        "age": "35",
+        "overall": "80",
+        "market_value": "€6M"
+    },
+    {
+        "id": 346,
+        "player_name": "W. Zaha",
+        "player_image_url": "https://cdn.sofifa.net/players/198/717/25_180.png",
+        "team_name": "Olympique Lyonnais",
+        "country_name": "Côte d'Ivoire",
+        "age": "31",
+        "overall": "80",
+        "market_value": "€17.5M"
+    },
+    {
+        "id": 347,
+        "player_name": "J. Veretout",
+        "player_image_url": "https://cdn.sofifa.net/players/201/519/25_180.png",
+        "team_name": "Olympique Lyonnais",
+        "country_name": "France",
+        "age": "31",
+        "overall": "80",
+        "market_value": "€17.5M"
+    },
+    {
+        "id": 348,
+        "player_name": "D. Zakaria",
+        "player_image_url": "https://cdn.sofifa.net/players/229/261/25_180.png",
+        "team_name": "Monaco",
+        "country_name": "Switzerland",
+        "age": "27",
+        "overall": "80",
+        "market_value": "€24.5M"
+    },
+    {
+        "id": 349,
+        "player_name": "W. Singo",
+        "player_image_url": "https://cdn.sofifa.net/players/252/802/25_180.png",
+        "team_name": "Monaco",
+        "country_name": "Côte d'Ivoire",
+        "age": "23",
+        "overall": "80",
+        "market_value": "€29M"
+    },
+    {
+        "id": 350,
+        "player_name": "T. Savanier",
+        "player_image_url": "https://cdn.sofifa.net/players/205/686/25_180.png",
+        "team_name": "Montpellier",
+        "country_name": "France",
+        "age": "32",
+        "overall": "80",
+        "market_value": "€16.5M"
+    },
+    {
+        "id": 351,
+        "player_name": "J. Clauss",
+        "player_image_url": "https://cdn.sofifa.net/players/239/093/25_180.png",
+        "team_name": "Nice",
+        "country_name": "France",
+        "age": "31",
+        "overall": "80",
+        "market_value": "€15.5M"
+    },
+    {
+        "id": 352,
+        "player_name": "W. Zaïre-Emery",
+        "player_image_url": "https://cdn.sofifa.net/players/270/673/25_180.png",
+        "team_name": "Paris Saint Germain",
+        "country_name": "France",
+        "age": "18",
+        "overall": "80",
+        "market_value": "€44.5M"
+    },
+    {
+        "id": 353,
+        "player_name": "João Neves",
+        "player_image_url": "https://cdn.sofifa.net/players/272/834/25_180.png",
+        "team_name": "Paris Saint Germain",
+        "country_name": "Portugal",
+        "age": "19",
+        "overall": "80",
+        "market_value": "€45.5M"
+    },
+    {
+        "id": 354,
+        "player_name": "P. Højbjerg",
+        "player_image_url": "https://cdn.sofifa.net/players/213/648/25_180.png",
+        "team_name": "Olympique de Marseille",
+        "country_name": "Denmark",
+        "age": "28",
+        "overall": "80",
+        "market_value": "€18.5M"
+    },
+    {
+        "id": 355,
+        "player_name": "E. Dier",
+        "player_image_url": "https://cdn.sofifa.net/players/202/335/25_180.png",
+        "team_name": "FC Bayern München",
+        "country_name": "England",
+        "age": "30",
+        "overall": "80",
+        "market_value": "€17.5M"
+    },
+    {
+        "id": 356,
+        "player_name": "V. Grifo",
+        "player_image_url": "https://cdn.sofifa.net/players/212/096/25_180.png",
+        "team_name": "SC Freiburg",
+        "country_name": "Italy",
+        "age": "31",
+        "overall": "80",
+        "market_value": "€17.5M"
+    },
+    {
+        "id": 357,
+        "player_name": "A. Nübel",
+        "player_image_url": "https://cdn.sofifa.net/players/223/885/25_180.png",
+        "team_name": "VfB Stuttgart",
+        "country_name": "Germany",
+        "age": "27",
+        "overall": "80",
+        "market_value": "€18M"
+    },
+    {
+        "id": 358,
+        "player_name": "M. Arnold",
+        "player_image_url": "https://cdn.sofifa.net/players/206/511/25_180.png",
+        "team_name": "VfL Wolfsburg",
+        "country_name": "Germany",
+        "age": "30",
+        "overall": "80",
+        "market_value": "€17.5M"
+    },
+    {
+        "id": 359,
+        "player_name": "M. Götze",
+        "player_image_url": "https://cdn.sofifa.net/players/192/318/25_180.png",
+        "team_name": "Eintracht Frankfurt",
+        "country_name": "Germany",
+        "age": "32",
+        "overall": "80",
+        "market_value": "€16.5M"
+    },
+    {
+        "id": 360,
+        "player_name": "O. Marmoush",
+        "player_image_url": "https://cdn.sofifa.net/players/256/675/25_180.png",
+        "team_name": "Eintracht Frankfurt",
+        "country_name": "Egypt",
+        "age": "25",
+        "overall": "80",
+        "market_value": "€27M"
+    }
+]

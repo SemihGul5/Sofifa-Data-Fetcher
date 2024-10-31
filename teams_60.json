@@ -6,7 +6,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9/180.png",
         "country_name": "England",
         "european_cup": "Champions League",
-        "stars": 5
+        "stars": 5,
+        "options": []
     },
     {
         "team_name": "Real Madrid",
@@ -15,7 +16,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3468/180.png",
         "country_name": "Spain",
         "european_cup": "Champions League",
-        "stars": 5
+        "stars": 5,
+        "options": []
     },
     {
         "team_name": "Liverpool",
@@ -24,7 +26,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/8/180.png",
         "country_name": "England",
         "european_cup": "Champions League",
-        "stars": 5
+        "stars": 5,
+        "options": []
     },
     {
         "team_name": "FC Bayern München",
@@ -33,7 +36,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/503/180.png",
         "country_name": "Germany",
         "european_cup": "Champions League",
-        "stars": 5
+        "stars": 5,
+        "options": []
     },
     {
         "team_name": "Arsenal",
@@ -42,7 +46,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/19/180.png",
         "country_name": "England",
         "european_cup": "Champions League",
-        "stars": 5
+        "stars": 5,
+        "options": []
     },
     {
         "team_name": "Bayer 04 Leverkusen",
@@ -51,7 +56,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3321/180.png",
         "country_name": "Germany",
         "european_cup": "Champions League",
-        "stars": 5
+        "stars": 5,
+        "options": []
     },
     {
         "team_name": "Inter",
@@ -60,7 +66,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2930/180.png",
         "country_name": "Italy",
         "european_cup": "Champions League",
-        "stars": 5
+        "stars": 5,
+        "options": []
     },
     {
         "team_name": "FC Barcelona",
@@ -69,7 +76,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/83/180.png",
         "country_name": "Spain",
         "european_cup": "Champions League",
-        "stars": 5
+        "stars": 5,
+        "options": []
     },
     {
         "team_name": "Paris Saint Germain",
@@ -78,7 +86,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/591/180.png",
         "country_name": "France",
         "european_cup": "Champions League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Atlético Madrid",
@@ -87,7 +96,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7980/180.png",
         "country_name": "Spain",
         "european_cup": "Champions League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Manchester United",
@@ -96,7 +106,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/14/180.png",
         "country_name": "England",
         "european_cup": "Europa League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Newcastle United",
@@ -105,7 +116,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/20/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Tottenham Hotspur",
@@ -114,7 +126,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/6/180.png",
         "country_name": "England",
         "european_cup": "Europa League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Borussia Dortmund",
@@ -123,7 +136,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/68/180.png",
         "country_name": "Germany",
         "european_cup": "Champions League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Milan",
@@ -132,7 +146,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/113/180.png",
         "country_name": "Italy",
         "european_cup": "Champions League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Aston Villa",
@@ -141,7 +156,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/15/180.png",
         "country_name": "England",
         "european_cup": "Champions League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Chelsea",
@@ -150,7 +166,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/18/180.png",
         "country_name": "England",
         "european_cup": "Conference League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "RB Leipzig",
@@ -159,7 +176,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/277/180.png",
         "country_name": "Germany",
         "european_cup": "Champions League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Juventus",
@@ -168,7 +186,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/625/180.png",
         "country_name": "Italy",
         "european_cup": "Champions League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Napoli",
@@ -177,7 +196,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/597/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Roma",
@@ -186,7 +206,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/37/180.png",
         "country_name": "Italy",
         "european_cup": "Europa League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Athletic Club",
@@ -195,7 +216,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/13258/180.png",
         "country_name": "Spain",
         "european_cup": "Europa League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "West Ham United",
@@ -204,7 +226,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Atalanta",
@@ -213,7 +236,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/708/180.png",
         "country_name": "Italy",
         "european_cup": "Champions League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Galatasaray",
@@ -222,7 +246,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/34/180.png",
         "country_name": "Türkiye",
         "european_cup": "Europa League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Fenerbahçe",
@@ -231,7 +256,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/88/180.png",
         "country_name": "Türkiye",
         "european_cup": "Europa League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Al Hilal",
@@ -240,7 +266,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7011/180.png",
         "country_name": "Saudi Arabia",
         "european_cup": "None",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Crystal Palace",
@@ -249,7 +276,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/51/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Lazio",
@@ -258,7 +286,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/43/180.png",
         "country_name": "Italy",
         "european_cup": "Europa League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Real Sociedad",
@@ -267,7 +296,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/594/180.png",
         "country_name": "Spain",
         "european_cup": "Europa League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Girona",
@@ -276,7 +306,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/231/180.png",
         "country_name": "Spain",
         "european_cup": "Champions League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Benfica",
@@ -285,7 +316,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/605/180.png",
         "country_name": "Portugal",
         "european_cup": "Champions League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Sporting CP",
@@ -294,7 +326,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/58/180.png",
         "country_name": "Portugal",
         "european_cup": "Champions League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "PSV",
@@ -303,7 +336,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/682/180.png",
         "country_name": "Netherlands",
         "european_cup": "Champions League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Nottingham Forest",
@@ -312,7 +346,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/63/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Brighton & Hove Albion",
@@ -321,7 +356,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/78/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Wolverhampton Wanderers",
@@ -330,7 +366,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/29/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "LOSC Lille",
@@ -339,7 +376,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/690/180.png",
         "country_name": "France",
         "european_cup": "Champions League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Olympique Lyonnais",
@@ -348,7 +386,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/79/180.png",
         "country_name": "France",
         "european_cup": "Europa League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Monaco",
@@ -357,7 +396,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/6789/180.png",
         "country_name": "France",
         "european_cup": "Champions League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Olympique de Marseille",
@@ -366,7 +406,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/44/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Fiorentina",
@@ -375,7 +416,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/109/180.png",
         "country_name": "Italy",
         "european_cup": "Conference League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Bologna",
@@ -384,7 +426,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/8513/180.png",
         "country_name": "Italy",
         "european_cup": "Champions League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Real Betis",
@@ -393,7 +436,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/485/180.png",
         "country_name": "Spain",
         "european_cup": "Conference League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Valencia",
@@ -402,7 +446,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/214/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Villarreal",
@@ -411,7 +456,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3477/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Porto",
@@ -420,7 +466,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/652/180.png",
         "country_name": "Portugal",
         "european_cup": "Europa League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Flamengo",
@@ -429,7 +476,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1024/180.png",
         "country_name": "Brazil",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Palmeiras",
@@ -438,7 +486,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3422/180.png",
         "country_name": "Brazil",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Feyenoord",
@@ -447,7 +496,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/73/180.png",
         "country_name": "Netherlands",
         "european_cup": "Champions League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Everton",
@@ -456,7 +506,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/13/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Leicester City",
@@ -465,7 +516,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/42/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Brentford",
@@ -474,7 +526,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/236/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Fulham",
@@ -483,7 +536,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/11/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "AFC Bournemouth",
@@ -492,7 +546,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/52/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Lens",
@@ -501,7 +556,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/271/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Nice",
@@ -510,7 +566,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/450/180.png",
         "country_name": "France",
         "european_cup": "Europa League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "SC Freiburg",
@@ -519,7 +576,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3543/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Eintracht Frankfurt",
@@ -528,7 +586,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/366/180.png",
         "country_name": "Germany",
         "european_cup": "Europa League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "VfB Stuttgart",
@@ -537,6 +596,7 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3319/180.png",
         "country_name": "Germany",
         "european_cup": "Champions League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     }
 ]

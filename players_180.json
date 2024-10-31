@@ -7,7 +7,8 @@
         "country_name": "Spain",
         "age": "28",
         "overall": "91",
-        "market_value": "€115.5M"
+        "market_value": "€115.5M",
+        "options": []
     },
     {
         "id": 2,
@@ -17,7 +18,8 @@
         "country_name": "Norway",
         "age": "23",
         "overall": "91",
-        "market_value": "€172.5M"
+        "market_value": "€172.5M",
+        "options": []
     },
     {
         "id": 3,
@@ -27,7 +29,8 @@
         "country_name": "France",
         "age": "25",
         "overall": "91",
-        "market_value": "€176M"
+        "market_value": "€176M",
+        "options": []
     },
     {
         "id": 4,
@@ -37,7 +40,8 @@
         "country_name": "Belgium",
         "age": "33",
         "overall": "90",
-        "market_value": "€73.5M"
+        "market_value": "€73.5M",
+        "options": []
     },
     {
         "id": 5,
@@ -47,7 +51,8 @@
         "country_name": "England",
         "age": "30",
         "overall": "90",
-        "market_value": "€117.5M"
+        "market_value": "€117.5M",
+        "options": []
     },
     {
         "id": 6,
@@ -57,7 +62,8 @@
         "country_name": "Brazil",
         "age": "23",
         "overall": "90",
-        "market_value": "€171.5M"
+        "market_value": "€171.5M",
+        "options": []
     },
     {
         "id": 7,
@@ -67,7 +73,8 @@
         "country_name": "England",
         "age": "21",
         "overall": "90",
-        "market_value": "€174.5M"
+        "market_value": "€174.5M",
+        "options": []
     },
     {
         "id": 8,
@@ -77,7 +84,8 @@
         "country_name": "Norway",
         "age": "25",
         "overall": "89",
-        "market_value": "€122.5M"
+        "market_value": "€122.5M",
+        "options": []
     },
     {
         "id": 9,
@@ -87,7 +95,8 @@
         "country_name": "Netherlands",
         "age": "32",
         "overall": "89",
-        "market_value": "€67M"
+        "market_value": "€67M",
+        "options": []
     },
     {
         "id": 10,
@@ -97,7 +106,8 @@
         "country_name": "Egypt",
         "age": "32",
         "overall": "89",
-        "market_value": "€82M"
+        "market_value": "€82M",
+        "options": []
     },
     {
         "id": 11,
@@ -107,7 +117,8 @@
         "country_name": "Brazil",
         "age": "31",
         "overall": "89",
-        "market_value": "€54.5M"
+        "market_value": "€54.5M",
+        "options": []
     },
     {
         "id": 12,
@@ -117,7 +128,8 @@
         "country_name": "Italy",
         "age": "25",
         "overall": "89",
-        "market_value": "€98.5M"
+        "market_value": "€98.5M",
+        "options": []
     },
     {
         "id": 13,
@@ -127,7 +139,8 @@
         "country_name": "Argentina",
         "age": "26",
         "overall": "89",
-        "market_value": "€114.5M"
+        "market_value": "€114.5M",
+        "options": []
     },
     {
         "id": 14,
@@ -137,7 +150,8 @@
         "country_name": "Germany",
         "age": "32",
         "overall": "89",
-        "market_value": "€51M"
+        "market_value": "€51M",
+        "options": []
     },
     {
         "id": 15,
@@ -147,7 +161,8 @@
         "country_name": "Belgium",
         "age": "32",
         "overall": "89",
-        "market_value": "€51M"
+        "market_value": "€51M",
+        "options": []
     },
     {
         "id": 16,
@@ -157,7 +172,8 @@
         "country_name": "Brazil",
         "age": "30",
         "overall": "88",
-        "market_value": "€61M"
+        "market_value": "€61M",
+        "options": []
     },
     {
         "id": 17,
@@ -167,7 +183,8 @@
         "country_name": "Portugal",
         "age": "29",
         "overall": "88",
-        "market_value": "€89M"
+        "market_value": "€89M",
+        "options": []
     },
     {
         "id": 18,
@@ -177,7 +194,8 @@
         "country_name": "England",
         "age": "24",
         "overall": "88",
-        "market_value": "€118.5M"
+        "market_value": "€118.5M",
+        "options": []
     },
     {
         "id": 19,
@@ -187,7 +205,8 @@
         "country_name": "Portugal",
         "age": "27",
         "overall": "88",
-        "market_value": "€84M"
+        "market_value": "€84M",
+        "options": []
     },
     {
         "id": 20,
@@ -197,7 +216,8 @@
         "country_name": "Switzerland",
         "age": "26",
         "overall": "88",
-        "market_value": "€86M"
+        "market_value": "€86M",
+        "options": []
     },
     {
         "id": 21,
@@ -207,7 +227,8 @@
         "country_name": "Germany",
         "age": "21",
         "overall": "88",
-        "market_value": "€133.5M"
+        "market_value": "€133.5M",
+        "options": []
     },
     {
         "id": 22,
@@ -217,7 +238,8 @@
         "country_name": "France",
         "age": "33",
         "overall": "88",
-        "market_value": "€58.5M"
+        "market_value": "€58.5M",
+        "options": []
     },
     {
         "id": 23,
@@ -227,7 +249,8 @@
         "country_name": "Slovenia",
         "age": "31",
         "overall": "88",
-        "market_value": "€48.5M"
+        "market_value": "€48.5M",
+        "options": []
     },
     {
         "id": 24,
@@ -237,7 +260,8 @@
         "country_name": "Poland",
         "age": "35",
         "overall": "88",
-        "market_value": "€39M"
+        "market_value": "€39M",
+        "options": []
     },
     {
         "id": 25,
@@ -247,7 +271,8 @@
         "country_name": "Germany",
         "age": "31",
         "overall": "88",
-        "market_value": "€62.5M"
+        "market_value": "€62.5M",
+        "options": []
     },
     {
         "id": 26,
@@ -257,7 +282,8 @@
         "country_name": "Uruguay",
         "age": "25",
         "overall": "88",
-        "market_value": "€120M"
+        "market_value": "€120M",
+        "options": []
     },
     {
         "id": 27,
@@ -267,7 +293,8 @@
         "country_name": "England",
         "age": "25",
         "overall": "87",
-        "market_value": "€85M"
+        "market_value": "€85M",
+        "options": []
     },
     {
         "id": 28,
@@ -277,7 +304,8 @@
         "country_name": "France",
         "age": "23",
         "overall": "87",
-        "market_value": "€92M"
+        "market_value": "€92M",
+        "options": []
     },
     {
         "id": 29,
@@ -287,7 +315,8 @@
         "country_name": "England",
         "age": "22",
         "overall": "87",
-        "market_value": "€105.5M"
+        "market_value": "€105.5M",
+        "options": []
     },
     {
         "id": 30,
@@ -297,7 +326,8 @@
         "country_name": "Argentina",
         "age": "31",
         "overall": "87",
-        "market_value": "€42M"
+        "market_value": "€42M",
+        "options": []
     },
     {
         "id": 31,
@@ -307,7 +337,8 @@
         "country_name": "Portugal",
         "age": "29",
         "overall": "87",
-        "market_value": "€78M"
+        "market_value": "€78M",
+        "options": []
     },
     {
         "id": 32,
@@ -317,7 +348,8 @@
         "country_name": "Korea Republic",
         "age": "31",
         "overall": "87",
-        "market_value": "€67.5M"
+        "market_value": "€67.5M",
+        "options": []
     },
     {
         "id": 33,
@@ -327,7 +359,8 @@
         "country_name": "Brazil",
         "age": "30",
         "overall": "87",
-        "market_value": "€65.5M"
+        "market_value": "€65.5M",
+        "options": []
     },
     {
         "id": 34,
@@ -337,7 +370,8 @@
         "country_name": "Germany",
         "age": "21",
         "overall": "87",
-        "market_value": "€128M"
+        "market_value": "€128M",
+        "options": []
     },
     {
         "id": 35,
@@ -347,7 +381,8 @@
         "country_name": "Switzerland",
         "age": "35",
         "overall": "87",
-        "market_value": "€9M"
+        "market_value": "€9M",
+        "options": []
     },
     {
         "id": 36,
@@ -357,7 +392,8 @@
         "country_name": "Italy",
         "age": "27",
         "overall": "87",
-        "market_value": "€84.5M"
+        "market_value": "€84.5M",
+        "options": []
     },
     {
         "id": 37,
@@ -367,7 +403,8 @@
         "country_name": "Italy",
         "age": "25",
         "overall": "87",
-        "market_value": "€88.5M"
+        "market_value": "€88.5M",
+        "options": []
     },
     {
         "id": 38,
@@ -377,7 +414,8 @@
         "country_name": "France",
         "age": "28",
         "overall": "87",
-        "market_value": "€68M"
+        "market_value": "€68M",
+        "options": []
     },
     {
         "id": 39,
@@ -387,7 +425,8 @@
         "country_name": "France",
         "age": "26",
         "overall": "87",
-        "market_value": "€85.5M"
+        "market_value": "€85.5M",
+        "options": []
     },
     {
         "id": 40,
@@ -397,7 +436,8 @@
         "country_name": "Argentina",
         "age": "30",
         "overall": "87",
-        "market_value": "€77M"
+        "market_value": "€77M",
+        "options": []
     },
     {
         "id": 41,
@@ -407,7 +447,8 @@
         "country_name": "Netherlands",
         "age": "27",
         "overall": "87",
-        "market_value": "€91M"
+        "market_value": "€91M",
+        "options": []
     },
     {
         "id": 42,
@@ -417,7 +458,8 @@
         "country_name": "Nigeria",
         "age": "25",
         "overall": "87",
-        "market_value": "€101.5M"
+        "market_value": "€101.5M",
+        "options": []
     },
     {
         "id": 43,
@@ -427,7 +469,8 @@
         "country_name": "Brazil",
         "age": "26",
         "overall": "86",
-        "market_value": "€70M"
+        "market_value": "€70M",
+        "options": []
     },
     {
         "id": 44,
@@ -437,7 +480,8 @@
         "country_name": "England",
         "age": "22",
         "overall": "86",
-        "market_value": "€94.5M"
+        "market_value": "€94.5M",
+        "options": []
     },
     {
         "id": 45,
@@ -447,7 +491,8 @@
         "country_name": "England",
         "age": "25",
         "overall": "86",
-        "market_value": "€74M"
+        "market_value": "€74M",
+        "options": []
     },
     {
         "id": 46,
@@ -457,7 +502,8 @@
         "country_name": "Argentina",
         "age": "25",
         "overall": "86",
-        "market_value": "€84.5M"
+        "market_value": "€84.5M",
+        "options": []
     },
     {
         "id": 47,
@@ -467,7 +513,8 @@
         "country_name": "Germany",
         "age": "33",
         "overall": "86",
-        "market_value": "€42M"
+        "market_value": "€42M",
+        "options": []
     },
     {
         "id": 48,
@@ -477,7 +524,8 @@
         "country_name": "France",
         "age": "27",
         "overall": "86",
-        "market_value": "€72.5M"
+        "market_value": "€72.5M",
+        "options": []
     },
     {
         "id": 49,
@@ -487,7 +535,8 @@
         "country_name": "Germany",
         "age": "38",
         "overall": "86",
-        "market_value": "€7.5M"
+        "market_value": "€7.5M",
+        "options": []
     },
     {
         "id": 50,
@@ -497,7 +546,8 @@
         "country_name": "Germany",
         "age": "29",
         "overall": "86",
-        "market_value": "€59.5M"
+        "market_value": "€59.5M",
+        "options": []
     },
     {
         "id": 51,
@@ -507,7 +557,8 @@
         "country_name": "Switzerland",
         "age": "31",
         "overall": "86",
-        "market_value": "€47.5M"
+        "market_value": "€47.5M",
+        "options": []
     },
     {
         "id": 52,
@@ -517,7 +568,8 @@
         "country_name": "Spain",
         "age": "28",
         "overall": "86",
-        "market_value": "€68.5M"
+        "market_value": "€68.5M",
+        "options": []
     },
     {
         "id": 53,
@@ -527,7 +579,8 @@
         "country_name": "Germany",
         "age": "28",
         "overall": "86",
-        "market_value": "€64.5M"
+        "market_value": "€64.5M",
+        "options": []
     },
     {
         "id": 54,
@@ -537,7 +590,8 @@
         "country_name": "Türkiye",
         "age": "30",
         "overall": "86",
-        "market_value": "€57M"
+        "market_value": "€57M",
+        "options": []
     },
     {
         "id": 55,
@@ -547,7 +601,8 @@
         "country_name": "Brazil",
         "age": "27",
         "overall": "86",
-        "market_value": "€77M"
+        "market_value": "€77M",
+        "options": []
     },
     {
         "id": 56,
@@ -557,7 +612,8 @@
         "country_name": "Portugal",
         "age": "25",
         "overall": "86",
-        "market_value": "€90M"
+        "market_value": "€90M",
+        "options": []
     },
     {
         "id": 57,
@@ -567,7 +623,8 @@
         "country_name": "Spain",
         "age": "21",
         "overall": "86",
-        "market_value": "€98.5M"
+        "market_value": "€98.5M",
+        "options": []
     },
     {
         "id": 58,
@@ -577,7 +634,8 @@
         "country_name": "Croatia",
         "age": "38",
         "overall": "86",
-        "market_value": "€21.5M"
+        "market_value": "€21.5M",
+        "options": []
     },
     {
         "id": 59,
@@ -587,7 +645,8 @@
         "country_name": "Spain",
         "age": "32",
         "overall": "86",
-        "market_value": "€47M"
+        "market_value": "€47M",
+        "options": []
     },
     {
         "id": 60,
@@ -597,7 +656,8 @@
         "country_name": "Brazil",
         "age": "23",
         "overall": "86",
-        "market_value": "€102.5M"
+        "market_value": "€102.5M",
+        "options": []
     },
     {
         "id": 61,
@@ -607,7 +667,8 @@
         "country_name": "Spain",
         "age": "27",
         "overall": "86",
-        "market_value": "€58M"
+        "market_value": "€58M",
+        "options": []
     },
     {
         "id": 62,
@@ -617,7 +678,8 @@
         "country_name": "Spain",
         "age": "28",
         "overall": "85",
-        "market_value": "€54M"
+        "market_value": "€54M",
+        "options": []
     },
     {
         "id": 63,
@@ -627,7 +689,8 @@
         "country_name": "England",
         "age": "28",
         "overall": "85",
-        "market_value": "€55M"
+        "market_value": "€55M",
+        "options": []
     },
     {
         "id": 64,
@@ -637,7 +700,8 @@
         "country_name": "Scotland",
         "age": "30",
         "overall": "85",
-        "market_value": "€46.5M"
+        "market_value": "€46.5M",
+        "options": []
     },
     {
         "id": 65,
@@ -647,7 +711,8 @@
         "country_name": "Portugal",
         "age": "27",
         "overall": "85",
-        "market_value": "€58.5M"
+        "market_value": "€58.5M",
+        "options": []
     },
     {
         "id": 66,
@@ -657,7 +722,8 @@
         "country_name": "England",
         "age": "30",
         "overall": "85",
-        "market_value": "€44M"
+        "market_value": "€44M",
+        "options": []
     },
     {
         "id": 67,
@@ -667,7 +733,8 @@
         "country_name": "Sweden",
         "age": "24",
         "overall": "85",
-        "market_value": "€71M"
+        "market_value": "€71M",
+        "options": []
     },
     {
         "id": 68,
@@ -677,7 +744,8 @@
         "country_name": "Italy",
         "age": "24",
         "overall": "85",
-        "market_value": "€63M"
+        "market_value": "€63M",
+        "options": []
     },
     {
         "id": 69,
@@ -687,7 +755,8 @@
         "country_name": "Brazil",
         "age": "26",
         "overall": "85",
-        "market_value": "€56.5M"
+        "market_value": "€56.5M",
+        "options": []
     },
     {
         "id": 70,
@@ -697,7 +766,8 @@
         "country_name": "England",
         "age": "27",
         "overall": "85",
-        "market_value": "€57.5M"
+        "market_value": "€57.5M",
+        "options": []
     },
     {
         "id": 71,
@@ -707,7 +777,8 @@
         "country_name": "Portugal",
         "age": "24",
         "overall": "85",
-        "market_value": "€77M"
+        "market_value": "€77M",
+        "options": []
     },
     {
         "id": 72,
@@ -717,7 +788,8 @@
         "country_name": "Germany",
         "age": "28",
         "overall": "85",
-        "market_value": "€54.5M"
+        "market_value": "€54.5M",
+        "options": []
     },
     {
         "id": 73,
@@ -727,7 +799,8 @@
         "country_name": "Portugal",
         "age": "28",
         "overall": "85",
-        "market_value": "€47.5M"
+        "market_value": "€47.5M",
+        "options": []
     },
     {
         "id": 74,
@@ -737,7 +810,8 @@
         "country_name": "Germany",
         "age": "28",
         "overall": "85",
-        "market_value": "€54.5M"
+        "market_value": "€54.5M",
+        "options": []
     },
     {
         "id": 75,
@@ -747,7 +821,8 @@
         "country_name": "Germany",
         "age": "24",
         "overall": "85",
-        "market_value": "€66M"
+        "market_value": "€66M",
+        "options": []
     },
     {
         "id": 76,
@@ -757,7 +832,8 @@
         "country_name": "Belgium",
         "age": "24",
         "overall": "85",
-        "market_value": "€71M"
+        "market_value": "€71M",
+        "options": []
     },
     {
         "id": 77,
@@ -767,7 +843,8 @@
         "country_name": "Georgia",
         "age": "23",
         "overall": "85",
-        "market_value": "€77.5M"
+        "market_value": "€77.5M",
+        "options": []
     },
     {
         "id": 78,
@@ -777,7 +854,8 @@
         "country_name": "Germany",
         "age": "35",
         "overall": "85",
-        "market_value": "€14.5M"
+        "market_value": "€14.5M",
+        "options": []
     },
     {
         "id": 79,
@@ -787,7 +865,8 @@
         "country_name": "Poland",
         "age": "34",
         "overall": "85",
-        "market_value": "€9M"
+        "market_value": "€9M",
+        "options": []
     },
     {
         "id": 80,
@@ -797,7 +876,8 @@
         "country_name": "France",
         "age": "25",
         "overall": "85",
-        "market_value": "€69.5M"
+        "market_value": "€69.5M",
+        "options": []
     },
     {
         "id": 81,
@@ -807,7 +887,8 @@
         "country_name": "Uruguay",
         "age": "25",
         "overall": "85",
-        "market_value": "€71.5M"
+        "market_value": "€71.5M",
+        "options": []
     },
     {
         "id": 82,
@@ -817,7 +898,8 @@
         "country_name": "Austria",
         "age": "32",
         "overall": "85",
-        "market_value": "€35M"
+        "market_value": "€35M",
+        "options": []
     },
     {
         "id": 83,
@@ -827,7 +909,8 @@
         "country_name": "Brazil",
         "age": "26",
         "overall": "85",
-        "market_value": "€62.5M"
+        "market_value": "€62.5M",
+        "options": []
     },
     {
         "id": 84,
@@ -837,7 +920,8 @@
         "country_name": "France",
         "age": "24",
         "overall": "85",
-        "market_value": "€74.5M"
+        "market_value": "€74.5M",
+        "options": []
     },
     {
         "id": 85,
@@ -847,7 +931,8 @@
         "country_name": "Spain",
         "age": "21",
         "overall": "85",
-        "market_value": "€78.5M"
+        "market_value": "€78.5M",
+        "options": []
     },
     {
         "id": 86,
@@ -857,7 +942,8 @@
         "country_name": "Georgia",
         "age": "23",
         "overall": "85",
-        "market_value": "€57.5M"
+        "market_value": "€57.5M",
+        "options": []
     },
     {
         "id": 87,
@@ -867,7 +953,8 @@
         "country_name": "Spain",
         "age": "28",
         "overall": "84",
-        "market_value": "€36M"
+        "market_value": "€36M",
+        "options": []
     },
     {
         "id": 88,
@@ -877,7 +964,8 @@
         "country_name": "England",
         "age": "26",
         "overall": "84",
-        "market_value": "€45.5M"
+        "market_value": "€45.5M",
+        "options": []
     },
     {
         "id": 89,
@@ -887,7 +975,8 @@
         "country_name": "France",
         "age": "26",
         "overall": "84",
-        "market_value": "€49.5M"
+        "market_value": "€49.5M",
+        "options": []
     },
     {
         "id": 90,
@@ -897,7 +986,8 @@
         "country_name": "Italy",
         "age": "26",
         "overall": "84",
-        "market_value": "€46M"
+        "market_value": "€46M",
+        "options": []
     },
     {
         "id": 91,
@@ -907,7 +997,8 @@
         "country_name": "Colombia",
         "age": "27",
         "overall": "84",
-        "market_value": "€45M"
+        "market_value": "€45M",
+        "options": []
     },
     {
         "id": 92,
@@ -917,7 +1008,8 @@
         "country_name": "England",
         "age": "34",
         "overall": "84",
-        "market_value": "€15.5M"
+        "market_value": "€15.5M",
+        "options": []
     },
     {
         "id": 93,
@@ -927,7 +1019,8 @@
         "country_name": "England",
         "age": "28",
         "overall": "84",
-        "market_value": "€42.5M"
+        "market_value": "€42.5M",
+        "options": []
     },
     {
         "id": 94,
@@ -937,7 +1030,8 @@
         "country_name": "Netherlands",
         "age": "29",
         "overall": "84",
-        "market_value": "€39M"
+        "market_value": "€39M",
+        "options": []
     },
     {
         "id": 95,
@@ -947,7 +1041,8 @@
         "country_name": "Switzerland",
         "age": "28",
         "overall": "84",
-        "market_value": "€40M"
+        "market_value": "€40M",
+        "options": []
     },
     {
         "id": 96,
@@ -957,7 +1052,8 @@
         "country_name": "Croatia",
         "age": "22",
         "overall": "84",
-        "market_value": "€54.5M"
+        "market_value": "€54.5M",
+        "options": []
     },
     {
         "id": 97,
@@ -967,7 +1063,8 @@
         "country_name": "Netherlands",
         "age": "24",
         "overall": "84",
-        "market_value": "€51.5M"
+        "market_value": "€51.5M",
+        "options": []
     },
     {
         "id": 98,
@@ -977,7 +1074,8 @@
         "country_name": "Argentina",
         "age": "26",
         "overall": "84",
-        "market_value": "€43.5M"
+        "market_value": "€43.5M",
+        "options": []
     },
     {
         "id": 99,
@@ -987,7 +1085,8 @@
         "country_name": "Argentina",
         "age": "26",
         "overall": "84",
-        "market_value": "€46M"
+        "market_value": "€46M",
+        "options": []
     },
     {
         "id": 100,
@@ -997,7 +1096,8 @@
         "country_name": "Italy",
         "age": "27",
         "overall": "84",
-        "market_value": "€41.5M"
+        "market_value": "€41.5M",
+        "options": []
     },
     {
         "id": 101,
@@ -1007,7 +1107,8 @@
         "country_name": "Morocco",
         "age": "25",
         "overall": "84",
-        "market_value": "€48.5M"
+        "market_value": "€48.5M",
+        "options": []
     },
     {
         "id": 102,
@@ -1017,7 +1118,8 @@
         "country_name": "France",
         "age": "28",
         "overall": "84",
-        "market_value": "€42.5M"
+        "market_value": "€42.5M",
+        "options": []
     },
     {
         "id": 103,
@@ -1027,7 +1129,8 @@
         "country_name": "Austria",
         "age": "30",
         "overall": "84",
-        "market_value": "€40.5M"
+        "market_value": "€40.5M",
+        "options": []
     },
     {
         "id": 104,
@@ -1037,7 +1140,8 @@
         "country_name": "Guinea",
         "age": "28",
         "overall": "84",
-        "market_value": "€43M"
+        "market_value": "€43M",
+        "options": []
     },
     {
         "id": 105,
@@ -1047,7 +1151,8 @@
         "country_name": "Finland",
         "age": "34",
         "overall": "84",
-        "market_value": "€7M"
+        "market_value": "€7M",
+        "options": []
     },
     {
         "id": 106,
@@ -1057,7 +1162,8 @@
         "country_name": "Spain",
         "age": "27",
         "overall": "84",
-        "market_value": "€48M"
+        "market_value": "€48M",
+        "options": []
     },
     {
         "id": 107,
@@ -1067,7 +1173,8 @@
         "country_name": "Argentina",
         "age": "25",
         "overall": "84",
-        "market_value": "€55.5M"
+        "market_value": "€55.5M",
+        "options": []
     },
     {
         "id": 108,
@@ -1077,7 +1184,8 @@
         "country_name": "Netherlands",
         "age": "23",
         "overall": "84",
-        "market_value": "€54.5M"
+        "market_value": "€54.5M",
+        "options": []
     },
     {
         "id": 109,
@@ -1087,7 +1195,8 @@
         "country_name": "Italy",
         "age": "36",
         "overall": "84",
-        "market_value": "€7.5M"
+        "market_value": "€7.5M",
+        "options": []
     },
     {
         "id": 110,
@@ -1097,7 +1206,8 @@
         "country_name": "Italy",
         "age": "26",
         "overall": "84",
-        "market_value": "€45.5M"
+        "market_value": "€45.5M",
+        "options": []
     },
     {
         "id": 111,
@@ -1107,7 +1217,8 @@
         "country_name": "France",
         "age": "28",
         "overall": "84",
-        "market_value": "€36.5M"
+        "market_value": "€36.5M",
+        "options": []
     },
     {
         "id": 112,
@@ -1117,7 +1228,8 @@
         "country_name": "France",
         "age": "26",
         "overall": "84",
-        "market_value": "€50.5M"
+        "market_value": "€50.5M",
+        "options": []
     },
     {
         "id": 113,
@@ -1127,7 +1239,8 @@
         "country_name": "Serbia",
         "age": "24",
         "overall": "84",
-        "market_value": "€58.5M"
+        "market_value": "€58.5M",
+        "options": []
     },
     {
         "id": 114,
@@ -1137,7 +1250,8 @@
         "country_name": "United States",
         "age": "25",
         "overall": "84",
-        "market_value": "€50.5M"
+        "market_value": "€50.5M",
+        "options": []
     },
     {
         "id": 115,
@@ -1147,7 +1261,8 @@
         "country_name": "Ukraine",
         "age": "27",
         "overall": "84",
-        "market_value": "€49.5M"
+        "market_value": "€49.5M",
+        "options": []
     },
     {
         "id": 116,
@@ -1157,7 +1272,8 @@
         "country_name": "Spain",
         "age": "33",
         "overall": "84",
-        "market_value": "€13.5M"
+        "market_value": "€13.5M",
+        "options": []
     },
     {
         "id": 117,
@@ -1167,7 +1283,8 @@
         "country_name": "Argentina",
         "age": "30",
         "overall": "84",
-        "market_value": "€40.5M"
+        "market_value": "€40.5M",
+        "options": []
     },
     {
         "id": 118,
@@ -1177,7 +1294,8 @@
         "country_name": "Argentina",
         "age": "24",
         "overall": "84",
-        "market_value": "€61M"
+        "market_value": "€61M",
+        "options": []
     },
     {
         "id": 119,
@@ -1187,7 +1305,8 @@
         "country_name": "Brazil",
         "age": "27",
         "overall": "84",
-        "market_value": "€45M"
+        "market_value": "€45M",
+        "options": []
     },
     {
         "id": 120,
@@ -1197,7 +1316,8 @@
         "country_name": "Spain",
         "age": "26",
         "overall": "84",
-        "market_value": "€52M"
+        "market_value": "€52M",
+        "options": []
     },
     {
         "id": 121,
@@ -1207,7 +1327,8 @@
         "country_name": "France",
         "age": "29",
         "overall": "84",
-        "market_value": "€37M"
+        "market_value": "€37M",
+        "options": []
     },
     {
         "id": 122,
@@ -1217,7 +1338,8 @@
         "country_name": "Spain",
         "age": "36",
         "overall": "84",
-        "market_value": "€14.5M"
+        "market_value": "€14.5M",
+        "options": []
     },
     {
         "id": 123,
@@ -1227,7 +1349,8 @@
         "country_name": "Spain",
         "age": "29",
         "overall": "84",
-        "market_value": "€35M"
+        "market_value": "€35M",
+        "options": []
     },
     {
         "id": 124,
@@ -1237,7 +1360,8 @@
         "country_name": "Portugal",
         "age": "24",
         "overall": "84",
-        "market_value": "€54M"
+        "market_value": "€54M",
+        "options": []
     },
     {
         "id": 125,
@@ -1247,7 +1371,8 @@
         "country_name": "Sweden",
         "age": "26",
         "overall": "84",
-        "market_value": "€56M"
+        "market_value": "€56M",
+        "options": []
     },
     {
         "id": 126,
@@ -1257,7 +1382,8 @@
         "country_name": "Belgium",
         "age": "29",
         "overall": "83",
-        "market_value": "€35.5M"
+        "market_value": "€35.5M",
+        "options": []
     },
     {
         "id": 127,
@@ -1267,7 +1393,8 @@
         "country_name": "Germany",
         "age": "25",
         "overall": "83",
-        "market_value": "€46M"
+        "market_value": "€46M",
+        "options": []
     },
     {
         "id": 128,
@@ -1277,7 +1404,8 @@
         "country_name": "Brazil",
         "age": "23",
         "overall": "83",
-        "market_value": "€49.5M"
+        "market_value": "€49.5M",
+        "options": []
     },
     {
         "id": 129,
@@ -1287,7 +1415,8 @@
         "country_name": "Ecuador",
         "age": "22",
         "overall": "83",
-        "market_value": "€48.5M"
+        "market_value": "€48.5M",
+        "options": []
     },
     {
         "id": 130,
@@ -1297,7 +1426,8 @@
         "country_name": "England",
         "age": "30",
         "overall": "83",
-        "market_value": "€24M"
+        "market_value": "€24M",
+        "options": []
     },
     {
         "id": 131,
@@ -1307,7 +1437,8 @@
         "country_name": "France",
         "age": "25",
         "overall": "83",
-        "market_value": "€40.5M"
+        "market_value": "€40.5M",
+        "options": []
     },
     {
         "id": 132,
@@ -1317,7 +1448,8 @@
         "country_name": "Netherlands",
         "age": "25",
         "overall": "83",
-        "market_value": "€48M"
+        "market_value": "€48M",
+        "options": []
     },
     {
         "id": 133,
@@ -1327,7 +1459,8 @@
         "country_name": "Croatia",
         "age": "30",
         "overall": "83",
-        "market_value": "€34.5M"
+        "market_value": "€34.5M",
+        "options": []
     },
     {
         "id": 134,
@@ -1337,7 +1470,8 @@
         "country_name": "Brazil",
         "age": "32",
         "overall": "83",
-        "market_value": "€24M"
+        "market_value": "€24M",
+        "options": []
     },
     {
         "id": 135,
@@ -1347,7 +1481,8 @@
         "country_name": "Cameroon",
         "age": "28",
         "overall": "83",
-        "market_value": "€29M"
+        "market_value": "€29M",
+        "options": []
     },
     {
         "id": 136,
@@ -1357,7 +1492,8 @@
         "country_name": "England",
         "age": "33",
         "overall": "83",
-        "market_value": "€19M"
+        "market_value": "€19M",
+        "options": []
     },
     {
         "id": 137,
@@ -1367,7 +1503,8 @@
         "country_name": "England",
         "age": "32",
         "overall": "83",
-        "market_value": "€18M"
+        "market_value": "€18M",
+        "options": []
     },
     {
         "id": 138,
@@ -1377,7 +1514,8 @@
         "country_name": "Spain",
         "age": "24",
         "overall": "83",
-        "market_value": "€46M"
+        "market_value": "€46M",
+        "options": []
     },
     {
         "id": 139,
@@ -1387,7 +1525,8 @@
         "country_name": "Netherlands",
         "age": "23",
         "overall": "83",
-        "market_value": "€47M"
+        "market_value": "€47M",
+        "options": []
     },
     {
         "id": 140,
@@ -1397,7 +1536,8 @@
         "country_name": "France",
         "age": "28",
         "overall": "83",
-        "market_value": "€31.5M"
+        "market_value": "€31.5M",
+        "options": []
     },
     {
         "id": 141,
@@ -1407,7 +1547,8 @@
         "country_name": "Portugal",
         "age": "22",
         "overall": "83",
-        "market_value": "€49.5M"
+        "market_value": "€49.5M",
+        "options": []
     },
     {
         "id": 142,
@@ -1417,7 +1558,8 @@
         "country_name": "France",
         "age": "29",
         "overall": "83",
-        "market_value": "€35.5M"
+        "market_value": "€35.5M",
+        "options": []
     },
     {
         "id": 143,
@@ -1427,7 +1569,8 @@
         "country_name": "Germany",
         "age": "29",
         "overall": "83",
-        "market_value": "€35.5M"
+        "market_value": "€35.5M",
+        "options": []
     },
     {
         "id": 144,
@@ -1437,7 +1580,8 @@
         "country_name": "Austria",
         "age": "27",
         "overall": "83",
-        "market_value": "€37M"
+        "market_value": "€37M",
+        "options": []
     },
     {
         "id": 145,
@@ -1447,7 +1591,8 @@
         "country_name": "Korea Republic",
         "age": "27",
         "overall": "83",
-        "market_value": "€36.5M"
+        "market_value": "€36.5M",
+        "options": []
     },
     {
         "id": 146,
@@ -1457,7 +1602,8 @@
         "country_name": "Netherlands",
         "age": "25",
         "overall": "83",
-        "market_value": "€45.5M"
+        "market_value": "€45.5M",
+        "options": []
     },
     {
         "id": 147,
@@ -1467,7 +1613,8 @@
         "country_name": "Germany",
         "age": "29",
         "overall": "83",
-        "market_value": "€31M"
+        "market_value": "€31M",
+        "options": []
     },
     {
         "id": 148,
@@ -1477,7 +1624,8 @@
         "country_name": "Burkina Faso",
         "age": "25",
         "overall": "83",
-        "market_value": "€40.5M"
+        "market_value": "€40.5M",
+        "options": []
     },
     {
         "id": 149,
@@ -1487,7 +1635,8 @@
         "country_name": "Hungary",
         "age": "34",
         "overall": "83",
-        "market_value": "€6M"
+        "market_value": "€6M",
+        "options": []
     },
     {
         "id": 150,
@@ -1497,7 +1646,8 @@
         "country_name": "Hungary",
         "age": "31",
         "overall": "83",
-        "market_value": "€25M"
+        "market_value": "€25M",
+        "options": []
     },
     {
         "id": 151,
@@ -1507,7 +1657,8 @@
         "country_name": "Netherlands",
         "age": "21",
         "overall": "83",
-        "market_value": "€58.5M"
+        "market_value": "€58.5M",
+        "options": []
     },
     {
         "id": 152,
@@ -1517,7 +1668,8 @@
         "country_name": "Armenia",
         "age": "35",
         "overall": "83",
-        "market_value": "€14.5M"
+        "market_value": "€14.5M",
+        "options": []
     },
     {
         "id": 153,
@@ -1527,7 +1679,8 @@
         "country_name": "Netherlands",
         "age": "32",
         "overall": "83",
-        "market_value": "€23.5M"
+        "market_value": "€23.5M",
+        "options": []
     },
     {
         "id": 154,
@@ -1537,7 +1690,8 @@
         "country_name": "Italy",
         "age": "26",
         "overall": "83",
-        "market_value": "€43M"
+        "market_value": "€43M",
+        "options": []
     },
     {
         "id": 155,
@@ -1547,7 +1701,8 @@
         "country_name": "Brazil",
         "age": "26",
         "overall": "83",
-        "market_value": "€44.5M"
+        "market_value": "€44.5M",
+        "options": []
     },
     {
         "id": 156,
@@ -1557,7 +1712,8 @@
         "country_name": "Netherlands",
         "age": "26",
         "overall": "83",
-        "market_value": "€42.5M"
+        "market_value": "€42.5M",
+        "options": []
     },
     {
         "id": 157,
@@ -1567,7 +1723,8 @@
         "country_name": "Italy",
         "age": "29",
         "overall": "83",
-        "market_value": "€30.5M"
+        "market_value": "€30.5M",
+        "options": []
     },
     {
         "id": 158,
@@ -1577,7 +1734,8 @@
         "country_name": "Italy",
         "age": "29",
         "overall": "83",
-        "market_value": "€35.5M"
+        "market_value": "€35.5M",
+        "options": []
     },
     {
         "id": 159,
@@ -1587,7 +1745,8 @@
         "country_name": "Italy",
         "age": "30",
         "overall": "83",
-        "market_value": "€24M"
+        "market_value": "€24M",
+        "options": []
     },
     {
         "id": 160,
@@ -1597,7 +1756,8 @@
         "country_name": "Spain",
         "age": "31",
         "overall": "83",
-        "market_value": "€30.5M"
+        "market_value": "€30.5M",
+        "options": []
     },
     {
         "id": 161,
@@ -1607,7 +1767,8 @@
         "country_name": "Algeria",
         "age": "26",
         "overall": "83",
-        "market_value": "€43M"
+        "market_value": "€43M",
+        "options": []
     },
     {
         "id": 162,
@@ -1617,7 +1778,8 @@
         "country_name": "England",
         "age": "26",
         "overall": "83",
-        "market_value": "€44.5M"
+        "market_value": "€44.5M",
+        "options": []
     },
     {
         "id": 163,
@@ -1627,7 +1789,8 @@
         "country_name": "Italy",
         "age": "28",
         "overall": "83",
-        "market_value": "€36.5M"
+        "market_value": "€36.5M",
+        "options": []
     },
     {
         "id": 164,
@@ -1637,7 +1800,8 @@
         "country_name": "Italy",
         "age": "28",
         "overall": "83",
-        "market_value": "€34.5M"
+        "market_value": "€34.5M",
+        "options": []
     },
     {
         "id": 165,
@@ -1647,7 +1811,8 @@
         "country_name": "Colombia",
         "age": "33",
         "overall": "83",
-        "market_value": "€23M"
+        "market_value": "€23M",
+        "options": []
     },
     {
         "id": 166,
@@ -1657,7 +1822,8 @@
         "country_name": "Spain",
         "age": "32",
         "overall": "83",
-        "market_value": "€24M"
+        "market_value": "€24M",
+        "options": []
     },
     {
         "id": 167,
@@ -1667,7 +1833,8 @@
         "country_name": "Uruguay",
         "age": "29",
         "overall": "83",
-        "market_value": "€33.5M"
+        "market_value": "€33.5M",
+        "options": []
     },
     {
         "id": 168,
@@ -1677,7 +1844,8 @@
         "country_name": "Spain",
         "age": "29",
         "overall": "83",
-        "market_value": "€35.5M"
+        "market_value": "€35.5M",
+        "options": []
     },
     {
         "id": 169,
@@ -1687,7 +1855,8 @@
         "country_name": "Spain",
         "age": "27",
         "overall": "83",
-        "market_value": "€41M"
+        "market_value": "€41M",
+        "options": []
     },
     {
         "id": 170,
@@ -1697,7 +1866,8 @@
         "country_name": "Denmark",
         "age": "28",
         "overall": "83",
-        "market_value": "€36.5M"
+        "market_value": "€36.5M",
+        "options": []
     },
     {
         "id": 171,
@@ -1707,7 +1877,8 @@
         "country_name": "Spain",
         "age": "19",
         "overall": "83",
-        "market_value": "€70.5M"
+        "market_value": "€70.5M",
+        "options": []
     },
     {
         "id": 172,
@@ -1717,7 +1888,8 @@
         "country_name": "France",
         "age": "21",
         "overall": "83",
-        "market_value": "€73.5M"
+        "market_value": "€73.5M",
+        "options": []
     },
     {
         "id": 173,
@@ -1727,7 +1899,8 @@
         "country_name": "Spain",
         "age": "35",
         "overall": "83",
-        "market_value": "€14.5M"
+        "market_value": "€14.5M",
+        "options": []
     },
     {
         "id": 174,
@@ -1737,7 +1910,8 @@
         "country_name": "Spain",
         "age": "32",
         "overall": "83",
-        "market_value": "€29.5M"
+        "market_value": "€29.5M",
+        "options": []
     },
     {
         "id": 175,
@@ -1747,7 +1921,8 @@
         "country_name": "Ukraine",
         "age": "26",
         "overall": "83",
-        "market_value": "€43M"
+        "market_value": "€43M",
+        "options": []
     },
     {
         "id": 176,
@@ -1757,7 +1932,8 @@
         "country_name": "Argentina",
         "age": "31",
         "overall": "83",
-        "market_value": "€30.5M"
+        "market_value": "€30.5M",
+        "options": []
     },
     {
         "id": 177,
@@ -1767,7 +1943,8 @@
         "country_name": "Uruguay",
         "age": "28",
         "overall": "83",
-        "market_value": "€32M"
+        "market_value": "€32M",
+        "options": []
     },
     {
         "id": 178,
@@ -1777,7 +1954,8 @@
         "country_name": "Serbia",
         "age": "35",
         "overall": "83",
-        "market_value": "€15M"
+        "market_value": "€15M",
+        "options": []
     },
     {
         "id": 179,
@@ -1787,7 +1965,8 @@
         "country_name": "Morocco",
         "age": "27",
         "overall": "83",
-        "market_value": "€42.5M"
+        "market_value": "€42.5M",
+        "options": []
     },
     {
         "id": 180,
@@ -1797,6 +1976,7 @@
         "country_name": "Portugal",
         "age": "31",
         "overall": "83",
-        "market_value": "€30M"
+        "market_value": "€30M",
+        "options": []
     }
 ]

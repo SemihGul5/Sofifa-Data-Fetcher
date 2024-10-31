@@ -6,7 +6,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9/180.png",
         "country_name": "England",
         "european_cup": "Champions League",
-        "stars": 5
+        "stars": 5,
+        "options": []
     },
     {
         "team_name": "Real Madrid",
@@ -15,7 +16,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3468/180.png",
         "country_name": "Spain",
         "european_cup": "Champions League",
-        "stars": 5
+        "stars": 5,
+        "options": []
     },
     {
         "team_name": "Liverpool",
@@ -24,7 +26,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/8/180.png",
         "country_name": "England",
         "european_cup": "Champions League",
-        "stars": 5
+        "stars": 5,
+        "options": []
     },
     {
         "team_name": "FC Bayern München",
@@ -33,7 +36,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/503/180.png",
         "country_name": "Germany",
         "european_cup": "Champions League",
-        "stars": 5
+        "stars": 5,
+        "options": []
     },
     {
         "team_name": "Arsenal",
@@ -42,7 +46,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/19/180.png",
         "country_name": "England",
         "european_cup": "Champions League",
-        "stars": 5
+        "stars": 5,
+        "options": []
     },
     {
         "team_name": "Bayer 04 Leverkusen",
@@ -51,7 +56,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3321/180.png",
         "country_name": "Germany",
         "european_cup": "Champions League",
-        "stars": 5
+        "stars": 5,
+        "options": []
     },
     {
         "team_name": "Inter",
@@ -60,7 +66,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2930/180.png",
         "country_name": "Italy",
         "european_cup": "Champions League",
-        "stars": 5
+        "stars": 5,
+        "options": []
     },
     {
         "team_name": "FC Barcelona",
@@ -69,7 +76,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/83/180.png",
         "country_name": "Spain",
         "european_cup": "Champions League",
-        "stars": 5
+        "stars": 5,
+        "options": []
     },
     {
         "team_name": "Paris Saint Germain",
@@ -78,7 +86,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/591/180.png",
         "country_name": "France",
         "european_cup": "Champions League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Atlético Madrid",
@@ -87,7 +96,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7980/180.png",
         "country_name": "Spain",
         "european_cup": "Champions League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Manchester United",
@@ -96,7 +106,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/14/180.png",
         "country_name": "England",
         "european_cup": "Europa League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Newcastle United",
@@ -105,7 +116,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/20/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Tottenham Hotspur",
@@ -114,7 +126,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/6/180.png",
         "country_name": "England",
         "european_cup": "Europa League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Borussia Dortmund",
@@ -123,7 +136,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/68/180.png",
         "country_name": "Germany",
         "european_cup": "Champions League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Milan",
@@ -132,7 +146,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/113/180.png",
         "country_name": "Italy",
         "european_cup": "Champions League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Aston Villa",
@@ -141,7 +156,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/15/180.png",
         "country_name": "England",
         "european_cup": "Champions League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Chelsea",
@@ -150,7 +166,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/18/180.png",
         "country_name": "England",
         "european_cup": "Conference League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "RB Leipzig",
@@ -159,7 +176,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/277/180.png",
         "country_name": "Germany",
         "european_cup": "Champions League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Juventus",
@@ -168,7 +186,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/625/180.png",
         "country_name": "Italy",
         "european_cup": "Champions League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Napoli",
@@ -177,7 +196,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/597/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Roma",
@@ -186,7 +206,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/37/180.png",
         "country_name": "Italy",
         "european_cup": "Europa League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Athletic Club",
@@ -195,7 +216,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/13258/180.png",
         "country_name": "Spain",
         "european_cup": "Europa League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "West Ham United",
@@ -204,7 +226,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Atalanta",
@@ -213,7 +236,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/708/180.png",
         "country_name": "Italy",
         "european_cup": "Champions League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Galatasaray",
@@ -222,7 +246,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/34/180.png",
         "country_name": "Türkiye",
         "european_cup": "Europa League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Fenerbahçe",
@@ -231,7 +256,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/88/180.png",
         "country_name": "Türkiye",
         "european_cup": "Europa League",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Al Hilal",
@@ -240,7 +266,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7011/180.png",
         "country_name": "Saudi Arabia",
         "european_cup": "None",
-        "stars": 4.5
+        "stars": 4.5,
+        "options": []
     },
     {
         "team_name": "Crystal Palace",
@@ -249,7 +276,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/51/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Lazio",
@@ -258,7 +286,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/43/180.png",
         "country_name": "Italy",
         "european_cup": "Europa League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Real Sociedad",
@@ -267,7 +296,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/594/180.png",
         "country_name": "Spain",
         "european_cup": "Europa League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Girona",
@@ -276,7 +306,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/231/180.png",
         "country_name": "Spain",
         "european_cup": "Champions League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Benfica",
@@ -285,7 +316,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/605/180.png",
         "country_name": "Portugal",
         "european_cup": "Champions League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Sporting CP",
@@ -294,7 +326,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/58/180.png",
         "country_name": "Portugal",
         "european_cup": "Champions League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "PSV",
@@ -303,7 +336,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/682/180.png",
         "country_name": "Netherlands",
         "european_cup": "Champions League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Nottingham Forest",
@@ -312,7 +346,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/63/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Brighton & Hove Albion",
@@ -321,7 +356,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/78/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Wolverhampton Wanderers",
@@ -330,7 +366,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/29/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "LOSC Lille",
@@ -339,7 +376,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/690/180.png",
         "country_name": "France",
         "european_cup": "Champions League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Olympique Lyonnais",
@@ -348,7 +386,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/79/180.png",
         "country_name": "France",
         "european_cup": "Europa League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Monaco",
@@ -357,7 +396,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/6789/180.png",
         "country_name": "France",
         "european_cup": "Champions League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Olympique de Marseille",
@@ -366,7 +406,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/44/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Fiorentina",
@@ -375,7 +416,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/109/180.png",
         "country_name": "Italy",
         "european_cup": "Conference League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Bologna",
@@ -384,7 +426,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/8513/180.png",
         "country_name": "Italy",
         "european_cup": "Champions League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Real Betis",
@@ -393,7 +436,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/485/180.png",
         "country_name": "Spain",
         "european_cup": "Conference League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Valencia",
@@ -402,7 +446,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/214/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Villarreal",
@@ -411,7 +456,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3477/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Porto",
@@ -420,7 +466,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/652/180.png",
         "country_name": "Portugal",
         "european_cup": "Europa League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Flamengo",
@@ -429,7 +476,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1024/180.png",
         "country_name": "Brazil",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Palmeiras",
@@ -438,7 +486,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3422/180.png",
         "country_name": "Brazil",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Feyenoord",
@@ -447,7 +496,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/73/180.png",
         "country_name": "Netherlands",
         "european_cup": "Champions League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Everton",
@@ -456,7 +506,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/13/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Leicester City",
@@ -465,7 +516,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/42/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Brentford",
@@ -474,7 +526,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/236/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Fulham",
@@ -483,7 +536,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/11/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "AFC Bournemouth",
@@ -492,7 +546,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/52/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Lens",
@@ -501,7 +556,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/271/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Nice",
@@ -510,7 +566,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/450/180.png",
         "country_name": "France",
         "european_cup": "Europa League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "SC Freiburg",
@@ -519,7 +576,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3543/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Eintracht Frankfurt",
@@ -528,7 +586,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/366/180.png",
         "country_name": "Germany",
         "european_cup": "Europa League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "VfB Stuttgart",
@@ -537,7 +596,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3319/180.png",
         "country_name": "Germany",
         "european_cup": "Champions League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "TSG Hoffenheim",
@@ -546,7 +606,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2726/180.png",
         "country_name": "Germany",
         "european_cup": "Europa League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "VfL Wolfsburg",
@@ -555,7 +616,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/510/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Torino",
@@ -564,7 +626,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/613/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Mallorca",
@@ -573,7 +636,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/645/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Osasuna",
@@ -582,7 +646,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/459/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Rayo Vallecano",
@@ -591,7 +656,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/377/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Sevilla",
@@ -600,7 +666,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/676/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Beşiktaş",
@@ -609,7 +676,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/554/180.png",
         "country_name": "Türkiye",
         "european_cup": "Europa League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Al Nassr",
@@ -618,7 +686,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2506/180.png",
         "country_name": "Saudi Arabia",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "River Plate",
@@ -627,7 +696,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/10002/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Atlético Mineiro",
@@ -636,7 +706,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3427/180.png",
         "country_name": "Brazil",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Ajax",
@@ -645,7 +716,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/629/180.png",
         "country_name": "Netherlands",
         "european_cup": "Europa League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Southampton",
@@ -654,7 +726,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/65/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Rennes",
@@ -663,7 +736,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/598/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Stade Brestois 29",
@@ -672,7 +746,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/266/180.png",
         "country_name": "France",
         "european_cup": "Champions League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Borussia Mönchengladbach",
@@ -681,7 +756,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/683/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "FC Union Berlin",
@@ -690,7 +766,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1079/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Como",
@@ -699,7 +776,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/268/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Celta de Vigo",
@@ -708,7 +786,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/36/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Las Palmas",
@@ -717,7 +796,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2921/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "AEK Athens",
@@ -726,7 +806,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/781/180.png",
         "country_name": "Greece",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Olympiakos Piraeus",
@@ -735,7 +816,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/602/180.png",
         "country_name": "Greece",
         "european_cup": "Europa League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Trabzonspor",
@@ -744,7 +826,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/688/180.png",
         "country_name": "Türkiye",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Sporting Braga",
@@ -753,7 +836,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/884/180.png",
         "country_name": "Portugal",
         "european_cup": "Europa League",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Al Ittihad",
@@ -762,7 +846,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/476/180.png",
         "country_name": "Saudi Arabia",
         "european_cup": "None",
-        "stars": 4
+        "stars": 4,
+        "options": []
     },
     {
         "team_name": "Club Brugge",
@@ -771,7 +856,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/340/180.png",
         "country_name": "Belgium",
         "european_cup": "Champions League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Athletico Paranaense",
@@ -780,7 +866,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3432/180.png",
         "country_name": "Brazil",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Internacional",
@@ -789,7 +876,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2696/180.png",
         "country_name": "Brazil",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Bragantino",
@@ -798,7 +886,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7808/180.png",
         "country_name": "Brazil",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Ipswich Town",
@@ -807,7 +896,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/116/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Leeds United",
@@ -816,7 +906,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/71/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Montpellier",
@@ -825,7 +916,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/581/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Stade de Reims",
@@ -834,7 +926,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1028/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Werder Bremen",
@@ -843,7 +936,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/82/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "FC Augsburg",
@@ -852,7 +946,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/90/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "FSV Mainz 05",
@@ -861,7 +956,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/794/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Monza",
@@ -870,7 +966,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1628/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Inter Miami",
@@ -879,7 +976,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/239235/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Celtic",
@@ -888,7 +986,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/53/180.png",
         "country_name": "Scotland",
         "european_cup": "Champions League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Rangers",
@@ -897,7 +996,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/62/180.png",
         "country_name": "Scotland",
         "european_cup": "Europa League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Leganés",
@@ -906,7 +1006,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/844/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Getafe",
@@ -915,7 +1016,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/106/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Panathinaikos",
@@ -924,7 +1026,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/57/180.png",
         "country_name": "Greece",
         "european_cup": "Conference League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "PAOK",
@@ -933,7 +1036,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/649/180.png",
         "country_name": "Greece",
         "european_cup": "Europa League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Slavia Praha",
@@ -942,7 +1046,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/216/180.png",
         "country_name": "Czechia",
         "european_cup": "Europa League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Sparta Praha",
@@ -951,7 +1056,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2727/180.png",
         "country_name": "Czechia",
         "european_cup": "Champions League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Boca Juniors",
@@ -960,7 +1066,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/587/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Anderlecht",
@@ -969,7 +1076,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2555/180.png",
         "country_name": "Belgium",
         "european_cup": "Europa League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Corinthians",
@@ -978,7 +1086,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/303/180.png",
         "country_name": "Brazil",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "São Paulo",
@@ -987,7 +1096,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3496/180.png",
         "country_name": "Brazil",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Burnley",
@@ -996,7 +1106,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/27/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Luton Town",
@@ -1005,7 +1116,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/115/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Toulouse",
@@ -1014,7 +1126,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/289/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Nantes",
@@ -1023,7 +1136,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/59/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Parma",
@@ -1032,7 +1146,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/398/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Cagliari",
@@ -1041,7 +1156,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/585/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Lecce",
@@ -1050,7 +1166,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7790/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Hellas Verona",
@@ -1059,7 +1176,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1123/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Genoa",
@@ -1068,7 +1186,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/102/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Los Angeles FC",
@@ -1077,7 +1196,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/147671/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Espanyol",
@@ -1086,7 +1206,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/528/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Deportivo Alavés",
@@ -1095,7 +1216,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2975/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Almería",
@@ -1104,7 +1226,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/618/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Cádiz",
@@ -1113,7 +1236,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/6827/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Dynamo Kyiv",
@@ -1122,7 +1246,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/556/180.png",
         "country_name": "Ukraine",
         "european_cup": "Europa League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Shakhtar Donetsk",
@@ -1131,7 +1256,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/621/180.png",
         "country_name": "Ukraine",
         "european_cup": "Champions League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Al Ahli Jeddah",
@@ -1140,7 +1266,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9908/180.png",
         "country_name": "Saudi Arabia",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Racing Club",
@@ -1149,7 +1276,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3608/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "København",
@@ -1158,7 +1286,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/85/180.png",
         "country_name": "Denmark",
         "european_cup": "Conference League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Midtjylland",
@@ -1167,7 +1296,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/939/180.png",
         "country_name": "Denmark",
         "european_cup": "Europa League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Antwerp",
@@ -1176,7 +1306,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/328/180.png",
         "country_name": "Belgium",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Fluminense",
@@ -1185,7 +1316,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1095/180.png",
         "country_name": "Brazil",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Cruzeiro",
@@ -1194,7 +1326,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3371/180.png",
         "country_name": "Brazil",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "FC Twente",
@@ -1203,7 +1336,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/593/180.png",
         "country_name": "Netherlands",
         "european_cup": "Europa League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Strasbourg",
@@ -1212,7 +1346,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/686/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Le Havre",
@@ -1221,7 +1356,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1055/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Heidenheim",
@@ -1230,7 +1366,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2831/180.png",
         "country_name": "Germany",
         "european_cup": "Conference League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "VfL Bochum 1848",
@@ -1239,7 +1376,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/999/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Hamburger SV",
@@ -1248,7 +1386,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2708/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "FC Köln",
@@ -1257,7 +1396,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3320/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Udinese",
@@ -1266,7 +1406,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/346/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Empoli",
@@ -1275,7 +1416,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/397/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Palermo",
@@ -1284,7 +1426,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1216/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Real Valladolid",
@@ -1293,7 +1436,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/361/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Deportivo La Coruña",
@@ -1302,7 +1446,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/429/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Ferencváros",
@@ -1311,7 +1456,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/112/180.png",
         "country_name": "Hungary",
         "european_cup": "Europa League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "İstanbul Başakşehir",
@@ -1320,7 +1466,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3702/180.png",
         "country_name": "Türkiye",
         "european_cup": "Conference League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Salzburg",
@@ -1329,7 +1476,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/49/180.png",
         "country_name": "Austria",
         "european_cup": "Champions League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Vitória SC",
@@ -1338,7 +1486,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/830/180.png",
         "country_name": "Portugal",
         "european_cup": "Conference League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Viktoria Plzeň",
@@ -1347,7 +1496,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3545/180.png",
         "country_name": "Czechia",
         "european_cup": "Europa League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Talleres Córdoba",
@@ -1356,7 +1506,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9999/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Lanús",
@@ -1365,7 +1516,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9878/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Estudiantes",
@@ -1374,7 +1526,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9335/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Vélez Sarsfield",
@@ -1383,7 +1536,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9904/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "San Lorenzo",
@@ -1392,7 +1546,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/520/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Genk",
@@ -1401,7 +1556,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2709/180.png",
         "country_name": "Belgium",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Gent",
@@ -1410,7 +1566,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2402/180.png",
         "country_name": "Belgium",
         "european_cup": "Conference League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Union Saint-Gilloise",
@@ -1419,7 +1576,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3958/180.png",
         "country_name": "Belgium",
         "european_cup": "Europa League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Botafogo",
@@ -1428,7 +1586,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2864/180.png",
         "country_name": "Brazil",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Grêmio",
@@ -1437,7 +1596,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2925/180.png",
         "country_name": "Brazil",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Fortaleza",
@@ -1446,7 +1606,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3621/180.png",
         "country_name": "Brazil",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Norwich City",
@@ -1455,7 +1616,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/33/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Sheffield United",
@@ -1464,7 +1626,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/21/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Middlesbrough",
@@ -1473,7 +1636,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "West Bromwich Albion",
@@ -1482,7 +1646,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/10/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Hull City",
@@ -1491,7 +1656,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/22/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Cardiff City",
@@ -1500,7 +1666,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/69/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Saint-Étienne",
@@ -1509,7 +1676,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/108/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Auxerre",
@@ -1518,7 +1686,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3682/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Lorient",
@@ -1527,7 +1696,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9257/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Hertha BSC",
@@ -1536,7 +1706,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3317/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Venezia",
@@ -1545,7 +1716,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/267/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Sampdoria",
@@ -1554,7 +1726,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/522/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Cremonese",
@@ -1563,7 +1736,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/10722/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Sassuolo",
@@ -1572,7 +1746,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2714/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "LA Galaxy",
@@ -1581,7 +1756,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/413/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Sporting Gijón",
@@ -1590,7 +1766,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/344/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Real Oviedo",
@@ -1599,7 +1776,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/93/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Granada",
@@ -1608,7 +1786,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/103/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Young Boys",
@@ -1617,7 +1796,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/647/180.png",
         "country_name": "Switzerland",
         "european_cup": "Champions League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Dinamo Zagreb",
@@ -1626,7 +1806,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/674/180.png",
         "country_name": "Croatia",
         "european_cup": "Champions League",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Junior",
@@ -1635,7 +1816,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7792/180.png",
         "country_name": "Colombia",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Millonarios",
@@ -1644,7 +1826,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7810/180.png",
         "country_name": "Colombia",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Nacional",
@@ -1653,7 +1836,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/828/180.png",
         "country_name": "Uruguay",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Peñarol",
@@ -1662,7 +1846,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3338/180.png",
         "country_name": "Uruguay",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Al Qadsiah",
@@ -1671,7 +1856,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/13092/180.png",
         "country_name": "Saudi Arabia",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Al Ettifaq",
@@ -1680,7 +1866,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/10010/180.png",
         "country_name": "Saudi Arabia",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Independiente",
@@ -1689,7 +1876,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/10840/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Rosario Central",
@@ -1698,7 +1886,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3365/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3.5
+        "stars": 3.5,
+        "options": []
     },
     {
         "team_name": "Brøndby",
@@ -1707,7 +1896,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/293/180.png",
         "country_name": "Denmark",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "AGF",
@@ -1716,7 +1906,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2905/180.png",
         "country_name": "Denmark",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Cuiabá",
@@ -1725,7 +1916,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/5463/180.png",
         "country_name": "Brazil",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "AZ Alkmaar",
@@ -1734,7 +1926,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/61/180.png",
         "country_name": "Netherlands",
         "european_cup": "Europa League",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "NEC",
@@ -1743,7 +1936,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/494/180.png",
         "country_name": "Netherlands",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Watford",
@@ -1752,7 +1946,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/25/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Coventry City",
@@ -1761,7 +1956,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/117/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Preston North End",
@@ -1770,7 +1966,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/99/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Queens Park Rangers",
@@ -1779,7 +1976,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/47/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Sunderland",
@@ -1788,7 +1986,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Angers SCO",
@@ -1797,7 +1996,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/776/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Metz",
@@ -1806,7 +2006,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3513/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "St. Pauli",
@@ -1815,7 +2016,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/353/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Fortuna Düsseldorf",
@@ -1824,7 +2026,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1092/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Darmstadt 98",
@@ -1833,7 +2036,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/482/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Hannover 96",
@@ -1842,7 +2046,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2554/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Portland Timbers",
@@ -1851,7 +2056,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/607/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Seattle Sounders",
@@ -1860,7 +2066,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2649/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Columbus Crew",
@@ -1869,7 +2076,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/577/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Vancouver Whitecaps",
@@ -1878,7 +2086,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/292/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Cincinnati",
@@ -1887,7 +2096,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3636/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Bodø / Glimt",
@@ -1896,7 +2106,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1668/180.png",
         "country_name": "Norway",
         "european_cup": "Europa League",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Hearts",
@@ -1905,7 +2116,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/314/180.png",
         "country_name": "Scotland",
         "european_cup": "Conference League",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Levante",
@@ -1914,7 +2126,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3457/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "SD Eibar",
@@ -1923,7 +2136,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/60/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Elche",
@@ -1932,7 +2146,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1099/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Real Zaragoza",
@@ -1941,7 +2156,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3968/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Malmö FF",
@@ -1950,7 +2166,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/354/180.png",
         "country_name": "Sweden",
         "european_cup": "Europa League",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Birmingham City",
@@ -1959,7 +2176,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/12/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Eyüpspor",
@@ -1968,7 +2186,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3224/180.png",
         "country_name": "Türkiye",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Kasımpaşa",
@@ -1977,7 +2196,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1071/180.png",
         "country_name": "Türkiye",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Sturm Graz",
@@ -1986,7 +2206,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3357/180.png",
         "country_name": "Austria",
         "european_cup": "Champions League",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "LASK Linz",
@@ -1995,7 +2216,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3369/180.png",
         "country_name": "Austria",
         "european_cup": "Conference League",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Ulsan",
@@ -2004,7 +2226,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/5839/180.png",
         "country_name": "Korea Republic",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Arouca",
@@ -2013,7 +2236,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/4092/180.png",
         "country_name": "Portugal",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Famalicão",
@@ -2022,7 +2246,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3161/180.png",
         "country_name": "Portugal",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Rio Ave",
@@ -2031,7 +2256,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/6377/180.png",
         "country_name": "Portugal",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Hajduk Split",
@@ -2040,7 +2266,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/906/180.png",
         "country_name": "Croatia",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "APOEL",
@@ -2049,7 +2276,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2604/180.png",
         "country_name": "Cyprus",
         "european_cup": "Conference League",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Colo-Colo",
@@ -2058,7 +2286,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7930/180.png",
         "country_name": "Chile",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Deportes Tolima",
@@ -2067,7 +2296,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/10204/180.png",
         "country_name": "Colombia",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Atlético Nacional",
@@ -2076,7 +2306,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/6597/180.png",
         "country_name": "Colombia",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Independiente Medellín",
@@ -2085,7 +2316,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/332/180.png",
         "country_name": "Colombia",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Libertad",
@@ -2094,7 +2326,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/10982/180.png",
         "country_name": "Paraguay",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Al Taawon",
@@ -2103,7 +2336,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2392/180.png",
         "country_name": "Saudi Arabia",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Al Shabab",
@@ -2112,7 +2346,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/16184/180.png",
         "country_name": "Saudi Arabia",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Newell's Old Boys",
@@ -2121,7 +2356,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/32/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Godoy Cruz",
@@ -2130,7 +2366,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/10987/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Huracán",
@@ -2139,7 +2376,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3139/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Argentinos Juniors",
@@ -2148,7 +2386,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3393/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Belgrano",
@@ -2157,7 +2396,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/6829/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Al Ain",
@@ -2166,7 +2406,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7780/180.png",
         "country_name": "United Arab Emirates",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Barcelona Guayaquil",
@@ -2175,7 +2416,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/472/180.png",
         "country_name": "Ecuador",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Mechelen",
@@ -2184,7 +2426,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2938/180.png",
         "country_name": "Belgium",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Sporting Charleroi",
@@ -2193,7 +2436,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1087/180.png",
         "country_name": "Belgium",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "OH Leuven",
@@ -2202,7 +2446,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1947/180.png",
         "country_name": "Belgium",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "FC Utrecht",
@@ -2211,7 +2456,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/750/180.png",
         "country_name": "Netherlands",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Blackburn Rovers",
@@ -2220,7 +2466,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Stoke City",
@@ -2229,7 +2476,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/26/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Sheffield Wednesday",
@@ -2238,7 +2486,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/56/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Millwall",
@@ -2247,7 +2496,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/64/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Bristol City",
@@ -2256,7 +2506,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/122/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Plymouth Argyle",
@@ -2265,7 +2516,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/110/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Swansea City",
@@ -2274,7 +2526,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/30/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Holstein Kiel",
@@ -2283,7 +2536,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3611/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Schalke 04",
@@ -2292,7 +2546,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/67/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Nürnberg",
@@ -2301,7 +2556,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/956/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Salernitana",
@@ -2310,7 +2566,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7743/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Pisa",
@@ -2319,7 +2576,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1072/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Modena",
@@ -2328,7 +2586,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1000/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Philadelphia Union",
@@ -2337,7 +2596,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/275/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Minnesota United",
@@ -2346,7 +2606,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3639/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "San Jose Earthquakes",
@@ -2355,7 +2616,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/287/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Saint Louis City",
@@ -2364,7 +2626,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/267299/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "New England",
@@ -2373,7 +2636,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/641/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Houston Dynamo",
@@ -2382,7 +2646,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/478/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Charlotte",
@@ -2391,7 +2656,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/260119/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Real Salt Lake",
@@ -2400,7 +2666,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1062/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Orlando City",
@@ -2409,7 +2676,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/204/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Austin",
@@ -2418,7 +2686,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/254172/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Nashville SC",
@@ -2427,7 +2696,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/148048/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Tenerife",
@@ -2436,7 +2706,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1012/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Burgos",
@@ -2445,7 +2716,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/8366/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Lech Poznań",
@@ -2454,7 +2726,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/302/180.png",
         "country_name": "Poland",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Hatayspor",
@@ -2463,7 +2736,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/13833/180.png",
         "country_name": "Türkiye",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Gaziantep F.K.",
@@ -2472,7 +2746,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/4192/180.png",
         "country_name": "Türkiye",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Samsunspor",
@@ -2481,7 +2756,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2811/180.png",
         "country_name": "Türkiye",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Rapid Wien",
@@ -2490,7 +2766,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3678/180.png",
         "country_name": "Austria",
         "european_cup": "Conference League",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Seoul",
@@ -2499,7 +2776,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/672/180.png",
         "country_name": "Korea Republic",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Lugano",
@@ -2508,7 +2786,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/13775/180.png",
         "country_name": "Switzerland",
         "european_cup": "Conference League",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Servette",
@@ -2517,7 +2796,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1970/180.png",
         "country_name": "Switzerland",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "St. Gallen",
@@ -2526,7 +2806,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/362/180.png",
         "country_name": "Switzerland",
         "european_cup": "Conference League",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Estoril",
@@ -2535,7 +2816,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1198/180.png",
         "country_name": "Portugal",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Casa Pia",
@@ -2544,7 +2826,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/11741/180.png",
         "country_name": "Portugal",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Gil Vicente",
@@ -2553,7 +2836,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/364/180.png",
         "country_name": "Portugal",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Moreirense",
@@ -2562,7 +2846,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1085/180.png",
         "country_name": "Portugal",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Estrela Amadora",
@@ -2571,7 +2856,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/12152/180.png",
         "country_name": "Portugal",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "América de Cali",
@@ -2580,7 +2866,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9269/180.png",
         "country_name": "Colombia",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Cerro Porteño",
@@ -2589,7 +2876,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3408/180.png",
         "country_name": "Paraguay",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Platense",
@@ -2598,7 +2886,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9896/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Banfield",
@@ -2607,7 +2896,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/887/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Sarmiento",
@@ -2616,7 +2906,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9931/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Defensa y Justicia",
@@ -2625,7 +2916,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9561/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Unión Santa Fe",
@@ -2634,7 +2926,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7228/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Instituto",
@@ -2643,7 +2936,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9941/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Gimnasia La Plata",
@@ -2652,7 +2946,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/470/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Independiente del Valle",
@@ -2661,7 +2956,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/14635/180.png",
         "country_name": "Ecuador",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "LDU Quito",
@@ -2670,7 +2966,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/10779/180.png",
         "country_name": "Ecuador",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Alianza Lima",
@@ -2679,7 +2976,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/10671/180.png",
         "country_name": "Peru",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Universitario",
@@ -2688,7 +2986,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/8175/180.png",
         "country_name": "Peru",
         "european_cup": "None",
-        "stars": 3
+        "stars": 3,
+        "options": []
     },
     {
         "team_name": "Westerlo",
@@ -2697,7 +2996,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/357/180.png",
         "country_name": "Belgium",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Cercle Brugge",
@@ -2706,7 +3006,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2641/180.png",
         "country_name": "Belgium",
         "european_cup": "Conference League",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Standard Liège",
@@ -2715,7 +3016,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/700/180.png",
         "country_name": "Belgium",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Kortrijk",
@@ -2724,7 +3026,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1130/180.png",
         "country_name": "Belgium",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Sparta Rotterdam",
@@ -2733,7 +3036,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/919/180.png",
         "country_name": "Netherlands",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Fortuna Sittard",
@@ -2742,7 +3046,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1459/180.png",
         "country_name": "Netherlands",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "PEC Zwolle",
@@ -2751,7 +3056,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1016/180.png",
         "country_name": "Netherlands",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Derby County",
@@ -2760,7 +3066,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/24/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Oxford United",
@@ -2769,7 +3076,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/297/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Paris",
@@ -2778,7 +3086,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/4508/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Caen",
@@ -2787,7 +3096,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1393/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Kaiserslautern",
@@ -2796,7 +3106,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1638/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Karlsruher SC",
@@ -2805,7 +3116,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3114/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Paderborn",
@@ -2814,7 +3126,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2642/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Eintracht Braunschweig",
@@ -2823,7 +3136,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3565/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "SpVgg Greuther Fürth",
@@ -2832,7 +3146,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3431/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Magdeburg",
@@ -2841,7 +3156,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3527/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Bari 1908",
@@ -2850,7 +3166,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/445/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Cesena",
@@ -2859,7 +3176,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1234/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Südtirol",
@@ -2868,7 +3186,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/176/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Spezia",
@@ -2877,7 +3196,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/345/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Toronto",
@@ -2886,7 +3206,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/111/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "DC United",
@@ -2895,7 +3216,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/182/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "New York RB",
@@ -2904,7 +3226,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/383/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Chicago Fire",
@@ -2913,7 +3236,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/75/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Dallas",
@@ -2922,7 +3246,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/583/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Sporting Kansas City",
@@ -2931,7 +3256,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/323/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "New York City",
@@ -2940,7 +3266,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3627/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Atlanta United",
@@ -2949,7 +3276,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3645/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Molde",
@@ -2958,7 +3286,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/290/180.png",
         "country_name": "Norway",
         "european_cup": "Conference League",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Eldense",
@@ -2967,7 +3296,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1888/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Albacete",
@@ -2976,7 +3306,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3169/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Racing Ferrol",
@@ -2985,7 +3316,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/8396/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Racing Santander",
@@ -2994,7 +3326,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9818/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Häcken",
@@ -3003,7 +3336,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2535/180.png",
         "country_name": "Sweden",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Legia Warszawa",
@@ -3012,7 +3346,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/349/180.png",
         "country_name": "Poland",
         "european_cup": "Conference League",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Raków Częstochowa",
@@ -3021,7 +3356,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3270/180.png",
         "country_name": "Poland",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Kayserispor",
@@ -3030,7 +3366,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/643/180.png",
         "country_name": "Türkiye",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Göztepe",
@@ -3039,7 +3376,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3897/180.png",
         "country_name": "Türkiye",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Konyaspor",
@@ -3048,7 +3386,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2632/180.png",
         "country_name": "Türkiye",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Rizespor",
@@ -3057,7 +3396,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1041/180.png",
         "country_name": "Türkiye",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Antalyaspor",
@@ -3066,7 +3406,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/81/180.png",
         "country_name": "Türkiye",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Alanyaspor",
@@ -3075,7 +3416,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/347/180.png",
         "country_name": "Türkiye",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Austria Wien",
@@ -3084,7 +3426,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3630/180.png",
         "country_name": "Austria",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Pohang Steelers",
@@ -3093,7 +3436,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1506/180.png",
         "country_name": "Korea Republic",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Jeonbuk Motors",
@@ -3102,7 +3446,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3339/180.png",
         "country_name": "Korea Republic",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Lausanne Sport",
@@ -3111,7 +3456,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2357/180.png",
         "country_name": "Switzerland",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Zürich",
@@ -3120,7 +3466,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/389/180.png",
         "country_name": "Switzerland",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Basel",
@@ -3129,7 +3476,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/468/180.png",
         "country_name": "Switzerland",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Nacional",
@@ -3138,7 +3486,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7035/180.png",
         "country_name": "Portugal",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Boavista",
@@ -3147,7 +3496,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/960/180.png",
         "country_name": "Portugal",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "AVS",
@@ -3156,7 +3506,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/269225/180.png",
         "country_name": "Portugal",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Santa Clara",
@@ -3165,7 +3516,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2628/180.png",
         "country_name": "Portugal",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Farense",
@@ -3174,7 +3526,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7214/180.png",
         "country_name": "Portugal",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Qarabağ",
@@ -3183,7 +3536,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/5317/180.png",
         "country_name": "Azerbaijan",
         "european_cup": "Europa League",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Universitatea Craiova",
@@ -3192,7 +3546,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/11676/180.png",
         "country_name": "Romania",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "FCSB",
@@ -3201,7 +3556,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3444/180.png",
         "country_name": "Romania",
         "european_cup": "Europa League",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Universidad Católica",
@@ -3210,7 +3566,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2710/180.png",
         "country_name": "Chile",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Olimpia",
@@ -3219,7 +3576,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/15606/180.png",
         "country_name": "Paraguay",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Atlético Tucumán",
@@ -3228,7 +3586,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/10675/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Barracas Central",
@@ -3237,7 +3596,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/8228/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Shanghai Shenhua",
@@ -3246,7 +3606,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9279/180.png",
         "country_name": "China PR",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Shandong Taishan",
@@ -3255,7 +3616,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2458/180.png",
         "country_name": "China PR",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Shanghai Port",
@@ -3264,7 +3626,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/5751/180.png",
         "country_name": "China PR",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Universidad Católica",
@@ -3273,7 +3636,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/15327/180.png",
         "country_name": "Ecuador",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Nordsjælland",
@@ -3282,7 +3646,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2394/180.png",
         "country_name": "Denmark",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Sint-Truiden",
@@ -3291,7 +3656,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/355/180.png",
         "country_name": "Belgium",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Almere City",
@@ -3300,7 +3666,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1433/180.png",
         "country_name": "Netherlands",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Go Ahead Eagles",
@@ -3309,7 +3676,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/664/180.png",
         "country_name": "Netherlands",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "SC Heerenveen",
@@ -3318,7 +3686,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1053/180.png",
         "country_name": "Netherlands",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Portsmouth",
@@ -3327,7 +3696,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/5/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Grenoble Foot 38",
@@ -3336,7 +3706,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1174/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Clermont",
@@ -3345,7 +3716,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/6898/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Elversberg",
@@ -3354,7 +3726,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3588/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Cosenza",
@@ -3363,7 +3736,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/10775/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Frosinone",
@@ -3372,7 +3746,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/4070/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Catanzaro",
@@ -3381,7 +3756,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7471/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Reggiana",
@@ -3390,7 +3766,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2892/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Brescia",
@@ -3399,7 +3776,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/10729/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "CF Montréal",
@@ -3408,7 +3786,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3736/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Colorado Rapids",
@@ -3417,7 +3796,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/179/180.png",
         "country_name": "United States",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Aberdeen",
@@ -3426,7 +3806,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/273/180.png",
         "country_name": "Scotland",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Hibernian",
@@ -3435,7 +3816,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/66/180.png",
         "country_name": "Scotland",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Málaga",
@@ -3444,7 +3826,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/126/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "FC Cartagena",
@@ -3453,7 +3836,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/12652/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Huesca",
@@ -3462,7 +3846,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/274/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Djurgården",
@@ -3471,7 +3856,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/443/180.png",
         "country_name": "Sweden",
         "european_cup": "Conference League",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Bolton Wanderers",
@@ -3480,7 +3866,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/16/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Rotherham United",
@@ -3489,7 +3876,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/138/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Huddersfield Town",
@@ -3498,7 +3886,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/251/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Jagiellonia Białystok",
@@ -3507,7 +3896,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/890/180.png",
         "country_name": "Poland",
         "european_cup": "Conference League",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Pogoń Szczecin",
@@ -3516,7 +3906,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/808/180.png",
         "country_name": "Poland",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Sivasspor",
@@ -3525,7 +3916,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/365/180.png",
         "country_name": "Türkiye",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Incheon United",
@@ -3534,7 +3926,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/6922/180.png",
         "country_name": "Korea Republic",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Jeju United",
@@ -3543,7 +3936,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/8034/180.png",
         "country_name": "Korea Republic",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Daejeon Citizen",
@@ -3552,7 +3946,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/5664/180.png",
         "country_name": "Korea Republic",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Grasshopper",
@@ -3561,7 +3956,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2866/180.png",
         "country_name": "Switzerland",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Luzern",
@@ -3570,7 +3966,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3091/180.png",
         "country_name": "Switzerland",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Sion",
@@ -3579,7 +3976,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/462/180.png",
         "country_name": "Switzerland",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Rapid Bucuresti",
@@ -3588,7 +3986,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7773/180.png",
         "country_name": "Romania",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Everton",
@@ -3597,7 +3996,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/15064/180.png",
         "country_name": "Chile",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Palestino",
@@ -3606,7 +4006,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9890/180.png",
         "country_name": "Chile",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Sportivo Luqueño",
@@ -3615,7 +4016,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/5582/180.png",
         "country_name": "Paraguay",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Al Wahda",
@@ -3624,7 +4026,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2513/180.png",
         "country_name": "Saudi Arabia",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Al Orobah",
@@ -3633,7 +4036,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/16512/180.png",
         "country_name": "Saudi Arabia",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Damac",
@@ -3642,7 +4046,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/17712/180.png",
         "country_name": "Saudi Arabia",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Al Riyadh",
@@ -3651,7 +4056,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/17705/180.png",
         "country_name": "Saudi Arabia",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Al Fayha",
@@ -3660,7 +4066,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/17724/180.png",
         "country_name": "Saudi Arabia",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Al Khaleej",
@@ -3669,7 +4076,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/12216/180.png",
         "country_name": "Saudi Arabia",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Central Cordoba SdE",
@@ -3678,7 +4086,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/14212/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Tigre",
@@ -3687,7 +4096,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9884/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Independiente Rivadavia",
@@ -3696,7 +4106,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/812/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Chengdu Rongcheng",
@@ -3705,7 +4116,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/18045/180.png",
         "country_name": "China PR",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Beijing Guoan",
@@ -3714,7 +4126,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3370/180.png",
         "country_name": "China PR",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Bolívar",
@@ -3723,7 +4136,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/6308/180.png",
         "country_name": "Bolivia",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "The Strongest",
@@ -3732,7 +4146,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/10024/180.png",
         "country_name": "Bolivia",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Sport Huancayo",
@@ -3741,7 +4156,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/12562/180.png",
         "country_name": "Peru",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "César Vallejo",
@@ -3750,7 +4166,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3807/180.png",
         "country_name": "Peru",
         "european_cup": "None",
-        "stars": 2.5
+        "stars": 2.5,
+        "options": []
     },
     {
         "team_name": "Silkeborg",
@@ -3759,7 +4176,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/86/180.png",
         "country_name": "Denmark",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Viborg",
@@ -3768,7 +4186,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2447/180.png",
         "country_name": "Denmark",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Randers",
@@ -3777,7 +4196,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2356/180.png",
         "country_name": "Denmark",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Heracles Almelo",
@@ -3786,7 +4206,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1403/180.png",
         "country_name": "Netherlands",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "RKC Waalwijk",
@@ -3795,7 +4216,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/814/180.png",
         "country_name": "Netherlands",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "FC Groningen",
@@ -3804,7 +4226,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2345/180.png",
         "country_name": "Netherlands",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Laval",
@@ -3813,7 +4236,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1112/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Amiens SC",
@@ -3822,7 +4246,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/840/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Troyes",
@@ -3831,7 +4256,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7047/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Ajaccio",
@@ -3840,7 +4266,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/524/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Pau",
@@ -3849,7 +4276,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1838/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Preußen Münster",
@@ -3858,7 +4286,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3647/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Jahn Regensburg",
@@ -3867,7 +4296,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3463/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Mantova",
@@ -3876,7 +4306,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/10771/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Carrarese",
@@ -3885,7 +4316,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7766/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Cittadella",
@@ -3894,7 +4326,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/8485/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Rosenborg",
@@ -3903,7 +4336,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1335/180.png",
         "country_name": "Norway",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Lillestrøm",
@@ -3912,7 +4346,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2510/180.png",
         "country_name": "Norway",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Viking",
@@ -3921,7 +4356,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/321/180.png",
         "country_name": "Norway",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Castellón",
@@ -3930,7 +4366,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/10008/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "IFK Göteborg",
@@ -3939,7 +4376,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/532/180.png",
         "country_name": "Sweden",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "AIK",
@@ -3948,7 +4386,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2825/180.png",
         "country_name": "Sweden",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Elfsborg",
@@ -3957,7 +4396,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1226/180.png",
         "country_name": "Sweden",
         "european_cup": "Europa League",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Blackpool",
@@ -3966,7 +4406,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/28/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Barnsley",
@@ -3975,7 +4416,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/54/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Cracovia Kraków",
@@ -3984,7 +4426,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1069/180.png",
         "country_name": "Poland",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Śląsk Wrocław",
@@ -3993,7 +4436,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3962/180.png",
         "country_name": "Poland",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Rheindorf Altach",
@@ -4002,7 +4446,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3949/180.png",
         "country_name": "Austria",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Wolfsberger AC",
@@ -4011,7 +4456,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3787/180.png",
         "country_name": "Austria",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Gimcheon Sangmu",
@@ -4020,7 +4466,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3901/180.png",
         "country_name": "Korea Republic",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Daegu",
@@ -4029,7 +4476,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/6954/180.png",
         "country_name": "Korea Republic",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Gwangju",
@@ -4038,7 +4486,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/4370/180.png",
         "country_name": "Korea Republic",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Gangwon",
@@ -4047,7 +4496,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7273/180.png",
         "country_name": "Korea Republic",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Yverdon Sport",
@@ -4056,7 +4506,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/10210/180.png",
         "country_name": "Switzerland",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Winterthur",
@@ -4065,7 +4516,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3525/180.png",
         "country_name": "Switzerland",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Universitatea Cluj",
@@ -4074,7 +4526,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9426/180.png",
         "country_name": "Romania",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "CFR Cluj",
@@ -4083,7 +4536,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3599/180.png",
         "country_name": "Romania",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Sepsi",
@@ -4092,7 +4546,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/10238/180.png",
         "country_name": "Romania",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Huachipato",
@@ -4101,7 +4556,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/15061/180.png",
         "country_name": "Chile",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Sportivo Ameliano",
@@ -4110,7 +4566,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/237829/180.png",
         "country_name": "Paraguay",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Danubio",
@@ -4119,7 +4576,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3439/180.png",
         "country_name": "Uruguay",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Wanderers",
@@ -4128,7 +4586,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/456/180.png",
         "country_name": "Uruguay",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Racing",
@@ -4137,7 +4596,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/5632/180.png",
         "country_name": "Uruguay",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Al Raed",
@@ -4146,7 +4606,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/363/180.png",
         "country_name": "Saudi Arabia",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Al Kholood",
@@ -4155,7 +4616,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/232744/180.png",
         "country_name": "Saudi Arabia",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Deportivo Riestra",
@@ -4164,7 +4626,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/14578/180.png",
         "country_name": "Argentina",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Deportivo Cuenca",
@@ -4173,7 +4636,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9996/180.png",
         "country_name": "Ecuador",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Deportivo Táchira",
@@ -4182,7 +4646,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/8390/180.png",
         "country_name": "Venezuela",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Carabobo",
@@ -4191,7 +4656,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7738/180.png",
         "country_name": "Venezuela",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Deportivo Garcilaso",
@@ -4200,7 +4666,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/15743/180.png",
         "country_name": "Peru",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Hansa Rostock",
@@ -4209,7 +4676,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/575/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Dynamo Dresden",
@@ -4218,7 +4686,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1077/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Vejle",
@@ -4227,7 +4696,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7466/180.png",
         "country_name": "Denmark",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Dender",
@@ -4236,7 +4706,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2741/180.png",
         "country_name": "Belgium",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Beerschot",
@@ -4245,7 +4716,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/6725/180.png",
         "country_name": "Belgium",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "NAC Breda",
@@ -4254,7 +4726,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/637/180.png",
         "country_name": "Netherlands",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Willem II",
@@ -4263,7 +4736,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/669/180.png",
         "country_name": "Netherlands",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Bastia",
@@ -4272,7 +4746,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/430/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Guingamp",
@@ -4281,7 +4756,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2919/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Dunkerque",
@@ -4290,7 +4766,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1281/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Ulm",
@@ -4299,7 +4776,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/813/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Juve Stabia",
@@ -4308,7 +4786,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/6947/180.png",
         "country_name": "Italy",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Brann",
@@ -4317,7 +4796,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2474/180.png",
         "country_name": "Norway",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Odd",
@@ -4326,7 +4806,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/930/180.png",
         "country_name": "Norway",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Kilmarnock",
@@ -4335,7 +4816,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/180/180.png",
         "country_name": "Scotland",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Mirandés",
@@ -4344,7 +4826,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/6968/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Reading",
@@ -4353,7 +4836,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/23/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Charlton Athletic",
@@ -4362,7 +4846,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/4/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Stevenage",
@@ -4371,7 +4856,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/409/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Northampton Town",
@@ -4380,7 +4866,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/221/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Stockport County",
@@ -4389,7 +4876,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/249/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Wycombe Wanderers",
@@ -4398,7 +4886,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/183/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Lincoln City",
@@ -4407,7 +4896,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/305/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Wrexham",
@@ -4416,7 +4906,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/283/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Widzew Łódź",
@@ -4425,7 +4916,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/8761/180.png",
         "country_name": "Poland",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Zagłębie Lubin",
@@ -4434,7 +4926,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1266/180.png",
         "country_name": "Poland",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Górnik Zabrze",
@@ -4443,7 +4936,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3781/180.png",
         "country_name": "Poland",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Piast Gliwice",
@@ -4452,7 +4946,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2482/180.png",
         "country_name": "Poland",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Radomiak Radom",
@@ -4461,7 +4956,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3191/180.png",
         "country_name": "Poland",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Bodrumspor",
@@ -4470,7 +4966,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/13924/180.png",
         "country_name": "Türkiye",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Adana Demirspor",
@@ -4479,7 +4976,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1039/180.png",
         "country_name": "Türkiye",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Hartberg",
@@ -4488,7 +4986,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/5769/180.png",
         "country_name": "Austria",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Suwon",
@@ -4497,7 +4996,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/904/180.png",
         "country_name": "Korea Republic",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Dinamo Bucureşti",
@@ -4506,7 +5006,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1026/180.png",
         "country_name": "Romania",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Hermannstadt",
@@ -4515,7 +5016,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/12619/180.png",
         "country_name": "Romania",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Coquimbo Unido",
@@ -4524,7 +5026,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2532/180.png",
         "country_name": "Chile",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Cobresal",
@@ -4533,7 +5036,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/6292/180.png",
         "country_name": "Chile",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Alianza",
@@ -4542,7 +5046,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/12833/180.png",
         "country_name": "Colombia",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Guaraní",
@@ -4551,7 +5056,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/15605/180.png",
         "country_name": "Paraguay",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Cerro Largo",
@@ -4560,7 +5066,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2528/180.png",
         "country_name": "Uruguay",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Al Fateh",
@@ -4569,7 +5076,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/5891/180.png",
         "country_name": "Saudi Arabia",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Al Okhdood",
@@ -4578,7 +5086,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/232738/180.png",
         "country_name": "Saudi Arabia",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Melbourne City",
@@ -4587,7 +5096,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/315/180.png",
         "country_name": "Australia",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Zhejiang",
@@ -4596,7 +5106,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3658/180.png",
         "country_name": "China PR",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Wuhan Three Towns",
@@ -4605,7 +5116,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/235302/180.png",
         "country_name": "China PR",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Changchun Yatai",
@@ -4614,7 +5126,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3351/180.png",
         "country_name": "China PR",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Henan",
@@ -4623,7 +5136,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/8428/180.png",
         "country_name": "China PR",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Nacional Potosí",
@@ -4632,7 +5146,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/8384/180.png",
         "country_name": "Bolivia",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Wilstermann",
@@ -4641,7 +5156,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3517/180.png",
         "country_name": "Bolivia",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Técnico Universitario",
@@ -4650,7 +5166,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/15328/180.png",
         "country_name": "Ecuador",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Metropolitanos",
@@ -4659,7 +5176,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/11370/180.png",
         "country_name": "Venezuela",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Caracas",
@@ -4668,7 +5186,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/12294/180.png",
         "country_name": "Venezuela",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Deportivo La Guaira",
@@ -4677,7 +5196,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/8339/180.png",
         "country_name": "Venezuela",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Asociación Deportiva Tarma",
@@ -4686,7 +5206,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/239392/180.png",
         "country_name": "Peru",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Saarbrücken",
@@ -4695,7 +5216,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1331/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Rot-Weiss Essen",
@@ -4704,7 +5226,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2777/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "1860 München",
@@ -4713,7 +5236,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/454/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Sandhausen",
@@ -4722,7 +5246,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3510/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Ingolstadt",
@@ -4731,7 +5256,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/573/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "DSC Arminia Bielefeld",
@@ -4740,7 +5266,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2927/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Waldhof Mannheim",
@@ -4749,7 +5276,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3385/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Osnabrück",
@@ -4758,7 +5286,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2872/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "Wehen Wiesbaden",
@@ -4767,7 +5296,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3519/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 2
+        "stars": 2,
+        "options": []
     },
     {
         "team_name": "AaB",
@@ -4776,7 +5306,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1020/180.png",
         "country_name": "Denmark",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Lyngby",
@@ -4785,7 +5316,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2650/180.png",
         "country_name": "Denmark",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Annecy",
@@ -4794,7 +5326,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1447/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Rodez",
@@ -4803,7 +5336,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9291/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Red Star",
@@ -4812,7 +5346,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1083/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Sarpsborg 08",
@@ -4821,7 +5356,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2601/180.png",
         "country_name": "Norway",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Strømsgodset",
@@ -4830,7 +5366,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/313/180.png",
         "country_name": "Norway",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "HamKam",
@@ -4839,7 +5376,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/8661/180.png",
         "country_name": "Norway",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Motherwell",
@@ -4848,7 +5386,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/309/180.png",
         "country_name": "Scotland",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Dundee",
@@ -4857,7 +5396,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/284/180.png",
         "country_name": "Scotland",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "St. Mirren",
@@ -4866,7 +5406,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/496/180.png",
         "country_name": "Scotland",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Córdoba",
@@ -4875,7 +5416,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/931/180.png",
         "country_name": "Spain",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Kalmar",
@@ -4884,7 +5426,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/432/180.png",
         "country_name": "Sweden",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Norrköping",
@@ -4893,7 +5436,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3603/180.png",
         "country_name": "Sweden",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Hammarby",
@@ -4902,7 +5446,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2353/180.png",
         "country_name": "Sweden",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Wigan Athletic",
@@ -4911,7 +5456,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/17/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Peterborough United",
@@ -4920,7 +5466,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/254/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Mansfield Town",
@@ -4929,7 +5476,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/225/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Cambridge United",
@@ -4938,7 +5486,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/232/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Leyton Orient",
@@ -4947,7 +5496,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/294/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Bristol Rovers",
@@ -4956,7 +5506,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/230/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Stal Mielec",
@@ -4965,7 +5516,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7216/180.png",
         "country_name": "Poland",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Korona Kielce",
@@ -4974,7 +5526,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3260/180.png",
         "country_name": "Poland",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Lechia Gdańsk",
@@ -4983,7 +5536,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/135/180.png",
         "country_name": "Poland",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Blau-Weiß Linz",
@@ -4992,7 +5546,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3300/180.png",
         "country_name": "Austria",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "WSG Tirol",
@@ -5001,7 +5556,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/4080/180.png",
         "country_name": "Austria",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Grazer AK",
@@ -5010,7 +5566,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/5724/180.png",
         "country_name": "Austria",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Austria Klagenfurt",
@@ -5019,7 +5576,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/4065/180.png",
         "country_name": "Austria",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "HJK",
@@ -5028,7 +5586,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/724/180.png",
         "country_name": "Finland",
         "european_cup": "Conference League",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "UTA Arad",
@@ -5037,7 +5596,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/8474/180.png",
         "country_name": "Romania",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Botoşani",
@@ -5046,7 +5606,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3195/180.png",
         "country_name": "Romania",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Oțelul Galați",
@@ -5055,7 +5616,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/803/180.png",
         "country_name": "Romania",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "SSC Farul",
@@ -5064,7 +5626,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/134619/180.png",
         "country_name": "Romania",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Petrolul 52",
@@ -5073,7 +5636,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/132584/180.png",
         "country_name": "Romania",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Liverpool",
@@ -5082,7 +5646,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/976/180.png",
         "country_name": "Uruguay",
         "european_cup": "",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Melbourne Victory",
@@ -5091,7 +5656,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/958/180.png",
         "country_name": "Australia",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Western Sydney Wanderers",
@@ -5100,7 +5666,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1264/180.png",
         "country_name": "Australia",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Macarthur",
@@ -5109,7 +5676,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/252006/180.png",
         "country_name": "Australia",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Qingdao West Coast",
@@ -5118,7 +5686,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/257391/180.png",
         "country_name": "China PR",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Delfin",
@@ -5127,7 +5696,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/9891/180.png",
         "country_name": "Ecuador",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Erzgebirge Aue",
@@ -5136,7 +5706,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3336/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Martigues",
@@ -5145,7 +5716,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/6826/180.png",
         "country_name": "France",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Haugesund",
@@ -5154,7 +5726,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/270/180.png",
         "country_name": "Norway",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Ross County",
@@ -5163,7 +5736,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/246/180.png",
         "country_name": "Scotland",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Dundee United",
@@ -5172,7 +5746,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/282/180.png",
         "country_name": "Scotland",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "St. Johnstone",
@@ -5181,7 +5756,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/734/180.png",
         "country_name": "Scotland",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Halmstad",
@@ -5190,7 +5766,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/720/180.png",
         "country_name": "Sweden",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Brommapojkarna",
@@ -5199,7 +5776,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3285/180.png",
         "country_name": "Sweden",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Mjällby",
@@ -5208,7 +5786,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/411/180.png",
         "country_name": "Sweden",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Värnamo",
@@ -5217,7 +5796,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/6607/180.png",
         "country_name": "Sweden",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Shrewsbury Town",
@@ -5226,7 +5806,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/154/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Exeter City",
@@ -5235,7 +5816,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/185/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Burton Albion",
@@ -5244,7 +5826,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/150/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Milton Keynes Dons",
@@ -5253,7 +5836,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/341/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Salford City",
@@ -5262,7 +5846,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/129/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Gillingham",
@@ -5271,7 +5856,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/307/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Bradford City",
@@ -5280,7 +5866,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/137/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Port Vale",
@@ -5289,7 +5876,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/348/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Notts County",
@@ -5298,7 +5886,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/98/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Carlisle United",
@@ -5307,7 +5896,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/330/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Shamrock Rovers",
@@ -5316,7 +5906,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/207/180.png",
         "country_name": "Republic of Ireland",
         "european_cup": "Conference League",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Katowice",
@@ -5325,7 +5916,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2764/180.png",
         "country_name": "Poland",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Puszcza Niepołomice",
@@ -5334,7 +5926,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/12038/180.png",
         "country_name": "Poland",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Motor Lublin",
@@ -5343,7 +5936,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/11356/180.png",
         "country_name": "Poland",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "FC Buzău",
@@ -5352,7 +5946,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/235089/180.png",
         "country_name": "Romania",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "CSM Politehnica Iași",
@@ -5361,7 +5956,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3876/180.png",
         "country_name": "Romania",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Sportivo Trinidense",
@@ -5370,7 +5966,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/11013/180.png",
         "country_name": "Paraguay",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Perth Glory",
@@ -5379,7 +5976,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/300/180.png",
         "country_name": "Australia",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Sydney FC",
@@ -5388,7 +5986,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/253/180.png",
         "country_name": "Australia",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Tianjin Jinmen Tiger",
@@ -5397,7 +5996,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2665/180.png",
         "country_name": "China PR",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Meizhou Hakka",
@@ -5406,7 +6006,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/11375/180.png",
         "country_name": "China PR",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Real Tomayapo",
@@ -5415,7 +6016,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/251693/180.png",
         "country_name": "Bolivia",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Universitario de Vinto",
@@ -5424,7 +6026,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/259048/180.png",
         "country_name": "Bolivia",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Always Ready",
@@ -5433,7 +6036,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/234259/180.png",
         "country_name": "Bolivia",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Alemannia Aachen",
@@ -5442,7 +6046,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3328/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Viktoria Köln",
@@ -5451,7 +6056,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2823/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Borussia Dortmund II",
@@ -5460,7 +6066,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3655/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Energie Cottbus",
@@ -5469,7 +6076,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3322/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "Verl",
@@ -5478,7 +6086,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3891/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "ATK Mohun Bagan",
@@ -5487,7 +6096,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/251504/180.png",
         "country_name": "India",
         "european_cup": "None",
-        "stars": 1.5
+        "stars": 1.5,
+        "options": []
     },
     {
         "team_name": "SønderjyskE",
@@ -5496,7 +6106,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/390/180.png",
         "country_name": "Denmark",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Tromsø",
@@ -5505,7 +6116,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7242/180.png",
         "country_name": "Norway",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "KFUM",
@@ -5514,7 +6126,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/11914/180.png",
         "country_name": "Norway",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Sandefjord",
@@ -5523,7 +6136,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/617/180.png",
         "country_name": "Norway",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Fredrikstad",
@@ -5532,7 +6146,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1743/180.png",
         "country_name": "Norway",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Sirius",
@@ -5541,7 +6156,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2678/180.png",
         "country_name": "Sweden",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Crawley Town",
@@ -5550,7 +6166,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/205/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Walsall",
@@ -5559,7 +6176,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/76/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Barrow",
@@ -5568,7 +6186,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/379/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "AFC Wimbledon",
@@ -5577,7 +6196,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/301/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Chesterfield",
@@ -5586,7 +6206,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/248/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Fleetwood Town",
@@ -5595,7 +6216,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/317/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Doncaster Rovers",
@@ -5604,7 +6226,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/235/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Swindon Town",
@@ -5613,7 +6236,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/285/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Colchester United",
@@ -5622,7 +6246,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/74/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Tranmere Rovers",
@@ -5631,7 +6256,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/201/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "St Patrick's",
@@ -5640,7 +6266,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1260/180.png",
         "country_name": "Republic of Ireland",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Unirea Slobozia",
@@ -5649,7 +6276,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/8132/180.png",
         "country_name": "Romania",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Unión La Calera",
@@ -5658,7 +6286,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/13330/180.png",
         "country_name": "Chile",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Nacional Asunción",
@@ -5667,7 +6296,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3480/180.png",
         "country_name": "Paraguay",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Brisbane Roar",
@@ -5676,7 +6306,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1238/180.png",
         "country_name": "Australia",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Wellington Phoenix",
@@ -5685,7 +6316,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1868/180.png",
         "country_name": "Australia",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Auckland",
@@ -5694,7 +6326,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/273583/180.png",
         "country_name": "Australia",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Cangzhou Mighty Lions",
@@ -5703,7 +6336,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2404/180.png",
         "country_name": "China PR",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Qingdao Hainiu",
@@ -5712,7 +6346,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/18013/180.png",
         "country_name": "China PR",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Shenzhen Pengcheng",
@@ -5721,7 +6356,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/150427/180.png",
         "country_name": "China PR",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Rayo Zuliano",
@@ -5730,7 +6366,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/256588/180.png",
         "country_name": "Venezuela",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Unterhaching",
@@ -5739,7 +6376,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3492/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Mumbai City",
@@ -5748,7 +6386,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3416/180.png",
         "country_name": "India",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Bengaluru",
@@ -5757,7 +6396,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/492/180.png",
         "country_name": "India",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Kristiansund",
@@ -5766,7 +6406,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/869/180.png",
         "country_name": "Norway",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Västerås SK",
@@ -5775,7 +6416,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/8671/180.png",
         "country_name": "Sweden",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Grimsby Town",
@@ -5784,7 +6426,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/198/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Harrogate Town",
@@ -5793,7 +6436,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/382/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Crewe Alexandra",
@@ -5802,7 +6446,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/87/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Shelbourne",
@@ -5811,7 +6456,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/744/180.png",
         "country_name": "Republic of Ireland",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Derry City",
@@ -5820,7 +6466,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1097/180.png",
         "country_name": "Republic of Ireland",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Adelaide United",
@@ -5829,7 +6476,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2967/180.png",
         "country_name": "Australia",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Central Coast Mariners",
@@ -5838,7 +6486,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/410/180.png",
         "country_name": "Australia",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Western United",
@@ -5847,7 +6496,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/238265/180.png",
         "country_name": "Australia",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Nantong Zhiyun",
@@ -5856,7 +6506,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/18061/180.png",
         "country_name": "China PR",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Hannover 96 II",
@@ -5865,7 +6516,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/3686/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Goa",
@@ -5874,7 +6526,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/435/180.png",
         "country_name": "India",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Kerala Blasters",
@@ -5883,7 +6536,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/780/180.png",
         "country_name": "India",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "GAIS",
@@ -5892,7 +6546,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1777/180.png",
         "country_name": "Sweden",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Morecambe",
@@ -5901,7 +6556,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/772/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Bromley",
@@ -5910,7 +6566,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/296/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Newport County",
@@ -5919,7 +6576,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/72/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Cheltenham Town",
@@ -5928,7 +6586,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/351/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Galway United",
@@ -5937,7 +6596,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/312/180.png",
         "country_name": "Republic of Ireland",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Bohemians",
@@ -5946,7 +6606,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/374/180.png",
         "country_name": "Republic of Ireland",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Sligo Rovers",
@@ -5955,7 +6616,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/910/180.png",
         "country_name": "Republic of Ireland",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Newcastle Jets",
@@ -5964,7 +6626,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/557/180.png",
         "country_name": "Australia",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Stuttgart II",
@@ -5973,7 +6636,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1445/180.png",
         "country_name": "Germany",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "East Bengal",
@@ -5982,7 +6646,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/4017/180.png",
         "country_name": "India",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Odisha FC",
@@ -5991,7 +6656,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2358/180.png",
         "country_name": "India",
         "european_cup": "None",
-        "stars": 1
+        "stars": 1,
+        "options": []
     },
     {
         "team_name": "Accrington Stanley",
@@ -6000,7 +6666,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/395/180.png",
         "country_name": "England",
         "european_cup": "None",
-        "stars": 0.5
+        "stars": 0.5,
+        "options": []
     },
     {
         "team_name": "Waterford",
@@ -6009,7 +6676,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1387/180.png",
         "country_name": "Republic of Ireland",
         "european_cup": "None",
-        "stars": 0.5
+        "stars": 0.5,
+        "options": []
     },
     {
         "team_name": "Punjab",
@@ -6018,7 +6686,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/18189/180.png",
         "country_name": "India",
         "european_cup": "None",
-        "stars": 0.5
+        "stars": 0.5,
+        "options": []
     },
     {
         "team_name": "Chennaiyin",
@@ -6027,7 +6696,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/7271/180.png",
         "country_name": "India",
         "european_cup": "None",
-        "stars": 0.5
+        "stars": 0.5,
+        "options": []
     },
     {
         "team_name": "Jamshedpur",
@@ -6036,7 +6706,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/134418/180.png",
         "country_name": "India",
         "european_cup": "None",
-        "stars": 0.5
+        "stars": 0.5,
+        "options": []
     },
     {
         "team_name": "Drogheda United",
@@ -6045,7 +6716,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1152/180.png",
         "country_name": "Republic of Ireland",
         "european_cup": "None",
-        "stars": 0.5
+        "stars": 0.5,
+        "options": []
     },
     {
         "team_name": "Dundalk",
@@ -6054,7 +6726,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/1311/180.png",
         "country_name": "Republic of Ireland",
         "european_cup": "None",
-        "stars": 0.5
+        "stars": 0.5,
+        "options": []
     },
     {
         "team_name": "NorthEast United",
@@ -6063,7 +6736,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/2768/180.png",
         "country_name": "India",
         "european_cup": "None",
-        "stars": 0.5
+        "stars": 0.5,
+        "options": []
     },
     {
         "team_name": "Mohammedan",
@@ -6072,7 +6746,8 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/18166/180.png",
         "country_name": "India",
         "european_cup": "None",
-        "stars": 0.5
+        "stars": 0.5,
+        "options": []
     },
     {
         "team_name": "Hyderabad",
@@ -6081,6 +6756,7 @@
         "team_image_url": "https://cdn.sofifa.net/meta/team/238626/180.png",
         "country_name": "India",
         "european_cup": "None",
-        "stars": 0.5
+        "stars": 0.5,
+        "options": []
     }
 ]

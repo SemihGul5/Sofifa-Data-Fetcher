@@ -2,7 +2,7 @@
     {
         "id": 1,
         "player_name": "Rodri",
-        "player_image_url": "https://cdn.sofifa.net/players/231/866/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/231/866/25_240.png",
         "team_name": "Manchester City",
         "country_name": "Spain",
         "age": "28",
@@ -13,7 +13,7 @@
     {
         "id": 2,
         "player_name": "E. Haaland",
-        "player_image_url": "https://cdn.sofifa.net/players/239/085/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/239/085/25_240.png",
         "team_name": "Manchester City",
         "country_name": "Norway",
         "age": "23",
@@ -24,7 +24,7 @@
     {
         "id": 3,
         "player_name": "K. Mbappé",
-        "player_image_url": "https://cdn.sofifa.net/players/231/747/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/231/747/25_240.png",
         "team_name": "Real Madrid",
         "country_name": "France",
         "age": "25",
@@ -35,7 +35,7 @@
     {
         "id": 4,
         "player_name": "K. De Bruyne",
-        "player_image_url": "https://cdn.sofifa.net/players/192/985/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/192/985/25_240.png",
         "team_name": "Manchester City",
         "country_name": "Belgium",
         "age": "33",
@@ -46,7 +46,7 @@
     {
         "id": 5,
         "player_name": "H. Kane",
-        "player_image_url": "https://cdn.sofifa.net/players/202/126/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/202/126/25_240.png",
         "team_name": "FC Bayern München",
         "country_name": "England",
         "age": "30",
@@ -57,7 +57,7 @@
     {
         "id": 6,
         "player_name": "Vini Jr.",
-        "player_image_url": "https://cdn.sofifa.net/players/238/794/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/238/794/25_240.png",
         "team_name": "Real Madrid",
         "country_name": "Brazil",
         "age": "23",
@@ -68,7 +68,7 @@
     {
         "id": 7,
         "player_name": "J. Bellingham",
-        "player_image_url": "https://cdn.sofifa.net/players/252/371/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/252/371/25_240.png",
         "team_name": "Real Madrid",
         "country_name": "England",
         "age": "21",
@@ -79,7 +79,7 @@
     {
         "id": 8,
         "player_name": "M. Ødegaard",
-        "player_image_url": "https://cdn.sofifa.net/players/222/665/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/222/665/25_240.png",
         "team_name": "Arsenal",
         "country_name": "Norway",
         "age": "25",
@@ -90,7 +90,7 @@
     {
         "id": 9,
         "player_name": "V. van Dijk",
-        "player_image_url": "https://cdn.sofifa.net/players/203/376/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/203/376/25_240.png",
         "team_name": "Liverpool",
         "country_name": "Netherlands",
         "age": "32",
@@ -101,7 +101,7 @@
     {
         "id": 10,
         "player_name": "M. Salah",
-        "player_image_url": "https://cdn.sofifa.net/players/209/331/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/209/331/25_240.png",
         "team_name": "Liverpool",
         "country_name": "Egypt",
         "age": "32",
@@ -112,7 +112,7 @@
     {
         "id": 11,
         "player_name": "Alisson",
-        "player_image_url": "https://cdn.sofifa.net/players/212/831/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/212/831/25_240.png",
         "team_name": "Liverpool",
         "country_name": "Brazil",
         "age": "31",
@@ -123,7 +123,7 @@
     {
         "id": 12,
         "player_name": "G. Donnarumma",
-        "player_image_url": "https://cdn.sofifa.net/players/230/621/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/230/621/25_240.png",
         "team_name": "Paris Saint Germain",
         "country_name": "Italy",
         "age": "25",
@@ -134,7 +134,7 @@
     {
         "id": 13,
         "player_name": "L. Martínez",
-        "player_image_url": "https://cdn.sofifa.net/players/231/478/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/231/478/25_240.png",
         "team_name": "Inter",
         "country_name": "Argentina",
         "age": "26",
@@ -145,7 +145,7 @@
     {
         "id": 14,
         "player_name": "M. ter Stegen",
-        "player_image_url": "https://cdn.sofifa.net/players/192/448/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/192/448/25_240.png",
         "team_name": "FC Barcelona",
         "country_name": "Germany",
         "age": "32",
@@ -156,7 +156,7 @@
     {
         "id": 15,
         "player_name": "T. Courtois",
-        "player_image_url": "https://cdn.sofifa.net/players/192/119/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/192/119/25_240.png",
         "team_name": "Real Madrid",
         "country_name": "Belgium",
         "age": "32",
@@ -167,7 +167,7 @@
     {
         "id": 16,
         "player_name": "Ederson",
-        "player_image_url": "https://cdn.sofifa.net/players/210/257/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/210/257/25_240.png",
         "team_name": "Manchester City",
         "country_name": "Brazil",
         "age": "30",
@@ -178,7 +178,7 @@
     {
         "id": 17,
         "player_name": "Bernardo Silva",
-        "player_image_url": "https://cdn.sofifa.net/players/218/667/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/218/667/25_240.png",
         "team_name": "Manchester City",
         "country_name": "Portugal",
         "age": "29",
@@ -189,7 +189,7 @@
     {
         "id": 18,
         "player_name": "P. Foden",
-        "player_image_url": "https://cdn.sofifa.net/players/237/692/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/237/692/25_240.png",
         "team_name": "Manchester City",
         "country_name": "England",
         "age": "24",
@@ -200,7 +200,7 @@
     {
         "id": 19,
         "player_name": "Rúben Dias",
-        "player_image_url": "https://cdn.sofifa.net/players/239/818/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/239/818/25_240.png",
         "team_name": "Manchester City",
         "country_name": "Portugal",
         "age": "27",
@@ -211,7 +211,7 @@
     {
         "id": 20,
         "player_name": "G. Kobel",
-        "player_image_url": "https://cdn.sofifa.net/players/235/073/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/235/073/25_240.png",
         "team_name": "Borussia Dortmund",
         "country_name": "Switzerland",
         "age": "26",
@@ -222,7 +222,7 @@
     {
         "id": 21,
         "player_name": "F. Wirtz",
-        "player_image_url": "https://cdn.sofifa.net/players/256/630/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/256/630/25_240.png",
         "team_name": "Bayer 04 Leverkusen",
         "country_name": "Germany",
         "age": "21",
@@ -233,7 +233,7 @@
     {
         "id": 22,
         "player_name": "A. Griezmann",
-        "player_image_url": "https://cdn.sofifa.net/players/194/765/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/194/765/25_240.png",
         "team_name": "Atlético Madrid",
         "country_name": "France",
         "age": "33",
@@ -244,7 +244,7 @@
     {
         "id": 23,
         "player_name": "J. Oblak",
-        "player_image_url": "https://cdn.sofifa.net/players/200/389/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/200/389/25_240.png",
         "team_name": "Atlético Madrid",
         "country_name": "Slovenia",
         "age": "31",
@@ -255,7 +255,7 @@
     {
         "id": 24,
         "player_name": "R. Lewandowski",
-        "player_image_url": "https://cdn.sofifa.net/players/188/545/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/188/545/25_240.png",
         "team_name": "FC Barcelona",
         "country_name": "Poland",
         "age": "35",
@@ -266,7 +266,7 @@
     {
         "id": 25,
         "player_name": "A. Rüdiger",
-        "player_image_url": "https://cdn.sofifa.net/players/205/452/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/205/452/25_240.png",
         "team_name": "Real Madrid",
         "country_name": "Germany",
         "age": "31",
@@ -277,7 +277,7 @@
     {
         "id": 26,
         "player_name": "F. Valverde",
-        "player_image_url": "https://cdn.sofifa.net/players/239/053/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/239/053/25_240.png",
         "team_name": "Real Madrid",
         "country_name": "Uruguay",
         "age": "25",
@@ -288,7 +288,7 @@
     {
         "id": 27,
         "player_name": "D. Rice",
-        "player_image_url": "https://cdn.sofifa.net/players/234/378/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/234/378/25_240.png",
         "team_name": "Arsenal",
         "country_name": "England",
         "age": "25",
@@ -299,7 +299,7 @@
     {
         "id": 28,
         "player_name": "W. Saliba",
-        "player_image_url": "https://cdn.sofifa.net/players/243/715/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/243/715/25_240.png",
         "team_name": "Arsenal",
         "country_name": "France",
         "age": "23",
@@ -310,7 +310,7 @@
     {
         "id": 29,
         "player_name": "B. Saka",
-        "player_image_url": "https://cdn.sofifa.net/players/246/669/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/246/669/25_240.png",
         "team_name": "Arsenal",
         "country_name": "England",
         "age": "22",
@@ -321,7 +321,7 @@
     {
         "id": 30,
         "player_name": "E. Martínez",
-        "player_image_url": "https://cdn.sofifa.net/players/202/811/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/202/811/25_240.png",
         "team_name": "Aston Villa",
         "country_name": "Argentina",
         "age": "31",
@@ -332,7 +332,7 @@
     {
         "id": 31,
         "player_name": "Bruno Fernandes",
-        "player_image_url": "https://cdn.sofifa.net/players/212/198/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/212/198/25_240.png",
         "team_name": "Manchester United",
         "country_name": "Portugal",
         "age": "29",
@@ -343,7 +343,7 @@
     {
         "id": 32,
         "player_name": "H. Son",
-        "player_image_url": "https://cdn.sofifa.net/players/200/104/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/200/104/25_240.png",
         "team_name": "Tottenham Hotspur",
         "country_name": "Korea Republic",
         "age": "31",
@@ -354,7 +354,7 @@
     {
         "id": 33,
         "player_name": "Marquinhos",
-        "player_image_url": "https://cdn.sofifa.net/players/207/865/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/207/865/25_240.png",
         "team_name": "Paris Saint Germain",
         "country_name": "Brazil",
         "age": "30",
@@ -365,7 +365,7 @@
     {
         "id": 34,
         "player_name": "J. Musiala",
-        "player_image_url": "https://cdn.sofifa.net/players/256/790/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/256/790/25_240.png",
         "team_name": "FC Bayern München",
         "country_name": "Germany",
         "age": "21",
@@ -376,7 +376,7 @@
     {
         "id": 35,
         "player_name": "Y. Sommer",
-        "player_image_url": "https://cdn.sofifa.net/players/177/683/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/177/683/25_240.png",
         "team_name": "Inter",
         "country_name": "Switzerland",
         "age": "35",
@@ -387,7 +387,7 @@
     {
         "id": 36,
         "player_name": "N. Barella",
-        "player_image_url": "https://cdn.sofifa.net/players/224/232/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/224/232/25_240.png",
         "team_name": "Inter",
         "country_name": "Italy",
         "age": "27",
@@ -398,7 +398,7 @@
     {
         "id": 37,
         "player_name": "A. Bastoni",
-        "player_image_url": "https://cdn.sofifa.net/players/237/383/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/237/383/25_240.png",
         "team_name": "Inter",
         "country_name": "Italy",
         "age": "25",
@@ -409,7 +409,7 @@
     {
         "id": 38,
         "player_name": "M. Maignan",
-        "player_image_url": "https://cdn.sofifa.net/players/215/698/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/215/698/25_240.png",
         "team_name": "Milan",
         "country_name": "France",
         "age": "28",
@@ -420,7 +420,7 @@
     {
         "id": 39,
         "player_name": "T. Hernández",
-        "player_image_url": "https://cdn.sofifa.net/players/232/656/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/232/656/25_240.png",
         "team_name": "Milan",
         "country_name": "France",
         "age": "26",
@@ -431,7 +431,7 @@
     {
         "id": 40,
         "player_name": "P. Dybala",
-        "player_image_url": "https://cdn.sofifa.net/players/211/110/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/211/110/25_240.png",
         "team_name": "Roma",
         "country_name": "Argentina",
         "age": "30",
@@ -442,7 +442,7 @@
     {
         "id": 41,
         "player_name": "F. de Jong",
-        "player_image_url": "https://cdn.sofifa.net/players/228/702/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/228/702/25_240.png",
         "team_name": "FC Barcelona",
         "country_name": "Netherlands",
         "age": "27",
@@ -453,7 +453,7 @@
     {
         "id": 42,
         "player_name": "V. Osimhen",
-        "player_image_url": "https://cdn.sofifa.net/players/232/293/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/232/293/25_240.png",
         "team_name": "Galatasaray",
         "country_name": "Nigeria",
         "age": "25",
@@ -464,7 +464,7 @@
     {
         "id": 43,
         "player_name": "Gabriel",
-        "player_image_url": "https://cdn.sofifa.net/players/232/580/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/232/580/25_240.png",
         "team_name": "Arsenal",
         "country_name": "Brazil",
         "age": "26",
@@ -475,7 +475,7 @@
     {
         "id": 44,
         "player_name": "C. Palmer",
-        "player_image_url": "https://cdn.sofifa.net/players/257/534/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/257/534/25_240.png",
         "team_name": "Chelsea",
         "country_name": "England",
         "age": "22",
@@ -486,7 +486,7 @@
     {
         "id": 45,
         "player_name": "T. Alexander-Arnold",
-        "player_image_url": "https://cdn.sofifa.net/players/231/281/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/231/281/25_240.png",
         "team_name": "Liverpool",
         "country_name": "England",
         "age": "25",
@@ -497,7 +497,7 @@
     {
         "id": 46,
         "player_name": "A. Mac Allister",
-        "player_image_url": "https://cdn.sofifa.net/players/239/837/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/239/837/25_240.png",
         "team_name": "Liverpool",
         "country_name": "Argentina",
         "age": "25",
@@ -508,7 +508,7 @@
     {
         "id": 47,
         "player_name": "İ. Gündoğan",
-        "player_image_url": "https://cdn.sofifa.net/players/186/942/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/186/942/25_240.png",
         "team_name": "Manchester City",
         "country_name": "Germany",
         "age": "33",
@@ -519,7 +519,7 @@
     {
         "id": 48,
         "player_name": "O. Dembélé",
-        "player_image_url": "https://cdn.sofifa.net/players/231/443/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/231/443/25_240.png",
         "team_name": "Paris Saint Germain",
         "country_name": "France",
         "age": "27",
@@ -530,7 +530,7 @@
     {
         "id": 49,
         "player_name": "M. Neuer",
-        "player_image_url": "https://cdn.sofifa.net/players/167/495/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/167/495/25_240.png",
         "team_name": "FC Bayern München",
         "country_name": "Germany",
         "age": "38",
@@ -541,7 +541,7 @@
     {
         "id": 50,
         "player_name": "J. Kimmich",
-        "player_image_url": "https://cdn.sofifa.net/players/212/622/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/212/622/25_240.png",
         "team_name": "FC Bayern München",
         "country_name": "Germany",
         "age": "29",
@@ -552,7 +552,7 @@
     {
         "id": 51,
         "player_name": "G. Xhaka",
-        "player_image_url": "https://cdn.sofifa.net/players/199/503/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/199/503/25_240.png",
         "team_name": "Bayer 04 Leverkusen",
         "country_name": "Switzerland",
         "age": "31",
@@ -563,7 +563,7 @@
     {
         "id": 52,
         "player_name": "Grimaldo",
-        "player_image_url": "https://cdn.sofifa.net/players/210/035/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/210/035/25_240.png",
         "team_name": "Bayer 04 Leverkusen",
         "country_name": "Spain",
         "age": "28",
@@ -574,7 +574,7 @@
     {
         "id": 53,
         "player_name": "J. Tah",
-        "player_image_url": "https://cdn.sofifa.net/players/213/331/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/213/331/25_240.png",
         "team_name": "Bayer 04 Leverkusen",
         "country_name": "Germany",
         "age": "28",
@@ -585,7 +585,7 @@
     {
         "id": 54,
         "player_name": "H. Çalhanoğlu",
-        "player_image_url": "https://cdn.sofifa.net/players/208/128/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/208/128/25_240.png",
         "team_name": "Inter",
         "country_name": "Türkiye",
         "age": "30",
@@ -596,7 +596,7 @@
     {
         "id": 55,
         "player_name": "Bremer",
-        "player_image_url": "https://cdn.sofifa.net/players/239/580/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/239/580/25_240.png",
         "team_name": "Juventus",
         "country_name": "Brazil",
         "age": "27",
@@ -607,7 +607,7 @@
     {
         "id": 56,
         "player_name": "Rafael Leão",
-        "player_image_url": "https://cdn.sofifa.net/players/241/721/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/241/721/25_240.png",
         "team_name": "Milan",
         "country_name": "Portugal",
         "age": "25",
@@ -618,7 +618,7 @@
     {
         "id": 57,
         "player_name": "Pedri",
-        "player_image_url": "https://cdn.sofifa.net/players/251/854/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/251/854/25_240.png",
         "team_name": "FC Barcelona",
         "country_name": "Spain",
         "age": "21",
@@ -629,7 +629,7 @@
     {
         "id": 58,
         "player_name": "L. Modrić",
-        "player_image_url": "https://cdn.sofifa.net/players/177/003/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/177/003/25_240.png",
         "team_name": "Real Madrid",
         "country_name": "Croatia",
         "age": "38",
@@ -640,7 +640,7 @@
     {
         "id": 59,
         "player_name": "Carvajal",
-        "player_image_url": "https://cdn.sofifa.net/players/204/963/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/204/963/25_240.png",
         "team_name": "Real Madrid",
         "country_name": "Spain",
         "age": "32",
@@ -651,7 +651,7 @@
     {
         "id": 60,
         "player_name": "Rodrygo",
-        "player_image_url": "https://cdn.sofifa.net/players/243/812/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/243/812/25_240.png",
         "team_name": "Real Madrid",
         "country_name": "Brazil",
         "age": "23",
@@ -662,7 +662,7 @@
     {
         "id": 61,
         "player_name": "Unai Simón",
-        "player_image_url": "https://cdn.sofifa.net/players/230/869/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/230/869/25_240.png",
         "team_name": "Athletic Club",
         "country_name": "Spain",
         "age": "27",
@@ -673,7 +673,7 @@
     {
         "id": 62,
         "player_name": "Mikel Merino",
-        "player_image_url": "https://cdn.sofifa.net/players/225/193/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/225/193/25_240.png",
         "team_name": "Arsenal",
         "country_name": "Spain",
         "age": "28",
@@ -684,7 +684,7 @@
     {
         "id": 63,
         "player_name": "O. Watkins",
-        "player_image_url": "https://cdn.sofifa.net/players/221/697/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/221/697/25_240.png",
         "team_name": "Aston Villa",
         "country_name": "England",
         "age": "28",
@@ -695,7 +695,7 @@
     {
         "id": 64,
         "player_name": "A. Robertson",
-        "player_image_url": "https://cdn.sofifa.net/players/216/267/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/216/267/25_240.png",
         "team_name": "Liverpool",
         "country_name": "Scotland",
         "age": "30",
@@ -706,7 +706,7 @@
     {
         "id": 65,
         "player_name": "Diogo Jota",
-        "player_image_url": "https://cdn.sofifa.net/players/224/458/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/224/458/25_240.png",
         "team_name": "Liverpool",
         "country_name": "Portugal",
         "age": "27",
@@ -717,7 +717,7 @@
     {
         "id": 66,
         "player_name": "J. Stones",
-        "player_image_url": "https://cdn.sofifa.net/players/203/574/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/203/574/25_240.png",
         "team_name": "Manchester City",
         "country_name": "England",
         "age": "30",
@@ -728,7 +728,7 @@
     {
         "id": 67,
         "player_name": "A. Isak",
-        "player_image_url": "https://cdn.sofifa.net/players/233/731/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/233/731/25_240.png",
         "team_name": "Newcastle United",
         "country_name": "Sweden",
         "age": "24",
@@ -739,7 +739,7 @@
     {
         "id": 68,
         "player_name": "S. Tonali",
-        "player_image_url": "https://cdn.sofifa.net/players/241/096/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/241/096/25_240.png",
         "team_name": "Newcastle United",
         "country_name": "Italy",
         "age": "24",
@@ -750,7 +750,7 @@
     {
         "id": 69,
         "player_name": "Bruno Guimarães",
-        "player_image_url": "https://cdn.sofifa.net/players/247/851/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/247/851/25_240.png",
         "team_name": "Newcastle United",
         "country_name": "Brazil",
         "age": "26",
@@ -761,7 +761,7 @@
     {
         "id": 70,
         "player_name": "J. Maddison",
-        "player_image_url": "https://cdn.sofifa.net/players/220/697/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/220/697/25_240.png",
         "team_name": "Tottenham Hotspur",
         "country_name": "England",
         "age": "27",
@@ -772,7 +772,7 @@
     {
         "id": 71,
         "player_name": "Vitinha",
-        "player_image_url": "https://cdn.sofifa.net/players/255/253/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/255/253/25_240.png",
         "team_name": "Paris Saint Germain",
         "country_name": "Portugal",
         "age": "24",
@@ -783,7 +783,7 @@
     {
         "id": 72,
         "player_name": "L. Sané",
-        "player_image_url": "https://cdn.sofifa.net/players/222/492/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/222/492/25_240.png",
         "team_name": "FC Bayern München",
         "country_name": "Germany",
         "age": "28",
@@ -794,7 +794,7 @@
     {
         "id": 73,
         "player_name": "Palhinha",
-        "player_image_url": "https://cdn.sofifa.net/players/229/391/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/229/391/25_240.png",
         "team_name": "FC Bayern München",
         "country_name": "Portugal",
         "age": "28",
@@ -805,7 +805,7 @@
     {
         "id": 74,
         "player_name": "J. Brandt",
-        "player_image_url": "https://cdn.sofifa.net/players/212/194/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/212/194/25_240.png",
         "team_name": "Borussia Dortmund",
         "country_name": "Germany",
         "age": "28",
@@ -816,7 +816,7 @@
     {
         "id": 75,
         "player_name": "N. Schlotterbeck",
-        "player_image_url": "https://cdn.sofifa.net/players/247/819/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/247/819/25_240.png",
         "team_name": "Borussia Dortmund",
         "country_name": "Germany",
         "age": "24",
@@ -827,7 +827,7 @@
     {
         "id": 76,
         "player_name": "L. Openda",
-        "player_image_url": "https://cdn.sofifa.net/players/243/580/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/243/580/25_240.png",
         "team_name": "RB Leipzig",
         "country_name": "Belgium",
         "age": "24",
@@ -838,7 +838,7 @@
     {
         "id": 77,
         "player_name": "K. Kvaratskhelia",
-        "player_image_url": "https://cdn.sofifa.net/players/247/635/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/247/635/25_240.png",
         "team_name": "Napoli",
         "country_name": "Georgia",
         "age": "23",
@@ -849,7 +849,7 @@
     {
         "id": 78,
         "player_name": "M. Hummels",
-        "player_image_url": "https://cdn.sofifa.net/players/178/603/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/178/603/25_240.png",
         "team_name": "Roma",
         "country_name": "Germany",
         "age": "35",
@@ -860,7 +860,7 @@
     {
         "id": 79,
         "player_name": "W. Szczęsny",
-        "player_image_url": "https://cdn.sofifa.net/players/186/153/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/186/153/25_240.png",
         "team_name": "FC Barcelona",
         "country_name": "Poland",
         "age": "34",
@@ -871,7 +871,7 @@
     {
         "id": 80,
         "player_name": "J. Koundé",
-        "player_image_url": "https://cdn.sofifa.net/players/241/486/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/241/486/25_240.png",
         "team_name": "FC Barcelona",
         "country_name": "France",
         "age": "25",
@@ -882,7 +882,7 @@
     {
         "id": 81,
         "player_name": "R. Araujo",
-        "player_image_url": "https://cdn.sofifa.net/players/253/163/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/253/163/25_240.png",
         "team_name": "FC Barcelona",
         "country_name": "Uruguay",
         "age": "25",
@@ -893,7 +893,7 @@
     {
         "id": 82,
         "player_name": "D. Alaba",
-        "player_image_url": "https://cdn.sofifa.net/players/197/445/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/197/445/25_240.png",
         "team_name": "Real Madrid",
         "country_name": "Austria",
         "age": "32",
@@ -904,7 +904,7 @@
     {
         "id": 83,
         "player_name": "Éder Militão",
-        "player_image_url": "https://cdn.sofifa.net/players/240/130/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/240/130/25_240.png",
         "team_name": "Real Madrid",
         "country_name": "Brazil",
         "age": "26",
@@ -915,7 +915,7 @@
     {
         "id": 84,
         "player_name": "A. Tchouaméni",
-        "player_image_url": "https://cdn.sofifa.net/players/241/637/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/241/637/25_240.png",
         "team_name": "Real Madrid",
         "country_name": "France",
         "age": "24",
@@ -926,7 +926,7 @@
     {
         "id": 85,
         "player_name": "Nico Williams",
-        "player_image_url": "https://cdn.sofifa.net/players/256/516/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/256/516/25_240.png",
         "team_name": "Athletic Club",
         "country_name": "Spain",
         "age": "21",
@@ -937,7 +937,7 @@
     {
         "id": 86,
         "player_name": "G. Mamardashvili",
-        "player_image_url": "https://cdn.sofifa.net/players/262/621/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/262/621/25_240.png",
         "team_name": "Valencia",
         "country_name": "Georgia",
         "age": "23",
@@ -948,7 +948,7 @@
     {
         "id": 87,
         "player_name": "David Raya",
-        "player_image_url": "https://cdn.sofifa.net/players/220/901/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/220/901/25_240.png",
         "team_name": "Arsenal",
         "country_name": "Spain",
         "age": "28",
@@ -959,7 +959,7 @@
     {
         "id": 88,
         "player_name": "B. White",
-        "player_image_url": "https://cdn.sofifa.net/players/231/936/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/231/936/25_240.png",
         "team_name": "Arsenal",
         "country_name": "England",
         "age": "26",
@@ -970,7 +970,7 @@
     {
         "id": 89,
         "player_name": "C. Nkunku",
-        "player_image_url": "https://cdn.sofifa.net/players/232/411/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/232/411/25_240.png",
         "team_name": "Chelsea",
         "country_name": "France",
         "age": "26",
@@ -981,7 +981,7 @@
     {
         "id": 90,
         "player_name": "F. Chiesa",
-        "player_image_url": "https://cdn.sofifa.net/players/235/805/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/235/805/25_240.png",
         "team_name": "Liverpool",
         "country_name": "Italy",
         "age": "26",
@@ -992,7 +992,7 @@
     {
         "id": 91,
         "player_name": "L. Díaz",
-        "player_image_url": "https://cdn.sofifa.net/players/241/084/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/241/084/25_240.png",
         "team_name": "Liverpool",
         "country_name": "Colombia",
         "age": "27",
@@ -1003,7 +1003,7 @@
     {
         "id": 92,
         "player_name": "K. Walker",
-        "player_image_url": "https://cdn.sofifa.net/players/188/377/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/188/377/25_240.png",
         "team_name": "Manchester City",
         "country_name": "England",
         "age": "34",
@@ -1014,7 +1014,7 @@
     {
         "id": 93,
         "player_name": "J. Grealish",
-        "player_image_url": "https://cdn.sofifa.net/players/206/517/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/206/517/25_240.png",
         "team_name": "Manchester City",
         "country_name": "England",
         "age": "28",
@@ -1025,7 +1025,7 @@
     {
         "id": 94,
         "player_name": "N. Aké",
-        "player_image_url": "https://cdn.sofifa.net/players/208/920/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/208/920/25_240.png",
         "team_name": "Manchester City",
         "country_name": "Netherlands",
         "age": "29",
@@ -1036,7 +1036,7 @@
     {
         "id": 95,
         "player_name": "M. Akanji",
-        "player_image_url": "https://cdn.sofifa.net/players/229/237/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/229/237/25_240.png",
         "team_name": "Manchester City",
         "country_name": "Switzerland",
         "age": "28",
@@ -1047,7 +1047,7 @@
     {
         "id": 96,
         "player_name": "J. Gvardiol",
-        "player_image_url": "https://cdn.sofifa.net/players/251/517/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/251/517/25_240.png",
         "team_name": "Manchester City",
         "country_name": "Croatia",
         "age": "22",
@@ -1058,7 +1058,7 @@
     {
         "id": 97,
         "player_name": "M. de Ligt",
-        "player_image_url": "https://cdn.sofifa.net/players/235/243/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/235/243/25_240.png",
         "team_name": "Manchester United",
         "country_name": "Netherlands",
         "age": "24",
@@ -1069,7 +1069,7 @@
     {
         "id": 98,
         "player_name": "L. Martínez",
-        "player_image_url": "https://cdn.sofifa.net/players/239/301/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/239/301/25_240.png",
         "team_name": "Manchester United",
         "country_name": "Argentina",
         "age": "26",
@@ -1080,7 +1080,7 @@
     {
         "id": 99,
         "player_name": "C. Romero",
-        "player_image_url": "https://cdn.sofifa.net/players/232/488/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/232/488/25_240.png",
         "team_name": "Tottenham Hotspur",
         "country_name": "Argentina",
         "age": "26",
@@ -1091,7 +1091,7 @@
     {
         "id": 100,
         "player_name": "G. Vicario",
-        "player_image_url": "https://cdn.sofifa.net/players/240/091/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/240/091/25_240.png",
         "team_name": "Tottenham Hotspur",
         "country_name": "Italy",
         "age": "27",
@@ -1102,7 +1102,7 @@
     {
         "id": 101,
         "player_name": "A. Hakimi",
-        "player_image_url": "https://cdn.sofifa.net/players/235/212/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/235/212/25_240.png",
         "team_name": "Paris Saint Germain",
         "country_name": "Morocco",
         "age": "25",
@@ -1113,7 +1113,7 @@
     {
         "id": 102,
         "player_name": "K. Coman",
-        "player_image_url": "https://cdn.sofifa.net/players/213/345/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/213/345/25_240.png",
         "team_name": "FC Bayern München",
         "country_name": "France",
         "age": "28",
@@ -1124,7 +1124,7 @@
     {
         "id": 103,
         "player_name": "M. Sabitzer",
-        "player_image_url": "https://cdn.sofifa.net/players/204/923/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/204/923/25_240.png",
         "team_name": "Borussia Dortmund",
         "country_name": "Austria",
         "age": "30",
@@ -1135,7 +1135,7 @@
     {
         "id": 104,
         "player_name": "S. Guirassy",
-        "player_image_url": "https://cdn.sofifa.net/players/215/441/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/215/441/25_240.png",
         "team_name": "Borussia Dortmund",
         "country_name": "Guinea",
         "age": "28",
@@ -1146,7 +1146,7 @@
     {
         "id": 105,
         "player_name": "L. Hrádecký",
-        "player_image_url": "https://cdn.sofifa.net/players/190/941/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/190/941/25_240.png",
         "team_name": "Bayer 04 Leverkusen",
         "country_name": "Finland",
         "age": "34",
@@ -1157,7 +1157,7 @@
     {
         "id": 106,
         "player_name": "Aleix García",
-        "player_image_url": "https://cdn.sofifa.net/players/228/813/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/228/813/25_240.png",
         "team_name": "Bayer 04 Leverkusen",
         "country_name": "Spain",
         "age": "27",
@@ -1168,7 +1168,7 @@
     {
         "id": 107,
         "player_name": "E. Palacios",
-        "player_image_url": "https://cdn.sofifa.net/players/231/521/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/231/521/25_240.png",
         "team_name": "Bayer 04 Leverkusen",
         "country_name": "Argentina",
         "age": "25",
@@ -1179,7 +1179,7 @@
     {
         "id": 108,
         "player_name": "J. Frimpong",
-        "player_image_url": "https://cdn.sofifa.net/players/253/149/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/253/149/25_240.png",
         "team_name": "Bayer 04 Leverkusen",
         "country_name": "Netherlands",
         "age": "23",
@@ -1190,7 +1190,7 @@
     {
         "id": 109,
         "player_name": "F. Acerbi",
-        "player_image_url": "https://cdn.sofifa.net/players/199/845/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/199/845/25_240.png",
         "team_name": "Inter",
         "country_name": "Italy",
         "age": "36",
@@ -1201,7 +1201,7 @@
     {
         "id": 110,
         "player_name": "F. Dimarco",
-        "player_image_url": "https://cdn.sofifa.net/players/226/268/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/226/268/25_240.png",
         "team_name": "Inter",
         "country_name": "Italy",
         "age": "26",
@@ -1212,7 +1212,7 @@
     {
         "id": 111,
         "player_name": "B. Pavard",
-        "player_image_url": "https://cdn.sofifa.net/players/226/851/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/226/851/25_240.png",
         "team_name": "Inter",
         "country_name": "France",
         "age": "28",
@@ -1223,7 +1223,7 @@
     {
         "id": 112,
         "player_name": "M. Thuram",
-        "player_image_url": "https://cdn.sofifa.net/players/228/093/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/228/093/25_240.png",
         "team_name": "Inter",
         "country_name": "France",
         "age": "26",
@@ -1234,7 +1234,7 @@
     {
         "id": 113,
         "player_name": "D. Vlahović",
-        "player_image_url": "https://cdn.sofifa.net/players/246/430/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/246/430/25_240.png",
         "team_name": "Juventus",
         "country_name": "Serbia",
         "age": "24",
@@ -1245,7 +1245,7 @@
     {
         "id": 114,
         "player_name": "C. Pulisic",
-        "player_image_url": "https://cdn.sofifa.net/players/227/796/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/227/796/25_240.png",
         "team_name": "Milan",
         "country_name": "United States",
         "age": "25",
@@ -1256,7 +1256,7 @@
     {
         "id": 115,
         "player_name": "A. Dovbyk",
-        "player_image_url": "https://cdn.sofifa.net/players/242/458/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/242/458/25_240.png",
         "team_name": "Roma",
         "country_name": "Ukraine",
         "age": "27",
@@ -1267,7 +1267,7 @@
     {
         "id": 116,
         "player_name": "De Gea",
-        "player_image_url": "https://cdn.sofifa.net/players/193/080/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/193/080/25_240.png",
         "team_name": "Fiorentina",
         "country_name": "Spain",
         "age": "33",
@@ -1278,7 +1278,7 @@
     {
         "id": 117,
         "player_name": "R. De Paul",
-        "player_image_url": "https://cdn.sofifa.net/players/212/616/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/212/616/25_240.png",
         "team_name": "Atlético Madrid",
         "country_name": "Argentina",
         "age": "30",
@@ -1289,7 +1289,7 @@
     {
         "id": 118,
         "player_name": "J. Alvarez",
-        "player_image_url": "https://cdn.sofifa.net/players/246/191/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/246/191/25_240.png",
         "team_name": "Atlético Madrid",
         "country_name": "Argentina",
         "age": "24",
@@ -1300,7 +1300,7 @@
     {
         "id": 119,
         "player_name": "Raphinha",
-        "player_image_url": "https://cdn.sofifa.net/players/233/419/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/233/419/25_240.png",
         "team_name": "FC Barcelona",
         "country_name": "Brazil",
         "age": "27",
@@ -1311,7 +1311,7 @@
     {
         "id": 120,
         "player_name": "Dani Olmo",
-        "player_image_url": "https://cdn.sofifa.net/players/244/260/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/244/260/25_240.png",
         "team_name": "FC Barcelona",
         "country_name": "Spain",
         "age": "26",
@@ -1322,7 +1322,7 @@
     {
         "id": 121,
         "player_name": "F. Mendy",
-        "player_image_url": "https://cdn.sofifa.net/players/228/618/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/228/618/25_240.png",
         "team_name": "Real Madrid",
         "country_name": "France",
         "age": "29",
@@ -1333,7 +1333,7 @@
     {
         "id": 122,
         "player_name": "Iago Aspas",
-        "player_image_url": "https://cdn.sofifa.net/players/192/629/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/192/629/25_240.png",
         "team_name": "Celta de Vigo",
         "country_name": "Spain",
         "age": "36",
@@ -1344,7 +1344,7 @@
     {
         "id": 123,
         "player_name": "Álex Remiro",
-        "player_image_url": "https://cdn.sofifa.net/players/227/127/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/227/127/25_240.png",
         "team_name": "Real Sociedad",
         "country_name": "Spain",
         "age": "29",
@@ -1355,7 +1355,7 @@
     {
         "id": 124,
         "player_name": "Diogo Costa",
-        "player_image_url": "https://cdn.sofifa.net/players/234/577/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/234/577/25_240.png",
         "team_name": "Porto",
         "country_name": "Portugal",
         "age": "24",
@@ -1366,7 +1366,7 @@
     {
         "id": 125,
         "player_name": "V. Gyökeres",
-        "player_image_url": "https://cdn.sofifa.net/players/241/651/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/241/651/25_240.png",
         "team_name": "Sporting CP",
         "country_name": "Sweden",
         "age": "26",
@@ -1377,7 +1377,7 @@
     {
         "id": 126,
         "player_name": "L. Trossard",
-        "player_image_url": "https://cdn.sofifa.net/players/207/421/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/207/421/25_240.png",
         "team_name": "Arsenal",
         "country_name": "Belgium",
         "age": "29",
@@ -1388,7 +1388,7 @@
     {
         "id": 127,
         "player_name": "K. Havertz",
-        "player_image_url": "https://cdn.sofifa.net/players/235/790/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/235/790/25_240.png",
         "team_name": "Arsenal",
         "country_name": "Germany",
         "age": "25",
@@ -1399,7 +1399,7 @@
     {
         "id": 128,
         "player_name": "Gabriel Martinelli",
-        "player_image_url": "https://cdn.sofifa.net/players/251/566/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/251/566/25_240.png",
         "team_name": "Arsenal",
         "country_name": "Brazil",
         "age": "23",
@@ -1410,7 +1410,7 @@
     {
         "id": 129,
         "player_name": "M. Caicedo",
-        "player_image_url": "https://cdn.sofifa.net/players/256/079/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/256/079/25_240.png",
         "team_name": "Chelsea",
         "country_name": "Ecuador",
         "age": "22",
@@ -1421,7 +1421,7 @@
     {
         "id": 130,
         "player_name": "J. Pickford",
-        "player_image_url": "https://cdn.sofifa.net/players/204/935/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/204/935/25_240.png",
         "team_name": "Everton",
         "country_name": "England",
         "age": "30",
@@ -1432,7 +1432,7 @@
     {
         "id": 131,
         "player_name": "I. Konaté",
-        "player_image_url": "https://cdn.sofifa.net/players/237/678/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/237/678/25_240.png",
         "team_name": "Liverpool",
         "country_name": "France",
         "age": "25",
@@ -1443,7 +1443,7 @@
     {
         "id": 132,
         "player_name": "C. Gakpo",
-        "player_image_url": "https://cdn.sofifa.net/players/242/516/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/242/516/25_240.png",
         "team_name": "Liverpool",
         "country_name": "Netherlands",
         "age": "25",
@@ -1454,7 +1454,7 @@
     {
         "id": 133,
         "player_name": "M. Kovačić",
-        "player_image_url": "https://cdn.sofifa.net/players/207/410/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/207/410/25_240.png",
         "team_name": "Manchester City",
         "country_name": "Croatia",
         "age": "30",
@@ -1465,7 +1465,7 @@
     {
         "id": 134,
         "player_name": "Casemiro",
-        "player_image_url": "https://cdn.sofifa.net/players/200/145/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/200/145/25_240.png",
         "team_name": "Manchester United",
         "country_name": "Brazil",
         "age": "32",
@@ -1476,7 +1476,7 @@
     {
         "id": 135,
         "player_name": "A. Onana",
-        "player_image_url": "https://cdn.sofifa.net/players/226/753/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/226/753/25_240.png",
         "team_name": "Manchester United",
         "country_name": "Cameroon",
         "age": "28",
@@ -1487,7 +1487,7 @@
     {
         "id": 136,
         "player_name": "K. Trippier",
-        "player_image_url": "https://cdn.sofifa.net/players/186/345/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/186/345/25_240.png",
         "team_name": "Newcastle United",
         "country_name": "England",
         "age": "33",
@@ -1498,7 +1498,7 @@
     {
         "id": 137,
         "player_name": "N. Pope",
-        "player_image_url": "https://cdn.sofifa.net/players/203/841/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/203/841/25_240.png",
         "team_name": "Newcastle United",
         "country_name": "England",
         "age": "32",
@@ -1509,7 +1509,7 @@
     {
         "id": 138,
         "player_name": "Pedro Porro",
-        "player_image_url": "https://cdn.sofifa.net/players/243/576/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/243/576/25_240.png",
         "team_name": "Tottenham Hotspur",
         "country_name": "Spain",
         "age": "24",
@@ -1520,7 +1520,7 @@
     {
         "id": 139,
         "player_name": "M. van de Ven",
-        "player_image_url": "https://cdn.sofifa.net/players/264/453/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/264/453/25_240.png",
         "team_name": "Tottenham Hotspur",
         "country_name": "Netherlands",
         "age": "23",
@@ -1531,7 +1531,7 @@
     {
         "id": 140,
         "player_name": "L. Hernández",
-        "player_image_url": "https://cdn.sofifa.net/players/220/814/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/220/814/25_240.png",
         "team_name": "Paris Saint Germain",
         "country_name": "France",
         "age": "28",
@@ -1542,7 +1542,7 @@
     {
         "id": 141,
         "player_name": "Nuno Mendes",
-        "player_image_url": "https://cdn.sofifa.net/players/252/145/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/252/145/25_240.png",
         "team_name": "Paris Saint Germain",
         "country_name": "Portugal",
         "age": "22",
@@ -1553,7 +1553,7 @@
     {
         "id": 142,
         "player_name": "A. Rabiot",
-        "player_image_url": "https://cdn.sofifa.net/players/210/008/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/210/008/25_240.png",
         "team_name": "Olympique de Marseille",
         "country_name": "France",
         "age": "29",
@@ -1564,7 +1564,7 @@
     {
         "id": 143,
         "player_name": "L. Goretzka",
-        "player_image_url": "https://cdn.sofifa.net/players/209/658/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/209/658/25_240.png",
         "team_name": "FC Bayern München",
         "country_name": "Germany",
         "age": "29",
@@ -1575,7 +1575,7 @@
     {
         "id": 144,
         "player_name": "K. Laimer",
-        "player_image_url": "https://cdn.sofifa.net/players/225/375/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/225/375/25_240.png",
         "team_name": "FC Bayern München",
         "country_name": "Austria",
         "age": "27",
@@ -1586,7 +1586,7 @@
     {
         "id": 145,
         "player_name": "Kim Min Jae",
-        "player_image_url": "https://cdn.sofifa.net/players/237/086/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/237/086/25_240.png",
         "team_name": "FC Bayern München",
         "country_name": "Korea Republic",
         "age": "27",
@@ -1597,7 +1597,7 @@
     {
         "id": 146,
         "player_name": "D. Malen",
-        "player_image_url": "https://cdn.sofifa.net/players/231/447/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/231/447/25_240.png",
         "team_name": "Borussia Dortmund",
         "country_name": "Netherlands",
         "age": "25",
@@ -1608,7 +1608,7 @@
     {
         "id": 147,
         "player_name": "R. Andrich",
-        "player_image_url": "https://cdn.sofifa.net/players/212/242/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/212/242/25_240.png",
         "team_name": "Bayer 04 Leverkusen",
         "country_name": "Germany",
         "age": "29",
@@ -1619,7 +1619,7 @@
     {
         "id": 148,
         "player_name": "E. Tapsoba",
-        "player_image_url": "https://cdn.sofifa.net/players/247/263/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/247/263/25_240.png",
         "team_name": "Bayer 04 Leverkusen",
         "country_name": "Burkina Faso",
         "age": "25",
@@ -1630,7 +1630,7 @@
     {
         "id": 149,
         "player_name": "P. Gulácsi",
-        "player_image_url": "https://cdn.sofifa.net/players/185/122/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/185/122/25_240.png",
         "team_name": "RB Leipzig",
         "country_name": "Hungary",
         "age": "34",
@@ -1641,7 +1641,7 @@
     {
         "id": 150,
         "player_name": "W. Orban",
-        "player_image_url": "https://cdn.sofifa.net/players/204/638/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/204/638/25_240.png",
         "team_name": "RB Leipzig",
         "country_name": "Hungary",
         "age": "31",
@@ -1652,7 +1652,7 @@
     {
         "id": 151,
         "player_name": "X. Simons",
-        "player_image_url": "https://cdn.sofifa.net/players/245/367/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/245/367/25_240.png",
         "team_name": "RB Leipzig",
         "country_name": "Netherlands",
         "age": "21",
@@ -1663,7 +1663,7 @@
     {
         "id": 152,
         "player_name": "H. Mkhitaryan",
-        "player_image_url": "https://cdn.sofifa.net/players/192/883/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/192/883/25_240.png",
         "team_name": "Inter",
         "country_name": "Armenia",
         "age": "35",
@@ -1674,7 +1674,7 @@
     {
         "id": 153,
         "player_name": "S. de Vrij",
-        "player_image_url": "https://cdn.sofifa.net/players/198/176/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/198/176/25_240.png",
         "team_name": "Inter",
         "country_name": "Netherlands",
         "age": "32",
@@ -1685,7 +1685,7 @@
     {
         "id": 154,
         "player_name": "M. Locatelli",
-        "player_image_url": "https://cdn.sofifa.net/players/222/077/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/222/077/25_240.png",
         "team_name": "Juventus",
         "country_name": "Italy",
         "age": "26",
@@ -1696,7 +1696,7 @@
     {
         "id": 155,
         "player_name": "Douglas Luiz",
-        "player_image_url": "https://cdn.sofifa.net/players/236/499/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/236/499/25_240.png",
         "team_name": "Juventus",
         "country_name": "Brazil",
         "age": "26",
@@ -1707,7 +1707,7 @@
     {
         "id": 156,
         "player_name": "T. Koopmeiners",
-        "player_image_url": "https://cdn.sofifa.net/players/240/679/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/240/679/25_240.png",
         "team_name": "Juventus",
         "country_name": "Netherlands",
         "age": "26",
@@ -1718,7 +1718,7 @@
     {
         "id": 157,
         "player_name": "A. Romagnoli",
-        "player_image_url": "https://cdn.sofifa.net/players/210/413/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/210/413/25_240.png",
         "team_name": "Lazio",
         "country_name": "Italy",
         "age": "29",
@@ -1729,7 +1729,7 @@
     {
         "id": 158,
         "player_name": "M. Zaccagni",
-        "player_image_url": "https://cdn.sofifa.net/players/220/502/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/220/502/25_240.png",
         "team_name": "Lazio",
         "country_name": "Italy",
         "age": "29",
@@ -1740,7 +1740,7 @@
     {
         "id": 159,
         "player_name": "I. Provedel",
-        "player_image_url": "https://cdn.sofifa.net/players/224/987/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/224/987/25_240.png",
         "team_name": "Lazio",
         "country_name": "Italy",
         "age": "30",
@@ -1751,7 +1751,7 @@
     {
         "id": 160,
         "player_name": "Morata",
-        "player_image_url": "https://cdn.sofifa.net/players/201/153/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/201/153/25_240.png",
         "team_name": "Milan",
         "country_name": "Spain",
         "age": "31",
@@ -1762,7 +1762,7 @@
     {
         "id": 161,
         "player_name": "I. Bennacer",
-        "player_image_url": "https://cdn.sofifa.net/players/226/754/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/226/754/25_240.png",
         "team_name": "Milan",
         "country_name": "Algeria",
         "age": "26",
@@ -1773,7 +1773,7 @@
     {
         "id": 162,
         "player_name": "F. Tomori",
-        "player_image_url": "https://cdn.sofifa.net/players/232/756/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/232/756/25_240.png",
         "team_name": "Milan",
         "country_name": "England",
         "age": "26",
@@ -1784,7 +1784,7 @@
     {
         "id": 163,
         "player_name": "L. Pellegrini",
-        "player_image_url": "https://cdn.sofifa.net/players/228/251/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/228/251/25_240.png",
         "team_name": "Roma",
         "country_name": "Italy",
         "age": "28",
@@ -1795,7 +1795,7 @@
     {
         "id": 164,
         "player_name": "G. Mancini",
-        "player_image_url": "https://cdn.sofifa.net/players/229/582/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/229/582/25_240.png",
         "team_name": "Roma",
         "country_name": "Italy",
         "age": "28",
@@ -1806,7 +1806,7 @@
     {
         "id": 165,
         "player_name": "D. Zapata",
-        "player_image_url": "https://cdn.sofifa.net/players/215/333/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/215/333/25_240.png",
         "team_name": "Torino",
         "country_name": "Colombia",
         "age": "33",
@@ -1817,7 +1817,7 @@
     {
         "id": 166,
         "player_name": "Koke",
-        "player_image_url": "https://cdn.sofifa.net/players/193/747/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/193/747/25_240.png",
         "team_name": "Atlético Madrid",
         "country_name": "Spain",
         "age": "32",
@@ -1828,7 +1828,7 @@
     {
         "id": 167,
         "player_name": "J. Giménez",
-        "player_image_url": "https://cdn.sofifa.net/players/216/460/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/216/460/25_240.png",
         "team_name": "Atlético Madrid",
         "country_name": "Uruguay",
         "age": "29",
@@ -1839,7 +1839,7 @@
     {
         "id": 168,
         "player_name": "Marcos Llorente",
-        "player_image_url": "https://cdn.sofifa.net/players/226/161/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/226/161/25_240.png",
         "team_name": "Atlético Madrid",
         "country_name": "Spain",
         "age": "29",
@@ -1850,7 +1850,7 @@
     {
         "id": 169,
         "player_name": "R. Le Normand",
-        "player_image_url": "https://cdn.sofifa.net/players/233/486/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/233/486/25_240.png",
         "team_name": "Atlético Madrid",
         "country_name": "Spain",
         "age": "27",
@@ -1861,7 +1861,7 @@
     {
         "id": 170,
         "player_name": "A. Christensen",
-        "player_image_url": "https://cdn.sofifa.net/players/213/661/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/213/661/25_240.png",
         "team_name": "FC Barcelona",
         "country_name": "Denmark",
         "age": "28",
@@ -1872,7 +1872,7 @@
     {
         "id": 171,
         "player_name": "Gavi",
-        "player_image_url": "https://cdn.sofifa.net/players/264/240/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/264/240/25_240.png",
         "team_name": "FC Barcelona",
         "country_name": "Spain",
         "age": "19",
@@ -1883,7 +1883,7 @@
     {
         "id": 172,
         "player_name": "E. Camavinga",
-        "player_image_url": "https://cdn.sofifa.net/players/248/243/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/248/243/25_240.png",
         "team_name": "Real Madrid",
         "country_name": "France",
         "age": "21",
@@ -1894,7 +1894,7 @@
     {
         "id": 173,
         "player_name": "Parejo",
-        "player_image_url": "https://cdn.sofifa.net/players/189/513/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/189/513/25_240.png",
         "team_name": "Villarreal",
         "country_name": "Spain",
         "age": "35",
@@ -1905,7 +1905,7 @@
     {
         "id": 174,
         "player_name": "Gerard Moreno",
-        "player_image_url": "https://cdn.sofifa.net/players/208/093/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/208/093/25_240.png",
         "team_name": "Villarreal",
         "country_name": "Spain",
         "age": "32",
@@ -1916,7 +1916,7 @@
     {
         "id": 175,
         "player_name": "V. Tsygankov",
-        "player_image_url": "https://cdn.sofifa.net/players/244/369/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/244/369/25_240.png",
         "team_name": "Girona",
         "country_name": "Ukraine",
         "age": "26",
@@ -1927,7 +1927,7 @@
     {
         "id": 176,
         "player_name": "M. Icardi",
-        "player_image_url": "https://cdn.sofifa.net/players/201/399/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/201/399/25_240.png",
         "team_name": "Galatasaray",
         "country_name": "Argentina",
         "age": "31",
@@ -1938,7 +1938,7 @@
     {
         "id": 177,
         "player_name": "L. Torreira",
-        "player_image_url": "https://cdn.sofifa.net/players/223/959/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/223/959/25_240.png",
         "team_name": "Galatasaray",
         "country_name": "Uruguay",
         "age": "28",
@@ -1949,7 +1949,7 @@
     {
         "id": 178,
         "player_name": "D. Tadić",
-        "player_image_url": "https://cdn.sofifa.net/players/199/434/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/199/434/25_240.png",
         "team_name": "Fenerbahçe",
         "country_name": "Serbia",
         "age": "35",
@@ -1960,7 +1960,7 @@
     {
         "id": 179,
         "player_name": "Y. En-Nesyri",
-        "player_image_url": "https://cdn.sofifa.net/players/235/410/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/235/410/25_240.png",
         "team_name": "Fenerbahçe",
         "country_name": "Morocco",
         "age": "27",
@@ -1971,7 +1971,7 @@
     {
         "id": 180,
         "player_name": "Rafa",
-        "player_image_url": "https://cdn.sofifa.net/players/216/547/25_180.png",
+        "player_image_url": "https://cdn.sofifa.net/players/216/547/25_240.png",
         "team_name": "Beşiktaş",
         "country_name": "Portugal",
         "age": "31",

@@ -124,8 +124,8 @@ def fetch_players_data(offset=0):
     
     player_id = 1  # Initialize player ID starting from 1
 
-    while offset <= 1020:  # Loop until the offset reaches 1020
-        base_url = f"https://sofifa.com/players?type=all&lg%5B0%5D=13&lg%5B1%5D=16&lg%5B2%5D=19&lg%5B3%5D=31&lg%5B4%5D=53&lg%5B5%5D=68&lg%5B6%5D=308&offset={offset}"
+    while offset <= 1140:  # Loop until the offset reaches 1020
+        base_url = f"https://sofifa.com/players?type=all&lg%5B0%5D=13&lg%5B1%5D=16&lg%5B2%5D=19&lg%5B3%5D=31&lg%5B4%5D=53&lg%5B5%5D=1&lg%5B6%5D=4&lg%5B7%5D=10&lg%5B8%5D=14&lg%5B9%5D=39&lg%5B10%5D=68&lg%5B11%5D=80&lg%5B12%5D=308&lg%5B13%5D=332&lg%5B14%5D=350&offset={offset}"
         driver.get(base_url)
         WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.TAG_NAME, 'table')))
         

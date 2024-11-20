@@ -1,0 +1,359 @@
+[
+    {
+        "league_id": "1",
+        "league_name": "Superliga",
+        "country": "Denmark",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/271/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/dk@3x.png"
+    },
+    {
+        "league_id": "4",
+        "league_name": "Pro League",
+        "country": "Belgium",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/208/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/be@3x.png"
+    },
+    {
+        "league_id": "7",
+        "league_name": "Série A",
+        "country": "Brazil",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/648/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/br@3x.png"
+    },
+    {
+        "league_id": "10",
+        "league_name": "Eredivisie",
+        "country": "Netherlands",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/72/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/nl@3x.png"
+    },
+    {
+        "league_id": "13",
+        "league_name": "Premier League",
+        "country": "England",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/8/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/gb-eng@3x.png"
+    },
+    {
+        "league_id": "14",
+        "league_name": "Championship",
+        "country": "England",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/9/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/gb-eng@3x.png"
+    },
+    {
+        "league_id": "16",
+        "league_name": "Ligue 1",
+        "country": "France",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/301/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/fr@3x.png"
+    },
+    {
+        "league_id": "17",
+        "league_name": "Ligue 2",
+        "country": "France",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/304/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/fr@3x.png"
+    },
+    {
+        "league_id": "19",
+        "league_name": "Bundesliga",
+        "country": "Germany",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/82/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/de@3x.png"
+    },
+    {
+        "league_id": "20",
+        "league_name": "2. Bundesliga",
+        "country": "Germany",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/85/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/de@3x.png"
+    },
+    {
+        "league_id": "31",
+        "league_name": "Serie A",
+        "country": "Italy",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/384/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/it@3x.png"
+    },
+    {
+        "league_id": "32",
+        "league_name": "Serie B",
+        "country": "Italy",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/387/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/it@3x.png"
+    },
+    {
+        "league_id": "39",
+        "league_name": "Major League Soccer",
+        "country": "United States",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/779/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/us@3x.png"
+    },
+    {
+        "league_id": "41",
+        "league_name": "Eliteserien",
+        "country": "Norway",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/444/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/no@3x.png"
+    },
+    {
+        "league_id": "50",
+        "league_name": "Premiership",
+        "country": "Scotland",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/501/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/gb-sct@3x.png"
+    },
+    {
+        "league_id": "53",
+        "league_name": "La Liga",
+        "country": "Spain",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/564/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/es@3x.png"
+    },
+    {
+        "league_id": "54",
+        "league_name": "La Liga 2",
+        "country": "Spain",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/567/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/es@3x.png"
+    },
+    {
+        "league_id": "56",
+        "league_name": "Allsvenskan",
+        "country": "Sweden",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/573/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/se@3x.png"
+    },
+    {
+        "league_id": "60",
+        "league_name": "League One",
+        "country": "England",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/12/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/gb-eng@3x.png"
+    },
+    {
+        "league_id": "61",
+        "league_name": "League Two",
+        "country": "England",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/14/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/gb-eng@3x.png"
+    },
+    {
+        "league_id": "63",
+        "league_name": "Super League",
+        "country": "Greece",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/325/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/gr@3x.png"
+    },
+    {
+        "league_id": "64",
+        "league_name": "Nemzeti Bajnokság I",
+        "country": "Hungary",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/334/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/hu@3x.png"
+    },
+    {
+        "league_id": "65",
+        "league_name": "Premier Division",
+        "country": "Republic of Ireland",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/360/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/ie@3x.png"
+    },
+    {
+        "league_id": "66",
+        "league_name": "Ekstraklasa",
+        "country": "Poland",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/453/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/pl@3x.png"
+    },
+    {
+        "league_id": "68",
+        "league_name": "Süper Lig",
+        "country": "Türkiye",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/600/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/tr@3x.png"
+    },
+    {
+        "league_id": "80",
+        "league_name": "Bundesliga",
+        "country": "Austria",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/181/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/at@3x.png"
+    },
+    {
+        "league_id": "83",
+        "league_name": "K League 1",
+        "country": "Korea Republic",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/1034/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/kr@3x.png"
+    },
+    {
+        "league_id": "189",
+        "league_name": "Super League",
+        "country": "Switzerland",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/591/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/ch@3x.png"
+    },
+    {
+        "league_id": "308",
+        "league_name": "Primeira Liga",
+        "country": "Portugal",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/462/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/pt@3x.png"
+    },
+    {
+        "league_id": "313",
+        "league_name": "Premyer Liqa",
+        "country": "Azerbaijan",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/190/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/az@3x.png"
+    },
+    {
+        "league_id": "317",
+        "league_name": "Hrvatska nogometna liga",
+        "country": "Croatia",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/244/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/hr@3x.png"
+    },
+    {
+        "league_id": "318",
+        "league_name": "1. Division",
+        "country": "Cyprus",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/253/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/cy@3x.png"
+    },
+    {
+        "league_id": "319",
+        "league_name": "První liga",
+        "country": "Czechia",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/262/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/cz@3x.png"
+    },
+    {
+        "league_id": "322",
+        "league_name": "Veikkausliiga",
+        "country": "Finland",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/292/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/fi@3x.png"
+    },
+    {
+        "league_id": "330",
+        "league_name": "Liga I",
+        "country": "Romania",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/474/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/ro@3x.png"
+    },
+    {
+        "league_id": "332",
+        "league_name": "Premier League",
+        "country": "Ukraine",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/609/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/ua@3x.png"
+    },
+    {
+        "league_id": "335",
+        "league_name": "Primera Division",
+        "country": "Chile",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/663/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/cl@3x.png"
+    },
+    {
+        "league_id": "336",
+        "league_name": "Categoría Primera A",
+        "country": "Colombia",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/672/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/co@3x.png"
+    },
+    {
+        "league_id": "337",
+        "league_name": "División Profesional",
+        "country": "Paraguay",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/755/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/py@3x.png"
+    },
+    {
+        "league_id": "338",
+        "league_name": "Primera División",
+        "country": "Uruguay",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/770/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/uy@3x.png"
+    },
+    {
+        "league_id": "350",
+        "league_name": "Pro League",
+        "country": "Saudi Arabia",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/944/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/sa@3x.png"
+    },
+    {
+        "league_id": "351",
+        "league_name": "A-League Men",
+        "country": "Australia",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/1356/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/au@3x.png"
+    },
+    {
+        "league_id": "353",
+        "league_name": "Liga Profesional de Fútbol",
+        "country": "Argentina",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/636/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/ar@3x.png"
+    },
+    {
+        "league_id": "2012",
+        "league_name": "Super League",
+        "country": "China PR",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/989/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/cn@3x.png"
+    },
+    {
+        "league_id": "2013",
+        "league_name": "Pro League",
+        "country": "United Arab Emirates",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/959/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/ae@3x.png"
+    },
+    {
+        "league_id": "2017",
+        "league_name": "División de Fútbol Profesional",
+        "country": "Bolivia",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/1098/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/bo@3x.png"
+    },
+    {
+        "league_id": "2018",
+        "league_name": "Serie A",
+        "country": "Ecuador",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/696/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/ec@3x.png"
+    },
+    {
+        "league_id": "2019",
+        "league_name": "Primera Division",
+        "country": "Venezuela",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/800/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/ve@3x.png"
+    },
+    {
+        "league_id": "2020",
+        "league_name": "Liga 1",
+        "country": "Peru",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/764/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/pe@3x.png"
+    },
+    {
+        "league_id": "2076",
+        "league_name": "3. Liga",
+        "country": "Germany",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/88/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/de@3x.png"
+    },
+    {
+        "league_id": "2149",
+        "league_name": "Super League",
+        "country": "India",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/1007/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/in@3x.png"
+    }
+]

@@ -1,0 +1,4058 @@
+[
+    {
+        "team_name": "København",
+        "overall": "72",
+        "league_name": "Superliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/85/60.png"
+    },
+    {
+        "team_name": "Midtjylland",
+        "overall": "72",
+        "league_name": "Superliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/939/60.png"
+    },
+    {
+        "team_name": "Brøndby",
+        "overall": "70",
+        "league_name": "Superliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/293/60.png"
+    },
+    {
+        "team_name": "AGF",
+        "overall": "70",
+        "league_name": "Superliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2905/60.png"
+    },
+    {
+        "team_name": "Nordsjælland",
+        "overall": "67",
+        "league_name": "Superliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2394/60.png"
+    },
+    {
+        "team_name": "Silkeborg",
+        "overall": "66",
+        "league_name": "Superliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/86/60.png"
+    },
+    {
+        "team_name": "Viborg",
+        "overall": "66",
+        "league_name": "Superliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2447/60.png"
+    },
+    {
+        "team_name": "Randers",
+        "overall": "66",
+        "league_name": "Superliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2356/60.png"
+    },
+    {
+        "team_name": "Vejle",
+        "overall": "65",
+        "league_name": "Superliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7466/60.png"
+    },
+    {
+        "team_name": "AaB",
+        "overall": "64",
+        "league_name": "Superliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1020/60.png"
+    },
+    {
+        "team_name": "Lyngby",
+        "overall": "64",
+        "league_name": "Superliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2650/60.png"
+    },
+    {
+        "team_name": "SønderjyskE",
+        "overall": "62",
+        "league_name": "Superliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/390/60.png"
+    },
+    {
+        "team_name": "Club Brugge",
+        "overall": "74",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/340/60.png"
+    },
+    {
+        "team_name": "Anderlecht",
+        "overall": "73",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2555/60.png"
+    },
+    {
+        "team_name": "Antwerp",
+        "overall": "72",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/328/60.png"
+    },
+    {
+        "team_name": "Genk",
+        "overall": "71",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2709/60.png"
+    },
+    {
+        "team_name": "Gent",
+        "overall": "71",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2402/60.png"
+    },
+    {
+        "team_name": "Union Saint-Gilloise",
+        "overall": "71",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3958/60.png"
+    },
+    {
+        "team_name": "Mechelen",
+        "overall": "69",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2938/60.png"
+    },
+    {
+        "team_name": "Sporting Charleroi",
+        "overall": "69",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1087/60.png"
+    },
+    {
+        "team_name": "OH Leuven",
+        "overall": "69",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1947/60.png"
+    },
+    {
+        "team_name": "Westerlo",
+        "overall": "68",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/357/60.png"
+    },
+    {
+        "team_name": "Cercle Brugge",
+        "overall": "68",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2641/60.png"
+    },
+    {
+        "team_name": "Standard Liège",
+        "overall": "68",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/700/60.png"
+    },
+    {
+        "team_name": "Kortrijk",
+        "overall": "68",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1130/60.png"
+    },
+    {
+        "team_name": "Sint-Truiden",
+        "overall": "67",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/355/60.png"
+    },
+    {
+        "team_name": "Dender",
+        "overall": "65",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2741/60.png"
+    },
+    {
+        "team_name": "Beerschot",
+        "overall": "65",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/6725/60.png"
+    },
+    {
+        "team_name": "Flamengo",
+        "overall": "76",
+        "league_name": "Série A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1024/60.png"
+    },
+    {
+        "team_name": "Palmeiras",
+        "overall": "76",
+        "league_name": "Série A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3422/60.png"
+    },
+    {
+        "team_name": "Atlético Mineiro",
+        "overall": "75",
+        "league_name": "Série A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3427/60.png"
+    },
+    {
+        "team_name": "Athletico Paranaense",
+        "overall": "74",
+        "league_name": "Série A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3432/60.png"
+    },
+    {
+        "team_name": "Internacional",
+        "overall": "74",
+        "league_name": "Série A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2696/60.png"
+    },
+    {
+        "team_name": "Bragantino",
+        "overall": "74",
+        "league_name": "Série A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7808/60.png"
+    },
+    {
+        "team_name": "Corinthians",
+        "overall": "73",
+        "league_name": "Série A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/303/60.png"
+    },
+    {
+        "team_name": "São Paulo",
+        "overall": "73",
+        "league_name": "Série A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3496/60.png"
+    },
+    {
+        "team_name": "Fluminense",
+        "overall": "72",
+        "league_name": "Série A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1095/60.png"
+    },
+    {
+        "team_name": "Cruzeiro",
+        "overall": "72",
+        "league_name": "Série A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3371/60.png"
+    },
+    {
+        "team_name": "Botafogo",
+        "overall": "71",
+        "league_name": "Série A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2864/60.png"
+    },
+    {
+        "team_name": "Grêmio",
+        "overall": "71",
+        "league_name": "Série A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2925/60.png"
+    },
+    {
+        "team_name": "Fortaleza",
+        "overall": "71",
+        "league_name": "Série A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3621/60.png"
+    },
+    {
+        "team_name": "Cuiabá",
+        "overall": "70",
+        "league_name": "Série A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/5463/60.png"
+    },
+    {
+        "team_name": "PSV",
+        "overall": "77",
+        "league_name": "Eredivisie",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/682/60.png"
+    },
+    {
+        "team_name": "Feyenoord",
+        "overall": "76",
+        "league_name": "Eredivisie",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/73/60.png"
+    },
+    {
+        "team_name": "Ajax",
+        "overall": "75",
+        "league_name": "Eredivisie",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/629/60.png"
+    },
+    {
+        "team_name": "FC Twente",
+        "overall": "72",
+        "league_name": "Eredivisie",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/593/60.png"
+    },
+    {
+        "team_name": "AZ Alkmaar",
+        "overall": "70",
+        "league_name": "Eredivisie",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/61/60.png"
+    },
+    {
+        "team_name": "NEC",
+        "overall": "70",
+        "league_name": "Eredivisie",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/494/60.png"
+    },
+    {
+        "team_name": "FC Utrecht",
+        "overall": "69",
+        "league_name": "Eredivisie",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/750/60.png"
+    },
+    {
+        "team_name": "Sparta Rotterdam",
+        "overall": "68",
+        "league_name": "Eredivisie",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/919/60.png"
+    },
+    {
+        "team_name": "Fortuna Sittard",
+        "overall": "68",
+        "league_name": "Eredivisie",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1459/60.png"
+    },
+    {
+        "team_name": "PEC Zwolle",
+        "overall": "68",
+        "league_name": "Eredivisie",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1016/60.png"
+    },
+    {
+        "team_name": "Almere City",
+        "overall": "67",
+        "league_name": "Eredivisie",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1433/60.png"
+    },
+    {
+        "team_name": "Go Ahead Eagles",
+        "overall": "67",
+        "league_name": "Eredivisie",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/664/60.png"
+    },
+    {
+        "team_name": "SC Heerenveen",
+        "overall": "67",
+        "league_name": "Eredivisie",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1053/60.png"
+    },
+    {
+        "team_name": "Heracles Almelo",
+        "overall": "66",
+        "league_name": "Eredivisie",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1403/60.png"
+    },
+    {
+        "team_name": "RKC Waalwijk",
+        "overall": "66",
+        "league_name": "Eredivisie",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/814/60.png"
+    },
+    {
+        "team_name": "FC Groningen",
+        "overall": "66",
+        "league_name": "Eredivisie",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2345/60.png"
+    },
+    {
+        "team_name": "NAC Breda",
+        "overall": "65",
+        "league_name": "Eredivisie",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/637/60.png"
+    },
+    {
+        "team_name": "Willem II",
+        "overall": "65",
+        "league_name": "Eredivisie",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/669/60.png"
+    },
+    {
+        "team_name": "Manchester City",
+        "overall": "86",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9/60.png"
+    },
+    {
+        "team_name": "Liverpool",
+        "overall": "84",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/8/60.png"
+    },
+    {
+        "team_name": "Arsenal",
+        "overall": "83",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/19/60.png"
+    },
+    {
+        "team_name": "Manchester United",
+        "overall": "81",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/14/60.png"
+    },
+    {
+        "team_name": "Newcastle United",
+        "overall": "81",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/20/60.png"
+    },
+    {
+        "team_name": "Tottenham Hotspur",
+        "overall": "81",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/6/60.png"
+    },
+    {
+        "team_name": "Aston Villa",
+        "overall": "80",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/15/60.png"
+    },
+    {
+        "team_name": "Chelsea",
+        "overall": "80",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/18/60.png"
+    },
+    {
+        "team_name": "West Ham United",
+        "overall": "79",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1/60.png"
+    },
+    {
+        "team_name": "Crystal Palace",
+        "overall": "78",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/51/60.png"
+    },
+    {
+        "team_name": "Nottingham Forest",
+        "overall": "77",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/63/60.png"
+    },
+    {
+        "team_name": "Brighton & Hove Albion",
+        "overall": "77",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/78/60.png"
+    },
+    {
+        "team_name": "Wolverhampton Wanderers",
+        "overall": "77",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/29/60.png"
+    },
+    {
+        "team_name": "Everton",
+        "overall": "76",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/13/60.png"
+    },
+    {
+        "team_name": "Leicester City",
+        "overall": "76",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/42/60.png"
+    },
+    {
+        "team_name": "Brentford",
+        "overall": "76",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/236/60.png"
+    },
+    {
+        "team_name": "Fulham",
+        "overall": "76",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/11/60.png"
+    },
+    {
+        "team_name": "AFC Bournemouth",
+        "overall": "76",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/52/60.png"
+    },
+    {
+        "team_name": "Southampton",
+        "overall": "75",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/65/60.png"
+    },
+    {
+        "team_name": "Ipswich Town",
+        "overall": "74",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/116/60.png"
+    },
+    {
+        "team_name": "Leeds United",
+        "overall": "74",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/71/60.png"
+    },
+    {
+        "team_name": "Burnley",
+        "overall": "73",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/27/60.png"
+    },
+    {
+        "team_name": "Luton Town",
+        "overall": "73",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/115/60.png"
+    },
+    {
+        "team_name": "Norwich City",
+        "overall": "71",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/33/60.png"
+    },
+    {
+        "team_name": "Sheffield United",
+        "overall": "71",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/21/60.png"
+    },
+    {
+        "team_name": "Middlesbrough",
+        "overall": "71",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7/60.png"
+    },
+    {
+        "team_name": "West Bromwich Albion",
+        "overall": "71",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/10/60.png"
+    },
+    {
+        "team_name": "Hull City",
+        "overall": "71",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/22/60.png"
+    },
+    {
+        "team_name": "Cardiff City",
+        "overall": "71",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/69/60.png"
+    },
+    {
+        "team_name": "Watford",
+        "overall": "70",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/25/60.png"
+    },
+    {
+        "team_name": "Coventry City",
+        "overall": "70",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/117/60.png"
+    },
+    {
+        "team_name": "Preston North End",
+        "overall": "70",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/99/60.png"
+    },
+    {
+        "team_name": "Queens Park Rangers",
+        "overall": "70",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/47/60.png"
+    },
+    {
+        "team_name": "Sunderland",
+        "overall": "70",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3/60.png"
+    },
+    {
+        "team_name": "Blackburn Rovers",
+        "overall": "69",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2/60.png"
+    },
+    {
+        "team_name": "Stoke City",
+        "overall": "69",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/26/60.png"
+    },
+    {
+        "team_name": "Sheffield Wednesday",
+        "overall": "69",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/56/60.png"
+    },
+    {
+        "team_name": "Millwall",
+        "overall": "69",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/64/60.png"
+    },
+    {
+        "team_name": "Bristol City",
+        "overall": "69",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/122/60.png"
+    },
+    {
+        "team_name": "Plymouth Argyle",
+        "overall": "69",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/110/60.png"
+    },
+    {
+        "team_name": "Swansea City",
+        "overall": "69",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/30/60.png"
+    },
+    {
+        "team_name": "Derby County",
+        "overall": "68",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/24/60.png"
+    },
+    {
+        "team_name": "Oxford United",
+        "overall": "68",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/297/60.png"
+    },
+    {
+        "team_name": "Portsmouth",
+        "overall": "67",
+        "league_name": "Championship",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/5/60.png"
+    },
+    {
+        "team_name": "Paris Saint Germain",
+        "overall": "82",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/591/60.png"
+    },
+    {
+        "team_name": "LOSC Lille",
+        "overall": "77",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/690/60.png"
+    },
+    {
+        "team_name": "Olympique Lyonnais",
+        "overall": "77",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/79/60.png"
+    },
+    {
+        "team_name": "Monaco",
+        "overall": "77",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/6789/60.png"
+    },
+    {
+        "team_name": "Olympique de Marseille",
+        "overall": "77",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/44/60.png"
+    },
+    {
+        "team_name": "Lens",
+        "overall": "76",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/271/60.png"
+    },
+    {
+        "team_name": "Nice",
+        "overall": "76",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/450/60.png"
+    },
+    {
+        "team_name": "Rennes",
+        "overall": "75",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/598/60.png"
+    },
+    {
+        "team_name": "Stade Brestois 29",
+        "overall": "75",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/266/60.png"
+    },
+    {
+        "team_name": "Montpellier",
+        "overall": "74",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/581/60.png"
+    },
+    {
+        "team_name": "Stade de Reims",
+        "overall": "74",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1028/60.png"
+    },
+    {
+        "team_name": "Toulouse",
+        "overall": "73",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/289/60.png"
+    },
+    {
+        "team_name": "Nantes",
+        "overall": "73",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/59/60.png"
+    },
+    {
+        "team_name": "Strasbourg",
+        "overall": "72",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/686/60.png"
+    },
+    {
+        "team_name": "Le Havre",
+        "overall": "72",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1055/60.png"
+    },
+    {
+        "team_name": "Saint-Étienne",
+        "overall": "71",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/108/60.png"
+    },
+    {
+        "team_name": "Auxerre",
+        "overall": "71",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3682/60.png"
+    },
+    {
+        "team_name": "Angers SCO",
+        "overall": "70",
+        "league_name": "Ligue 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/776/60.png"
+    },
+    {
+        "team_name": "Lorient",
+        "overall": "71",
+        "league_name": "Ligue 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9257/60.png"
+    },
+    {
+        "team_name": "Metz",
+        "overall": "70",
+        "league_name": "Ligue 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3513/60.png"
+    },
+    {
+        "team_name": "Paris",
+        "overall": "68",
+        "league_name": "Ligue 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/4508/60.png"
+    },
+    {
+        "team_name": "Caen",
+        "overall": "68",
+        "league_name": "Ligue 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1393/60.png"
+    },
+    {
+        "team_name": "Grenoble Foot 38",
+        "overall": "67",
+        "league_name": "Ligue 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1174/60.png"
+    },
+    {
+        "team_name": "Clermont",
+        "overall": "67",
+        "league_name": "Ligue 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/6898/60.png"
+    },
+    {
+        "team_name": "Laval",
+        "overall": "66",
+        "league_name": "Ligue 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1112/60.png"
+    },
+    {
+        "team_name": "Amiens SC",
+        "overall": "66",
+        "league_name": "Ligue 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/840/60.png"
+    },
+    {
+        "team_name": "Troyes",
+        "overall": "66",
+        "league_name": "Ligue 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7047/60.png"
+    },
+    {
+        "team_name": "Ajaccio",
+        "overall": "66",
+        "league_name": "Ligue 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/524/60.png"
+    },
+    {
+        "team_name": "Pau",
+        "overall": "66",
+        "league_name": "Ligue 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1838/60.png"
+    },
+    {
+        "team_name": "Bastia",
+        "overall": "65",
+        "league_name": "Ligue 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/430/60.png"
+    },
+    {
+        "team_name": "Guingamp",
+        "overall": "65",
+        "league_name": "Ligue 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2919/60.png"
+    },
+    {
+        "team_name": "Dunkerque",
+        "overall": "65",
+        "league_name": "Ligue 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1281/60.png"
+    },
+    {
+        "team_name": "Annecy",
+        "overall": "64",
+        "league_name": "Ligue 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1447/60.png"
+    },
+    {
+        "team_name": "Rodez",
+        "overall": "64",
+        "league_name": "Ligue 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9291/60.png"
+    },
+    {
+        "team_name": "Red Star",
+        "overall": "64",
+        "league_name": "Ligue 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1083/60.png"
+    },
+    {
+        "team_name": "Martigues",
+        "overall": "63",
+        "league_name": "Ligue 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/6826/60.png"
+    },
+    {
+        "team_name": "FC Bayern München",
+        "overall": "84",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/503/60.png"
+    },
+    {
+        "team_name": "Bayer 04 Leverkusen",
+        "overall": "83",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3321/60.png"
+    },
+    {
+        "team_name": "Borussia Dortmund",
+        "overall": "81",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/68/60.png"
+    },
+    {
+        "team_name": "RB Leipzig",
+        "overall": "80",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/277/60.png"
+    },
+    {
+        "team_name": "SC Freiburg",
+        "overall": "76",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3543/60.png"
+    },
+    {
+        "team_name": "Eintracht Frankfurt",
+        "overall": "76",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/366/60.png"
+    },
+    {
+        "team_name": "VfB Stuttgart",
+        "overall": "76",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3319/60.png"
+    },
+    {
+        "team_name": "TSG Hoffenheim",
+        "overall": "76",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2726/60.png"
+    },
+    {
+        "team_name": "VfL Wolfsburg",
+        "overall": "76",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/510/60.png"
+    },
+    {
+        "team_name": "Borussia Mönchengladbach",
+        "overall": "75",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/683/60.png"
+    },
+    {
+        "team_name": "FC Union Berlin",
+        "overall": "75",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1079/60.png"
+    },
+    {
+        "team_name": "Werder Bremen",
+        "overall": "74",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/82/60.png"
+    },
+    {
+        "team_name": "FC Augsburg",
+        "overall": "74",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/90/60.png"
+    },
+    {
+        "team_name": "FSV Mainz 05",
+        "overall": "74",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/794/60.png"
+    },
+    {
+        "team_name": "Heidenheim",
+        "overall": "72",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2831/60.png"
+    },
+    {
+        "team_name": "VfL Bochum 1848",
+        "overall": "72",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/999/60.png"
+    },
+    {
+        "team_name": "St. Pauli",
+        "overall": "70",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/353/60.png"
+    },
+    {
+        "team_name": "Holstein Kiel",
+        "overall": "69",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3611/60.png"
+    },
+    {
+        "team_name": "Hamburger SV",
+        "overall": "72",
+        "league_name": "2. Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2708/60.png"
+    },
+    {
+        "team_name": "FC Köln",
+        "overall": "72",
+        "league_name": "2. Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3320/60.png"
+    },
+    {
+        "team_name": "Hertha BSC",
+        "overall": "71",
+        "league_name": "2. Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3317/60.png"
+    },
+    {
+        "team_name": "Fortuna Düsseldorf",
+        "overall": "70",
+        "league_name": "2. Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1092/60.png"
+    },
+    {
+        "team_name": "Darmstadt 98",
+        "overall": "70",
+        "league_name": "2. Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/482/60.png"
+    },
+    {
+        "team_name": "Hannover 96",
+        "overall": "70",
+        "league_name": "2. Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2554/60.png"
+    },
+    {
+        "team_name": "Schalke 04",
+        "overall": "69",
+        "league_name": "2. Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/67/60.png"
+    },
+    {
+        "team_name": "Nürnberg",
+        "overall": "69",
+        "league_name": "2. Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/956/60.png"
+    },
+    {
+        "team_name": "Kaiserslautern",
+        "overall": "68",
+        "league_name": "2. Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1638/60.png"
+    },
+    {
+        "team_name": "Karlsruher SC",
+        "overall": "68",
+        "league_name": "2. Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3114/60.png"
+    },
+    {
+        "team_name": "Paderborn",
+        "overall": "68",
+        "league_name": "2. Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2642/60.png"
+    },
+    {
+        "team_name": "Eintracht Braunschweig",
+        "overall": "68",
+        "league_name": "2. Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3565/60.png"
+    },
+    {
+        "team_name": "SpVgg Greuther Fürth",
+        "overall": "68",
+        "league_name": "2. Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3431/60.png"
+    },
+    {
+        "team_name": "Magdeburg",
+        "overall": "68",
+        "league_name": "2. Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3527/60.png"
+    },
+    {
+        "team_name": "Elversberg",
+        "overall": "67",
+        "league_name": "2. Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3588/60.png"
+    },
+    {
+        "team_name": "Preußen Münster",
+        "overall": "66",
+        "league_name": "2. Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3647/60.png"
+    },
+    {
+        "team_name": "Jahn Regensburg",
+        "overall": "66",
+        "league_name": "2. Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3463/60.png"
+    },
+    {
+        "team_name": "Ulm",
+        "overall": "65",
+        "league_name": "2. Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/813/60.png"
+    },
+    {
+        "team_name": "Inter",
+        "overall": "83",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2930/60.png"
+    },
+    {
+        "team_name": "Milan",
+        "overall": "81",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/113/60.png"
+    },
+    {
+        "team_name": "Juventus",
+        "overall": "80",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/625/60.png"
+    },
+    {
+        "team_name": "Napoli",
+        "overall": "80",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/597/60.png"
+    },
+    {
+        "team_name": "Roma",
+        "overall": "80",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/37/60.png"
+    },
+    {
+        "team_name": "Atalanta",
+        "overall": "79",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/708/60.png"
+    },
+    {
+        "team_name": "Lazio",
+        "overall": "78",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/43/60.png"
+    },
+    {
+        "team_name": "Fiorentina",
+        "overall": "77",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/109/60.png"
+    },
+    {
+        "team_name": "Bologna",
+        "overall": "77",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/8513/60.png"
+    },
+    {
+        "team_name": "Torino",
+        "overall": "76",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/613/60.png"
+    },
+    {
+        "team_name": "Como",
+        "overall": "75",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/268/60.png"
+    },
+    {
+        "team_name": "Monza",
+        "overall": "74",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1628/60.png"
+    },
+    {
+        "team_name": "Parma",
+        "overall": "73",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/398/60.png"
+    },
+    {
+        "team_name": "Cagliari",
+        "overall": "73",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/585/60.png"
+    },
+    {
+        "team_name": "Lecce",
+        "overall": "73",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7790/60.png"
+    },
+    {
+        "team_name": "Hellas Verona",
+        "overall": "73",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1123/60.png"
+    },
+    {
+        "team_name": "Genoa",
+        "overall": "73",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/102/60.png"
+    },
+    {
+        "team_name": "Udinese",
+        "overall": "72",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/346/60.png"
+    },
+    {
+        "team_name": "Empoli",
+        "overall": "72",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/397/60.png"
+    },
+    {
+        "team_name": "Venezia",
+        "overall": "71",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/267/60.png"
+    },
+    {
+        "team_name": "Palermo",
+        "overall": "72",
+        "league_name": "Serie B",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1216/60.png"
+    },
+    {
+        "team_name": "Sampdoria",
+        "overall": "71",
+        "league_name": "Serie B",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/522/60.png"
+    },
+    {
+        "team_name": "Cremonese",
+        "overall": "71",
+        "league_name": "Serie B",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/10722/60.png"
+    },
+    {
+        "team_name": "Sassuolo",
+        "overall": "71",
+        "league_name": "Serie B",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2714/60.png"
+    },
+    {
+        "team_name": "Salernitana",
+        "overall": "69",
+        "league_name": "Serie B",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7743/60.png"
+    },
+    {
+        "team_name": "Pisa",
+        "overall": "69",
+        "league_name": "Serie B",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1072/60.png"
+    },
+    {
+        "team_name": "Modena",
+        "overall": "69",
+        "league_name": "Serie B",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1000/60.png"
+    },
+    {
+        "team_name": "Bari 1908",
+        "overall": "68",
+        "league_name": "Serie B",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/445/60.png"
+    },
+    {
+        "team_name": "Cesena",
+        "overall": "68",
+        "league_name": "Serie B",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1234/60.png"
+    },
+    {
+        "team_name": "Südtirol",
+        "overall": "68",
+        "league_name": "Serie B",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/176/60.png"
+    },
+    {
+        "team_name": "Spezia",
+        "overall": "68",
+        "league_name": "Serie B",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/345/60.png"
+    },
+    {
+        "team_name": "Cosenza",
+        "overall": "67",
+        "league_name": "Serie B",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/10775/60.png"
+    },
+    {
+        "team_name": "Frosinone",
+        "overall": "67",
+        "league_name": "Serie B",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/4070/60.png"
+    },
+    {
+        "team_name": "Catanzaro",
+        "overall": "67",
+        "league_name": "Serie B",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7471/60.png"
+    },
+    {
+        "team_name": "Reggiana",
+        "overall": "67",
+        "league_name": "Serie B",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2892/60.png"
+    },
+    {
+        "team_name": "Brescia",
+        "overall": "67",
+        "league_name": "Serie B",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/10729/60.png"
+    },
+    {
+        "team_name": "Mantova",
+        "overall": "66",
+        "league_name": "Serie B",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/10771/60.png"
+    },
+    {
+        "team_name": "Carrarese",
+        "overall": "66",
+        "league_name": "Serie B",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7766/60.png"
+    },
+    {
+        "team_name": "Cittadella",
+        "overall": "66",
+        "league_name": "Serie B",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/8485/60.png"
+    },
+    {
+        "team_name": "Juve Stabia",
+        "overall": "65",
+        "league_name": "Serie B",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/6947/60.png"
+    },
+    {
+        "team_name": "Inter Miami",
+        "overall": "74",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/239235/60.png"
+    },
+    {
+        "team_name": "Los Angeles FC",
+        "overall": "73",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/147671/60.png"
+    },
+    {
+        "team_name": "LA Galaxy",
+        "overall": "71",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/413/60.png"
+    },
+    {
+        "team_name": "Portland Timbers",
+        "overall": "70",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/607/60.png"
+    },
+    {
+        "team_name": "Seattle Sounders",
+        "overall": "70",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2649/60.png"
+    },
+    {
+        "team_name": "Columbus Crew",
+        "overall": "70",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/577/60.png"
+    },
+    {
+        "team_name": "Vancouver Whitecaps",
+        "overall": "70",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/292/60.png"
+    },
+    {
+        "team_name": "Cincinnati",
+        "overall": "70",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3636/60.png"
+    },
+    {
+        "team_name": "Philadelphia Union",
+        "overall": "69",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/275/60.png"
+    },
+    {
+        "team_name": "Minnesota United",
+        "overall": "69",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3639/60.png"
+    },
+    {
+        "team_name": "San Jose Earthquakes",
+        "overall": "69",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/287/60.png"
+    },
+    {
+        "team_name": "Saint Louis City",
+        "overall": "69",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/267299/60.png"
+    },
+    {
+        "team_name": "New England",
+        "overall": "69",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/641/60.png"
+    },
+    {
+        "team_name": "Houston Dynamo",
+        "overall": "69",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/478/60.png"
+    },
+    {
+        "team_name": "Charlotte",
+        "overall": "69",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/260119/60.png"
+    },
+    {
+        "team_name": "Real Salt Lake",
+        "overall": "69",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1062/60.png"
+    },
+    {
+        "team_name": "Orlando City",
+        "overall": "69",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/204/60.png"
+    },
+    {
+        "team_name": "Austin",
+        "overall": "69",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/254172/60.png"
+    },
+    {
+        "team_name": "Nashville SC",
+        "overall": "69",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/148048/60.png"
+    },
+    {
+        "team_name": "Toronto",
+        "overall": "68",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/111/60.png"
+    },
+    {
+        "team_name": "DC United",
+        "overall": "68",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/182/60.png"
+    },
+    {
+        "team_name": "New York RB",
+        "overall": "68",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/383/60.png"
+    },
+    {
+        "team_name": "Chicago Fire",
+        "overall": "68",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/75/60.png"
+    },
+    {
+        "team_name": "Dallas",
+        "overall": "68",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/583/60.png"
+    },
+    {
+        "team_name": "Sporting Kansas City",
+        "overall": "68",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/323/60.png"
+    },
+    {
+        "team_name": "New York City",
+        "overall": "68",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3627/60.png"
+    },
+    {
+        "team_name": "Atlanta United",
+        "overall": "68",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3645/60.png"
+    },
+    {
+        "team_name": "CF Montréal",
+        "overall": "67",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3736/60.png"
+    },
+    {
+        "team_name": "Colorado Rapids",
+        "overall": "67",
+        "league_name": "Major League Soccer",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/179/60.png"
+    },
+    {
+        "team_name": "Bodø / Glimt",
+        "overall": "70",
+        "league_name": "Eliteserien",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1668/60.png"
+    },
+    {
+        "team_name": "Molde",
+        "overall": "68",
+        "league_name": "Eliteserien",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/290/60.png"
+    },
+    {
+        "team_name": "Rosenborg",
+        "overall": "66",
+        "league_name": "Eliteserien",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1335/60.png"
+    },
+    {
+        "team_name": "Lillestrøm",
+        "overall": "66",
+        "league_name": "Eliteserien",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2510/60.png"
+    },
+    {
+        "team_name": "Viking",
+        "overall": "66",
+        "league_name": "Eliteserien",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/321/60.png"
+    },
+    {
+        "team_name": "Brann",
+        "overall": "65",
+        "league_name": "Eliteserien",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2474/60.png"
+    },
+    {
+        "team_name": "Odd",
+        "overall": "65",
+        "league_name": "Eliteserien",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/930/60.png"
+    },
+    {
+        "team_name": "Sarpsborg 08",
+        "overall": "64",
+        "league_name": "Eliteserien",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2601/60.png"
+    },
+    {
+        "team_name": "Strømsgodset",
+        "overall": "64",
+        "league_name": "Eliteserien",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/313/60.png"
+    },
+    {
+        "team_name": "HamKam",
+        "overall": "64",
+        "league_name": "Eliteserien",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/8661/60.png"
+    },
+    {
+        "team_name": "Haugesund",
+        "overall": "63",
+        "league_name": "Eliteserien",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/270/60.png"
+    },
+    {
+        "team_name": "Tromsø",
+        "overall": "62",
+        "league_name": "Eliteserien",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7242/60.png"
+    },
+    {
+        "team_name": "KFUM",
+        "overall": "62",
+        "league_name": "Eliteserien",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/11914/60.png"
+    },
+    {
+        "team_name": "Sandefjord",
+        "overall": "62",
+        "league_name": "Eliteserien",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/617/60.png"
+    },
+    {
+        "team_name": "Fredrikstad",
+        "overall": "62",
+        "league_name": "Eliteserien",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1743/60.png"
+    },
+    {
+        "team_name": "Kristiansund",
+        "overall": "61",
+        "league_name": "Eliteserien",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/869/60.png"
+    },
+    {
+        "team_name": "Celtic",
+        "overall": "74",
+        "league_name": "Premiership",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/53/60.png"
+    },
+    {
+        "team_name": "Rangers",
+        "overall": "74",
+        "league_name": "Premiership",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/62/60.png"
+    },
+    {
+        "team_name": "Hearts",
+        "overall": "70",
+        "league_name": "Premiership",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/314/60.png"
+    },
+    {
+        "team_name": "Aberdeen",
+        "overall": "67",
+        "league_name": "Premiership",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/273/60.png"
+    },
+    {
+        "team_name": "Hibernian",
+        "overall": "67",
+        "league_name": "Premiership",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/66/60.png"
+    },
+    {
+        "team_name": "Kilmarnock",
+        "overall": "65",
+        "league_name": "Premiership",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/180/60.png"
+    },
+    {
+        "team_name": "Motherwell",
+        "overall": "64",
+        "league_name": "Premiership",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/309/60.png"
+    },
+    {
+        "team_name": "Dundee",
+        "overall": "64",
+        "league_name": "Premiership",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/284/60.png"
+    },
+    {
+        "team_name": "St. Mirren",
+        "overall": "64",
+        "league_name": "Premiership",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/496/60.png"
+    },
+    {
+        "team_name": "Ross County",
+        "overall": "63",
+        "league_name": "Premiership",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/246/60.png"
+    },
+    {
+        "team_name": "Dundee United",
+        "overall": "63",
+        "league_name": "Premiership",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/282/60.png"
+    },
+    {
+        "team_name": "St. Johnstone",
+        "overall": "63",
+        "league_name": "Premiership",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/734/60.png"
+    },
+    {
+        "team_name": "Real Madrid",
+        "overall": "86",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3468/60.png"
+    },
+    {
+        "team_name": "FC Barcelona",
+        "overall": "83",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/83/60.png"
+    },
+    {
+        "team_name": "Atlético Madrid",
+        "overall": "82",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7980/60.png"
+    },
+    {
+        "team_name": "Athletic Club",
+        "overall": "80",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/13258/60.png"
+    },
+    {
+        "team_name": "Real Sociedad",
+        "overall": "78",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/594/60.png"
+    },
+    {
+        "team_name": "Girona",
+        "overall": "78",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/231/60.png"
+    },
+    {
+        "team_name": "Real Betis",
+        "overall": "77",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/485/60.png"
+    },
+    {
+        "team_name": "Valencia",
+        "overall": "77",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/214/60.png"
+    },
+    {
+        "team_name": "Villarreal",
+        "overall": "77",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3477/60.png"
+    },
+    {
+        "team_name": "Mallorca",
+        "overall": "76",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/645/60.png"
+    },
+    {
+        "team_name": "Osasuna",
+        "overall": "76",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/459/60.png"
+    },
+    {
+        "team_name": "Rayo Vallecano",
+        "overall": "76",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/377/60.png"
+    },
+    {
+        "team_name": "Sevilla",
+        "overall": "76",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/676/60.png"
+    },
+    {
+        "team_name": "Celta de Vigo",
+        "overall": "75",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/36/60.png"
+    },
+    {
+        "team_name": "Las Palmas",
+        "overall": "75",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2921/60.png"
+    },
+    {
+        "team_name": "Leganés",
+        "overall": "74",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/844/60.png"
+    },
+    {
+        "team_name": "Getafe",
+        "overall": "74",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/106/60.png"
+    },
+    {
+        "team_name": "Espanyol",
+        "overall": "73",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/528/60.png"
+    },
+    {
+        "team_name": "Deportivo Alavés",
+        "overall": "73",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2975/60.png"
+    },
+    {
+        "team_name": "Real Valladolid",
+        "overall": "72",
+        "league_name": "La Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/361/60.png"
+    },
+    {
+        "team_name": "Almería",
+        "overall": "73",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/618/60.png"
+    },
+    {
+        "team_name": "Cádiz",
+        "overall": "73",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/6827/60.png"
+    },
+    {
+        "team_name": "Deportivo La Coruña",
+        "overall": "72",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/429/60.png"
+    },
+    {
+        "team_name": "Sporting Gijón",
+        "overall": "71",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/344/60.png"
+    },
+    {
+        "team_name": "Real Oviedo",
+        "overall": "71",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/93/60.png"
+    },
+    {
+        "team_name": "Granada",
+        "overall": "71",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/103/60.png"
+    },
+    {
+        "team_name": "Levante",
+        "overall": "70",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3457/60.png"
+    },
+    {
+        "team_name": "SD Eibar",
+        "overall": "70",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/60/60.png"
+    },
+    {
+        "team_name": "Elche",
+        "overall": "70",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1099/60.png"
+    },
+    {
+        "team_name": "Real Zaragoza",
+        "overall": "70",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3968/60.png"
+    },
+    {
+        "team_name": "Tenerife",
+        "overall": "69",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1012/60.png"
+    },
+    {
+        "team_name": "Burgos",
+        "overall": "69",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/8366/60.png"
+    },
+    {
+        "team_name": "Eldense",
+        "overall": "68",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1888/60.png"
+    },
+    {
+        "team_name": "Albacete",
+        "overall": "68",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3169/60.png"
+    },
+    {
+        "team_name": "Racing Ferrol",
+        "overall": "68",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/8396/60.png"
+    },
+    {
+        "team_name": "Racing Santander",
+        "overall": "68",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9818/60.png"
+    },
+    {
+        "team_name": "Málaga",
+        "overall": "67",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/126/60.png"
+    },
+    {
+        "team_name": "FC Cartagena",
+        "overall": "67",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/12652/60.png"
+    },
+    {
+        "team_name": "Huesca",
+        "overall": "67",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/274/60.png"
+    },
+    {
+        "team_name": "Castellón",
+        "overall": "66",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/10008/60.png"
+    },
+    {
+        "team_name": "Mirandés",
+        "overall": "65",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/6968/60.png"
+    },
+    {
+        "team_name": "Córdoba",
+        "overall": "64",
+        "league_name": "La Liga 2",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/931/60.png"
+    },
+    {
+        "team_name": "Malmö FF",
+        "overall": "70",
+        "league_name": "Allsvenskan",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/354/60.png"
+    },
+    {
+        "team_name": "Häcken",
+        "overall": "68",
+        "league_name": "Allsvenskan",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2535/60.png"
+    },
+    {
+        "team_name": "Djurgården",
+        "overall": "67",
+        "league_name": "Allsvenskan",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/443/60.png"
+    },
+    {
+        "team_name": "IFK Göteborg",
+        "overall": "66",
+        "league_name": "Allsvenskan",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/532/60.png"
+    },
+    {
+        "team_name": "AIK",
+        "overall": "66",
+        "league_name": "Allsvenskan",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2825/60.png"
+    },
+    {
+        "team_name": "Elfsborg",
+        "overall": "66",
+        "league_name": "Allsvenskan",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1226/60.png"
+    },
+    {
+        "team_name": "Kalmar",
+        "overall": "64",
+        "league_name": "Allsvenskan",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/432/60.png"
+    },
+    {
+        "team_name": "Norrköping",
+        "overall": "64",
+        "league_name": "Allsvenskan",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3603/60.png"
+    },
+    {
+        "team_name": "Hammarby",
+        "overall": "64",
+        "league_name": "Allsvenskan",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2353/60.png"
+    },
+    {
+        "team_name": "Halmstad",
+        "overall": "63",
+        "league_name": "Allsvenskan",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/720/60.png"
+    },
+    {
+        "team_name": "Brommapojkarna",
+        "overall": "63",
+        "league_name": "Allsvenskan",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3285/60.png"
+    },
+    {
+        "team_name": "Mjällby",
+        "overall": "63",
+        "league_name": "Allsvenskan",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/411/60.png"
+    },
+    {
+        "team_name": "Värnamo",
+        "overall": "63",
+        "league_name": "Allsvenskan",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/6607/60.png"
+    },
+    {
+        "team_name": "Sirius",
+        "overall": "62",
+        "league_name": "Allsvenskan",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2678/60.png"
+    },
+    {
+        "team_name": "Västerås SK",
+        "overall": "61",
+        "league_name": "Allsvenskan",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/8671/60.png"
+    },
+    {
+        "team_name": "GAIS",
+        "overall": "60",
+        "league_name": "Allsvenskan",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1777/60.png"
+    },
+    {
+        "team_name": "Birmingham City",
+        "overall": "70",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/12/60.png"
+    },
+    {
+        "team_name": "Bolton Wanderers",
+        "overall": "67",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/16/60.png"
+    },
+    {
+        "team_name": "Rotherham United",
+        "overall": "67",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/138/60.png"
+    },
+    {
+        "team_name": "Huddersfield Town",
+        "overall": "67",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/251/60.png"
+    },
+    {
+        "team_name": "Blackpool",
+        "overall": "66",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/28/60.png"
+    },
+    {
+        "team_name": "Barnsley",
+        "overall": "66",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/54/60.png"
+    },
+    {
+        "team_name": "Reading",
+        "overall": "65",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/23/60.png"
+    },
+    {
+        "team_name": "Charlton Athletic",
+        "overall": "65",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/4/60.png"
+    },
+    {
+        "team_name": "Stevenage",
+        "overall": "65",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/409/60.png"
+    },
+    {
+        "team_name": "Northampton Town",
+        "overall": "65",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/221/60.png"
+    },
+    {
+        "team_name": "Stockport County",
+        "overall": "65",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/249/60.png"
+    },
+    {
+        "team_name": "Wycombe Wanderers",
+        "overall": "65",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/183/60.png"
+    },
+    {
+        "team_name": "Lincoln City",
+        "overall": "65",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/305/60.png"
+    },
+    {
+        "team_name": "Wrexham",
+        "overall": "65",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/283/60.png"
+    },
+    {
+        "team_name": "Wigan Athletic",
+        "overall": "64",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/17/60.png"
+    },
+    {
+        "team_name": "Peterborough United",
+        "overall": "64",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/254/60.png"
+    },
+    {
+        "team_name": "Mansfield Town",
+        "overall": "64",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/225/60.png"
+    },
+    {
+        "team_name": "Cambridge United",
+        "overall": "64",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/232/60.png"
+    },
+    {
+        "team_name": "Leyton Orient",
+        "overall": "64",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/294/60.png"
+    },
+    {
+        "team_name": "Bristol Rovers",
+        "overall": "64",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/230/60.png"
+    },
+    {
+        "team_name": "Shrewsbury Town",
+        "overall": "63",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/154/60.png"
+    },
+    {
+        "team_name": "Exeter City",
+        "overall": "63",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/185/60.png"
+    },
+    {
+        "team_name": "Burton Albion",
+        "overall": "63",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/150/60.png"
+    },
+    {
+        "team_name": "Crawley Town",
+        "overall": "62",
+        "league_name": "League One",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/205/60.png"
+    },
+    {
+        "team_name": "Milton Keynes Dons",
+        "overall": "63",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/341/60.png"
+    },
+    {
+        "team_name": "Salford City",
+        "overall": "63",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/129/60.png"
+    },
+    {
+        "team_name": "Gillingham",
+        "overall": "63",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/307/60.png"
+    },
+    {
+        "team_name": "Bradford City",
+        "overall": "63",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/137/60.png"
+    },
+    {
+        "team_name": "Port Vale",
+        "overall": "63",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/348/60.png"
+    },
+    {
+        "team_name": "Notts County",
+        "overall": "63",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/98/60.png"
+    },
+    {
+        "team_name": "Carlisle United",
+        "overall": "63",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/330/60.png"
+    },
+    {
+        "team_name": "Walsall",
+        "overall": "62",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/76/60.png"
+    },
+    {
+        "team_name": "Barrow",
+        "overall": "62",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/379/60.png"
+    },
+    {
+        "team_name": "AFC Wimbledon",
+        "overall": "62",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/301/60.png"
+    },
+    {
+        "team_name": "Chesterfield",
+        "overall": "62",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/248/60.png"
+    },
+    {
+        "team_name": "Fleetwood Town",
+        "overall": "62",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/317/60.png"
+    },
+    {
+        "team_name": "Doncaster Rovers",
+        "overall": "62",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/235/60.png"
+    },
+    {
+        "team_name": "Swindon Town",
+        "overall": "62",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/285/60.png"
+    },
+    {
+        "team_name": "Colchester United",
+        "overall": "62",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/74/60.png"
+    },
+    {
+        "team_name": "Tranmere Rovers",
+        "overall": "62",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/201/60.png"
+    },
+    {
+        "team_name": "Grimsby Town",
+        "overall": "61",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/198/60.png"
+    },
+    {
+        "team_name": "Harrogate Town",
+        "overall": "61",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/382/60.png"
+    },
+    {
+        "team_name": "Crewe Alexandra",
+        "overall": "61",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/87/60.png"
+    },
+    {
+        "team_name": "Morecambe",
+        "overall": "60",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/772/60.png"
+    },
+    {
+        "team_name": "Bromley",
+        "overall": "60",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/296/60.png"
+    },
+    {
+        "team_name": "Newport County",
+        "overall": "60",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/72/60.png"
+    },
+    {
+        "team_name": "Cheltenham Town",
+        "overall": "60",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/351/60.png"
+    },
+    {
+        "team_name": "Accrington Stanley",
+        "overall": "59",
+        "league_name": "League Two",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/395/60.png"
+    },
+    {
+        "team_name": "AEK Athens",
+        "overall": "75",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/781/60.png"
+    },
+    {
+        "team_name": "Olympiakos Piraeus",
+        "overall": "75",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/602/60.png"
+    },
+    {
+        "team_name": "Panathinaikos",
+        "overall": "74",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/57/60.png"
+    },
+    {
+        "team_name": "PAOK",
+        "overall": "74",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/649/60.png"
+    },
+    {
+        "team_name": "Ferencváros",
+        "overall": "72",
+        "league_name": "Nemzeti Bajnokság I",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/112/60.png"
+    },
+    {
+        "team_name": "Shamrock Rovers",
+        "overall": "63",
+        "league_name": "Premier Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/207/60.png"
+    },
+    {
+        "team_name": "St Patrick's",
+        "overall": "62",
+        "league_name": "Premier Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1260/60.png"
+    },
+    {
+        "team_name": "Shelbourne",
+        "overall": "61",
+        "league_name": "Premier Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/744/60.png"
+    },
+    {
+        "team_name": "Derry City",
+        "overall": "61",
+        "league_name": "Premier Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1097/60.png"
+    },
+    {
+        "team_name": "Galway United",
+        "overall": "60",
+        "league_name": "Premier Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/312/60.png"
+    },
+    {
+        "team_name": "Bohemians",
+        "overall": "60",
+        "league_name": "Premier Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/374/60.png"
+    },
+    {
+        "team_name": "Sligo Rovers",
+        "overall": "60",
+        "league_name": "Premier Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/910/60.png"
+    },
+    {
+        "team_name": "Waterford",
+        "overall": "58",
+        "league_name": "Premier Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1387/60.png"
+    },
+    {
+        "team_name": "Drogheda United",
+        "overall": "57",
+        "league_name": "Premier Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1152/60.png"
+    },
+    {
+        "team_name": "Dundalk",
+        "overall": "57",
+        "league_name": "Premier Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1311/60.png"
+    },
+    {
+        "team_name": "Lech Poznań",
+        "overall": "69",
+        "league_name": "Ekstraklasa",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/302/60.png"
+    },
+    {
+        "team_name": "Legia Warszawa",
+        "overall": "68",
+        "league_name": "Ekstraklasa",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/349/60.png"
+    },
+    {
+        "team_name": "Raków Częstochowa",
+        "overall": "68",
+        "league_name": "Ekstraklasa",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3270/60.png"
+    },
+    {
+        "team_name": "Jagiellonia Białystok",
+        "overall": "67",
+        "league_name": "Ekstraklasa",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/890/60.png"
+    },
+    {
+        "team_name": "Pogoń Szczecin",
+        "overall": "67",
+        "league_name": "Ekstraklasa",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/808/60.png"
+    },
+    {
+        "team_name": "Cracovia Kraków",
+        "overall": "66",
+        "league_name": "Ekstraklasa",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1069/60.png"
+    },
+    {
+        "team_name": "Śląsk Wrocław",
+        "overall": "66",
+        "league_name": "Ekstraklasa",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3962/60.png"
+    },
+    {
+        "team_name": "Widzew Łódź",
+        "overall": "65",
+        "league_name": "Ekstraklasa",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/8761/60.png"
+    },
+    {
+        "team_name": "Zagłębie Lubin",
+        "overall": "65",
+        "league_name": "Ekstraklasa",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1266/60.png"
+    },
+    {
+        "team_name": "Górnik Zabrze",
+        "overall": "65",
+        "league_name": "Ekstraklasa",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3781/60.png"
+    },
+    {
+        "team_name": "Piast Gliwice",
+        "overall": "65",
+        "league_name": "Ekstraklasa",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2482/60.png"
+    },
+    {
+        "team_name": "Radomiak Radom",
+        "overall": "65",
+        "league_name": "Ekstraklasa",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3191/60.png"
+    },
+    {
+        "team_name": "Stal Mielec",
+        "overall": "64",
+        "league_name": "Ekstraklasa",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7216/60.png"
+    },
+    {
+        "team_name": "Korona Kielce",
+        "overall": "64",
+        "league_name": "Ekstraklasa",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3260/60.png"
+    },
+    {
+        "team_name": "Lechia Gdańsk",
+        "overall": "64",
+        "league_name": "Ekstraklasa",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/135/60.png"
+    },
+    {
+        "team_name": "Katowice",
+        "overall": "63",
+        "league_name": "Ekstraklasa",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2764/60.png"
+    },
+    {
+        "team_name": "Puszcza Niepołomice",
+        "overall": "63",
+        "league_name": "Ekstraklasa",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/12038/60.png"
+    },
+    {
+        "team_name": "Motor Lublin",
+        "overall": "63",
+        "league_name": "Ekstraklasa",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/11356/60.png"
+    },
+    {
+        "team_name": "Galatasaray",
+        "overall": "79",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/34/60.png"
+    },
+    {
+        "team_name": "Fenerbahçe",
+        "overall": "79",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/88/60.png"
+    },
+    {
+        "team_name": "Beşiktaş",
+        "overall": "76",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/554/60.png"
+    },
+    {
+        "team_name": "Trabzonspor",
+        "overall": "75",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/688/60.png"
+    },
+    {
+        "team_name": "İstanbul Başakşehir",
+        "overall": "72",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3702/60.png"
+    },
+    {
+        "team_name": "Eyüpspor",
+        "overall": "70",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3224/60.png"
+    },
+    {
+        "team_name": "Kasımpaşa",
+        "overall": "70",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1071/60.png"
+    },
+    {
+        "team_name": "Hatayspor",
+        "overall": "69",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/13833/60.png"
+    },
+    {
+        "team_name": "Gaziantep F.K.",
+        "overall": "69",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/4192/60.png"
+    },
+    {
+        "team_name": "Samsunspor",
+        "overall": "69",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2811/60.png"
+    },
+    {
+        "team_name": "Kayserispor",
+        "overall": "68",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/643/60.png"
+    },
+    {
+        "team_name": "Göztepe",
+        "overall": "68",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3897/60.png"
+    },
+    {
+        "team_name": "Konyaspor",
+        "overall": "68",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2632/60.png"
+    },
+    {
+        "team_name": "Rizespor",
+        "overall": "68",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1041/60.png"
+    },
+    {
+        "team_name": "Antalyaspor",
+        "overall": "68",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/81/60.png"
+    },
+    {
+        "team_name": "Alanyaspor",
+        "overall": "68",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/347/60.png"
+    },
+    {
+        "team_name": "Sivasspor",
+        "overall": "67",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/365/60.png"
+    },
+    {
+        "team_name": "Bodrumspor",
+        "overall": "65",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/13924/60.png"
+    },
+    {
+        "team_name": "Adana Demirspor",
+        "overall": "65",
+        "league_name": "Süper Lig",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1039/60.png"
+    },
+    {
+        "team_name": "Salzburg",
+        "overall": "72",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/49/60.png"
+    },
+    {
+        "team_name": "Sturm Graz",
+        "overall": "70",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3357/60.png"
+    },
+    {
+        "team_name": "LASK Linz",
+        "overall": "70",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3369/60.png"
+    },
+    {
+        "team_name": "Rapid Wien",
+        "overall": "69",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3678/60.png"
+    },
+    {
+        "team_name": "Austria Wien",
+        "overall": "68",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3630/60.png"
+    },
+    {
+        "team_name": "Rheindorf Altach",
+        "overall": "66",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3949/60.png"
+    },
+    {
+        "team_name": "Wolfsberger AC",
+        "overall": "66",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3787/60.png"
+    },
+    {
+        "team_name": "Hartberg",
+        "overall": "65",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/5769/60.png"
+    },
+    {
+        "team_name": "Blau-Weiß Linz",
+        "overall": "64",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3300/60.png"
+    },
+    {
+        "team_name": "WSG Tirol",
+        "overall": "64",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/4080/60.png"
+    },
+    {
+        "team_name": "Grazer AK",
+        "overall": "64",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/5724/60.png"
+    },
+    {
+        "team_name": "Austria Klagenfurt",
+        "overall": "64",
+        "league_name": "Bundesliga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/4065/60.png"
+    },
+    {
+        "team_name": "Ulsan",
+        "overall": "70",
+        "league_name": "K League 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/5839/60.png"
+    },
+    {
+        "team_name": "Seoul",
+        "overall": "69",
+        "league_name": "K League 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/672/60.png"
+    },
+    {
+        "team_name": "Pohang Steelers",
+        "overall": "68",
+        "league_name": "K League 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1506/60.png"
+    },
+    {
+        "team_name": "Jeonbuk Motors",
+        "overall": "68",
+        "league_name": "K League 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3339/60.png"
+    },
+    {
+        "team_name": "Incheon United",
+        "overall": "67",
+        "league_name": "K League 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/6922/60.png"
+    },
+    {
+        "team_name": "Jeju United",
+        "overall": "67",
+        "league_name": "K League 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/8034/60.png"
+    },
+    {
+        "team_name": "Daejeon Citizen",
+        "overall": "67",
+        "league_name": "K League 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/5664/60.png"
+    },
+    {
+        "team_name": "Gimcheon Sangmu",
+        "overall": "66",
+        "league_name": "K League 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3901/60.png"
+    },
+    {
+        "team_name": "Daegu",
+        "overall": "66",
+        "league_name": "K League 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/6954/60.png"
+    },
+    {
+        "team_name": "Gwangju",
+        "overall": "66",
+        "league_name": "K League 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/4370/60.png"
+    },
+    {
+        "team_name": "Gangwon",
+        "overall": "66",
+        "league_name": "K League 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7273/60.png"
+    },
+    {
+        "team_name": "Suwon",
+        "overall": "65",
+        "league_name": "K League 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/904/60.png"
+    },
+    {
+        "team_name": "Young Boys",
+        "overall": "71",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/647/60.png"
+    },
+    {
+        "team_name": "Lugano",
+        "overall": "69",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/13775/60.png"
+    },
+    {
+        "team_name": "Servette",
+        "overall": "69",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1970/60.png"
+    },
+    {
+        "team_name": "St. Gallen",
+        "overall": "69",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/362/60.png"
+    },
+    {
+        "team_name": "Lausanne Sport",
+        "overall": "68",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2357/60.png"
+    },
+    {
+        "team_name": "Zürich",
+        "overall": "68",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/389/60.png"
+    },
+    {
+        "team_name": "Basel",
+        "overall": "68",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/468/60.png"
+    },
+    {
+        "team_name": "Grasshopper",
+        "overall": "67",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2866/60.png"
+    },
+    {
+        "team_name": "Luzern",
+        "overall": "67",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3091/60.png"
+    },
+    {
+        "team_name": "Sion",
+        "overall": "67",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/462/60.png"
+    },
+    {
+        "team_name": "Yverdon Sport",
+        "overall": "66",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/10210/60.png"
+    },
+    {
+        "team_name": "Winterthur",
+        "overall": "66",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3525/60.png"
+    },
+    {
+        "team_name": "Benfica",
+        "overall": "78",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/605/60.png"
+    },
+    {
+        "team_name": "Sporting CP",
+        "overall": "78",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/58/60.png"
+    },
+    {
+        "team_name": "Porto",
+        "overall": "77",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/652/60.png"
+    },
+    {
+        "team_name": "Sporting Braga",
+        "overall": "75",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/884/60.png"
+    },
+    {
+        "team_name": "Vitória SC",
+        "overall": "72",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/830/60.png"
+    },
+    {
+        "team_name": "Arouca",
+        "overall": "70",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/4092/60.png"
+    },
+    {
+        "team_name": "Famalicão",
+        "overall": "70",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3161/60.png"
+    },
+    {
+        "team_name": "Rio Ave",
+        "overall": "70",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/6377/60.png"
+    },
+    {
+        "team_name": "Estoril",
+        "overall": "69",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1198/60.png"
+    },
+    {
+        "team_name": "Casa Pia",
+        "overall": "69",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/11741/60.png"
+    },
+    {
+        "team_name": "Gil Vicente",
+        "overall": "69",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/364/60.png"
+    },
+    {
+        "team_name": "Moreirense",
+        "overall": "69",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1085/60.png"
+    },
+    {
+        "team_name": "Estrela Amadora",
+        "overall": "69",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/12152/60.png"
+    },
+    {
+        "team_name": "Nacional",
+        "overall": "68",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7035/60.png"
+    },
+    {
+        "team_name": "Boavista",
+        "overall": "68",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/960/60.png"
+    },
+    {
+        "team_name": "AVS",
+        "overall": "68",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/269225/60.png"
+    },
+    {
+        "team_name": "Santa Clara",
+        "overall": "68",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2628/60.png"
+    },
+    {
+        "team_name": "Farense",
+        "overall": "68",
+        "league_name": "Primeira Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7214/60.png"
+    },
+    {
+        "team_name": "Qarabağ",
+        "overall": "68",
+        "league_name": "Premyer Liqa",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/5317/60.png"
+    },
+    {
+        "team_name": "Dinamo Zagreb",
+        "overall": "71",
+        "league_name": "Hrvatska nogometna liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/674/60.png"
+    },
+    {
+        "team_name": "Hajduk Split",
+        "overall": "70",
+        "league_name": "Hrvatska nogometna liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/906/60.png"
+    },
+    {
+        "team_name": "APOEL",
+        "overall": "70",
+        "league_name": "1. Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2604/60.png"
+    },
+    {
+        "team_name": "Slavia Praha",
+        "overall": "74",
+        "league_name": "První liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/216/60.png"
+    },
+    {
+        "team_name": "Sparta Praha",
+        "overall": "74",
+        "league_name": "První liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2727/60.png"
+    },
+    {
+        "team_name": "Viktoria Plzeň",
+        "overall": "72",
+        "league_name": "První liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3545/60.png"
+    },
+    {
+        "team_name": "HJK",
+        "overall": "64",
+        "league_name": "Veikkausliiga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/724/60.png"
+    },
+    {
+        "team_name": "Universitatea Craiova",
+        "overall": "68",
+        "league_name": "Liga I",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/11676/60.png"
+    },
+    {
+        "team_name": "FCSB",
+        "overall": "68",
+        "league_name": "Liga I",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3444/60.png"
+    },
+    {
+        "team_name": "Rapid Bucuresti",
+        "overall": "67",
+        "league_name": "Liga I",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7773/60.png"
+    },
+    {
+        "team_name": "Universitatea Cluj",
+        "overall": "66",
+        "league_name": "Liga I",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9426/60.png"
+    },
+    {
+        "team_name": "CFR Cluj",
+        "overall": "66",
+        "league_name": "Liga I",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3599/60.png"
+    },
+    {
+        "team_name": "Sepsi",
+        "overall": "66",
+        "league_name": "Liga I",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/10238/60.png"
+    },
+    {
+        "team_name": "Dinamo Bucureşti",
+        "overall": "65",
+        "league_name": "Liga I",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1026/60.png"
+    },
+    {
+        "team_name": "Hermannstadt",
+        "overall": "65",
+        "league_name": "Liga I",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/12619/60.png"
+    },
+    {
+        "team_name": "UTA Arad",
+        "overall": "64",
+        "league_name": "Liga I",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/8474/60.png"
+    },
+    {
+        "team_name": "Botoşani",
+        "overall": "64",
+        "league_name": "Liga I",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3195/60.png"
+    },
+    {
+        "team_name": "Oțelul Galați",
+        "overall": "64",
+        "league_name": "Liga I",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/803/60.png"
+    },
+    {
+        "team_name": "SSC Farul",
+        "overall": "64",
+        "league_name": "Liga I",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/134619/60.png"
+    },
+    {
+        "team_name": "Petrolul 52",
+        "overall": "64",
+        "league_name": "Liga I",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/132584/60.png"
+    },
+    {
+        "team_name": "FC Buzău",
+        "overall": "63",
+        "league_name": "Liga I",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/235089/60.png"
+    },
+    {
+        "team_name": "CSM Politehnica Iași",
+        "overall": "63",
+        "league_name": "Liga I",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3876/60.png"
+    },
+    {
+        "team_name": "Unirea Slobozia",
+        "overall": "62",
+        "league_name": "Liga I",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/8132/60.png"
+    },
+    {
+        "team_name": "Dynamo Kyiv",
+        "overall": "73",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/556/60.png"
+    },
+    {
+        "team_name": "Shakhtar Donetsk",
+        "overall": "73",
+        "league_name": "Premier League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/621/60.png"
+    },
+    {
+        "team_name": "Colo-Colo",
+        "overall": "70",
+        "league_name": "Primera Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7930/60.png"
+    },
+    {
+        "team_name": "Universidad Católica",
+        "overall": "68",
+        "league_name": "Primera Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2710/60.png"
+    },
+    {
+        "team_name": "Everton",
+        "overall": "67",
+        "league_name": "Primera Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/15064/60.png"
+    },
+    {
+        "team_name": "Palestino",
+        "overall": "67",
+        "league_name": "Primera Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9890/60.png"
+    },
+    {
+        "team_name": "Huachipato",
+        "overall": "66",
+        "league_name": "Primera Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/15061/60.png"
+    },
+    {
+        "team_name": "Coquimbo Unido",
+        "overall": "65",
+        "league_name": "Primera Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2532/60.png"
+    },
+    {
+        "team_name": "Cobresal",
+        "overall": "65",
+        "league_name": "Primera Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/6292/60.png"
+    },
+    {
+        "team_name": "Unión La Calera",
+        "overall": "62",
+        "league_name": "Primera Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/13330/60.png"
+    },
+    {
+        "team_name": "Junior",
+        "overall": "71",
+        "league_name": "Categoría Primera A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7792/60.png"
+    },
+    {
+        "team_name": "Millonarios",
+        "overall": "71",
+        "league_name": "Categoría Primera A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7810/60.png"
+    },
+    {
+        "team_name": "Deportes Tolima",
+        "overall": "70",
+        "league_name": "Categoría Primera A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/10204/60.png"
+    },
+    {
+        "team_name": "Atlético Nacional",
+        "overall": "70",
+        "league_name": "Categoría Primera A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/6597/60.png"
+    },
+    {
+        "team_name": "Independiente Medellín",
+        "overall": "70",
+        "league_name": "Categoría Primera A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/332/60.png"
+    },
+    {
+        "team_name": "América de Cali",
+        "overall": "69",
+        "league_name": "Categoría Primera A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9269/60.png"
+    },
+    {
+        "team_name": "Alianza",
+        "overall": "65",
+        "league_name": "Categoría Primera A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/12833/60.png"
+    },
+    {
+        "team_name": "Libertad",
+        "overall": "70",
+        "league_name": "División Profesional",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/10982/60.png"
+    },
+    {
+        "team_name": "Cerro Porteño",
+        "overall": "69",
+        "league_name": "División Profesional",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3408/60.png"
+    },
+    {
+        "team_name": "Olimpia",
+        "overall": "68",
+        "league_name": "División Profesional",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/15606/60.png"
+    },
+    {
+        "team_name": "Sportivo Luqueño",
+        "overall": "67",
+        "league_name": "División Profesional",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/5582/60.png"
+    },
+    {
+        "team_name": "Sportivo Ameliano",
+        "overall": "66",
+        "league_name": "División Profesional",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/237829/60.png"
+    },
+    {
+        "team_name": "Guaraní",
+        "overall": "65",
+        "league_name": "División Profesional",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/15605/60.png"
+    },
+    {
+        "team_name": "Sportivo Trinidense",
+        "overall": "63",
+        "league_name": "División Profesional",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/11013/60.png"
+    },
+    {
+        "team_name": "Nacional Asunción",
+        "overall": "62",
+        "league_name": "División Profesional",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3480/60.png"
+    },
+    {
+        "team_name": "Nacional",
+        "overall": "71",
+        "league_name": "Primera División",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/828/60.png"
+    },
+    {
+        "team_name": "Peñarol",
+        "overall": "71",
+        "league_name": "Primera División",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3338/60.png"
+    },
+    {
+        "team_name": "Danubio",
+        "overall": "66",
+        "league_name": "Primera División",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3439/60.png"
+    },
+    {
+        "team_name": "Wanderers",
+        "overall": "66",
+        "league_name": "Primera División",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/456/60.png"
+    },
+    {
+        "team_name": "Racing",
+        "overall": "66",
+        "league_name": "Primera División",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/5632/60.png"
+    },
+    {
+        "team_name": "Cerro Largo",
+        "overall": "65",
+        "league_name": "Primera División",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2528/60.png"
+    },
+    {
+        "team_name": "Liverpool",
+        "overall": "64",
+        "league_name": "Primera División",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/976/60.png"
+    },
+    {
+        "team_name": "Al Hilal",
+        "overall": "79",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7011/60.png"
+    },
+    {
+        "team_name": "Al Nassr",
+        "overall": "76",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2506/60.png"
+    },
+    {
+        "team_name": "Al Ittihad",
+        "overall": "75",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/476/60.png"
+    },
+    {
+        "team_name": "Al Ahli Jeddah",
+        "overall": "73",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9908/60.png"
+    },
+    {
+        "team_name": "Al Qadsiah",
+        "overall": "71",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/13092/60.png"
+    },
+    {
+        "team_name": "Al Ettifaq",
+        "overall": "71",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/10010/60.png"
+    },
+    {
+        "team_name": "Al Taawon",
+        "overall": "70",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2392/60.png"
+    },
+    {
+        "team_name": "Al Shabab",
+        "overall": "70",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/16184/60.png"
+    },
+    {
+        "team_name": "Al Wahda",
+        "overall": "67",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2513/60.png"
+    },
+    {
+        "team_name": "Al Orobah",
+        "overall": "67",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/16512/60.png"
+    },
+    {
+        "team_name": "Damac",
+        "overall": "67",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/17712/60.png"
+    },
+    {
+        "team_name": "Al Riyadh",
+        "overall": "67",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/17705/60.png"
+    },
+    {
+        "team_name": "Al Fayha",
+        "overall": "67",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/17724/60.png"
+    },
+    {
+        "team_name": "Al Khaleej",
+        "overall": "67",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/12216/60.png"
+    },
+    {
+        "team_name": "Al Raed",
+        "overall": "66",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/363/60.png"
+    },
+    {
+        "team_name": "Al Kholood",
+        "overall": "66",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/232744/60.png"
+    },
+    {
+        "team_name": "Al Fateh",
+        "overall": "65",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/5891/60.png"
+    },
+    {
+        "team_name": "Al Okhdood",
+        "overall": "65",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/232738/60.png"
+    },
+    {
+        "team_name": "Melbourne City",
+        "overall": "65",
+        "league_name": "A-League Men",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/315/60.png"
+    },
+    {
+        "team_name": "Melbourne Victory",
+        "overall": "64",
+        "league_name": "A-League Men",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/958/60.png"
+    },
+    {
+        "team_name": "Western Sydney Wanderers",
+        "overall": "64",
+        "league_name": "A-League Men",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1264/60.png"
+    },
+    {
+        "team_name": "Macarthur",
+        "overall": "64",
+        "league_name": "A-League Men",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/252006/60.png"
+    },
+    {
+        "team_name": "Perth Glory",
+        "overall": "63",
+        "league_name": "A-League Men",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/300/60.png"
+    },
+    {
+        "team_name": "Sydney FC",
+        "overall": "63",
+        "league_name": "A-League Men",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/253/60.png"
+    },
+    {
+        "team_name": "Brisbane Roar",
+        "overall": "62",
+        "league_name": "A-League Men",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1238/60.png"
+    },
+    {
+        "team_name": "Wellington Phoenix",
+        "overall": "62",
+        "league_name": "A-League Men",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1868/60.png"
+    },
+    {
+        "team_name": "Auckland",
+        "overall": "62",
+        "league_name": "A-League Men",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/273583/60.png"
+    },
+    {
+        "team_name": "Adelaide United",
+        "overall": "61",
+        "league_name": "A-League Men",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2967/60.png"
+    },
+    {
+        "team_name": "Central Coast Mariners",
+        "overall": "61",
+        "league_name": "A-League Men",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/410/60.png"
+    },
+    {
+        "team_name": "Western United",
+        "overall": "61",
+        "league_name": "A-League Men",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/238265/60.png"
+    },
+    {
+        "team_name": "Newcastle Jets",
+        "overall": "60",
+        "league_name": "A-League Men",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/557/60.png"
+    },
+    {
+        "team_name": "River Plate",
+        "overall": "76",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/10002/60.png"
+    },
+    {
+        "team_name": "Boca Juniors",
+        "overall": "74",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/587/60.png"
+    },
+    {
+        "team_name": "Racing Club",
+        "overall": "73",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3608/60.png"
+    },
+    {
+        "team_name": "Talleres Córdoba",
+        "overall": "72",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9999/60.png"
+    },
+    {
+        "team_name": "Lanús",
+        "overall": "72",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9878/60.png"
+    },
+    {
+        "team_name": "Estudiantes",
+        "overall": "72",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9335/60.png"
+    },
+    {
+        "team_name": "Vélez Sarsfield",
+        "overall": "72",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9904/60.png"
+    },
+    {
+        "team_name": "San Lorenzo",
+        "overall": "72",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/520/60.png"
+    },
+    {
+        "team_name": "Independiente",
+        "overall": "71",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/10840/60.png"
+    },
+    {
+        "team_name": "Rosario Central",
+        "overall": "71",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3365/60.png"
+    },
+    {
+        "team_name": "Newell's Old Boys",
+        "overall": "70",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/32/60.png"
+    },
+    {
+        "team_name": "Godoy Cruz",
+        "overall": "70",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/10987/60.png"
+    },
+    {
+        "team_name": "Huracán",
+        "overall": "70",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3139/60.png"
+    },
+    {
+        "team_name": "Argentinos Juniors",
+        "overall": "70",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3393/60.png"
+    },
+    {
+        "team_name": "Belgrano",
+        "overall": "70",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/6829/60.png"
+    },
+    {
+        "team_name": "Platense",
+        "overall": "69",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9896/60.png"
+    },
+    {
+        "team_name": "Banfield",
+        "overall": "69",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/887/60.png"
+    },
+    {
+        "team_name": "Sarmiento",
+        "overall": "69",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9931/60.png"
+    },
+    {
+        "team_name": "Defensa y Justicia",
+        "overall": "69",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9561/60.png"
+    },
+    {
+        "team_name": "Unión Santa Fe",
+        "overall": "69",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7228/60.png"
+    },
+    {
+        "team_name": "Instituto",
+        "overall": "69",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9941/60.png"
+    },
+    {
+        "team_name": "Gimnasia La Plata",
+        "overall": "69",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/470/60.png"
+    },
+    {
+        "team_name": "Atlético Tucumán",
+        "overall": "68",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/10675/60.png"
+    },
+    {
+        "team_name": "Barracas Central",
+        "overall": "68",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/8228/60.png"
+    },
+    {
+        "team_name": "Central Cordoba SdE",
+        "overall": "67",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/14212/60.png"
+    },
+    {
+        "team_name": "Tigre",
+        "overall": "67",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9884/60.png"
+    },
+    {
+        "team_name": "Independiente Rivadavia",
+        "overall": "67",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/812/60.png"
+    },
+    {
+        "team_name": "Deportivo Riestra",
+        "overall": "66",
+        "league_name": "Liga Profesional de Fútbol",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/14578/60.png"
+    },
+    {
+        "team_name": "Shanghai Shenhua",
+        "overall": "68",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9279/60.png"
+    },
+    {
+        "team_name": "Shandong Taishan",
+        "overall": "68",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2458/60.png"
+    },
+    {
+        "team_name": "Shanghai Port",
+        "overall": "68",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/5751/60.png"
+    },
+    {
+        "team_name": "Chengdu Rongcheng",
+        "overall": "67",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/18045/60.png"
+    },
+    {
+        "team_name": "Beijing Guoan",
+        "overall": "67",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3370/60.png"
+    },
+    {
+        "team_name": "Zhejiang",
+        "overall": "65",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3658/60.png"
+    },
+    {
+        "team_name": "Wuhan Three Towns",
+        "overall": "65",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/235302/60.png"
+    },
+    {
+        "team_name": "Changchun Yatai",
+        "overall": "65",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3351/60.png"
+    },
+    {
+        "team_name": "Henan",
+        "overall": "65",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/8428/60.png"
+    },
+    {
+        "team_name": "Qingdao West Coast",
+        "overall": "64",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/257391/60.png"
+    },
+    {
+        "team_name": "Tianjin Jinmen Tiger",
+        "overall": "63",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2665/60.png"
+    },
+    {
+        "team_name": "Meizhou Hakka",
+        "overall": "63",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/11375/60.png"
+    },
+    {
+        "team_name": "Cangzhou Mighty Lions",
+        "overall": "62",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2404/60.png"
+    },
+    {
+        "team_name": "Qingdao Hainiu",
+        "overall": "62",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/18013/60.png"
+    },
+    {
+        "team_name": "Shenzhen Pengcheng",
+        "overall": "62",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/150427/60.png"
+    },
+    {
+        "team_name": "Nantong Zhiyun",
+        "overall": "61",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/18061/60.png"
+    },
+    {
+        "team_name": "Al Ain",
+        "overall": "70",
+        "league_name": "Pro League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7780/60.png"
+    },
+    {
+        "team_name": "Bolívar",
+        "overall": "67",
+        "league_name": "División de Fútbol Profesional",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/6308/60.png"
+    },
+    {
+        "team_name": "The Strongest",
+        "overall": "67",
+        "league_name": "División de Fútbol Profesional",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/10024/60.png"
+    },
+    {
+        "team_name": "Nacional Potosí",
+        "overall": "65",
+        "league_name": "División de Fútbol Profesional",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/8384/60.png"
+    },
+    {
+        "team_name": "Wilstermann",
+        "overall": "65",
+        "league_name": "División de Fútbol Profesional",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3517/60.png"
+    },
+    {
+        "team_name": "Real Tomayapo",
+        "overall": "63",
+        "league_name": "División de Fútbol Profesional",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/251693/60.png"
+    },
+    {
+        "team_name": "Universitario de Vinto",
+        "overall": "63",
+        "league_name": "División de Fútbol Profesional",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/259048/60.png"
+    },
+    {
+        "team_name": "Always Ready",
+        "overall": "63",
+        "league_name": "División de Fútbol Profesional",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/234259/60.png"
+    },
+    {
+        "team_name": "Barcelona Guayaquil",
+        "overall": "70",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/472/60.png"
+    },
+    {
+        "team_name": "Independiente del Valle",
+        "overall": "69",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/14635/60.png"
+    },
+    {
+        "team_name": "LDU Quito",
+        "overall": "69",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/10779/60.png"
+    },
+    {
+        "team_name": "Universidad Católica",
+        "overall": "68",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/15327/60.png"
+    },
+    {
+        "team_name": "Deportivo Cuenca",
+        "overall": "66",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9996/60.png"
+    },
+    {
+        "team_name": "Técnico Universitario",
+        "overall": "65",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/15328/60.png"
+    },
+    {
+        "team_name": "Delfin",
+        "overall": "64",
+        "league_name": "Serie A",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/9891/60.png"
+    },
+    {
+        "team_name": "Deportivo Táchira",
+        "overall": "66",
+        "league_name": "Primera Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/8390/60.png"
+    },
+    {
+        "team_name": "Carabobo",
+        "overall": "66",
+        "league_name": "Primera Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7738/60.png"
+    },
+    {
+        "team_name": "Metropolitanos",
+        "overall": "65",
+        "league_name": "Primera Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/11370/60.png"
+    },
+    {
+        "team_name": "Caracas",
+        "overall": "65",
+        "league_name": "Primera Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/12294/60.png"
+    },
+    {
+        "team_name": "Deportivo La Guaira",
+        "overall": "65",
+        "league_name": "Primera Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/8339/60.png"
+    },
+    {
+        "team_name": "Rayo Zuliano",
+        "overall": "62",
+        "league_name": "Primera Division",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/256588/60.png"
+    },
+    {
+        "team_name": "Alianza Lima",
+        "overall": "69",
+        "league_name": "Liga 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/10671/60.png"
+    },
+    {
+        "team_name": "Universitario",
+        "overall": "69",
+        "league_name": "Liga 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/8175/60.png"
+    },
+    {
+        "team_name": "Sport Huancayo",
+        "overall": "67",
+        "league_name": "Liga 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/12562/60.png"
+    },
+    {
+        "team_name": "César Vallejo",
+        "overall": "67",
+        "league_name": "Liga 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3807/60.png"
+    },
+    {
+        "team_name": "Deportivo Garcilaso",
+        "overall": "66",
+        "league_name": "Liga 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/15743/60.png"
+    },
+    {
+        "team_name": "Asociación Deportiva Tarma",
+        "overall": "65",
+        "league_name": "Liga 1",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/239392/60.png"
+    },
+    {
+        "team_name": "Hansa Rostock",
+        "overall": "66",
+        "league_name": "3. Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/575/60.png"
+    },
+    {
+        "team_name": "Dynamo Dresden",
+        "overall": "66",
+        "league_name": "3. Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1077/60.png"
+    },
+    {
+        "team_name": "Saarbrücken",
+        "overall": "65",
+        "league_name": "3. Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1331/60.png"
+    },
+    {
+        "team_name": "Rot-Weiss Essen",
+        "overall": "65",
+        "league_name": "3. Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2777/60.png"
+    },
+    {
+        "team_name": "1860 München",
+        "overall": "65",
+        "league_name": "3. Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/454/60.png"
+    },
+    {
+        "team_name": "Sandhausen",
+        "overall": "65",
+        "league_name": "3. Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3510/60.png"
+    },
+    {
+        "team_name": "Ingolstadt",
+        "overall": "65",
+        "league_name": "3. Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/573/60.png"
+    },
+    {
+        "team_name": "DSC Arminia Bielefeld",
+        "overall": "65",
+        "league_name": "3. Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2927/60.png"
+    },
+    {
+        "team_name": "Waldhof Mannheim",
+        "overall": "65",
+        "league_name": "3. Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3385/60.png"
+    },
+    {
+        "team_name": "Osnabrück",
+        "overall": "65",
+        "league_name": "3. Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2872/60.png"
+    },
+    {
+        "team_name": "Wehen Wiesbaden",
+        "overall": "65",
+        "league_name": "3. Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3519/60.png"
+    },
+    {
+        "team_name": "Erzgebirge Aue",
+        "overall": "64",
+        "league_name": "3. Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3336/60.png"
+    },
+    {
+        "team_name": "Alemannia Aachen",
+        "overall": "63",
+        "league_name": "3. Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3328/60.png"
+    },
+    {
+        "team_name": "Viktoria Köln",
+        "overall": "63",
+        "league_name": "3. Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2823/60.png"
+    },
+    {
+        "team_name": "Borussia Dortmund II",
+        "overall": "63",
+        "league_name": "3. Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3655/60.png"
+    },
+    {
+        "team_name": "Energie Cottbus",
+        "overall": "63",
+        "league_name": "3. Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3322/60.png"
+    },
+    {
+        "team_name": "Verl",
+        "overall": "63",
+        "league_name": "3. Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3891/60.png"
+    },
+    {
+        "team_name": "Unterhaching",
+        "overall": "62",
+        "league_name": "3. Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3492/60.png"
+    },
+    {
+        "team_name": "Hannover 96 II",
+        "overall": "61",
+        "league_name": "3. Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3686/60.png"
+    },
+    {
+        "team_name": "Stuttgart II",
+        "overall": "60",
+        "league_name": "3. Liga",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/1445/60.png"
+    },
+    {
+        "team_name": "ATK Mohun Bagan",
+        "overall": "63",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/251504/60.png"
+    },
+    {
+        "team_name": "Mumbai City",
+        "overall": "62",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/3416/60.png"
+    },
+    {
+        "team_name": "Bengaluru",
+        "overall": "62",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/492/60.png"
+    },
+    {
+        "team_name": "Goa",
+        "overall": "61",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/435/60.png"
+    },
+    {
+        "team_name": "Kerala Blasters",
+        "overall": "61",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/780/60.png"
+    },
+    {
+        "team_name": "East Bengal",
+        "overall": "60",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/4017/60.png"
+    },
+    {
+        "team_name": "Odisha FC",
+        "overall": "60",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2358/60.png"
+    },
+    {
+        "team_name": "Minerva Punjab",
+        "overall": "58",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/18189/60.png"
+    },
+    {
+        "team_name": "Chennaiyin",
+        "overall": "58",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/7271/60.png"
+    },
+    {
+        "team_name": "Jamshedpur",
+        "overall": "58",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/134418/60.png"
+    },
+    {
+        "team_name": "NorthEast United",
+        "overall": "57",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/2768/60.png"
+    },
+    {
+        "team_name": "Mohammedan",
+        "overall": "53",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/18166/60.png"
+    },
+    {
+        "team_name": "Hyderabad",
+        "overall": "51",
+        "league_name": "Super League",
+        "team_image_url": "https://cdn.sofifa.net/meta/team/238626/60.png"
+    }
+]

@@ -1,6 +1,7 @@
 [
     {
         "name": "Nikola Jokic",
+        "team": "Denver Nuggets",
         "overallAttribute": 98,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Nikola-Jokic-2K-Rating.png",
         "position": "Position:C",
@@ -45,6 +46,7 @@
     },
     {
         "name": "Giannis Antetokounmpo",
+        "team": "Milwaukee Bucks",
         "overallAttribute": 98,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Giannis-Antetokounmpo-2K-Rating.png",
         "position": "Position:PF/C",
@@ -89,6 +91,7 @@
     },
     {
         "name": "Shai Gilgeous-Alexander",
+        "team": "Oklahoma City Thunder",
         "overallAttribute": 98,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Shai-Gilgeous-Alexander-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -133,6 +136,7 @@
     },
     {
         "name": "Luka Doncic",
+        "team": "Los Angeles Lakers",
         "overallAttribute": 96,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Luka-Doncic-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -177,6 +181,7 @@
     },
     {
         "name": "LeBron James",
+        "team": "Los Angeles Lakers",
         "overallAttribute": 96,
         "image_url": "https://www.2kratings.com/wp-content/uploads/LeBron-James-2K-Rating.png",
         "position": "Position:PF/PG",
@@ -221,6 +226,7 @@
     },
     {
         "name": "Jayson Tatum",
+        "team": "Boston Celtics",
         "overallAttribute": 95,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jayson-Tatum-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -265,6 +271,7 @@
     },
     {
         "name": "Anthony Davis",
+        "team": "Dallas Mavericks",
         "overallAttribute": 95,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Anthony-Davis-2K-Rating.png",
         "position": "Position:C/PF",
@@ -309,6 +316,7 @@
     },
     {
         "name": "Stephen Curry",
+        "team": "Golden State Warriors",
         "overallAttribute": 95,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Stephen-Curry-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -353,6 +361,7 @@
     },
     {
         "name": "Donovan Mitchell",
+        "team": "Cleveland Cavaliers",
         "overallAttribute": 94,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Donovan-Mitchell-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -397,6 +406,7 @@
     },
     {
         "name": "Anthony Edwards",
+        "team": "Minnesota Timberwolves",
         "overallAttribute": 94,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Anthony-Edwards-2K-Rating-1.png",
         "position": "Position:SG/SF",
@@ -441,6 +451,7 @@
     },
     {
         "name": "Victor Wembanyama",
+        "team": "San Antonio Spurs",
         "overallAttribute": 94,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Victor-Wembanyama-2K-Rating.png",
         "position": "Position:C/PF",
@@ -485,6 +496,7 @@
     },
     {
         "name": "Jalen Brunson",
+        "team": "New York Knicks",
         "overallAttribute": 93,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jalen-Brunson-2K-Rating.png",
         "position": "Position:PG",
@@ -529,6 +541,7 @@
     },
     {
         "name": "Karl-Anthony Towns",
+        "team": "New York Knicks",
         "overallAttribute": 93,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Karl-Anthony-Towns-2K-Rating-1.png",
         "position": "Position:PF/C",
@@ -573,6 +586,7 @@
     },
     {
         "name": "Joel Embiid",
+        "team": "Philadelphia 76ers",
         "overallAttribute": 93,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Joel-Embiid-2K-Rating.png",
         "position": "Position:C",
@@ -617,6 +631,7 @@
     },
     {
         "name": "Kevin Durant",
+        "team": "Phoenix Suns",
         "overallAttribute": 93,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kevin-Durant-2K-Rating-1.png",
         "position": "Position:PF/SF",
@@ -661,6 +676,7 @@
     },
     {
         "name": "Evan Mobley",
+        "team": "Cleveland Cavaliers",
         "overallAttribute": 92,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Evan-Mobley-2K-Rating.png",
         "position": "Position:PF/C",
@@ -705,6 +721,7 @@
     },
     {
         "name": "Kyrie Irving",
+        "team": "Dallas Mavericks",
         "overallAttribute": 92,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kyrie-IrvingK-Rating.png",
         "position": "Position:SG/PG",
@@ -749,6 +766,7 @@
     },
     {
         "name": "Cade Cunningham",
+        "team": "Detroit Pistons",
         "overallAttribute": 92,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Cade-Cunningham-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -793,6 +811,7 @@
     },
     {
         "name": "Jaylen Brown",
+        "team": "Boston Celtics",
         "overallAttribute": 91,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jaylen-Brown-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -837,6 +856,7 @@
     },
     {
         "name": "Jaren Jackson Jr.",
+        "team": "Memphis Grizzlies",
         "overallAttribute": 91,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jaren-Jackson-Jr-2K-Rating.png",
         "position": "Position:C/PF",
@@ -881,6 +901,7 @@
     },
     {
         "name": "Ja Morant",
+        "team": "Memphis Grizzlies",
         "overallAttribute": 91,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Ja-Morant-2K-Rating.png",
         "position": "Position:PG",
@@ -925,6 +946,7 @@
     },
     {
         "name": "Damian Lillard",
+        "team": "Milwaukee Bucks",
         "overallAttribute": 91,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Damian-Lillard-2K-Rating.png",
         "position": "Position:PG",
@@ -969,6 +991,7 @@
     },
     {
         "name": "Devin Booker",
+        "team": "Phoenix Suns",
         "overallAttribute": 91,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Devin-Booker-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -1013,6 +1036,7 @@
     },
     {
         "name": "Trae Young",
+        "team": "Atlanta Hawks",
         "overallAttribute": 90,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Trae-Young-2K-Rating.png",
         "position": "Position:PG",
@@ -1057,6 +1081,7 @@
     },
     {
         "name": "James Harden",
+        "team": "Los Angeles Clippers",
         "overallAttribute": 90,
         "image_url": "https://www.2kratings.com/wp-content/uploads/James-Harden-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -1101,6 +1126,7 @@
     },
     {
         "name": "Paolo Banchero",
+        "team": "Orlando Magic",
         "overallAttribute": 90,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Paolo-Banchero-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -1145,6 +1171,7 @@
     },
     {
         "name": "Tyrese Haliburton",
+        "team": "Indiana Pacers",
         "overallAttribute": 89,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tyrese-Haliburton-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -1189,6 +1216,7 @@
     },
     {
         "name": "Kawhi Leonard",
+        "team": "Los Angeles Clippers",
         "overallAttribute": 89,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kawhi-Leonard-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -1233,6 +1261,7 @@
     },
     {
         "name": "Zion Williamson",
+        "team": "New Orleans Pelicans",
         "overallAttribute": 89,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Zion-Williamson-2K-Rating.png",
         "position": "Position:PF/C",
@@ -1277,6 +1306,7 @@
     },
     {
         "name": "Jalen Williams",
+        "team": "Oklahoma City Thunder",
         "overallAttribute": 89,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jalen-Williams-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -1321,6 +1351,7 @@
     },
     {
         "name": "Franz Wagner",
+        "team": "Orlando Magic",
         "overallAttribute": 89,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Franz-Wagner-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -1365,6 +1396,7 @@
     },
     {
         "name": "Kristaps Porzingis",
+        "team": "Boston Celtics",
         "overallAttribute": 88,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kristaps-Porzingis-2K-Rating.png",
         "position": "Position:C/PF",
@@ -1409,6 +1441,7 @@
     },
     {
         "name": "Derrick White",
+        "team": "Boston Celtics",
         "overallAttribute": 88,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Derrick-White-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -1453,6 +1486,7 @@
     },
     {
         "name": "LaMelo Ball",
+        "team": "Charlotte Hornets",
         "overallAttribute": 88,
         "image_url": "https://www.2kratings.com/wp-content/uploads/LaMelo-Ball-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -1497,6 +1531,7 @@
     },
     {
         "name": "Darius Garland",
+        "team": "Cleveland Cavaliers",
         "overallAttribute": 88,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Darius-Garland-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -1541,6 +1576,7 @@
     },
     {
         "name": "Ivica Zubac",
+        "team": "Los Angeles Clippers",
         "overallAttribute": 88,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Ivica-Zubac-2K-Rating.png",
         "position": "Position:C",
@@ -1585,6 +1621,7 @@
     },
     {
         "name": "Chet Holmgren",
+        "team": "Oklahoma City Thunder",
         "overallAttribute": 88,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Chet-Holmgren-2K-Rating.png",
         "position": "Position:C/PF",
@@ -1629,6 +1666,7 @@
     },
     {
         "name": "Zach LaVine",
+        "team": "Sacramento Kings",
         "overallAttribute": 88,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Zach-LaVine-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -1673,6 +1711,7 @@
     },
     {
         "name": "Domantas Sabonis",
+        "team": "Sacramento Kings",
         "overallAttribute": 88,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Domantas-Sabonis-2K-Rating.png",
         "position": "Position:C",
@@ -1717,6 +1756,7 @@
     },
     {
         "name": "Jamal Murray",
+        "team": "Denver Nuggets",
         "overallAttribute": 87,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jamal-Murray-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -1761,6 +1801,7 @@
     },
     {
         "name": "Jimmy Butler",
+        "team": "Golden State Warriors",
         "overallAttribute": 87,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jimmy-Butler-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -1805,6 +1846,7 @@
     },
     {
         "name": "Alperen Sengun",
+        "team": "Houston Rockets",
         "overallAttribute": 87,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Alperen-Sengun-2K-Rating.png",
         "position": "Position:C",
@@ -1849,6 +1891,7 @@
     },
     {
         "name": "Pascal Siakam",
+        "team": "Indiana Pacers",
         "overallAttribute": 87,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Pascal-Siakam-2K-Rating.png",
         "position": "Position:PF/C",
@@ -1893,6 +1936,7 @@
     },
     {
         "name": "Norman Powell",
+        "team": "Los Angeles Clippers",
         "overallAttribute": 87,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Norman-Powell-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -1937,6 +1981,7 @@
     },
     {
         "name": "Austin Reaves",
+        "team": "Los Angeles Lakers",
         "overallAttribute": 87,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Austin-Reaves-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -1981,6 +2026,7 @@
     },
     {
         "name": "Desmond Bane",
+        "team": "Memphis Grizzlies",
         "overallAttribute": 87,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Desmond-Bane-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -2025,6 +2071,7 @@
     },
     {
         "name": "Bam Adebayo",
+        "team": "Miami Heat",
         "overallAttribute": 87,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Bam-Adebayo-2K-Rating.png",
         "position": "Position:C",
@@ -2069,6 +2116,7 @@
     },
     {
         "name": "Tyler Herro",
+        "team": "Miami Heat",
         "overallAttribute": 87,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tyler-Herro-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -2113,6 +2161,7 @@
     },
     {
         "name": "Tyrese Maxey",
+        "team": "Philadelphia 76ers",
         "overallAttribute": 87,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tyrese-Maxey-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -2157,6 +2206,7 @@
     },
     {
         "name": "DeMar DeRozan",
+        "team": "Sacramento Kings",
         "overallAttribute": 87,
         "image_url": "https://www.2kratings.com/wp-content/uploads/DeMar-DeRozan-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -2201,6 +2251,7 @@
     },
     {
         "name": "Jarrett Allen",
+        "team": "Cleveland Cavaliers",
         "overallAttribute": 86,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jarrett-Allen-2K-Rating.png",
         "position": "Position:C",
@@ -2245,6 +2296,7 @@
     },
     {
         "name": "Amen Thompson",
+        "team": "Houston Rockets",
         "overallAttribute": 86,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Amen-Thompson-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -2289,6 +2341,7 @@
     },
     {
         "name": "Jalen Green",
+        "team": "Houston Rockets",
         "overallAttribute": 86,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jalen-Green-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -2333,6 +2386,7 @@
     },
     {
         "name": "Julius Randle",
+        "team": "Minnesota Timberwolves",
         "overallAttribute": 86,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Julius-Randle-2K-Rating.png",
         "position": "Position:PF/C",
@@ -2377,6 +2431,7 @@
     },
     {
         "name": "OG Anunoby",
+        "team": "New York Knicks",
         "overallAttribute": 86,
         "image_url": "https://www.2kratings.com/wp-content/uploads/OG-Anunoby-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -2421,6 +2476,7 @@
     },
     {
         "name": "Mikal Bridges",
+        "team": "New York Knicks",
         "overallAttribute": 86,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Mikal-Bridges-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -2465,6 +2521,7 @@
     },
     {
         "name": "De\u2019Aaron Fox",
+        "team": "San Antonio Spurs",
         "overallAttribute": 86,
         "image_url": "https://www.2kratings.com/wp-content/uploads/DeAaron-Fox-2K-Rating.png",
         "position": "Position:PG",
@@ -2509,6 +2566,7 @@
     },
     {
         "name": "Scottie Barnes",
+        "team": "Toronto Raptors",
         "overallAttribute": 86,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Scottie-Barnes-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -2553,6 +2611,7 @@
     },
     {
         "name": "Brandon Ingram",
+        "team": "Toronto Raptors",
         "overallAttribute": 86,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Brandon-Ingram-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -2597,6 +2656,7 @@
     },
     {
         "name": "Jalen Johnson",
+        "team": "Atlanta Hawks",
         "overallAttribute": 85,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jalen-Johnson-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -2641,6 +2701,7 @@
     },
     {
         "name": "Rudy Gobert",
+        "team": "Minnesota Timberwolves",
         "overallAttribute": 85,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Rudy-Gobert-2K-Rating.png",
         "position": "Position:C",
@@ -2685,6 +2746,7 @@
     },
     {
         "name": "Josh Hart",
+        "team": "New York Knicks",
         "overallAttribute": 85,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Josh-Hart-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -2729,6 +2791,7 @@
     },
     {
         "name": "John Collins",
+        "team": "Utah Jazz",
         "overallAttribute": 85,
         "image_url": "https://www.2kratings.com/wp-content/uploads/John-Collins-2K-Rating.png",
         "position": "Position:C/PF",
@@ -2773,6 +2836,7 @@
     },
     {
         "name": "Dyson Daniels",
+        "team": "Atlanta Hawks",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Dyson-Daniels-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -2817,6 +2881,7 @@
     },
     {
         "name": "Onyeka Okongwu",
+        "team": "Atlanta Hawks",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Onyeka-Okongwu-2K-Rating.png",
         "position": "Position:C",
@@ -2861,6 +2926,7 @@
     },
     {
         "name": "Jrue Holiday",
+        "team": "Boston Celtics",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jrue-Holiday-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -2905,6 +2971,7 @@
     },
     {
         "name": "Cameron Johnson",
+        "team": "Brooklyn Nets",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Cameron-Johnson-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -2949,6 +3016,7 @@
     },
     {
         "name": "Cam Thomas",
+        "team": "Brooklyn Nets",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Cam-Thomas-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -2993,6 +3061,7 @@
     },
     {
         "name": "Miles Bridges",
+        "team": "Charlotte Hornets",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Miles-Bridges-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -3037,6 +3106,7 @@
     },
     {
         "name": "Nikola Vucevic",
+        "team": "Chicago Bulls",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Nikola-Vucevic-2K-Rating.png",
         "position": "Position:C",
@@ -3081,6 +3151,7 @@
     },
     {
         "name": "Coby White",
+        "team": "Chicago Bulls",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Coby-White-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -3125,6 +3196,7 @@
     },
     {
         "name": "Jalen Duren",
+        "team": "Detroit Pistons",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jalen-Duren-2K-Rating.png",
         "position": "Position:C",
@@ -3169,6 +3241,7 @@
     },
     {
         "name": "Draymond Green",
+        "team": "Golden State Warriors",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Draymond-Green-2K-Rating.png",
         "position": "Position:PF/C",
@@ -3213,6 +3286,7 @@
     },
     {
         "name": "Tari Eason",
+        "team": "Houston Rockets",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tari-Eason-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -3257,6 +3331,7 @@
     },
     {
         "name": "Jaden McDaniels",
+        "team": "Minnesota Timberwolves",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jaden-McDaniels-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -3301,6 +3376,7 @@
     },
     {
         "name": "C.J. McCollum",
+        "team": "New Orleans Pelicans",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/CJ-McCollum-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -3345,6 +3421,7 @@
     },
     {
         "name": "Dejounte Murray",
+        "team": "New Orleans Pelicans",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Dejounte-Murray-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -3389,6 +3466,7 @@
     },
     {
         "name": "Trey Murphy III",
+        "team": "New Orleans Pelicans",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Trey-Murphy-III-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -3433,6 +3511,7 @@
     },
     {
         "name": "Isaiah Hartenstein",
+        "team": "Oklahoma City Thunder",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Isaiah-Hartenstein-2K-Rating.png",
         "position": "Position:C",
@@ -3477,6 +3556,7 @@
     },
     {
         "name": "Jalen Suggs",
+        "team": "Orlando Magic",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jalen-Suggs-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -3521,6 +3601,7 @@
     },
     {
         "name": "Quentin Grimes",
+        "team": "Philadelphia 76ers",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Quentin-Grimes-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -3565,6 +3646,7 @@
     },
     {
         "name": "Bradley Beal",
+        "team": "Phoenix Suns",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Bradley-Beal-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -3609,6 +3691,7 @@
     },
     {
         "name": "Anfernee Simons",
+        "team": "Portland Trail Blazers",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Anfernee-Simons-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -3653,6 +3736,7 @@
     },
     {
         "name": "Deni Avdija",
+        "team": "Portland Trail Blazers",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Deni-Avdija-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -3697,6 +3781,7 @@
     },
     {
         "name": "Stephon Castle",
+        "team": "San Antonio Spurs",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Stephon-Castle-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -3741,6 +3826,7 @@
     },
     {
         "name": "Lauri Markkanen",
+        "team": "Utah Jazz",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Lauri-Markkanen-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -3785,6 +3871,7 @@
     },
     {
         "name": "Walker Kessler",
+        "team": "Utah Jazz",
         "overallAttribute": 84,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Walker-Kessler-2K-Rating.png",
         "position": "Position:C",
@@ -3829,6 +3916,7 @@
     },
     {
         "name": "Payton Pritchard",
+        "team": "Boston Celtics",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Payton-Pritchard-2K-Rating.png",
         "position": "Position:PG",
@@ -3873,6 +3961,7 @@
     },
     {
         "name": "Mark Williams",
+        "team": "Charlotte Hornets",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Mark-Williams-2K-Rating.png",
         "position": "Position:C",
@@ -3917,6 +4006,7 @@
     },
     {
         "name": "Josh Giddey",
+        "team": "Chicago Bulls",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Josh-Giddey-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -3961,6 +4051,7 @@
     },
     {
         "name": "Ty Jerome",
+        "team": "Cleveland Cavaliers",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Ty-Jerome-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -4005,6 +4096,7 @@
     },
     {
         "name": "Dereck Lively II",
+        "team": "Dallas Mavericks",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Dereck-Lively-II-2K-Rating.png",
         "position": "Position:C",
@@ -4049,6 +4141,7 @@
     },
     {
         "name": "Daniel Gafford",
+        "team": "Dallas Mavericks",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Daniel-Gafford-2K-Rating.png",
         "position": "Position:C",
@@ -4093,6 +4186,7 @@
     },
     {
         "name": "Russell Westbrook",
+        "team": "Denver Nuggets",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Russell-Westbrook-2K-Rating.png",
         "position": "Position:PG",
@@ -4137,6 +4231,7 @@
     },
     {
         "name": "Michael Porter Jr.",
+        "team": "Denver Nuggets",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Michael-Porter-Jr-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -4181,6 +4276,7 @@
     },
     {
         "name": "Christian Braun",
+        "team": "Denver Nuggets",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Christian-Braun-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -4225,6 +4321,7 @@
     },
     {
         "name": "Aaron Gordon",
+        "team": "Denver Nuggets",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Aaron-Gordon-2K-Rating.png",
         "position": "Position:PF",
@@ -4269,6 +4366,7 @@
     },
     {
         "name": "Myles Turner",
+        "team": "Indiana Pacers",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Myles-Turner-2K-Rating.png",
         "position": "Position:C",
@@ -4313,6 +4411,7 @@
     },
     {
         "name": "Brook Lopez",
+        "team": "Milwaukee Bucks",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Brook-Lopez-2K-Rating.png",
         "position": "Position:C",
@@ -4357,6 +4456,7 @@
     },
     {
         "name": "Bobby Portis",
+        "team": "Milwaukee Bucks",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Bobby-Portis-2K-Rating.png",
         "position": "Position:PF/C",
@@ -4401,6 +4501,7 @@
     },
     {
         "name": "Naz Reid",
+        "team": "Minnesota Timberwolves",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Naz-Reid-2K-Rating-1.png",
         "position": "Position:C/PF",
@@ -4445,6 +4546,7 @@
     },
     {
         "name": "Paul George",
+        "team": "Philadelphia 76ers",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Paul-George-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -4489,6 +4591,7 @@
     },
     {
         "name": "Deandre Ayton",
+        "team": "Portland Trail Blazers",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating.png",
         "position": "Position:C",
@@ -4533,6 +4636,7 @@
     },
     {
         "name": "Malik Monk",
+        "team": "Sacramento Kings",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Malik-Monk-2K-Rating.png",
         "position": "Position:SG",
@@ -4577,6 +4681,7 @@
     },
     {
         "name": "Devin Vassell",
+        "team": "San Antonio Spurs",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Devin-Vassell-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -4621,6 +4726,7 @@
     },
     {
         "name": "R.J. Barrett",
+        "team": "Toronto Raptors",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/RJ-Barrett-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -4665,6 +4771,7 @@
     },
     {
         "name": "Jakob Poeltl",
+        "team": "Toronto Raptors",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jakob-Poeltl-2K-Rating.png",
         "position": "Position:C",
@@ -4709,6 +4816,7 @@
     },
     {
         "name": "Immanuel Quickley",
+        "team": "Toronto Raptors",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Immanuel-Quickley-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -4753,6 +4861,7 @@
     },
     {
         "name": "Collin Sexton",
+        "team": "Utah Jazz",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Collin-Sexton-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -4797,6 +4906,7 @@
     },
     {
         "name": "Alexandre Sarr",
+        "team": "Washington Wizards",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Alexandre-Sarr-2K-Rating.png",
         "position": "Position:PF/C",
@@ -4841,6 +4951,7 @@
     },
     {
         "name": "Jordan Poole",
+        "team": "Washington Wizards",
         "overallAttribute": 83,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jordan-Poole-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -4885,6 +4996,7 @@
     },
     {
         "name": "Nic Claxton",
+        "team": "Brooklyn Nets",
         "overallAttribute": 82,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Nic-Claxton-2K-Rating.png",
         "position": "Position:C",
@@ -4929,6 +5041,7 @@
     },
     {
         "name": "Brandon Miller",
+        "team": "Charlotte Hornets",
         "overallAttribute": 82,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Brandon-Miller-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -4973,6 +5086,7 @@
     },
     {
         "name": "De\u2019Andre Hunter",
+        "team": "Cleveland Cavaliers",
         "overallAttribute": 82,
         "image_url": "https://www.2kratings.com/wp-content/uploads/DeAndre-Hunter-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -5017,6 +5131,7 @@
     },
     {
         "name": "Ausar Thompson",
+        "team": "Detroit Pistons",
         "overallAttribute": 82,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Ausar-Thompson-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -5061,6 +5176,7 @@
     },
     {
         "name": "Jaden Ivey",
+        "team": "Detroit Pistons",
         "overallAttribute": 82,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jaden-Ivey-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -5105,6 +5221,7 @@
     },
     {
         "name": "Jabari Smith Jr.",
+        "team": "Houston Rockets",
         "overallAttribute": 82,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jabari-Smith-Jr.-2K-Rating.png",
         "position": "Position:PF/C",
@@ -5149,6 +5266,7 @@
     },
     {
         "name": "Dillon Brooks",
+        "team": "Houston Rockets",
         "overallAttribute": 82,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Dillon-Brooks-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -5193,6 +5311,7 @@
     },
     {
         "name": "Andrew Nembhard",
+        "team": "Indiana Pacers",
         "overallAttribute": 82,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Andrew-Nembhard-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -5237,6 +5356,7 @@
     },
     {
         "name": "Obi Toppin",
+        "team": "Indiana Pacers",
         "overallAttribute": 82,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Obi-Toppin-2K-Rating.png",
         "position": "Position:PF",
@@ -5281,6 +5401,7 @@
     },
     {
         "name": "Herbert Jones",
+        "team": "New Orleans Pelicans",
         "overallAttribute": 82,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Herbert-Jones-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -5325,6 +5446,7 @@
     },
     {
         "name": "Khris Middleton",
+        "team": "Washington Wizards",
         "overallAttribute": 82,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Khris-Middleton-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -5369,6 +5491,7 @@
     },
     {
         "name": "Caris LeVert",
+        "team": "Atlanta Hawks",
         "overallAttribute": 81,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Caris-LeVert-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -5413,6 +5536,7 @@
     },
     {
         "name": "Al Horford",
+        "team": "Boston Celtics",
         "overallAttribute": 81,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Al-Horford-2K-Rating.png",
         "position": "Position:PF/C",
@@ -5457,6 +5581,7 @@
     },
     {
         "name": "Naji Marshall",
+        "team": "Dallas Mavericks",
         "overallAttribute": 81,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Naji-Marshall-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -5501,6 +5626,7 @@
     },
     {
         "name": "Tobias Harris",
+        "team": "Detroit Pistons",
         "overallAttribute": 81,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tobias-Harris-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -5545,6 +5671,7 @@
     },
     {
         "name": "Malik Beasley",
+        "team": "Detroit Pistons",
         "overallAttribute": 81,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Malik-Beasley-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -5589,6 +5716,7 @@
     },
     {
         "name": "Jonathan Kuminga",
+        "team": "Golden State Warriors",
         "overallAttribute": 81,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jonathan-Kuminga-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -5633,6 +5761,7 @@
     },
     {
         "name": "Bennedict Mathurin",
+        "team": "Indiana Pacers",
         "overallAttribute": 81,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Bennedict-Mathurin-2K-Rating.png",
         "position": "Position:SF/SF",
@@ -5677,6 +5806,7 @@
     },
     {
         "name": "Rui Hachimura",
+        "team": "Los Angeles Lakers",
         "overallAttribute": 81,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Rui-Hachimura-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -5721,6 +5851,7 @@
     },
     {
         "name": "Zach Edey",
+        "team": "Memphis Grizzlies",
         "overallAttribute": 81,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Zach-Edey-2K-Rating.png",
         "position": "Position:C",
@@ -5765,6 +5896,7 @@
     },
     {
         "name": "Santi Aldama",
+        "team": "Memphis Grizzlies",
         "overallAttribute": 81,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Santi-Aldama-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -5809,6 +5941,7 @@
     },
     {
         "name": "Luguentz Dort",
+        "team": "Oklahoma City Thunder",
         "overallAttribute": 81,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Luguentz-Dort-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -5853,6 +5986,7 @@
     },
     {
         "name": "Shaedon Sharpe",
+        "team": "Portland Trail Blazers",
         "overallAttribute": 81,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Shaedon-Sharpe-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -5897,6 +6031,7 @@
     },
     {
         "name": "Robert Williams III",
+        "team": "Portland Trail Blazers",
         "overallAttribute": 81,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Robert-Williams-III-2K-Rating.png",
         "position": "Position:C/PF",
@@ -5941,6 +6076,7 @@
     },
     {
         "name": "Toumani Camara",
+        "team": "Portland Trail Blazers",
         "overallAttribute": 81,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Toumani-Camara-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -5985,6 +6121,7 @@
     },
     {
         "name": "Jonas Valanciunas",
+        "team": "Sacramento Kings",
         "overallAttribute": 81,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jonas-Valanciunas-2K-Rating.png",
         "position": "Position:C",
@@ -6029,6 +6166,7 @@
     },
     {
         "name": "Zaccharie Risacher",
+        "team": "Atlanta Hawks",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Zaccharie-Risacher-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -6073,6 +6211,7 @@
     },
     {
         "name": "Clint Capela",
+        "team": "Atlanta Hawks",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Clint-Capela-2K-Rating.png",
         "position": "Position:C",
@@ -6117,6 +6256,7 @@
     },
     {
         "name": "D\u2019Angelo Russell",
+        "team": "Brooklyn Nets",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/DAngelo-Russell-2K-Rating-1.png",
         "position": "Position:PG",
@@ -6161,6 +6301,7 @@
     },
     {
         "name": "Klay Thompson",
+        "team": "Dallas Mavericks",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Klay-Thompson-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -6205,6 +6346,7 @@
     },
     {
         "name": "P.J. Washington",
+        "team": "Dallas Mavericks",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/PJ-Washington-2K-Rating.png",
         "position": "Position:PF/C",
@@ -6249,6 +6391,7 @@
     },
     {
         "name": "Fred VanVleet",
+        "team": "Houston Rockets",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Fred-VanVleet-2K-Rating.png",
         "position": "Position:PG",
@@ -6293,6 +6436,7 @@
     },
     {
         "name": "Aaron Nesmith",
+        "team": "Indiana Pacers",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Aaron-Nesmith-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -6337,6 +6481,7 @@
     },
     {
         "name": "Jaylen Wells",
+        "team": "Memphis Grizzlies",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jaylen-Wells-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -6381,6 +6526,7 @@
     },
     {
         "name": "Brandon Clarke",
+        "team": "Memphis Grizzlies",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Brandon-Clarke-2K-Rating.png",
         "position": "Position:C/PF",
@@ -6425,6 +6571,7 @@
     },
     {
         "name": "Andrew Wiggins",
+        "team": "Miami Heat",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Andrew-Wiggins-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -6469,6 +6616,7 @@
     },
     {
         "name": "Kel\u2019el Ware",
+        "team": "Miami Heat",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kelel-Ware-2K-Rating.png",
         "position": "Position:C/PF",
@@ -6513,6 +6661,7 @@
     },
     {
         "name": "Kyle Kuzma",
+        "team": "Milwaukee Bucks",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Kuzma-2K-Rating.png",
         "position": "Position:PF/C",
@@ -6557,6 +6706,7 @@
     },
     {
         "name": "Donte DiVincenzo",
+        "team": "Minnesota Timberwolves",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Donte-DiVincenzo-2K-Rating-1.png",
         "position": "Position:SG/SF",
@@ -6601,6 +6751,7 @@
     },
     {
         "name": "Yves Missi",
+        "team": "New Orleans Pelicans",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Yves-Missi-2K-Rating.png",
         "position": "Position:C/PF",
@@ -6645,6 +6796,7 @@
     },
     {
         "name": "Mitchell Robinson",
+        "team": "New York Knicks",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Mitchell-Robinson-2K-Rating.png",
         "position": "Position:C",
@@ -6689,6 +6841,7 @@
     },
     {
         "name": "Alex Caruso",
+        "team": "Oklahoma City Thunder",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Alex-Caruso-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -6733,6 +6886,7 @@
     },
     {
         "name": "Jared McCain",
+        "team": "Philadelphia 76ers",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jared-McCain-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -6777,6 +6931,7 @@
     },
     {
         "name": "Kelly Oubre Jr.",
+        "team": "Philadelphia 76ers",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kelly-Oubre-Jr-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -6821,6 +6976,7 @@
     },
     {
         "name": "Scoot Henderson",
+        "team": "Portland Trail Blazers",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Scoot-Henderson-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -6865,6 +7021,7 @@
     },
     {
         "name": "Donovan Clingan",
+        "team": "Portland Trail Blazers",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Donovan-Clingan-2K-Rating.png",
         "position": "Position:C",
@@ -6909,6 +7066,7 @@
     },
     {
         "name": "Keegan Murray",
+        "team": "Sacramento Kings",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Keegan-Murray-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -6953,6 +7111,7 @@
     },
     {
         "name": "Chris Paul",
+        "team": "San Antonio Spurs",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Chris-Paul-2K-Rating.png",
         "position": "Position:PG",
@@ -6997,6 +7156,7 @@
     },
     {
         "name": "Keldon Johnson",
+        "team": "San Antonio Spurs",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Keldon-Johnson-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -7041,6 +7201,7 @@
     },
     {
         "name": "Keyonte George",
+        "team": "Utah Jazz",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Keyonte-George-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -7085,6 +7246,7 @@
     },
     {
         "name": "Jordan Clarkson",
+        "team": "Utah Jazz",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jordan-Clarkson-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -7129,6 +7291,7 @@
     },
     {
         "name": "Bilal Coulibaly",
+        "team": "Washington Wizards",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Bilal-Coulibaly-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -7173,6 +7336,7 @@
     },
     {
         "name": "Marcus Smart",
+        "team": "Washington Wizards",
         "overallAttribute": 80,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -7217,6 +7381,7 @@
     },
     {
         "name": "Ziaire Williams",
+        "team": "Brooklyn Nets",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Ziaire-Williams-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -7261,6 +7426,7 @@
     },
     {
         "name": "Tre Mann",
+        "team": "Charlotte Hornets",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tre-Mann-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -7305,6 +7471,7 @@
     },
     {
         "name": "Zach Collins",
+        "team": "Chicago Bulls",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Zach-Collins-2K-Rating.png",
         "position": "Position:C",
@@ -7349,6 +7516,7 @@
     },
     {
         "name": "Tre Jones",
+        "team": "Chicago Bulls",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tre-Jones-2K-Rating.png",
         "position": "Position:PG",
@@ -7393,6 +7561,7 @@
     },
     {
         "name": "Max Strus",
+        "team": "Cleveland Cavaliers",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Max-Strus-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -7437,6 +7606,7 @@
     },
     {
         "name": "Dante Exum",
+        "team": "Dallas Mavericks",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Dante-Exum-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -7481,6 +7651,7 @@
     },
     {
         "name": "Dennis Schroder",
+        "team": "Detroit Pistons",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Dennis-Schroder-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -7525,6 +7696,7 @@
     },
     {
         "name": "Tim Hardaway Jr.",
+        "team": "Detroit Pistons",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tim-Hardaway-Jr-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -7569,6 +7741,7 @@
     },
     {
         "name": "Brandin Podziemski",
+        "team": "Golden State Warriors",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Brandin-Podziemski-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -7613,6 +7786,7 @@
     },
     {
         "name": "Moses Moody",
+        "team": "Golden State Warriors",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Moses-Moody-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -7657,6 +7831,7 @@
     },
     {
         "name": "Gary Payton II",
+        "team": "Golden State Warriors",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Gary-Payton-II-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -7701,6 +7876,7 @@
     },
     {
         "name": "T.J. McConnell",
+        "team": "Indiana Pacers",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/TJ-McConnell-2K-Rating.png",
         "position": "Position:PG",
@@ -7745,6 +7921,7 @@
     },
     {
         "name": "Bogdan Bogdanovic",
+        "team": "Los Angeles Clippers",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Bogdan-Bogdanovic-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -7789,6 +7966,7 @@
     },
     {
         "name": "Derrick Jones Jr.",
+        "team": "Los Angeles Clippers",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Jones-Jr-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -7833,6 +8011,7 @@
     },
     {
         "name": "Scotty Pippen Jr.",
+        "team": "Memphis Grizzlies",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Scotty-Pippen-Jr-2K-Rating.png",
         "position": "Position:PG",
@@ -7877,6 +8056,7 @@
     },
     {
         "name": "Luke Kennard",
+        "team": "Memphis Grizzlies",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Luke-Kennard-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -7921,6 +8101,7 @@
     },
     {
         "name": "Kevin Porter Jr.",
+        "team": "Milwaukee Bucks",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kevin-Porter-Jr-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -7965,6 +8146,7 @@
     },
     {
         "name": "Mike Conley",
+        "team": "Minnesota Timberwolves",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Mike-Conley-2K-Rating.png",
         "position": "Position:PG",
@@ -8009,6 +8191,7 @@
     },
     {
         "name": "Jose Alvarado",
+        "team": "New Orleans Pelicans",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jose-Alvarado-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -8053,6 +8236,7 @@
     },
     {
         "name": "Kelly Olynyk",
+        "team": "New Orleans Pelicans",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kelly-Olynyk-2K-Rating.png",
         "position": "Position:C/PF",
@@ -8097,6 +8281,7 @@
     },
     {
         "name": "Miles McBride",
+        "team": "New York Knicks",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Miles-McBride-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -8141,6 +8326,7 @@
     },
     {
         "name": "Cason Wallace",
+        "team": "Oklahoma City Thunder",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Cason-Wallace-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -8185,6 +8371,7 @@
     },
     {
         "name": "Aaron Wiggins",
+        "team": "Oklahoma City Thunder",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Aaron-Wiggins-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -8229,6 +8416,7 @@
     },
     {
         "name": "Isaiah Joe",
+        "team": "Oklahoma City Thunder",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Isaiah-Joe-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -8273,6 +8461,7 @@
     },
     {
         "name": "Jaylin Williams",
+        "team": "Oklahoma City Thunder",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jaylin-Williams-2K-Rating.png",
         "position": "Position:C",
@@ -8317,6 +8506,7 @@
     },
     {
         "name": "Anthony Black",
+        "team": "Orlando Magic",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Anthony-Black-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -8361,6 +8551,7 @@
     },
     {
         "name": "Wendell Carter Jr.",
+        "team": "Orlando Magic",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Wendell-Carter-Jr-2K-Rating.png",
         "position": "Position:C",
@@ -8405,6 +8596,7 @@
     },
     {
         "name": "Cole Anthony",
+        "team": "Orlando Magic",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Cole-Anthony-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -8449,6 +8641,7 @@
     },
     {
         "name": "Goga Bitadze",
+        "team": "Orlando Magic",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Goga-Bitadze-2K-Rating-1.png",
         "position": "Position:C",
@@ -8493,6 +8686,7 @@
     },
     {
         "name": "Moritz Wagner",
+        "team": "Orlando Magic",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Moritz-Wagner-2K-Rating.png",
         "position": "Position:C/PF",
@@ -8537,6 +8731,7 @@
     },
     {
         "name": "Nick Richards",
+        "team": "Phoenix Suns",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Nick-Richards-2K-Rating.png",
         "position": "Position:C",
@@ -8581,6 +8776,7 @@
     },
     {
         "name": "Jerami Grant",
+        "team": "Portland Trail Blazers",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jerami-Grant-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -8625,6 +8821,7 @@
     },
     {
         "name": "Keon Ellis",
+        "team": "Sacramento Kings",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Keon-Ellis-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -8669,6 +8866,7 @@
     },
     {
         "name": "Jeremy Sochan",
+        "team": "San Antonio Spurs",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jeremy-Sochan-2K-Rating.png",
         "position": "Position:PF/PG",
@@ -8713,6 +8911,7 @@
     },
     {
         "name": "Harrison Barnes",
+        "team": "San Antonio Spurs",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Harrison-Barnes-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -8757,6 +8956,7 @@
     },
     {
         "name": "Sandro Mamukelashvili",
+        "team": "San Antonio Spurs",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Sandro-Mamukelashvili-2K-Rating.png",
         "position": "Position:PF/C",
@@ -8801,6 +9001,7 @@
     },
     {
         "name": "Gradey Dick",
+        "team": "Toronto Raptors",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Gradey-Dick-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -8845,6 +9046,7 @@
     },
     {
         "name": "Chris Boucher",
+        "team": "Toronto Raptors",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Chris-Boucher-22K-Rating.png",
         "position": "Position:C/PF",
@@ -8889,6 +9091,7 @@
     },
     {
         "name": "Kyle Filipowski",
+        "team": "Utah Jazz",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Filipowski-2K-Rating.png",
         "position": "Position:C/PF",
@@ -8933,6 +9136,7 @@
     },
     {
         "name": "KyShawn George",
+        "team": "Washington Wizards",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/KyShawn-George-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -8977,6 +9181,7 @@
     },
     {
         "name": "Malcolm Brogdon",
+        "team": "Washington Wizards",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Malcolm-Brogdon-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -9021,6 +9226,7 @@
     },
     {
         "name": "Corey Kispert",
+        "team": "Washington Wizards",
         "overallAttribute": 79,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Corey-Kispert-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -9065,6 +9271,7 @@
     },
     {
         "name": "Day\u2019Ron Sharpe",
+        "team": "Brooklyn Nets",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/DayRon-Sharpe-2K-Rating.png",
         "position": "Position:C",
@@ -9109,6 +9316,7 @@
     },
     {
         "name": "Jusuf Nurkic",
+        "team": "Charlotte Hornets",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jusuf-Nurkic-2K-Rating.png",
         "position": "Position:C",
@@ -9153,6 +9361,7 @@
     },
     {
         "name": "Lonzo Ball",
+        "team": "Chicago Bulls",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Lonzo-Ball-2K-Rating.png",
         "position": "Position:PG",
@@ -9197,6 +9406,7 @@
     },
     {
         "name": "Jalen Smith",
+        "team": "Chicago Bulls",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jalen-Smith-2K-Rating.png",
         "position": "Position:C/PF",
@@ -9241,6 +9451,7 @@
     },
     {
         "name": "Ayo Dosunmu",
+        "team": "Chicago Bulls",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Ayo-Dosunmu-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -9285,6 +9496,7 @@
     },
     {
         "name": "Kevin Huerter",
+        "team": "Chicago Bulls",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kevin-Huerter-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -9329,6 +9541,7 @@
     },
     {
         "name": "Spencer Dinwiddie",
+        "team": "Dallas Mavericks",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Spencer-Dinwiddie-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -9373,6 +9586,7 @@
     },
     {
         "name": "Max Christie",
+        "team": "Dallas Mavericks",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Max-Christie-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -9417,6 +9631,7 @@
     },
     {
         "name": "Cam Whitmore",
+        "team": "Houston Rockets",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Cam-Whitmore-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -9461,6 +9676,7 @@
     },
     {
         "name": "Ben Simmons",
+        "team": "Los Angeles Clippers",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Ben-Simmons-2K-Rating-1.png",
         "position": "Position:PG/C",
@@ -9505,6 +9721,7 @@
     },
     {
         "name": "Kris Dunn",
+        "team": "Los Angeles Clippers",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kris-Dunn-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -9549,6 +9766,7 @@
     },
     {
         "name": "Dalton Knecht",
+        "team": "Los Angeles Lakers",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Dalton-Knecht-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -9593,6 +9811,7 @@
     },
     {
         "name": "Jarred Vanderbilt",
+        "team": "Los Angeles Lakers",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jarred-Vanderbilt-2K-Rating-1.png",
         "position": "Position:PF/C",
@@ -9637,6 +9856,7 @@
     },
     {
         "name": "Jaxson Hayes",
+        "team": "Los Angeles Lakers",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jaxson-Hayes-2K-Rating.png",
         "position": "Position:C/PF",
@@ -9681,6 +9901,7 @@
     },
     {
         "name": "Duncan Robinson",
+        "team": "Miami Heat",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Duncan-Robinson-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -9725,6 +9946,7 @@
     },
     {
         "name": "Gary Trent Jr.",
+        "team": "Milwaukee Bucks",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Gary-Trent-Jr-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -9769,6 +9991,7 @@
     },
     {
         "name": "Nickeil Alexander-Walker",
+        "team": "Minnesota Timberwolves",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Nickeil-Alexander-Walker-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -9813,6 +10036,7 @@
     },
     {
         "name": "Karlo Matkovic",
+        "team": "New Orleans Pelicans",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Karlo-Matkovic-2K-Rating.png",
         "position": "Position:PF/C",
@@ -9857,6 +10081,7 @@
     },
     {
         "name": "Precious Achiuwa",
+        "team": "New York Knicks",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Precious-Achiuwa-2K-Rating.png",
         "position": "Position:PF/C",
@@ -9901,6 +10126,7 @@
     },
     {
         "name": "Kenrich Williams",
+        "team": "Oklahoma City Thunder",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kenrich-Williams-2K-Rating.png",
         "position": "Position:PF/C",
@@ -9945,6 +10171,7 @@
     },
     {
         "name": "Andre Drummond",
+        "team": "Philadelphia 76ers",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Andre-Drummond-2K-Rating.png",
         "position": "Position:C",
@@ -9989,6 +10216,7 @@
     },
     {
         "name": "Guerschon Yabusele",
+        "team": "Philadelphia 76ers",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Guerschon-Yabusele-2K-Rating.png",
         "position": "Position:PF/C",
@@ -10033,6 +10261,7 @@
     },
     {
         "name": "Tyus Jones",
+        "team": "Phoenix Suns",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tyus-Jones-2K-Rating.png",
         "position": "Position:PG",
@@ -10077,6 +10306,7 @@
     },
     {
         "name": "Grayson Allen",
+        "team": "Phoenix Suns",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Grayson-Allen-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -10121,6 +10351,7 @@
     },
     {
         "name": "Charles Bassey",
+        "team": "San Antonio Spurs",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Charles-Bassey-2K-Rating.png",
         "position": "Position:C",
@@ -10165,6 +10396,7 @@
     },
     {
         "name": "Isaiah Collier",
+        "team": "Utah Jazz",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Isaiah-Collier-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -10209,6 +10441,7 @@
     },
     {
         "name": "Bub Carrington",
+        "team": "Washington Wizards",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Bub-Carrington-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -10253,6 +10486,7 @@
     },
     {
         "name": "Justin Champagnie",
+        "team": "Washington Wizards",
         "overallAttribute": 78,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Justin-Champagnie-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -10297,6 +10531,7 @@
     },
     {
         "name": "Larry Nance Jr.",
+        "team": "Atlanta Hawks",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Larry-Nance-Jr-2K-Rating.png",
         "position": "Position:C/PF",
@@ -10341,6 +10576,7 @@
     },
     {
         "name": "Georges Niang",
+        "team": "Atlanta Hawks",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Georges-Niang-2K-Rating.png",
         "position": "Position:PF",
@@ -10385,6 +10621,7 @@
     },
     {
         "name": "Luke Kornet",
+        "team": "Boston Celtics",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Luke-Kornet-2K-Rating.png",
         "position": "Position:C",
@@ -10429,6 +10666,7 @@
     },
     {
         "name": "Sam Hauser",
+        "team": "Boston Celtics",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Sam-Hauser-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -10473,6 +10711,7 @@
     },
     {
         "name": "De\u2019Anthony Melton",
+        "team": "Brooklyn Nets",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/DeAnthony-Melton-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -10517,6 +10756,7 @@
     },
     {
         "name": "Keon Johnson",
+        "team": "Brooklyn Nets",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Keon-Johnson-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -10561,6 +10801,7 @@
     },
     {
         "name": "Josh Okogie",
+        "team": "Charlotte Hornets",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Josh-Okogie-2K-Rating-1.png",
         "position": "Position:SF/SG",
@@ -10605,6 +10846,7 @@
     },
     {
         "name": "Matas Buzelis",
+        "team": "Chicago Bulls",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Matas-Buzelis-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -10649,6 +10891,7 @@
     },
     {
         "name": "Isaac Okoro",
+        "team": "Cleveland Cavaliers",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Isaac-Okoro-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -10693,6 +10936,7 @@
     },
     {
         "name": "Peyton Watson",
+        "team": "Denver Nuggets",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Peyton-Watson-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -10737,6 +10981,7 @@
     },
     {
         "name": "Isaiah Stewart",
+        "team": "Detroit Pistons",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Isaiah-Stewart-2K-Rating.png",
         "position": "Position:PF/C",
@@ -10781,6 +11026,7 @@
     },
     {
         "name": "Buddy Hield",
+        "team": "Golden State Warriors",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Buddy-Hield-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -10825,6 +11071,7 @@
     },
     {
         "name": "Quinten Post",
+        "team": "Golden State Warriors",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Quinten-Post-2K-Rating.png",
         "position": "Position:C",
@@ -10869,6 +11116,7 @@
     },
     {
         "name": "Kevon Looney",
+        "team": "Golden State Warriors",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kevon-Looney-2K-Rating.png",
         "position": "Position:C",
@@ -10913,6 +11161,7 @@
     },
     {
         "name": "Steven Adams",
+        "team": "Houston Rockets",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Steven-Adams-2K-Rating.png",
         "position": "Position:C",
@@ -10957,6 +11206,7 @@
     },
     {
         "name": "Jock Landale",
+        "team": "Houston Rockets",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jock-Landale-2K-Rating.png",
         "position": "Position:C",
@@ -11001,6 +11251,7 @@
     },
     {
         "name": "Drew Eubanks",
+        "team": "Los Angeles Clippers",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Drew-Eubanks-2K-Rating.png",
         "position": "Position:C",
@@ -11045,6 +11296,7 @@
     },
     {
         "name": "Davion Mitchell",
+        "team": "Miami Heat",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Davion-Mitchell-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -11089,6 +11341,7 @@
     },
     {
         "name": "Jaime Jaquez Jr.",
+        "team": "Miami Heat",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jaime-Jaquez-Jr-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -11133,6 +11386,7 @@
     },
     {
         "name": "Nikola Jovic",
+        "team": "Miami Heat",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Nikola-Jovic-2K-Rating.png",
         "position": "Position:PF/C",
@@ -11177,6 +11431,7 @@
     },
     {
         "name": "Brandon Boston Jr.",
+        "team": "New Orleans Pelicans",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Brandon-Boston-Jr-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -11221,6 +11476,7 @@
     },
     {
         "name": "Ryan Dunn",
+        "team": "Phoenix Suns",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Ryan-Dunn-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -11265,6 +11521,7 @@
     },
     {
         "name": "Royce O\u2019Neale",
+        "team": "Phoenix Suns",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Royce-ONeale-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -11309,6 +11566,7 @@
     },
     {
         "name": "Ja\u2019Kobe Walter",
+        "team": "Toronto Raptors",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/JaKobe-Walter-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -11353,6 +11611,7 @@
     },
     {
         "name": "Saddiq Bey",
+        "team": "Washington Wizards",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Saddiq-Bey-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -11397,6 +11656,7 @@
     },
     {
         "name": "Richaun Holmes",
+        "team": "Washington Wizards",
         "overallAttribute": 77,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Richaun-Holmes-2K-Rating.png",
         "position": "Position:C",
@@ -11441,6 +11701,7 @@
     },
     {
         "name": "Terance Mann",
+        "team": "Atlanta Hawks",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Terance-Mann-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -11485,6 +11746,7 @@
     },
     {
         "name": "Neemias Queta",
+        "team": "Boston Celtics",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Neemias-Queta-2K-Rating.png",
         "position": "Position:C",
@@ -11529,6 +11791,7 @@
     },
     {
         "name": "Trendon Watford",
+        "team": "Brooklyn Nets",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Trendon-Watford-2K-Rating.png",
         "position": "Position:PF/C",
@@ -11573,6 +11836,7 @@
     },
     {
         "name": "Nick Smith Jr.",
+        "team": "Charlotte Hornets",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Nick-Smith-Jr-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -11617,6 +11881,7 @@
     },
     {
         "name": "Grant Williams",
+        "team": "Charlotte Hornets",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Grant-Williams-2K-Rating.png",
         "position": "Position:PF/C",
@@ -11661,6 +11926,7 @@
     },
     {
         "name": "Josh Green",
+        "team": "Charlotte Hornets",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Josh-Green-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -11705,6 +11971,7 @@
     },
     {
         "name": "Moussa Diabate",
+        "team": "Charlotte Hornets",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Moussa-Diabate-2K-Rating.png",
         "position": "Position:C/PF",
@@ -11749,6 +12016,7 @@
     },
     {
         "name": "Patrick Williams",
+        "team": "Chicago Bulls",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Patrick-Williams-2K-Rating.png",
         "position": "Position:PF",
@@ -11793,6 +12061,7 @@
     },
     {
         "name": "Caleb Martin",
+        "team": "Dallas Mavericks",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Caleb-Martin-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -11837,6 +12106,7 @@
     },
     {
         "name": "Brandon Williams",
+        "team": "Dallas Mavericks",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Brandon-Williams-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -11881,6 +12151,7 @@
     },
     {
         "name": "Julian Strawther",
+        "team": "Denver Nuggets",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Julian-Strawther-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -11925,6 +12196,7 @@
     },
     {
         "name": "Trayce Jackson-Davis",
+        "team": "Golden State Warriors",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Trayce-Jackson-Davis-2K-Rating.png",
         "position": "Position:C/PF",
@@ -11969,6 +12241,7 @@
     },
     {
         "name": "Jarace Walker",
+        "team": "Indiana Pacers",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jarace-Walker-2K-Rating.png",
         "position": "Position:PF/C",
@@ -12013,6 +12286,7 @@
     },
     {
         "name": "Isaiah Jackson",
+        "team": "Indiana Pacers",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Isaiah-Jackson-2K-Rating.png",
         "position": "Position:C/PF",
@@ -12057,6 +12331,7 @@
     },
     {
         "name": "Thomas Bryant",
+        "team": "Indiana Pacers",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Thomas-Bryant-2K-Rating.png",
         "position": "Position:C",
@@ -12101,6 +12376,7 @@
     },
     {
         "name": "Jordan Goodwin",
+        "team": "Los Angeles Lakers",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jordan-Goodwin-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -12145,6 +12421,7 @@
     },
     {
         "name": "Gabe Vincent",
+        "team": "Los Angeles Lakers",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Gabe-Vincent-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -12189,6 +12466,7 @@
     },
     {
         "name": "Dorian Finney-Smith",
+        "team": "Los Angeles Lakers",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Dorian-Finney-Smith-2K-Rating.png",
         "position": "Position:PF/C",
@@ -12233,6 +12511,7 @@
     },
     {
         "name": "G.G. Jackson",
+        "team": "Memphis Grizzlies",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/GG-Jackson-2K-Rating.png",
         "position": "Position:SF/SF",
@@ -12277,6 +12556,7 @@
     },
     {
         "name": "Vince Williams Jr.",
+        "team": "Memphis Grizzlies",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Vince-Williams-Jr-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -12321,6 +12601,7 @@
     },
     {
         "name": "Jay Huff",
+        "team": "Memphis Grizzlies",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jay-Huff-2K-Rating.png",
         "position": "Position:C",
@@ -12365,6 +12646,7 @@
     },
     {
         "name": "Kevin Love",
+        "team": "Miami Heat",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kevin-Love-2K-Rating.png",
         "position": "Position:C/PF",
@@ -12409,6 +12691,7 @@
     },
     {
         "name": "Kyle Anderson",
+        "team": "Miami Heat",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -12453,6 +12736,7 @@
     },
     {
         "name": "Haywood Highsmith",
+        "team": "Miami Heat",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Haywood-Highsmith-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -12497,6 +12781,7 @@
     },
     {
         "name": "A.J. Green",
+        "team": "Milwaukee Bucks",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/AJ-Green-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -12541,6 +12826,7 @@
     },
     {
         "name": "Taurean Prince",
+        "team": "Milwaukee Bucks",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Taurean-Prince-2K-Rating-1.png",
         "position": "Position:SF/PF",
@@ -12585,6 +12871,7 @@
     },
     {
         "name": "Jordan Hawkins",
+        "team": "New Orleans Pelicans",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jordan-Hawkins-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -12629,6 +12916,7 @@
     },
     {
         "name": "Jeremiah Robinson-Earl",
+        "team": "New Orleans Pelicans",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jeremiah-Robinson-Earl-2K-Rating.png",
         "position": "Position:PF/C",
@@ -12673,6 +12961,7 @@
     },
     {
         "name": "Cameron Payne",
+        "team": "New York Knicks",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Cameron-Payne-2K-Rating.png",
         "position": "Position:PG",
@@ -12717,6 +13006,7 @@
     },
     {
         "name": "Ajay Mitchell",
+        "team": "Oklahoma City Thunder",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Ajay-Mitchell-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -12761,6 +13051,7 @@
     },
     {
         "name": "Jonathan Isaac",
+        "team": "Orlando Magic",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jonathan-Isaac-2K-Rating.png",
         "position": "Position:PF",
@@ -12805,6 +13096,7 @@
     },
     {
         "name": "Kentavious Caldwell-Pope",
+        "team": "Orlando Magic",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kentavious-Caldwell-Pope-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -12849,6 +13141,7 @@
     },
     {
         "name": "Justin Edwards",
+        "team": "Philadelphia 76ers",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Justin-Edwards-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -12893,6 +13186,7 @@
     },
     {
         "name": "Monte Morris",
+        "team": "Phoenix Suns",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Monte-Morris-2K-Rating.png",
         "position": "Position:PG",
@@ -12937,6 +13231,7 @@
     },
     {
         "name": "Mason Plumlee",
+        "team": "Phoenix Suns",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Mason-Plumlee-2K-Rating.png",
         "position": "Position:C",
@@ -12981,6 +13276,7 @@
     },
     {
         "name": "Bol Bol",
+        "team": "Phoenix Suns",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Bol-Bol-2K-Rating.png",
         "position": "Position:PF/C",
@@ -13025,6 +13321,7 @@
     },
     {
         "name": "Cody Martin",
+        "team": "Phoenix Suns",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Cody-Martin-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -13069,6 +13366,7 @@
     },
     {
         "name": "Jabari Walker",
+        "team": "Portland Trail Blazers",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jabari-Walker-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -13113,6 +13411,7 @@
     },
     {
         "name": "Jake LaRavia",
+        "team": "Sacramento Kings",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jake-LaRavia-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -13157,6 +13456,7 @@
     },
     {
         "name": "Ochai Agbaji",
+        "team": "Toronto Raptors",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Ochai-Agbaji-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -13201,6 +13501,7 @@
     },
     {
         "name": "Orlando Robinson",
+        "team": "Toronto Raptors",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Orlando-Robinson-2K-Rating.png",
         "position": "Position:C",
@@ -13245,6 +13546,7 @@
     },
     {
         "name": "A.J. Lawson",
+        "team": "Toronto Raptors",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/AJ-Lawson-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -13289,6 +13591,7 @@
     },
     {
         "name": "Taylor Hendricks",
+        "team": "Utah Jazz",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Taylor-Hendricks-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -13333,6 +13636,7 @@
     },
     {
         "name": "Brice Sensabaugh",
+        "team": "Utah Jazz",
         "overallAttribute": 76,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Brice-Sensabaugh-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -13377,6 +13681,7 @@
     },
     {
         "name": "Vit Krejci",
+        "team": "Atlanta Hawks",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Vit-Krejci-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -13421,6 +13726,7 @@
     },
     {
         "name": "Mouhamed Gueye",
+        "team": "Atlanta Hawks",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Mouhamed-Gueye-2K-Rating.png",
         "position": "Position:PF/C",
@@ -13465,6 +13771,7 @@
     },
     {
         "name": "Torrey Craig",
+        "team": "Boston Celtics",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Torrey-Craig-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -13509,6 +13816,7 @@
     },
     {
         "name": "Tyrese Martin",
+        "team": "Brooklyn Nets",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tyrese-Martin-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -13553,6 +13861,7 @@
     },
     {
         "name": "Jalen Wilson",
+        "team": "Brooklyn Nets",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jalen-Wilson-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -13597,6 +13906,7 @@
     },
     {
         "name": "Seth Curry",
+        "team": "Charlotte Hornets",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Seth-Curry-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -13641,6 +13951,7 @@
     },
     {
         "name": "Javonte Green",
+        "team": "Cleveland Cavaliers",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Javonte-Green-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -13685,6 +13996,7 @@
     },
     {
         "name": "Sam Merrill",
+        "team": "Cleveland Cavaliers",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Sam-Merrill-2K-Rating-1.png",
         "position": "Position:SG/PG",
@@ -13729,6 +14041,7 @@
     },
     {
         "name": "Kessler Edwards",
+        "team": "Dallas Mavericks",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kessler-Edwards-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -13773,6 +14086,7 @@
     },
     {
         "name": "Zeke Nnaji",
+        "team": "Denver Nuggets",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Zeke-Nnaji-2K-Rating.png",
         "position": "Position:C/PF",
@@ -13817,6 +14131,7 @@
     },
     {
         "name": "DeAndre Jordan",
+        "team": "Denver Nuggets",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/DeAndre-Jordan-2K-Rating.png",
         "position": "Position:C",
@@ -13861,6 +14176,7 @@
     },
     {
         "name": "Ronald Holland",
+        "team": "Detroit Pistons",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Ronald-Holland-II-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -13905,6 +14221,7 @@
     },
     {
         "name": "Marcus Sasser",
+        "team": "Detroit Pistons",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Sasser-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -13949,6 +14266,7 @@
     },
     {
         "name": "Simone Fontecchio",
+        "team": "Detroit Pistons",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Simone-Fontecchio-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -13993,6 +14311,7 @@
     },
     {
         "name": "Paul Reed",
+        "team": "Detroit Pistons",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Paul-Reed-2K-Rating.png",
         "position": "Position:C/PF",
@@ -14037,6 +14356,7 @@
     },
     {
         "name": "Gui Santos",
+        "team": "Golden State Warriors",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Gui-Santos-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -14081,6 +14401,7 @@
     },
     {
         "name": "Aaron Holiday",
+        "team": "Houston Rockets",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Aaron-Holiday-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -14125,6 +14446,7 @@
     },
     {
         "name": "Amir Coffey",
+        "team": "Los Angeles Clippers",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Amir-Coffey-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -14169,6 +14491,7 @@
     },
     {
         "name": "Shake Milton",
+        "team": "Los Angeles Lakers",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Shake-Milton-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -14213,6 +14536,7 @@
     },
     {
         "name": "Marvin Bagley III",
+        "team": "Memphis Grizzlies",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Marvin-Bagley-III-2K-Rating.png",
         "position": "Position:C/PF",
@@ -14257,6 +14581,7 @@
     },
     {
         "name": "Lamar Stevens",
+        "team": "Memphis Grizzlies",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Lamar-Stevens-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -14301,6 +14626,7 @@
     },
     {
         "name": "Terry Rozier III",
+        "team": "Miami Heat",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Terry-Rozier-III-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -14345,6 +14671,7 @@
     },
     {
         "name": "Alec Burks",
+        "team": "Miami Heat",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Alec-Burks-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -14389,6 +14716,7 @@
     },
     {
         "name": "Ryan Rollins",
+        "team": "Milwaukee Bucks",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Ryan-Rollins-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -14433,6 +14761,7 @@
     },
     {
         "name": "Rob Dillingham",
+        "team": "Minnesota Timberwolves",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Rob-Dillingham-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -14477,6 +14806,7 @@
     },
     {
         "name": "Terrence Shannon Jr.",
+        "team": "Minnesota Timberwolves",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Terrence-Shannon-Jr-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -14521,6 +14851,7 @@
     },
     {
         "name": "Jaylen Clark",
+        "team": "Minnesota Timberwolves",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jaylen-Clark-2K-Rating.png",
         "position": "Position:SG",
@@ -14565,6 +14896,7 @@
     },
     {
         "name": "Bones Hyland",
+        "team": "Minnesota Timberwolves",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Bones-Hyland-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -14609,6 +14941,7 @@
     },
     {
         "name": "Bruce Brown",
+        "team": "New Orleans Pelicans",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Bruce-Brown-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -14653,6 +14986,7 @@
     },
     {
         "name": "Tristan da Silva",
+        "team": "Orlando Magic",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tristan-da-Silva-2K-Rating.png",
         "position": "Position:PF/C",
@@ -14697,6 +15031,7 @@
     },
     {
         "name": "Kyle Lowry",
+        "team": "Philadelphia 76ers",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Lowry-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -14741,6 +15076,7 @@
     },
     {
         "name": "Adem Bona",
+        "team": "Philadelphia 76ers",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Adem-Bona-2K-Rating.png",
         "position": "Position:C",
@@ -14785,6 +15121,7 @@
     },
     {
         "name": "Jared Butler",
+        "team": "Philadelphia 76ers",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jared-Butler-2K-Rating-1.png",
         "position": "Position:PG",
@@ -14829,6 +15166,7 @@
     },
     {
         "name": "Eric Gordon",
+        "team": "Philadelphia 76ers",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Eric-Gordon-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -14873,6 +15211,7 @@
     },
     {
         "name": "Ricky Council IV",
+        "team": "Philadelphia 76ers",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Ricky-Council-IV-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -14917,6 +15256,7 @@
     },
     {
         "name": "Jeff Dowtin",
+        "team": "Philadelphia 76ers",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jeff-Dowtin-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -14961,6 +15301,7 @@
     },
     {
         "name": "Markelle Fultz",
+        "team": "Sacramento Kings",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Markelle-Fultz-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -15005,6 +15346,7 @@
     },
     {
         "name": "Trey Lyles",
+        "team": "Sacramento Kings",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Trey-Lyles-2K-Rating.png",
         "position": "Position:PF/C",
@@ -15049,6 +15391,7 @@
     },
     {
         "name": "Malaki Branham",
+        "team": "San Antonio Spurs",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Malaki-Branham-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -15093,6 +15436,7 @@
     },
     {
         "name": "Julian Champagnie",
+        "team": "San Antonio Spurs",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Julian-Champagnie-2K-Rating-1.png",
         "position": "Position:SF/SG",
@@ -15137,6 +15481,7 @@
     },
     {
         "name": "Jonathan Mogbo",
+        "team": "Toronto Raptors",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jonathan-Mogbo-2K-Rating.png",
         "position": "Position:PF/C",
@@ -15181,6 +15526,7 @@
     },
     {
         "name": "Jamal Shead",
+        "team": "Toronto Raptors",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jamal-Shead-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -15225,6 +15571,7 @@
     },
     {
         "name": "KJ Martin",
+        "team": "Utah Jazz",
         "overallAttribute": 75,
         "image_url": "https://www.2kratings.com/wp-content/uploads/KJ-Martin-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -15269,6 +15616,7 @@
     },
     {
         "name": "Garrison Mathews",
+        "team": "Atlanta Hawks",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Garrison-Mathews-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -15313,6 +15661,7 @@
     },
     {
         "name": "Noah Clowney",
+        "team": "Brooklyn Nets",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Noah-Clowney-2K-Rating.png",
         "position": "Position:C/PF",
@@ -15357,6 +15706,7 @@
     },
     {
         "name": "Talen Horton-Tucker",
+        "team": "Chicago Bulls",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Talen-Horton-Tucker-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -15401,6 +15751,7 @@
     },
     {
         "name": "Dalen Terry",
+        "team": "Chicago Bulls",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Dalen-Terry-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -15445,6 +15796,7 @@
     },
     {
         "name": "Jevon Carter",
+        "team": "Chicago Bulls",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jevon-Carter-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -15489,6 +15841,7 @@
     },
     {
         "name": "Jaylon Tyson",
+        "team": "Cleveland Cavaliers",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jaylon-Tyson-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -15533,6 +15886,7 @@
     },
     {
         "name": "Craig Porter",
+        "team": "Cleveland Cavaliers",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Craig-Porter-2K-Rating.png",
         "position": "Position:PG",
@@ -15577,6 +15931,7 @@
     },
     {
         "name": "Dean Wade",
+        "team": "Cleveland Cavaliers",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Dean-Wade-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -15621,6 +15976,7 @@
     },
     {
         "name": "Olivier-Maxence Prosper",
+        "team": "Dallas Mavericks",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Olivier-Maxence-Prosper-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -15665,6 +16021,7 @@
     },
     {
         "name": "Jaden Hardy",
+        "team": "Dallas Mavericks",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jaden-Hardy-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -15709,6 +16066,7 @@
     },
     {
         "name": "Dwight Powell",
+        "team": "Dallas Mavericks",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Dwight-Powell-2K-Rating.png",
         "position": "Position:C",
@@ -15753,6 +16111,7 @@
     },
     {
         "name": "Dario Saric",
+        "team": "Denver Nuggets",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Dario-Saric-2K-Rating.png",
         "position": "Position:PF/C",
@@ -15797,6 +16156,7 @@
     },
     {
         "name": "Lindy Waters III",
+        "team": "Detroit Pistons",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Lindy-Waters-III-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -15841,6 +16201,7 @@
     },
     {
         "name": "David Roddy",
+        "team": "Houston Rockets",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/David-Roddy-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -15885,6 +16246,7 @@
     },
     {
         "name": "Jeff Green",
+        "team": "Houston Rockets",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jeff-Green-2K-Rating.png",
         "position": "Position:PF/C",
@@ -15929,6 +16291,7 @@
     },
     {
         "name": "Ben Sheppard",
+        "team": "Indiana Pacers",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Ben-Sheppard-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -15973,6 +16336,7 @@
     },
     {
         "name": "Quenton Jackson",
+        "team": "Indiana Pacers",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Quenton-Jackson-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -16017,6 +16381,7 @@
     },
     {
         "name": "Nicolas Batum",
+        "team": "Los Angeles Clippers",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Nicolas-Batum-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -16061,6 +16426,7 @@
     },
     {
         "name": "Andre Jackson Jr.",
+        "team": "Milwaukee Bucks",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Andre-Jackson-Jr-2K-Rating.png",
         "position": "Position:SF/PG",
@@ -16105,6 +16471,7 @@
     },
     {
         "name": "Mo Bamba",
+        "team": "New Orleans Pelicans",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Mo-Bamba-2K-Rating.png",
         "position": "Position:C",
@@ -16149,6 +16516,7 @@
     },
     {
         "name": "Tyler Kolek",
+        "team": "New York Knicks",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tyler-Kolek-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -16193,6 +16561,7 @@
     },
     {
         "name": "Landry Shamet",
+        "team": "New York Knicks",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Landry-Shamet-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -16237,6 +16606,7 @@
     },
     {
         "name": "Ousmane Dieng",
+        "team": "Oklahoma City Thunder",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Ousmane-Dieng-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -16281,6 +16651,7 @@
     },
     {
         "name": "Lonnie Walker IV",
+        "team": "Philadelphia 76ers",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Lonnie-Walker-IV-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -16325,6 +16696,7 @@
     },
     {
         "name": "Oso Ighodaro",
+        "team": "Phoenix Suns",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Oso-Ighodaro-2K-Rating.png",
         "position": "Position:PF/C",
@@ -16369,6 +16741,7 @@
     },
     {
         "name": "Damion Lee",
+        "team": "Phoenix Suns",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Damion-Lee-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -16413,6 +16786,7 @@
     },
     {
         "name": "Matisse Thybulle",
+        "team": "Portland Trail Blazers",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Matisse-Thybulle-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -16457,6 +16831,7 @@
     },
     {
         "name": "Dalano Banton",
+        "team": "Portland Trail Blazers",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Dalano-Banton-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -16501,6 +16876,7 @@
     },
     {
         "name": "Duop Reath",
+        "team": "Portland Trail Blazers",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Duop-Reath-2K-Rating.png",
         "position": "Position:C",
@@ -16545,6 +16921,7 @@
     },
     {
         "name": "Devin Carter",
+        "team": "Sacramento Kings",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Devin-Carter-2K-Rating.png",
         "position": "Position:PG/SF",
@@ -16589,6 +16966,7 @@
     },
     {
         "name": "Isaac Jones",
+        "team": "Sacramento Kings",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Isaac-Jones-2K-Rating.png",
         "position": "Position:PF/C",
@@ -16633,6 +17011,7 @@
     },
     {
         "name": "Jamison Battle",
+        "team": "Toronto Raptors",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jamison-Battle-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -16677,6 +17056,7 @@
     },
     {
         "name": "Tristan Vukcevic",
+        "team": "Washington Wizards",
         "overallAttribute": 74,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tristan-Vukcevic-2K-Rating.png",
         "position": "Position:C/PF",
@@ -16721,6 +17101,7 @@
     },
     {
         "name": "Kobe Bufkin",
+        "team": "Atlanta Hawks",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kobe-Bufkin-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -16765,6 +17146,7 @@
     },
     {
         "name": "Wendell Moore Jr.",
+        "team": "Charlotte Hornets",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Wendell-Moore-Jr-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -16809,6 +17191,7 @@
     },
     {
         "name": "KJ Simpson",
+        "team": "Charlotte Hornets",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/KJ-Simpson-2K-Rating.png",
         "position": "Position:PG",
@@ -16853,6 +17236,7 @@
     },
     {
         "name": "Taj Gibson",
+        "team": "Charlotte Hornets",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Taj-Gibson-2K-Rating.png",
         "position": "Position:C",
@@ -16897,6 +17281,7 @@
     },
     {
         "name": "DaQuan Jeffries",
+        "team": "Charlotte Hornets",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/DaQuan-Jeffries-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -16941,6 +17326,7 @@
     },
     {
         "name": "Julian Phillips",
+        "team": "Chicago Bulls",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Julian-Phillips-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -16985,6 +17371,7 @@
     },
     {
         "name": "Jae\u2019Sean Tate",
+        "team": "Houston Rockets",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/JaeSean-Tate-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -17029,6 +17416,7 @@
     },
     {
         "name": "Jordan Miller",
+        "team": "Los Angeles Clippers",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jordan-Miller-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -17073,6 +17461,7 @@
     },
     {
         "name": "Cam Reddish",
+        "team": "Los Angeles Lakers",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Cam-Reddish-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -17117,6 +17506,7 @@
     },
     {
         "name": "John Konchar",
+        "team": "Memphis Grizzlies",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/John-Konchar-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -17161,6 +17551,7 @@
     },
     {
         "name": "Pelle Larsson",
+        "team": "Miami Heat",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Pelle-Larsson-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -17205,6 +17596,7 @@
     },
     {
         "name": "Dru Smith",
+        "team": "Miami Heat",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Dru-Smith-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -17249,6 +17641,7 @@
     },
     {
         "name": "Pat Connaughton",
+        "team": "Milwaukee Bucks",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Pat-Connaughton-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -17293,6 +17686,7 @@
     },
     {
         "name": "Joe Ingles",
+        "team": "Minnesota Timberwolves",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Joe-Ingles-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -17337,6 +17731,7 @@
     },
     {
         "name": "Delon Wright",
+        "team": "New York Knicks",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Delon-Wright-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -17381,6 +17776,7 @@
     },
     {
         "name": "Jett Howard",
+        "team": "Orlando Magic",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jett-Howard-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -17425,6 +17821,7 @@
     },
     {
         "name": "Caleb Houstan",
+        "team": "Orlando Magic",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Caleb-Houstan-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -17469,6 +17866,7 @@
     },
     {
         "name": "Cory Joseph",
+        "team": "Orlando Magic",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Cory-Joseph-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -17513,6 +17911,7 @@
     },
     {
         "name": "Trevelin Queen",
+        "team": "Orlando Magic",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Trevelin-Queen-2K-Rating.png",
         "position": "Position:SG",
@@ -17557,6 +17956,7 @@
     },
     {
         "name": "Jalen Hood-Schifino",
+        "team": "Philadelphia 76ers",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jalen-Hood-Schifino-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -17601,6 +18001,7 @@
     },
     {
         "name": "Chuma Okeke",
+        "team": "Philadelphia 76ers",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Chuma-Okeke-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -17645,6 +18046,7 @@
     },
     {
         "name": "Vasilije Micic",
+        "team": "Phoenix Suns",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Vasilije-Micic-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -17689,6 +18091,7 @@
     },
     {
         "name": "Kris Murray",
+        "team": "Portland Trail Blazers",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kris-Murray-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -17733,6 +18136,7 @@
     },
     {
         "name": "Jae Crowder",
+        "team": "Sacramento Kings",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jae-Crowder-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -17777,6 +18181,7 @@
     },
     {
         "name": "Jordan McLaughlin",
+        "team": "San Antonio Spurs",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jordan-McLaughlin-2K-Rating-1.png",
         "position": "Position:PG",
@@ -17821,6 +18226,7 @@
     },
     {
         "name": "Jared Rhoden",
+        "team": "Toronto Raptors",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jared-Rhoden-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -17865,6 +18271,7 @@
     },
     {
         "name": "Cody Williams",
+        "team": "Utah Jazz",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Cody-Williams-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -17909,6 +18316,7 @@
     },
     {
         "name": "Micah Potter",
+        "team": "Utah Jazz",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Micah-Potter-2K-Rating.png",
         "position": "Position:PF/C",
@@ -17953,6 +18361,7 @@
     },
     {
         "name": "Jaden Springer",
+        "team": "Utah Jazz",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jaden-Springer-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -17997,6 +18406,7 @@
     },
     {
         "name": "Svi Mykhailiuk",
+        "team": "Utah Jazz",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Svi-Mykhailiuk-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -18041,6 +18451,7 @@
     },
     {
         "name": "Johnny Juzang",
+        "team": "Utah Jazz",
         "overallAttribute": 73,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Johnny-Juzang-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -18085,6 +18496,7 @@
     },
     {
         "name": "Keaton Wallace",
+        "team": "Atlanta Hawks",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Keaton-Wallace-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -18129,6 +18541,7 @@
     },
     {
         "name": "Dominick Barlow",
+        "team": "Atlanta Hawks",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Dominick-Barlow-2K-Rating.png",
         "position": "Position:C/PF",
@@ -18173,6 +18586,7 @@
     },
     {
         "name": "Dariq Whitehead",
+        "team": "Brooklyn Nets",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Dariq-Whitehead-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -18217,6 +18631,7 @@
     },
     {
         "name": "Tosan Evbuomwan",
+        "team": "Brooklyn Nets",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tosan-Evbuomwan-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -18261,6 +18676,7 @@
     },
     {
         "name": "Tidjane Salaun",
+        "team": "Charlotte Hornets",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tidjane-Salaun-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -18305,6 +18721,7 @@
     },
     {
         "name": "Damion Baugh",
+        "team": "Charlotte Hornets",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Damion-Baugh-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -18349,6 +18766,7 @@
     },
     {
         "name": "Jalen Pickett",
+        "team": "Denver Nuggets",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jalen-Pickett-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -18393,6 +18811,7 @@
     },
     {
         "name": "Vlatko Cancar",
+        "team": "Denver Nuggets",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Vlatko-Cancar-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -18437,6 +18856,7 @@
     },
     {
         "name": "Reed Sheppard",
+        "team": "Houston Rockets",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Reed-Sheppard-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -18481,6 +18901,7 @@
     },
     {
         "name": "Tony Bradley",
+        "team": "Indiana Pacers",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tony-Bradley-2K-Rating.png",
         "position": "Position:C",
@@ -18525,6 +18946,7 @@
     },
     {
         "name": "Patrick Baldwin Jr.",
+        "team": "Los Angeles Clippers",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Patrick-Baldwin-Jr-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -18569,6 +18991,7 @@
     },
     {
         "name": "Christian Koloko",
+        "team": "Los Angeles Lakers",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Christian-Koloko-2K-Rating.png",
         "position": "Position:C",
@@ -18613,6 +19036,7 @@
     },
     {
         "name": "Alex Len",
+        "team": "Los Angeles Lakers",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Alex-Len-2K-Rating.png",
         "position": "Position:C",
@@ -18657,6 +19081,7 @@
     },
     {
         "name": "Maxi Kleber",
+        "team": "Los Angeles Lakers",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Maxi-Kleber-2K-Rating.png",
         "position": "Position:PF/C",
@@ -18701,6 +19126,7 @@
     },
     {
         "name": "Trey Jemison III",
+        "team": "Los Angeles Lakers",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Trey-Jemison-III-2K-Rating.png",
         "position": "Position:C",
@@ -18745,6 +19171,7 @@
     },
     {
         "name": "Jericho Sims",
+        "team": "Milwaukee Bucks",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jericho-Sims-2K-Rating.png",
         "position": "Position:C",
@@ -18789,6 +19216,7 @@
     },
     {
         "name": "Josh Minott",
+        "team": "Minnesota Timberwolves",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Josh-Minott-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -18833,6 +19261,7 @@
     },
     {
         "name": "Luka Garza",
+        "team": "Minnesota Timberwolves",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Luka-Garza-2K-Rating.png",
         "position": "Position:C",
@@ -18877,6 +19306,7 @@
     },
     {
         "name": "Antonio Reeves",
+        "team": "New Orleans Pelicans",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Antonio-Reeves-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -18921,6 +19351,7 @@
     },
     {
         "name": "Nikola Topic",
+        "team": "Oklahoma City Thunder",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Nikola-Topic-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -18965,6 +19396,7 @@
     },
     {
         "name": "Gary Harris",
+        "team": "Orlando Magic",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Gary-Harris-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -19009,6 +19441,7 @@
     },
     {
         "name": "Oshae Brissett",
+        "team": "Philadelphia 76ers",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Oshae-Brissett-2K-Rating.png",
         "position": "Position:PF",
@@ -19053,6 +19486,7 @@
     },
     {
         "name": "Rayan Rupert",
+        "team": "Portland Trail Blazers",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Rayan-Rupert-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -19097,6 +19531,7 @@
     },
     {
         "name": "Blake Wesley",
+        "team": "San Antonio Spurs",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Blake-Wesley-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -19141,6 +19576,7 @@
     },
     {
         "name": "Bismack Biyombo",
+        "team": "San Antonio Spurs",
         "overallAttribute": 72,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Bismack-Biyombo-2K-Rating.png",
         "position": "Position:C",
@@ -19185,6 +19621,7 @@
     },
     {
         "name": "Maxwell Lewis",
+        "team": "Brooklyn Nets",
         "overallAttribute": 71,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Maxwell-Lewis-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -19229,6 +19666,7 @@
     },
     {
         "name": "Tyson Etienne",
+        "team": "Brooklyn Nets",
         "overallAttribute": 71,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tyson-Etienne-2K-Rating.png",
         "position": "Position:PG/PG",
@@ -19273,6 +19711,7 @@
     },
     {
         "name": "Kai Jones",
+        "team": "Dallas Mavericks",
         "overallAttribute": 71,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kai-Jones-2K-Rating.png",
         "position": "Position:C/PF",
@@ -19317,6 +19756,7 @@
     },
     {
         "name": "DaRon Holmes II",
+        "team": "Denver Nuggets",
         "overallAttribute": 71,
         "image_url": "https://www.2kratings.com/wp-content/uploads/DaRon-Holmes-II-2K-Rating.png",
         "position": "Position:PF/C",
@@ -19361,6 +19801,7 @@
     },
     {
         "name": "Kobe Brown",
+        "team": "Los Angeles Clippers",
         "overallAttribute": 71,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kobe-Brown-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -19405,6 +19846,7 @@
     },
     {
         "name": "Patty Mills",
+        "team": "Los Angeles Clippers",
         "overallAttribute": 71,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Patty-Mills-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -19449,6 +19891,7 @@
     },
     {
         "name": "Lester Qui\u00f1ones",
+        "team": "New Orleans Pelicans",
         "overallAttribute": 71,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Lester-Quinones-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -19493,6 +19936,7 @@
     },
     {
         "name": "Jamal Cain",
+        "team": "New Orleans Pelicans",
         "overallAttribute": 71,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jamal-Cain-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -19537,6 +19981,7 @@
     },
     {
         "name": "MarJon Beauchamp",
+        "team": "New York Knicks",
         "overallAttribute": 71,
         "image_url": "https://www.2kratings.com/wp-content/uploads/MarJon-Beauchamp-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -19581,6 +20026,7 @@
     },
     {
         "name": "P.J. Tucker",
+        "team": "New York Knicks",
         "overallAttribute": 71,
         "image_url": "https://www.2kratings.com/wp-content/uploads/PJ-Tucker-2K-Rating.png",
         "position": "Position:PF/C",
@@ -19625,6 +20071,7 @@
     },
     {
         "name": "TyTy Washington",
+        "team": "Phoenix Suns",
         "overallAttribute": 71,
         "image_url": "https://www.2kratings.com/wp-content/uploads/TyTy-Washington-2K-Rating.png",
         "position": "Position:PG",
@@ -19669,6 +20116,7 @@
     },
     {
         "name": "Bryce McGowens",
+        "team": "Portland Trail Blazers",
         "overallAttribute": 71,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Bryce-McGowens-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -19713,6 +20161,7 @@
     },
     {
         "name": "Doug McDermott",
+        "team": "Sacramento Kings",
         "overallAttribute": 71,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Doug-McDermott-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -19757,6 +20206,7 @@
     },
     {
         "name": "Terry Taylor",
+        "team": "Sacramento Kings",
         "overallAttribute": 71,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Terry-Taylor-2K-Rating-1.png",
         "position": "Position:PF/C",
@@ -19801,6 +20251,7 @@
     },
     {
         "name": "Colin Castleton",
+        "team": "Toronto Raptors",
         "overallAttribute": 71,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Colin-Castleton-2K-Rating.png",
         "position": "Position:C",
@@ -19845,6 +20296,7 @@
     },
     {
         "name": "Colby Jones",
+        "team": "Washington Wizards",
         "overallAttribute": 71,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Colby-Jones-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -19889,6 +20341,7 @@
     },
     {
         "name": "Anthony Gill",
+        "team": "Washington Wizards",
         "overallAttribute": 71,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Anthony-Gill-2K-Rating.png",
         "position": "Position:PF/C",
@@ -19933,6 +20386,7 @@
     },
     {
         "name": "Jordan Walsh",
+        "team": "Boston Celtics",
         "overallAttribute": 70,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jordan-Walsh-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -19977,6 +20431,7 @@
     },
     {
         "name": "Xavier Tillman",
+        "team": "Boston Celtics",
         "overallAttribute": 70,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Xavier-Tillman-2K-Rating.png",
         "position": "Position:C",
@@ -20021,6 +20476,7 @@
     },
     {
         "name": "Drew  Peterson",
+        "team": "Boston Celtics",
         "overallAttribute": 70,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Drew-Peterson-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -20065,6 +20521,7 @@
     },
     {
         "name": "E.J. Liddell",
+        "team": "Chicago Bulls",
         "overallAttribute": 70,
         "image_url": "https://www.2kratings.com/wp-content/uploads/EJ-Liddell-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -20109,6 +20566,7 @@
     },
     {
         "name": "Tristan Thompson",
+        "team": "Cleveland Cavaliers",
         "overallAttribute": 70,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tristan-Thompson-2K-Rating.png",
         "position": "Position:C",
@@ -20153,6 +20611,7 @@
     },
     {
         "name": "Hunter Tyson",
+        "team": "Denver Nuggets",
         "overallAttribute": 70,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Hunter-Tyson-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -20197,6 +20656,7 @@
     },
     {
         "name": "Johnny Furphy",
+        "team": "Indiana Pacers",
         "overallAttribute": 70,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Johnny-Furphy-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -20241,6 +20701,7 @@
     },
     {
         "name": "James Johnson",
+        "team": "Indiana Pacers",
         "overallAttribute": 70,
         "image_url": "https://www.2kratings.com/wp-content/uploads/James-Johnson-2K-Rating.png",
         "position": "Position:PF/C",
@@ -20285,6 +20746,7 @@
     },
     {
         "name": "Markieff Morris",
+        "team": "Los Angeles Lakers",
         "overallAttribute": 70,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Markieff-Morris-2K-Rating.png",
         "position": "Position:PF/C",
@@ -20329,6 +20791,7 @@
     },
     {
         "name": "Josh Christopher",
+        "team": "Miami Heat",
         "overallAttribute": 70,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Josh-Christopher-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -20373,6 +20836,7 @@
     },
     {
         "name": "Stanley Umude",
+        "team": "Milwaukee Bucks",
         "overallAttribute": 70,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Stanley-Umude-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -20417,6 +20881,7 @@
     },
     {
         "name": "Leonard Miller",
+        "team": "Minnesota Timberwolves",
         "overallAttribute": 70,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Leonard-Miller-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -20461,6 +20926,7 @@
     },
     {
         "name": "Ariel Hukporti",
+        "team": "New York Knicks",
         "overallAttribute": 70,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Ariel-Hukporti-2K-Rating.png",
         "position": "Position:C/PF",
@@ -20505,6 +20971,7 @@
     },
     {
         "name": "Branden Carlson",
+        "team": "Oklahoma City Thunder",
         "overallAttribute": 70,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Branden-Carlson-2K-Rating.png",
         "position": "Position:C",
@@ -20549,6 +21016,7 @@
     },
     {
         "name": "Sidy Cissoko",
+        "team": "Portland Trail Blazers",
         "overallAttribute": 70,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Sidy-Cissoko-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -20593,6 +21061,7 @@
     },
     {
         "name": "Garrett Temple",
+        "team": "Toronto Raptors",
         "overallAttribute": 70,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Garrett-Temple-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -20637,6 +21106,7 @@
     },
     {
         "name": "AJ Johnson",
+        "team": "Washington Wizards",
         "overallAttribute": 70,
         "image_url": "https://www.2kratings.com/wp-content/uploads/AJ-Johnson-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -20681,6 +21151,7 @@
     },
     {
         "name": "JT Thor",
+        "team": "Washington Wizards",
         "overallAttribute": 70,
         "image_url": "https://www.2kratings.com/wp-content/uploads/JT-Thor-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -20725,6 +21196,7 @@
     },
     {
         "name": "Baylor Scheierman",
+        "team": "Boston Celtics",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Baylor-Scheierman-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -20769,6 +21241,7 @@
     },
     {
         "name": "JD Davison",
+        "team": "Boston Celtics",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/JD-Davison-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -20813,6 +21286,7 @@
     },
     {
         "name": "Reece Beekman",
+        "team": "Brooklyn Nets",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Reece-Beekman-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -20857,6 +21331,7 @@
     },
     {
         "name": "Luke Travers",
+        "team": "Cleveland Cavaliers",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Luke-Travers-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -20901,6 +21376,7 @@
     },
     {
         "name": "Bobi Klintman",
+        "team": "Detroit Pistons",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Bobi-Klintman-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -20945,6 +21421,7 @@
     },
     {
         "name": "Pat Spencer",
+        "team": "Golden State Warriors",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Pat-Spencer-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -20989,6 +21466,7 @@
     },
     {
         "name": "Jack McVeigh",
+        "team": "Houston Rockets",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jack-McVeigh-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -21033,6 +21511,7 @@
     },
     {
         "name": "Nate Williams",
+        "team": "Houston Rockets",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Nate-Williams-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -21077,6 +21556,7 @@
     },
     {
         "name": "Enrique Freeman",
+        "team": "Indiana Pacers",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Enrique-Freeman-2K-Rating.png",
         "position": "Position:PF/C",
@@ -21121,6 +21601,7 @@
     },
     {
         "name": "Keshad Johnson",
+        "team": "Miami Heat",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Keshad-Johnson-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -21165,6 +21646,7 @@
     },
     {
         "name": "Tyler Smith",
+        "team": "Milwaukee Bucks",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tyler-Smith-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -21209,6 +21691,7 @@
     },
     {
         "name": "Chris Livingston",
+        "team": "Milwaukee Bucks",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Chris-Livingston-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -21253,6 +21736,7 @@
     },
     {
         "name": "Pacome Dadiet",
+        "team": "New York Knicks",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Pacome-Dadiet-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -21297,6 +21781,7 @@
     },
     {
         "name": "Kevin McCullar",
+        "team": "New York Knicks",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Kevin-McCullar-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -21341,6 +21826,7 @@
     },
     {
         "name": "Dillon Jones",
+        "team": "Oklahoma City Thunder",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Dillon-Jones-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -21385,6 +21871,7 @@
     },
     {
         "name": "Mac McClung",
+        "team": "Orlando Magic",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Mac-McClung-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -21429,6 +21916,7 @@
     },
     {
         "name": "Alex Reese",
+        "team": "Philadelphia 76ers",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Alex-Reese-2K-Rating.png",
         "position": "Position:C/PF",
@@ -21473,6 +21961,7 @@
     },
     {
         "name": "Collin Gillespie",
+        "team": "Phoenix Suns",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Collin-Gillespie-2K-Rating.png",
         "position": "Position:PG",
@@ -21517,6 +22006,7 @@
     },
     {
         "name": "Justin Minaya",
+        "team": "Portland Trail Blazers",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Justin-Minaya-2K-Rating-1.png",
         "position": "Position:SG/SF",
@@ -21561,6 +22051,7 @@
     },
     {
         "name": "Mason Jones",
+        "team": "Sacramento Kings",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Mason-Jones-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -21605,6 +22096,7 @@
     },
     {
         "name": "Harrison Ingram",
+        "team": "San Antonio Spurs",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Harrison-Ingram-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -21649,6 +22141,7 @@
     },
     {
         "name": "David Duke Jr.",
+        "team": "San Antonio Spurs",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/David-Duke-Jr-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -21693,6 +22186,7 @@
     },
     {
         "name": "Oscar Tshiebwe",
+        "team": "Utah Jazz",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Oscar-Tshiebwe-2K-Rating.png",
         "position": "Position:C/PF",
@@ -21737,6 +22231,7 @@
     },
     {
         "name": "Jaylen Martin",
+        "team": "Washington Wizards",
         "overallAttribute": 69,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jaylen-Martin-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -21781,6 +22276,7 @@
     },
     {
         "name": "Daeqwon Plowden",
+        "team": "Atlanta Hawks",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Daeqwon-Plowden-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -21825,6 +22321,7 @@
     },
     {
         "name": "Marcus Garrett",
+        "team": "Charlotte Hornets",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Garrett-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -21869,6 +22366,7 @@
     },
     {
         "name": "Emanuel Miller",
+        "team": "Chicago Bulls",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Emanuel-Miller-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -21913,6 +22411,7 @@
     },
     {
         "name": "Emoni Bates",
+        "team": "Cleveland Cavaliers",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Emoni-Bates-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -21957,6 +22456,7 @@
     },
     {
         "name": "Nae\u2019Qwan Tomlin",
+        "team": "Cleveland Cavaliers",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/NaeQwan-Tomlin-2K-Rating.png",
         "position": "Position:PF",
@@ -22001,6 +22501,7 @@
     },
     {
         "name": "PJ Hall",
+        "team": "Denver Nuggets",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/PJ-Hall-2K-Rating.png",
         "position": "Position:C/PF",
@@ -22045,6 +22546,7 @@
     },
     {
         "name": "Trey Alexander",
+        "team": "Denver Nuggets",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Trey-Alexander-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -22089,6 +22591,7 @@
     },
     {
         "name": "Ron Harper Jr.",
+        "team": "Detroit Pistons",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Ron-Harper-Jr-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -22133,6 +22636,7 @@
     },
     {
         "name": "Jackson Rowe",
+        "team": "Golden State Warriors",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jackson-Rowe-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -22177,6 +22681,7 @@
     },
     {
         "name": "N\u2019Faly Dante",
+        "team": "Houston Rockets",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/NFaly-Dante-2K-Rating.png",
         "position": "Position:C/PF",
@@ -22221,6 +22726,7 @@
     },
     {
         "name": "Cam Christie",
+        "team": "Los Angeles Clippers",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Cam-Christie-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -22265,6 +22771,7 @@
     },
     {
         "name": "Trentyn Flowers",
+        "team": "Los Angeles Clippers",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Trentyn-Flowers-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -22309,6 +22816,7 @@
     },
     {
         "name": "Seth Lundy",
+        "team": "Los Angeles Clippers",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Seth-Lundy-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -22353,6 +22861,7 @@
     },
     {
         "name": "Bronny James",
+        "team": "Los Angeles Lakers",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Bronny-James-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -22397,6 +22906,7 @@
     },
     {
         "name": "Cam Spencer",
+        "team": "Memphis Grizzlies",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Cam-Spencer-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -22441,6 +22951,7 @@
     },
     {
         "name": "Isaiah Stevens",
+        "team": "Miami Heat",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Isaiah-Stevens-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -22485,6 +22996,7 @@
     },
     {
         "name": "Tristen Newton",
+        "team": "Minnesota Timberwolves",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tristen-Newton-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -22529,6 +23041,7 @@
     },
     {
         "name": "Anton Watson",
+        "team": "New York Knicks",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Anton-Watson-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -22573,6 +23086,7 @@
     },
     {
         "name": "Ethan Thompson",
+        "team": "Orlando Magic",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Ethan-Thompson-2K-Rating-1.png",
         "position": "Position:SG",
@@ -22617,6 +23131,7 @@
     },
     {
         "name": "Jalen Bridges",
+        "team": "Phoenix Suns",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jalen-Bridges-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -22661,6 +23176,7 @@
     },
     {
         "name": "Isaiah Crawford",
+        "team": "Sacramento Kings",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Isaiah-Crawford-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -22705,6 +23221,7 @@
     },
     {
         "name": "Ulrich Chomche",
+        "team": "Toronto Raptors",
         "overallAttribute": 68,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Ulrich-Chomche-2K-Rating.png",
         "position": "Position:C/PF",
@@ -22749,6 +23266,7 @@
     },
     {
         "name": "Jacob Toppin",
+        "team": "Atlanta Hawks",
         "overallAttribute": 67,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jacob-Toppin-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -22793,6 +23311,7 @@
     },
     {
         "name": "Miles Norris",
+        "team": "Boston Celtics",
         "overallAttribute": 67,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Miles-Norris-2K-Rating.png",
         "position": "Position:PF/SF",
@@ -22837,6 +23356,7 @@
     },
     {
         "name": "Jahmir Young",
+        "team": "Chicago Bulls",
         "overallAttribute": 67,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jahmir-Young-2K-Rating.png",
         "position": "Position:PG",
@@ -22881,6 +23401,7 @@
     },
     {
         "name": "Spencer Jones",
+        "team": "Denver Nuggets",
         "overallAttribute": 67,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Spender-Jones-2K-Rating.png",
         "position": "Position:SF/SG",
@@ -22925,6 +23446,7 @@
     },
     {
         "name": "Tolu Smith",
+        "team": "Detroit Pistons",
         "overallAttribute": 67,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Tolu-Smith-2K-Rating.png",
         "position": "Position:PF/C",
@@ -22969,6 +23491,7 @@
     },
     {
         "name": "Daniss Jenkins",
+        "team": "Detroit Pistons",
         "overallAttribute": 67,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Daniss-Jenkins-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -23013,6 +23536,7 @@
     },
     {
         "name": "Taran Armstrong",
+        "team": "Golden State Warriors",
         "overallAttribute": 67,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Taran-Armstrong-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -23057,6 +23581,7 @@
     },
     {
         "name": "RayJ Dennis",
+        "team": "Indiana Pacers",
         "overallAttribute": 67,
         "image_url": "https://www.2kratings.com/wp-content/uploads/RayJ-Dennis-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -23101,6 +23626,7 @@
     },
     {
         "name": "Zyon Pullin",
+        "team": "Memphis Grizzlies",
         "overallAttribute": 67,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Zyon-Pullin-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -23145,6 +23671,7 @@
     },
     {
         "name": "Yuki  Kawamura",
+        "team": "Memphis Grizzlies",
         "overallAttribute": 67,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Yuki-Kawamura-2K-Rating.png",
         "position": "Position:PG",
@@ -23189,6 +23716,7 @@
     },
     {
         "name": "Pete Nance",
+        "team": "Milwaukee Bucks",
         "overallAttribute": 67,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Pete-Nance-2K-Rating.png",
         "position": "Position:PF/C",
@@ -23233,6 +23761,7 @@
     },
     {
         "name": "Jamaree Bouyea",
+        "team": "Milwaukee Bucks",
         "overallAttribute": 67,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jamaree-Bouyea-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -23277,6 +23806,7 @@
     },
     {
         "name": "Jesse Edwards",
+        "team": "Minnesota Timberwolves",
         "overallAttribute": 67,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Jesse-Edwards-2K-Rating.png",
         "position": "Position:C",
@@ -23321,6 +23851,7 @@
     },
     {
         "name": "Keion Brooks Jr.",
+        "team": "New Orleans Pelicans",
         "overallAttribute": 67,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Keion-Brooks-Jr-2K-Rating.png",
         "position": "Position:SF/PF",
@@ -23365,6 +23896,7 @@
     },
     {
         "name": "Adam Flagler",
+        "team": "Oklahoma City Thunder",
         "overallAttribute": 67,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Adam-Flagler-2K-Rating.png",
         "position": "Position:SG/PG",
@@ -23409,6 +23941,7 @@
     },
     {
         "name": "Alex Ducas",
+        "team": "Oklahoma City Thunder",
         "overallAttribute": 67,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Alex-Ducas-2K-Rating.png",
         "position": "Position:SG/SF",
@@ -23453,6 +23986,7 @@
     },
     {
         "name": "Elijah Harkless",
+        "team": "Utah Jazz",
         "overallAttribute": 67,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Elijah-Harkless-2K-Rating.png",
         "position": "Position:PG/SG",
@@ -23497,6 +24031,7 @@
     },
     {
         "name": "Braxton Key",
+        "team": "Golden State Warriors",
         "overallAttribute": 66,
         "image_url": "https://www.2kratings.com/wp-content/uploads/Braxton-Key-2K-Rating.png",
         "position": "Position:PF/C",

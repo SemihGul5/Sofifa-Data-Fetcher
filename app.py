@@ -13,25 +13,25 @@ import html
 
 app = Flask(__name__)
 champions_league_teams = [
-    "PSV", "Aston Villa", "Monaco", "Dinamo Zagreb", "LOSC Lille", "RB Leipzig", "Bologna", "Atlético Madrid",
-    "Sparta Praha", "Benfica", "Young Boys", "Liverpool", "Sporting CP", "VfB Stuttgart", "Atalanta", "Bayer 04 Leverkusen",
-    "Feyenoord", "Girona", "Inter", "FC Barcelona", "Paris Saint Germain", "Borussia Dortmund", "Sturm Graz",
-    "Shakhtar Donetsk", "Milan", "FC Bayern München", "Juventus", "Manchester City", "Club Brugge", "Celtic", "Salzburg",
+    "PSV", "Aston Villa", "AS Monaco", "Dinamo Zagreb", "Lille OSC", "RB Leipzig", "Bologna", "Atlético Madrid",
+    "Sparta Praha", "SL Benfica", "BSC Young Boys", "Liverpool", "Sporting CP", "VfB Stuttgart", "Atalanta", "Bayer 04 Leverkusen",
+    "Feyenoord", "Girona FC", "Inter", "FC Barcelona", "Paris Saint-Germain", "Borussia Dortmund", "SK Sturm Graz",
+    "Shakhtar Donetsk", "AC Milan", "FC Bayern München", "Juventus", "Manchester City", "Club Brugge KV", "Celtic", "FC Red Bull Salzburg",
     "Arsenal", "Real Madrid", "Stade Brestois 29"
 ]
 
 europa_league_teams = [
-    "Bodø / Glimt", "Porto", "Roma", "Olympique Lyonnais", "Galatasaray", "Beşiktaş", "Union Saint-Gilloise", "Fenerbahçe",
-    "Real Sociedad", "Qarabağ", "FCSB", "Ferencváros", "Anderlecht", "Nice", "FC Twente", "TSG Hoffenheim", "AZ Alkmaar",
+    "FK Bodø/Glimt", "FC Porto", "Roma", "Olympique Lyonnais", "Galatasaray SK", "Beşiktaş JK", "Union Saint-Gilloise", "Fenerbahçe SK",
+    "Real Sociedad", "Qarabağ FK", "FCSB", "Ferencvárosi Torna Club", "RSC Anderlecht", "OGC Nice", "FC Twente", "TSG 1899 Hoffenheim", "AZ Alkmaar",
     "Malmö FF", "Rangers", "Ajax", "PAOK", "Eintracht Frankfurt", "Midtjylland", "Lazio", "Olympiakos Piraeus",
-    "Elfsborg", "Manchester United", "Slavia Praha", "Viktoria Plzeň", "Dynamo Kyiv", "Athletic Club", "Sporting Braga",
+    "IF Elfsborg", "Manchester United", "SK Slavia Praha", "Viktoria Plzeň", "Dynamo Kyiv", "Athletic Club", "Sporting Clube de Braga",
     "Tottenham Hotspur"
 ]
 
 conference_league_teams = [
-    "Shamrock Rovers", "Djurgården", "Heidenheim", "Cercle Brugge", "St. Gallen", "HJK", "Gent", "Legia Warszawa",
-    "Rapid Wien", "LASK Linz", "Real Betis", "İstanbul Başakşehir", "Fiorentina", "Chelsea", "Jagiellonia Białystok",
-    "Lugano", "Vitória SC", "APOEL", "Molde", "Hearts", "Panathinaikos", "København"
+    "Shamrock Rovers", "Djurgårdens IF", "1. FC Heidenheim 1846", "Cercle Brugge KSV", "FC St.Gallen 1879", "HJK Helsinki", "KAA Gent", "Legia Warszawa",
+    "SK Rapid", "LASK Linz", "Real Betis Balompié", "Medipol Başakşehir FK", "Fiorentina", "Chelsea", "Jagiellonia Białystok",
+    "FC Lugano", "Vitória SC", "APOEL FC", "Molde FK", "Hearts", "Panathinaikos FC", "FC København"
 ]
 
 def calculate_stars(overall):
@@ -214,7 +214,7 @@ def fetch_players_data(offset=0):
 
 
 
-def fetch_teams():
+def fetch_teams_data():
     with open('leagues_data.json', 'r', encoding='utf-8') as f:
         leagues_data = json.load(f)
 
@@ -310,10 +310,11 @@ def fetch_leagues_data():
     leagues_data = fetch_leagues()
     return jsonify(leagues_data)
 
-@app.route('/fetch_teams')
-def fetch_teams():
-    teams_data = fetch_teams()
+@app.route('/fetch_teams_route')
+def fetch_teams_route():
+    teams_data = fetch_teams_data()
     return jsonify(teams_data)
+
 
 @app.route('/add_european_cups')
 def add_european_cups_route():

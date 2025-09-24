@@ -112,6 +112,76 @@
         "flag_url": "https://raw.githubusercontent.com/SemihGul5/Sofifa-Data-Fetcher/refs/heads/main/app_images/ucbucuk.png"
     },
     {
+        "league_id": "13",
+        "league_name": "Premier League",
+        "country": "England",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/8/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/gb-eng@3x.png"
+    },
+    {
+        "league_id": "53",
+        "league_name": "La Liga",
+        "country": "Spain",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/564/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/es@3x.png"
+    },
+    {
+        "league_id": "19",
+        "league_name": "Bundesliga",
+        "country": "Germany",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/82/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/de@3x.png"
+    },
+    {
+        "league_id": "16",
+        "league_name": "Ligue 1",
+        "country": "France",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/301/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/fr@3x.png"
+    },
+    {
+        "league_id": "31",
+        "league_name": "Serie A",
+        "country": "Italy",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/384/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/it@3x.png"
+    },
+    {
+        "league_id": "68",
+        "league_name": "Süper Lig",
+        "country": "Türkiye",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/600/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/tr@3x.png"
+    },
+    {
+        "league_id": "10",
+        "league_name": "Eredivisie",
+        "country": "Netherlands",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/72/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/nl@3x.png"
+    },
+    {
+        "league_id": "308",
+        "league_name": "Primeira Liga",
+        "country": "Portugal",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/462/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/pt@3x.png"
+    },
+    {
+        "league_id": "189",
+        "league_name": "Super League",
+        "country": "Switzerland",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/591/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/ch@3x.png"
+    },
+    {
+        "league_id": "80",
+        "league_name": "Bundesliga",
+        "country": "Austria",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/181/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/at@3x.png"
+    },
+    {
         "league_id": "1",
         "league_name": "Superliga",
         "country": "Denmark",
@@ -133,18 +203,11 @@
         "flag_url": "https://cdn.sofifa.net/flags/br@3x.png"
     },
     {
-        "league_id": "10",
-        "league_name": "Eredivisie",
-        "country": "Netherlands",
-        "logo_url": "https://cdn.sofifa.net/meta/competition/72/180.png",
-        "flag_url": "https://cdn.sofifa.net/flags/nl@3x.png"
-    },
-    {
-        "league_id": "13",
-        "league_name": "Premier League",
-        "country": "England",
-        "logo_url": "https://cdn.sofifa.net/meta/competition/8/180.png",
-        "flag_url": "https://cdn.sofifa.net/flags/gb-eng@3x.png"
+        "league_id": "39",
+        "league_name": "Major League Soccer",
+        "country": "United States",
+        "logo_url": "https://cdn.sofifa.net/meta/competition/779/180.png",
+        "flag_url": "https://cdn.sofifa.net/flags/us@3x.png"
     },
     {
         "league_id": "14",
@@ -154,25 +217,11 @@
         "flag_url": "https://cdn.sofifa.net/flags/gb-eng@3x.png"
     },
     {
-        "league_id": "16",
-        "league_name": "Ligue 1",
-        "country": "France",
-        "logo_url": "https://cdn.sofifa.net/meta/competition/301/180.png",
-        "flag_url": "https://cdn.sofifa.net/flags/fr@3x.png"
-    },
-    {
         "league_id": "17",
         "league_name": "Ligue 2",
         "country": "France",
         "logo_url": "https://cdn.sofifa.net/meta/competition/304/180.png",
         "flag_url": "https://cdn.sofifa.net/flags/fr@3x.png"
-    },
-    {
-        "league_id": "19",
-        "league_name": "Bundesliga",
-        "country": "Germany",
-        "logo_url": "https://cdn.sofifa.net/meta/competition/82/180.png",
-        "flag_url": "https://cdn.sofifa.net/flags/de@3x.png"
     },
     {
         "league_id": "20",
@@ -182,25 +231,11 @@
         "flag_url": "https://cdn.sofifa.net/flags/de@3x.png"
     },
     {
-        "league_id": "31",
-        "league_name": "Serie A",
-        "country": "Italy",
-        "logo_url": "https://cdn.sofifa.net/meta/competition/384/180.png",
-        "flag_url": "https://cdn.sofifa.net/flags/it@3x.png"
-    },
-    {
         "league_id": "32",
         "league_name": "Serie B",
         "country": "Italy",
         "logo_url": "https://cdn.sofifa.net/meta/competition/387/180.png",
         "flag_url": "https://cdn.sofifa.net/flags/it@3x.png"
-    },
-    {
-        "league_id": "39",
-        "league_name": "Major League Soccer",
-        "country": "United States",
-        "logo_url": "https://cdn.sofifa.net/meta/competition/779/180.png",
-        "flag_url": "https://cdn.sofifa.net/flags/us@3x.png"
     },
     {
         "league_id": "41",
@@ -215,13 +250,6 @@
         "country": "Scotland",
         "logo_url": "https://cdn.sofifa.net/meta/competition/501/180.png",
         "flag_url": "https://cdn.sofifa.net/flags/gb-sct@3x.png"
-    },
-    {
-        "league_id": "53",
-        "league_name": "La Liga",
-        "country": "Spain",
-        "logo_url": "https://cdn.sofifa.net/meta/competition/564/180.png",
-        "flag_url": "https://cdn.sofifa.net/flags/es@3x.png"
     },
     {
         "league_id": "54",
@@ -280,39 +308,11 @@
         "flag_url": "https://cdn.sofifa.net/flags/pl@3x.png"
     },
     {
-        "league_id": "68",
-        "league_name": "Süper Lig",
-        "country": "Türkiye",
-        "logo_url": "https://cdn.sofifa.net/meta/competition/600/180.png",
-        "flag_url": "https://cdn.sofifa.net/flags/tr@3x.png"
-    },
-    {
-        "league_id": "80",
-        "league_name": "Bundesliga",
-        "country": "Austria",
-        "logo_url": "https://cdn.sofifa.net/meta/competition/181/180.png",
-        "flag_url": "https://cdn.sofifa.net/flags/at@3x.png"
-    },
-    {
         "league_id": "83",
         "league_name": "K League 1",
         "country": "Korea Republic",
         "logo_url": "https://cdn.sofifa.net/meta/competition/1034/180.png",
         "flag_url": "https://cdn.sofifa.net/flags/kr@3x.png"
-    },
-    {
-        "league_id": "189",
-        "league_name": "Super League",
-        "country": "Switzerland",
-        "logo_url": "https://cdn.sofifa.net/meta/competition/591/180.png",
-        "flag_url": "https://cdn.sofifa.net/flags/ch@3x.png"
-    },
-    {
-        "league_id": "308",
-        "league_name": "Primeira Liga",
-        "country": "Portugal",
-        "logo_url": "https://cdn.sofifa.net/meta/competition/462/180.png",
-        "flag_url": "https://cdn.sofifa.net/flags/pt@3x.png"
     },
     {
         "league_id": "313",

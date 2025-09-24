@@ -13,25 +13,25 @@ import html
 
 app = Flask(__name__)
 champions_league_teams = [
-    "PSV", "Aston Villa", "AS Monaco", "Dinamo Zagreb", "Lille OSC", "RB Leipzig", "Bologna", "Atlético Madrid",
-    "Sparta Praha", "SL Benfica", "BSC Young Boys", "Liverpool", "Sporting CP", "VfB Stuttgart", "Atalanta", "Bayer 04 Leverkusen",
-    "Feyenoord", "Girona FC", "Inter", "FC Barcelona", "Paris Saint-Germain", "Borussia Dortmund", "SK Sturm Graz",
-    "Shakhtar Donetsk", "AC Milan", "FC Bayern München", "Juventus", "Manchester City", "Club Brugge KV", "Celtic", "FC Red Bull Salzburg",
-    "Arsenal", "Real Madrid", "Stade Brestois 29"
+    "Eintracht Frankfurt", "Paris Saint-Germain", "Club Brugge KV", "Sporting CP", "Union Saint-Gilloise", "FC Bayern München", "Arsenal", "Inter",
+    "Manchester City", "Qarabağ FK", "Liverpool", "FC Barcelona", "Real Madrid", "Tottenham Hotspur", "Borussia Dortmund", "Juventus",
+    "Bayer 04 Leverkusen", "FK Bodø/Glimt", "FC København", "SK Slavia Praha", "Olympiacos FC", "Atlético Madrid", "SL Benfica",
+    "Olympique de Marseille", "Newcastle United", "Villarreal CF", "Chelsea", "	PSV", "Ajax", "Athletic Club", "Napoli","AS Monaco",
+    "Galatasaray SK", "Atalanta"
 ]
 
 europa_league_teams = [
-    "FK Bodø/Glimt", "FC Porto", "Roma", "Olympique Lyonnais", "Galatasaray SK", "Beşiktaş JK", "Union Saint-Gilloise", "Fenerbahçe SK",
-    "Real Sociedad", "Qarabağ FK", "FCSB", "Ferencvárosi Torna Club", "RSC Anderlecht", "OGC Nice", "FC Twente", "TSG 1899 Hoffenheim", "AZ Alkmaar",
-    "Malmö FF", "Rangers", "Ajax", "PAOK", "Eintracht Frankfurt", "Midtjylland", "Lazio", "Olympiakos Piraeus",
-    "IF Elfsborg", "Manchester United", "SK Slavia Praha", "Viktoria Plzeň", "Dynamo Kyiv", "Athletic Club", "Sporting Clube de Braga",
-    "Tottenham Hotspur"
+    "Aston Villa", "FC Basel 1893", "Bologna", "SK Brann", "RC Celta", "Celtic", "Dinamo Zagreb", "FCSB",
+    "Fenerbahçe SK", "Ferencvárosi Torna Club", "Feyenoord", "VfB Stuttgart", "KRC Genk", "Go Ahead Eagles", "Lille OSC", "Olympique Lyonnais",
+    "Malmö FF","FC Midtjylland", "OGC Nice", "Nottingham Forest", "PAOK", "Panathinaikos FC", "FC Porto", "Rangers FC", "Real Betis Balompié",
+    "Roma", "FC Red Bull Salzburg", "Sporting Clube de Braga", "SK Sturm Graz", "SC Freiburg", "FC Utrecht", "Viktoria Plzeň",
+    "BSC Young Boys"
 ]
 
 conference_league_teams = [
-    "Shamrock Rovers", "Djurgårdens IF", "1. FC Heidenheim 1846", "Cercle Brugge KSV", "FC St.Gallen 1879", "HJK Helsinki", "KAA Gent", "Legia Warszawa",
-    "SK Rapid", "LASK Linz", "Real Betis Balompié", "Medipol Başakşehir FK", "Fiorentina", "Chelsea", "Jagiellonia Białystok",
-    "FC Lugano", "Vitória SC", "APOEL FC", "Molde FK", "Hearts", "Panathinaikos FC", "FC København"
+    "AEK Athens", "AZ Alkmaar", "Aberdeen", "Crystal Palace", "Dynamo Kyiv", "Fiorentina", "BK Häcken", "Jagiellonia Białystok",
+    "FC Lausanne-Sport", "Lech Poznań", "Legia Warszawa", "1. FSV Mainz 05", "Raków Częstochowa", "SK Rapid", "Rayo Vallecano",
+    "Samsunspor", "Shakhtar Donetsk", "Shelbourne FC", "Shamrock Rovers", "Sparta Praha", "RC Strasbourg Alsace", "Universitatea Craiova"
 ]
 
 def calculate_stars(overall):
